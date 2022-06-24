@@ -1,0 +1,85 @@
+Tournament
+Watford, England
+July 28th 2001
+Unknown
+Unknown 
+Tony Smith
+https://groups.google.com/d/msg/rec.games.trading-cards.jyhad/71LhwjAs4gU/dE6tNWdJgrcJ
+
+-- Unknown
+
+Unknown
+
+Deck: Notaweeniedominatedeck version III
+
+The idea is to hit the ground running. Either use
+superior govern to pull out your vamps for 1 pool, and
+assault once a huge force is amassed. Or bleed like
+shit off a shovel from the first turn. Either way it
+often takes out multiply preys in a turn. If it's
+running well, and your prey has no deflections, it
+should clean then out in about 4 turns.
+Little combat defense but letting a few die to get
+through with the one 6 point bleed is often the way to
+go
+Cheesy as hell, but funny as fuck.
+
+Ivory Bow (didn't see it all day, may need to come
+out)
+
+The 2 vamps in the crypt with superior dominate were a
+last minute thing. They can't use the governs at
+superior, but the inclusion allowed me to cut the
+number of dom masters and makes it run a little
+quicker if they are in the opening crypt. I found that
+by using 4 caps as opposed to the normal  dom weenies,
+I got all the benefits of a weenie deck, but with a
+few less disadvantages.
+
+Crypt (13 cards, min=16 max=18 avg=4.15)
+----------------------------------------
+1x Tony                        6  dom obf AUS DEM      Malkavian:3
+1x Aleph                       4  dom AUS              Malkavian:1
+1x Courtland Leighton          4  dom for pre          Ventrue:1
+1x Francesca Giovanni          4  dom nec pot          Giovanni:2
+1x Gloria Giovanni             4  nec DOM              Giovanni:2
+1x Ignacio, The Black Priest   4  dom obt pot          Lasombra:2
+1x Ignatius                    4  aus dom tha          Tremere:1
+1x Ingrid Russo                4  for DOM              Ventrue antitribu:2
+1x Laurent de Valois           4  ani dom obf          Nosferatu:2
+1x Peter Blaine                4  aus dom for          Ventrue antitribu:2
+1x Roland Bishop               4  aus dom obf          Malkavian:1
+1x Sarah Cobbler               4  dom THA              Tremere:1
+1x Violette Prentiss           4  dom PRE              Ventrue:1
+
+Library (87 cards)
+Master (21)
+5x Blood Doll
+7x Dominate
+2x Dreams of the Sphinx
+4x Effective Management
+2x Hostile Takeover
+1x Sudden Reversal
+
+Action (10)
+10x Govern the Unaligned
+
+Equipment (1)
+1x Ivory Bow
+
+Action Modifier (32)
+6x Bonding
+4x Change of Target
+6x Conditioning
+10x Seduction
+2x Sleeping Mind, The
+4x Threats
+
+Reaction (15)
+7x Deflection
+3x Delaying Tactics
+5x Wake with Evening's Freshness
+
+Combat (8)
+3x Dodge
+5x Fake Out

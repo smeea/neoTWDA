@@ -1,0 +1,65 @@
+Rebirth Gatineau
+Gatineau, Canada
+November 24th 2018
+2R+F
+13 players
+Frederick Courval
+https://www.vekn.net/event-calendar/event/9038
+
+-- 3vp in the final
+
+Unknown
+
+Deck: Anneke Wall (strongly inspired by other entries on the TWDA)
+
+Crypt (12 cards, min=15 max=40 avg=7.08)
+----------------------------------------
+4x Anneke            10  dom AUS CEL PRE   justicar   Toreador:1
+2x Marcellus          8  pro AUS CEL       prince     Toreador:2
+2x Tatiana Romanov    7  cel pre AUS       prince     Toreador:1
+1x Felicia Mostrom    5  pre AUS CEL                  Toreador:1
+1x Dorian Strack      4  cel AUS                      Toreador:1
+1x Isabel de Leon     3  AUS                          Toreador:2
+1x Zöe                3  cel obf AUS                  Malkavian:2
+
+Library (85 cards)
+Master (15)
+1x Art Museum
+1x Direct Intervention
+1x Fame
+2x Haven Uncovered
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+4x Vessel
+1x WMRH Talk Radio
+1x Wash
+
+Equipment (9)
+6x .44 Magnum
+1x Bowl of Convergence
+1x Ivory Bow
+1x Sniper Rifle
+
+Political Action (2)
+2x Parity Shift
+
+Retainer (1)
+1x Tasha Morgan
+
+Reaction (23)
+6x Eyes of Argus
+2x Quicken Sight
+10x Second Tradition: Domain
+5x Telepathic Misdirection
+
+Combat (35)
+3x Aura Reading
+2x Blur
+2x Charismatic Aura
+6x Concealed Weapon
+6x Psyche!
+9x Pursuit
+2x Sideslip
+5x Taste of Vitae

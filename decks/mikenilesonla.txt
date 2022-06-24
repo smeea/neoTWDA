@@ -1,0 +1,65 @@
+Gamex Event #2
+Los Angeles, California
+May 26th 2001
+Unknown
+Unknown 
+Michael Nilson
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/nwb5PK_0Nsw
+
+-- Unknown
+
+Unknown
+
+"The Ventrue Deck With No Name"
+
+Crypt (12 cards, min=30 max=42 avg=9.0)
+---------------------------------------
+3x Queen Anne        10  aus obf DOM FOR PRE       prince         Ventrue:2
+2x Arika             11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
+2x Suhailah           9  pot ser FOR OBF           prince         Ventrue:2
+2x Anson              8  aus dom CEL PRE           prince         Toreador:1
+1x Emerson Bridges    8  pot DOM FOR PRE           prince         Ventrue:1
+1x Sir Walter Nash    7  DOM FOR PRE               prince         Ventrue:1
+1x Timothy Crowley    7  ani dom FOR PRE           prince         Ventrue:1
+
+Library (90 cards)
+Master (20)
+2x Blood Doll
+1x Giant's Blood
+1x Golconda: Inner Peace
+7x Minion Tap
+2x Obfuscate
+1x Parthenon, The
+2x Protected Resources
+1x Secure Haven
+3x Sudden Reversal
+
+Action (20)
+7x Fifth Tradition: Hospitality
+7x Govern the Unaligned
+6x Mind Rape
+
+Political Action (9)
+1x Ancient Influence
+2x Kindred Restructure
+5x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (20)
+4x Cloak the Gathering
+4x Elder Impersonation
+4x Faceless Night
+4x Lost in Crowds
+4x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (13)
+5x Deflection
+3x Elder Kindred Network
+2x Forced Awakening
+3x Kindred Coercion
+
+Combat (4)
+4x Majesty

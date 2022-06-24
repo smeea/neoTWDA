@@ -1,0 +1,72 @@
+French NC 2009
+Caen, France
+September 27th 2009
+3R+F
+38 players
+Pierre Tran-Van
+
+
+-- Unknown
+
+CF Caen 27 septembre 2009
+
+deck de pinpin
+
+Crypt (12 cards, min=15 max=28 avg=5.42)
+----------------------------------------
+2x Korah                          7  ani AUS DEM OBF       priscus   Malkavian antitribu:2
+2x Dolphin Black                  6  AUS DEM OBF                     Malkavian antitribu:2
+1x Kite                           7  obf pre AUS DEM       bishop    Malkavian antitribu:2
+1x Quentin King III (ADV)         7  cel pre AUS DEM OBF             Malkavian:3
+1x General Perfidio Díos          5  dem obf AUS           bishop    Malkavian antitribu:3
+1x Persia, The Beautiful Statue   5  aus obf DEM                     Malkavian:3
+1x Uncle George                   5  aus dom obf DEM                 Malkavian antitribu:3
+1x Claven                         4  aus dem obf                     Malkavian antitribu:2
+1x Midget                         3  obf pre DEM                     Malkavian antitribu:3
+1x Yorik                          3  dem obf                         Malkavian antitribu:2
+
+Library (90 cards)
+Master (18)
+1x Blood Doll
+1x Direct Intervention
+5x Dreams of the Sphinx
+1x Jake Washington
+1x Misdirection
+1x Pentex(TM) Subversion
+2x Secure Haven
+3x Visit from the Capuchin
+3x Wash
+
+Action (21)
+1x Call, The
+15x Kindred Spirits
+3x Madman's Quill
+1x Pulse of the Canaille
+1x Restructure
+
+Equipment (1)
+1x Enchanted Marionette
+
+Action Modifier (29)
+3x Cloak the Gathering
+2x Confusion
+5x Elder Impersonation
+9x Eyes of Chaos
+4x Faceless Night
+4x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (4)
+1x Deny
+3x Swallowed by the Night
+
+Reaction (16)
+1x Confusion of the Eye
+3x Delaying Tactics
+2x My Enemy's Enemy
+3x On the Qui Vive
+4x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Event (1)
+1x Uncoiling, The

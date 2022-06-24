@@ -1,0 +1,56 @@
+Praxis Seizure: Budapest, Spring 2007
+Budapest, Hungary
+March 31st 2007
+Unknown
+53 players
+Tibor Holhos
+
+
+-- 3gw11 + 4vp in the final
+
+Unknown
+
+Unknown
+
+Crypt (12 cards, min=17 max=28 avg=5.58)
+----------------------------------------
+2x Gilbert Duane          7  AUS DOM OBF       prince   Malkavian:1
+2x Mariel, Lady Thunder   7  aus tha DOM OBF            Malkavian:1
+2x Didi Meyers            5  aus cel obf DOM            Malkavian:1
+1x Ozmo                   6  dom obf AUS                Malkavian:1
+1x Reverend Blackwood     6  obf DOM THA       bishop   Tremere antitribu:2
+1x Badr al-Budur          5  cel dom qui OBF            Banu Haqim:2
+1x Count Ormonde          5  dom pre ser OBF            Ministry:2
+1x Zebulon                5  aus dom pro OBF            Malkavian:1
+1x Ohanna                 2  dom                        Malkavian:2
+
+Library (90 cards)
+Master (14)
+1x Anarch Troublemaker
+3x Blood Doll
+2x Dreams of the Sphinx
+1x Momentum's Edge
+1x Pentex(TM) Subversion
+4x Perfectionist
+2x Sudden Reversal
+
+Action (18)
+3x Far Mastery
+15x Govern the Unaligned
+
+Action Modifier (37)
+4x Cloak the Gathering
+12x Conditioning
+4x Domain of Evernight
+4x Faceless Night
+4x Lost in Crowds
+5x Seduction
+4x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (17)
+9x Deflection
+5x On the Qui Vive
+3x Wake with Evening's Freshness

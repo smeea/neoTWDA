@@ -1,0 +1,67 @@
+Stutter-Step
+Brisbane, Australia
+July 14th 2007
+2R+F
+10 players
+Bernie MacNaught
+
+
+-- 3vp in the final
+
+Feed the Marena - classic Tzimisce Wall
+
+It's a wall. Block and kill!
+
+Crypt (12 cards, min=15 max=38 avg=6.67)
+----------------------------------------
+2x Duality                               6  ani AUS VIC                          Tzimisce:4
+1x Sha-Ennu                             11  obf tha ANI AUS CHI VIC   regent     Tzimisce:4
+1x Count Vladimir Rustovitch             9  dom pot pro ANI AUS VIC              Tzimisce:4
+1x Szechenyi Jolán, Mother of Horrors    9  cel for pro ANI AUS VIC   bishop     Tzimisce:3
+1x Velya, The Flayer                     9  for ANI AUS PRE VIC       cardinal   Tzimisce:3
+1x Lady Zara Slatikov                    8  ANI AUS OBF VIC           bishop     Tzimisce:4
+1x Kazimir Savostin                      7  ani pot AUS VIC                      Tzimisce:3
+1x Yuri Kerezenski                       5  aus for vic ANI           bishop     Tzimisce:4
+1x Jane Sims                             4  ani aus pro VIC                      Tzimisce:4
+1x Droescher One-Eye                     3  ani vic                              Tzimisce:4
+1x Ilias cel Frumos                      3  aus vic                              Tzimisce:4
+
+Library (90 cards)
+Master (13)
+2x Animalism
+2x Auspex
+2x Blood Doll
+2x Library Hunting Ground
+1x Minion Tap
+3x Powerbase: Montreal
+1x Vicissitude
+
+Action (5)
+4x Fiendish Tongue
+1x Pulse of the Canaille
+
+Retainer (4)
+1x Corpse Balloon
+1x Raven Spy
+2x Revenant
+
+Action Modifier (3)
+3x Changeling
+
+Reaction (39)
+6x Cats' Guidance
+2x Eagle's Sight
+6x Enhanced Senses
+4x Forced Awakening
+4x Guard Dogs
+5x Minor Irritation
+3x Precognition
+5x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (26)
+2x Canine Horde
+5x Carrion Crows
+6x Chiropteran Marauder
+4x Inner Essence
+9x Starvation of Marena

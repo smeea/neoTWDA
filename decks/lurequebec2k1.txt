@@ -1,0 +1,61 @@
+Lure of the Serpent
+Quebec City, Quebec
+August 26th 2001
+Unknown
+Unknown 
+Hugues Bertrand
+
+
+-- Unknown
+
+Unknown
+
+NO NEED FOR DOMINATE
+
+Crypt (12 cards, min=23 max=35 avg=7.33)
+----------------------------------------
+2x Sheldon, Lord of the Clog   9  for ANI AUS OBF POT   justicar   Nosferatu:1
+2x Selma the Repugnant         8  ani for OBF POT       prince     Nosferatu:1
+2x Nikolaus Vermeulen          7  ani for obf POT       prince     Nosferatu:2
+1x Suhailah                    9  pot ser FOR OBF       prince     Ventrue:2
+1x Emerson Bridges             8  pot DOM FOR PRE       prince     Ventrue:1
+1x Chester DuBois              7  for obf ANI POT       primogen   Nosferatu:1
+1x Murat                       7  ser OBF POT           prince     Nosferatu:2
+1x Calebros, The Martyr        5  obf pot ANI           prince     Nosferatu:2
+1x Jimmy Dunn                  4  for CEL POT                      Pander:2
+
+Library (90 cards)
+Master (12)
+1x Giant's Blood
+2x Golconda: Inner Peace
+7x Minion Tap
+1x Parthenon, The
+1x Protected Resources
+
+Action (11)
+3x Army of Rats
+7x Fifth Tradition: Hospitality
+1x Fourth Tradition: The Accounting
+
+Political Action (16)
+3x Archon
+2x Banishment
+2x Kindred Restructure
+8x Kine Resources Contested
+1x Rumors of Gehenna
+
+Action Modifier (12)
+2x Forgotten Labyrinth
+5x Freak Drive
+5x Lost in Crowds
+
+Reaction (7)
+7x Second Tradition: Domain
+
+Combat (32)
+4x Amaranth
+3x Burning Wrath
+6x Disarm
+7x Immortal Grapple
+8x Skin of Steel
+4x Torn Signpost

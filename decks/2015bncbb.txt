@@ -1,0 +1,73 @@
+Belgian NC 2015
+Brussels, Belgium
+December 6th 2015
+3R+F
+13 players
+Martin Schumacher
+
+
+-- Unknown
+
+Influenza
+
+I could not add my Enkil Cog to the deck because I forgot it at home,
+so definetly add that. Also, I only own 2 Adana, this deck should play 3,
+take out 1 Malabranca or Viktor.
+
+Crypt (12 cards, min=36 max=42 avg=9.67)
+----------------------------------------
+3x Jamal                       10  pot CEL OBF PRE PRO QUI   2 votes        Banu Haqim:5
+3x Aksinya Daclau               9  cel tha ANI FOR PRE PRO                  Gangrel antitribu:4
+2x Adana de Sforza             11  aus CEL OBF POT PRE PRO   inner circle   Brujah:4
+2x Malabranca                   9  obf AUS CEL PRE PRO       archbishop     Toreador antitribu:4
+1x Thucimia                    10  for pro CEL DEM OBF QUI   1 vote         Banu Haqim:4
+1x Viktor, The Night General    9  obf ANI CEL PRE PRO                      Gangrel:5
+
+Library (90 cards)
+Master (31)
+2x Dreams of the Sphinx
+2x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+2x Pentex(TM) Subversion
+9x Villein
+2x Wider View
+11x Zillah's Valley
+
+Action (5)
+2x Entrancement
+3x Flurry of Action
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (10)
+1x Ancient Influence
+3x Banishment
+1x Cardinal Benediction
+3x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Retainer (1)
+1x Homunculus
+
+Action Modifier (27)
+4x Bewitching Oration
+2x Elder Impersonation
+7x Instantaneous Transformation
+10x Lost in Crowds
+1x Perfect Paragon
+3x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Rapid Change
+
+Reaction (2)
+2x Guard Dogs
+
+Combat (8)
+8x Form of Mist
+
+Event (1)
+1x Narrow Minds

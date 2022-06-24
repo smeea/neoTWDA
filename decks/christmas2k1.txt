@@ -1,0 +1,69 @@
+Powerbase: Watford Christmas Tournament
+Watford, England
+December 22nd 2001
+Unknown
+Unknown 
+Martin Cubberley
+
+
+-- Unknown
+
+Suhailah Dares the Darkness
+
+Get Suhailah to tool up with the Heart of Darkness then
+Force of Will/Daring the Dawn your prey out of existence. Use the many
+Minion Taps for pool gain and refill vamps with Fifth Traditions - which make
+for a great pre-Force of Will action. The Second Traditions are there to
+try and protect the Hearts, but it's not desperate if they go, just tool up
+with another one.
+
+Crypt (12 cards, min=16 max=40 avg=7.58)
+----------------------------------------
+4x Suhailah               9  pot ser FOR OBF           prince         Ventrue:2
+2x Queen Anne            10  aus obf DOM FOR PRE       prince         Ventrue:2
+2x Rufina Soledad         2  for                                      Ventrue:1
+1x Arika                 11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
+1x Selma the Repugnant    8  ani for OBF POT           prince         Nosferatu:1
+1x Nikolaus Vermeulen     7  ani for obf POT           prince         Nosferatu:2
+1x Dedefra                5  nec obf SER                              Ministry:2
+
+Library (90 cards)
+Master (15)
+1x Dreams of the Sphinx
+2x Hostile Takeover
+1x Legendary Vampire
+6x Minion Tap
+4x Serpentis
+1x Ventrue Headquarters
+
+Action (24)
+6x Fifth Tradition: Hospitality
+7x Force of Will
+6x Heart of Darkness
+1x Masochism
+4x Temptation
+
+Political Action (9)
+1x Dramatic Upheaval
+6x Kine Resources Contested
+2x Parity Shift
+
+Action Modifier (20)
+2x Cloak the Gathering
+8x Daring the Dawn
+2x Faceless Night
+2x Forgotten Labyrinth
+3x Freak Drive
+3x Lost in Crowds
+
+Reaction (9)
+8x Second Tradition: Domain
+1x Wake with Evening's Freshness
+
+Combat (13)
+2x Hidden Strength
+2x Indomitability
+2x Resilience
+3x Skin of Steel
+2x Superior Mettle
+2x Unflinching Persistence

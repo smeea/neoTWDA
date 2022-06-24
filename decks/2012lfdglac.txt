@@ -1,0 +1,77 @@
+Gamex Event 4 - Left For Dead
+Los Angeles, California
+May 27th 2012
+2R+F
+13 players
+Robert Scythe
+
+
+-- Unknown
+
+Eze Like Sunday Morning
+
+This was the first time I have played this deck since
+Matt ressurected it. Damn fun deck!
+
+Crypt (12 cards, min=31 max=44 avg=9.33)
+----------------------------------------
+4x Eze, The Demon Prince   11  aus ANI NEC POT PRE THA   magaji   Guruhi:3
+2x Ugadja                  10  dom for ABO ANI POT PRE   magaji   Guruhi:4
+2x Nana Buruku              8  ANI POT PRE                        Guruhi:4
+2x Sobayifa                 8  aus pot pro spi ANI PRE   magaji   Guruhi:3
+1x Iniko, The Black Lion    9  cel ANI OBT POT PRE                Guruhi:4
+1x Aren, Priest of Eshu     7  ani obf POT PRE                    Guruhi:4
+
+Library (90 cards)
+Master (27)
+1x Ancestor Spirit
+15x Aye
+1x Mbare Market, Harare
+1x Monastery of Shadows
+1x Sense Vibrations
+1x Vessel
+6x Villein
+1x Wider View
+
+Action (5)
+4x Founders of the Ebony Kingdom
+1x No Secrets From the Magaji
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (3)
+1x Deer Rifle
+1x Heart of Nizchetus
+1x Kduva's Mask
+
+Political Action (19)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+1x Disputed Territory
+7x Kine Resources Contested
+1x My Kin Against the World
+1x Neonate Breach
+1x Political Stranglehold
+2x Reinforcements
+1x Reins of Power
+1x Secret Must Be Kept, The
+
+Retainer (2)
+1x Raven Spy
+1x Shaman
+
+Action Modifier (24)
+8x High Aye
+6x Iron Glare
+2x Perfect Paragon
+1x Strange Day
+7x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Guruhi Kholo
+
+Combat (8)
+8x Majesty

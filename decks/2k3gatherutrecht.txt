@@ -1,0 +1,53 @@
+Gather
+Utrecht, Netherlands
+September 6th 2003
+Unknown
+29 players
+Bram Vink
+
+
+-- Unknown
+
+Jost on GHB
+
+Unknown
+
+Crypt (12 cards, min=12 max=24 avg=4.83)
+----------------------------------------
+4x Jost Werner                   6  ani AUS PRE                Toreador antitribu:2
+2x Remilliard, Devout Crusader   4  pre AUS                    Toreador antitribu:2
+2x Carter                        2  cel                        Toreador antitribu:2
+1x Ian Wallingford               6  aus CEL PRE       bishop   Toreador antitribu:2
+1x Sheila Mezarin                6  cel for AUS PRE            Toreador antitribu:2
+1x Creamy Jade                   5  aus cel vic PRE            Toreador antitribu:3
+1x Mercy, Knight Inquisitor      5  cel dom pre AUS            Toreador antitribu:2
+
+Library (90 cards)
+Master (32)
+4x Anarch Troublemaker
+1x Coven, The
+1x Fetish Club Hunting Ground
+8x Life in the City
+5x Misdirection
+5x Palla Grande
+4x Parthenon, The
+4x Tribute to the Master
+
+Action (19)
+1x Art Scam
+9x Embrace, The
+2x Entrancement
+4x Mind Numb
+3x Revelations
+
+Action Modifier (9)
+9x Change of Target
+
+Reaction (18)
+3x Delaying Tactics
+7x Telepathic Misdirection
+8x Wake with Evening's Freshness
+
+Combat (12)
+5x Fake Out
+7x Majesty

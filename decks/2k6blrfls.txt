@@ -1,0 +1,59 @@
+Last Stand
+Bourg La Reine, France
+July 29th 2006
+Unknown
+33 players
+Denis Gérard
+
+
+-- Unknown
+
+Everlasting Richter
+
+Unknown
+
+Crypt (12 cards, min=16 max=29 avg=6.0)
+---------------------------------------
+3x Miguel Santo Domingo              7  cel for POT PRE                      Brujah antitribu:3
+3x Richter, The Templar of Du Mont   7  for pre CEL POT                      Brujah antitribu:2
+2x Jimmy Dunn                        4  for CEL POT                          Pander:2
+1x Hrothulf                          8  dom pot pro CEL FOR PRE              Ventrue:3
+1x Pug Jackson                       6  for pre CEL POT           primogen   Brujah:3
+1x Evangeline                        4  cel pot pre                          Brujah antitribu:2
+1x Victor Tolliver                   4  pot CEL                              Brujah antitribu:2
+
+Library (90 cards)
+Master (14)
+6x Blood Doll
+1x Carver's Meat Packing and Storage
+1x Elder Library
+1x Secure Haven
+1x Tension in the Ranks
+4x Visit from the Capuchin
+
+Action (18)
+5x Big Game
+7x Bum's Rush
+1x Games of Instinct
+5x Legal Manipulations
+
+Action Modifier (3)
+3x Forced March
+
+Reaction (2)
+2x Wake with Evening's Freshness
+
+Combat (52)
+5x Blur
+3x Disarm
+3x Hidden Strength
+7x Immortal Grapple
+4x Psyche!
+7x Pursuit
+7x Skin of Steel
+6x Taste of Vitae
+6x Torn Signpost
+4x Undead Strength
+
+Event (1)
+1x Dragonbound

@@ -1,0 +1,68 @@
+EC 2013 Day 1
+Stockholm, Sweden
+October 5th 2013
+3R+F
+100 players
+Martin Weinmayer
+
+
+-- 2gw8, + 4vp in the final
+
+EC 2013 Day 1: Stanislava & Friends Dom/For Bleed/Vote
+
+Unknown
+
+Crypt (12 cards, min=38 max=44 avg=10.33)
+-----------------------------------------
+4x Stanislava                11  ANI CEL DOM FOR PRO       inner circle   Gangrel:2
+2x Angus the Unruled         10  cel for pot ANI PRO       justicar       Gangrel:1
+2x Ingrid Rossler             9  dom ANI FOR PRO           prince         Gangrel:2
+1x Arika                     11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
+1x Etrius                    11  pro AUS DOM OBF THA       inner circle   Tremere:2
+1x Don Cruez, The Idealist   10  ani dom pro CEL POT PRE   justicar       Brujah:1
+1x Genevieve                 10  aus dom ANI FOR PRO       priscus        Gangrel antitribu:2
+
+Library (84 cards)
+Master (22)
+1x Backways
+1x Creepshow Casino
+4x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+7x Villein
+5x Zillah's Valley
+
+Action (8)
+8x Govern the Unaligned
+
+Equipment (1)
+1x Seal of Veddartha
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+7x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (11)
+6x Earth Control
+1x Enkil Cog
+4x Forced March
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (6)
+6x Murmur of the False Will
+
+Reaction (10)
+4x Deflection
+6x Sense the Savage Way
+
+Combat (12)
+6x Earth Meld
+6x Form of Mist

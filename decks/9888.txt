@@ -1,0 +1,45 @@
+Roundhouse
+Paraíba, Brazil
+September 19th 2021
+2R+F
+18 players
+José Robério Barbosa da Silva
+https://www.vekn.net/player-registry/event/9888
+
+-- 4vp in the final
+
+osebo 419
+
+Unknown
+
+Crypt (12 cards, min=10 max=20 avg=3.67)
+----------------------------------------
+2x Arriette Sylla   3  POT                  Osebo:4
+2x Kamaria          3  aus pot              Osebo:4
+2x Misrak           2  pot                  Osebo:4
+1x Aredhel          5  aus FOR VAL          Salubri antitribu:4
+1x Langa            5  for VAL              Salubri antitribu:4
+1x Titi Camara      5  pot AUS CEL          Osebo:5
+1x Uzoma            5  aus cel vic POT      Osebo:4
+1x Idrissa          4  aus CEL              Osebo:4
+1x Ismitta          4  aus cel pot          Osebo:4
+
+Library (60 cards)
+Master (33)
+6x Brainwash
+2x Direct Intervention
+3x Dreams of the Sphinx
+2x Effective Management
+4x Information Highway
+4x Kaymakli Nightmares
+2x Last Stand
+4x Parthenon, The
+3x Pentex(TM) Subversion
+1x Powerbase: Montreal
+2x Wash
+
+Action (22)
+22x 419 Operation
+
+Reaction (5)
+5x Hide the Heart

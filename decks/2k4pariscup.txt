@@ -1,0 +1,66 @@
+Paris Cup
+La Guilde des Jeux, Paris, France
+February 22nd 2004
+Unknown
+50 players
+Arnaud Clavel
+
+
+-- Unknown
+
+Winner Cup of Paris 4th edition
+
+Black Hand rules the world, or "officially, this deck cannot win;-)"
+
+Crypt (11 cards, min=13 max=31 avg=5.64)
+----------------------------------------
+2x Piotr Andreikov           2  aus                              Tzimisce:3
+1x Katarina Kornfeld         8  ani DOM FOR PRE       primogen   Ventrue:3
+1x Tarbaby Jack              8  dom ser ANI OBF POT              Nosferatu antitribu:3
+1x Yazid Tamari              8  ani dom obf CEL QUI              Banu Haqim:3
+1x Soldat                    7  cel dom obf POT PRO              Gangrel antitribu:3
+1x Teresita, The Godmother   7  for ANI OBF POT                  Nosferatu antitribu:3
+1x Ingram Frizer             6  ani pot AUS OBF                  Nosferatu antitribu:3
+1x Colonel, The              5  cel dem obf AUS                  Malkavian antitribu:3
+1x Skryta Zyleta             5  obf pot pro CEL                  Gangrel antitribu:3
+1x Roger Farnsworth          4  aus OBF                          Malkavian antitribu:3
+
+Library (63 cards)
+Master (14)
+4x Blood Doll
+1x Fame
+1x Hungry Coyote, The
+1x KRCG News Radio
+3x Society of Leopold
+1x Vampiric Disease
+1x Vox Domini
+2x Watchtower: Four Ride Forth
+
+Action (8)
+1x Arson
+7x Reunion Kamut
+
+Ally (8)
+1x Ghouls of Plaza Morería, The
+1x Gregory Winter
+6x Marijava Thuggee
+
+Equipment (1)
+1x Ivory Bow
+
+Action Modifier (14)
+3x Art of Memory, The
+8x Cloak the Gathering
+3x Faceless Night
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (10)
+4x Deflection
+2x Delaying Tactics
+4x Wake with Evening's Freshness
+
+Combat (4)
+1x Flash
+3x Preternatural Evasion

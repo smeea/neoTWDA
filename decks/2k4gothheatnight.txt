@@ -1,0 +1,76 @@
+In the Heat of the Night
+Gothenburg, Sweden
+July 10th 2004
+Unknown
+10 players
+Erik Torstensson
+
+
+-- Unknown
+
+The Guests
+
+Inspired by the Leonard Cohen song "the Guests"... A
+neo-stealth/bleed with a nice twist of gehenna. Get one or two VP's and
+then play Absimilard's Army and wait for a while. If anyone who isn't
+you takes a ghoul, steal it with your merged Sebastian.
+Since the numbers of masters are quite low, the Veil of Darkness hits
+everyone else harder than you.
+
+Crypt (12 cards, min=21 max=32 avg=6.92)
+----------------------------------------
+3x Sébastien Goulet         8  cel pre pro DOM OBF            Gangrel antitribu:3
+3x Sébastien Goulet (ADV)   8  cel pre pro DOM OBF            Gangrel antitribu:3
+1x Juggler                  7  obf pot CEL DOM                Brujah:3
+1x Suzanne Kadim            7  aus dom obf CEL PRE            Toreador:3
+1x Reverend Blackwood       6  obf DOM THA           bishop   Tremere antitribu:2
+1x Badr al-Budur            5  cel dom qui OBF                Banu Haqim:2
+1x Catherine du Bois        5  for obf pre DOM                Ventrue:3
+1x Count Ormonde            5  dom pre ser OBF                Ministry:2
+
+Library (89 cards)
+Master (10)
+2x Blood Doll
+2x Fortschritt Library
+2x Gambit Accepted
+4x Visit from the Capuchin
+
+Action (15)
+1x Dominate Kine
+4x Flurry of Action
+10x Govern the Unaligned
+
+Ally (1)
+1x Mylan Horseed
+
+Action Modifier (28)
+4x Cloak the Gathering
+7x Conditioning
+2x Elder Impersonation
+3x Faceless Night
+5x Lost in Crowds
+4x Seduction
+3x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (12)
+6x Deflection
+6x Wake with Evening's Freshness
+
+Combat (10)
+2x Bone Spur
+1x Fast Hands
+4x Flash
+3x Weighted Walking Stick
+
+Event (10)
+3x Absimiliard's Army
+1x Conquest of Humanity
+1x Fueled by Heart's Blood
+1x Nightmares upon Nightmares
+1x Recalled to the Founder
+1x Thirst
+1x Unmasking, The
+1x Veil of Darkness

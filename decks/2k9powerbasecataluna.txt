@@ -1,0 +1,72 @@
+Powerbase Cataluña
+Mollet del Vallés, Catalunya, Spain
+March 28th 2009
+3R+F
+77 players
+Sergio Gracia
+
+
+-- Unknown
+
+Los pricipes de siempre
+
+3GW & 12VP
+
+Crypt (12 cards, min=16 max=33 avg=6.33)
+----------------------------------------
+2x Emerson Bridges                   8  pot DOM FOR PRE       prince     Ventrue:1
+2x Sir Walter Nash                   7  DOM FOR PRE           prince     Ventrue:1
+1x Wilhelm Waldburg                  9  aus cel DOM FOR PRE   prince     Ventrue:2
+1x Anson                             8  aus dom CEL PRE       prince     Toreador:1
+1x Timothy Crowley                   7  ani dom FOR PRE       prince     Ventrue:1
+1x Rake                              6  aus cel pot PRE       prince     Brujah:1
+1x Victoria Ash                      6  aus cel dom PRE       primogen   Toreador:2
+1x Ranjan Rishi, Camarilla Scholar   5  for DOM PRE                      Ventrue:2
+1x Courtland Leighton                4  dom for pre                      Ventrue:1
+1x Anarch Convert                    1                                   Caitiff:ANY
+
+Library (77 cards)
+Master (11)
+1x Bleeding the Vine
+1x Coven, The
+1x Dark Influences
+3x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Giant's Blood
+2x Pentex(TM) Subversion
+1x Ventrue Headquarters
+
+Action (14)
+4x Enchant Kindred
+2x Entrancement
+6x Govern the Unaligned
+2x Mind Numb
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+3x First Tradition: The Masquerade
+5x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (24)
+2x Awe
+3x Change of Target
+2x Conditioning
+2x Daring the Dawn
+1x Day Operation
+2x Foreshadowing Destruction
+9x Freak Drive
+3x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Force of Personality
+
+Reaction (4)
+4x Deflection
+
+Combat (8)
+8x Majesty

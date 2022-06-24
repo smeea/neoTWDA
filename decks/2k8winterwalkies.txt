@@ -1,0 +1,62 @@
+Winter Walkies
+Burton-on-Trent, England
+February 23rd 2008
+2R+F
+19 players
+Paul Coffey
+
+
+-- Unknown
+
+Leandro's Motley Crue
+
+Pre/Obf/Aus high cap voting randomness
+
+Crypt (12 cards, min=23 max=40 avg=8.08)
+----------------------------------------
+1x Leandro                       11  cel dom AUS OBF PRE       inner circle   Malkavian:2
+1x Aziz, Dammar of Istanbul      10  ser CEL OBF PRE QUI       2 votes        Banu Haqim:2
+1x Nehsi                         10  aus for OBF PRE PRO SER   2 votes        Ministry:2
+1x Aristotle de Laurent           9  pot AUS DEM OBF PRE                      Malkavian antitribu:3
+1x Ellison Humboldt               9  pro ANI OBF POT PRE       primogen       Nosferatu:3
+1x Khay'tall, Snake of Eden       9  aus DOM OBF PRE SER                      Ministry:2
+1x Ardan Lane                     8  dom obf pre AUS THA       primogen       Tremere:3
+1x Doctor Streck                  8  aus pot CEL OBF PRE                      Brujah antitribu:3
+1x J. Oswald "Ozzy" Hyde-White    8  dom pre AUS FOR OBF       primogen       Malkavian:3
+1x Kite                           7  obf pre AUS DEM           bishop         Malkavian antitribu:2
+1x Sarrasine                      7  aus nec ser OBF PRE                      Ministry:2
+1x Antoinette DuChamp             1  cel pre                                  Caitiff:2
+
+Library (88 cards)
+Master (12)
+2x Auspex
+2x Information Highway
+7x Minion Tap
+1x Presence
+
+Action (10)
+6x Enchant Kindred
+4x Social Charm
+
+Political Action (8)
+2x Conservative Agitation
+6x Kine Resources Contested
+
+Action Modifier (26)
+1x Awe
+6x Bewitching Oration
+2x Faceless Night
+8x Forgotten Labyrinth
+2x Lost in Crowds
+1x Telepathic Vote Counting
+6x Voter Captivation
+
+Reaction (23)
+3x Dread Gaze
+3x Enhanced Senses
+2x Legwork
+9x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (9)
+9x Majesty

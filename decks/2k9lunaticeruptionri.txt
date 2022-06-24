@@ -1,0 +1,69 @@
+Lunatic Eruption
+Rome, Italy
+May 30th 2009
+Unknown
+23 players
+Simone Bianchi
+
+
+-- Unknown
+
+S&B Dem Tavolette 4
+
+slim s&b deck
+
+Crypt (12 cards, min=18 max=33 avg=6.25)
+----------------------------------------
+3x Morel                  6  AUS DEM OBF                          Malkavian:4
+1x Louhi                 10  pro ANI AUS DEM OBF THA   cardinal   Malkavian antitribu:4
+1x Bloody Mary            8  pre AUS DEM OBF           primogen   Malkavian:5
+1x Persephone Tar-Anis    8  cel pot AUS DEM OBF                  Malkavian antitribu:4
+1x Marge Khan             7  aus for DEM OBF POT                  Malkavian antitribu:5
+1x Gem Ghastly            6  aus DEM OBF               primogen   Malkavian:5
+1x Apache Jones           5  aus for obf DEM                      Malkavian antitribu:4
+1x Arthur Denholm         5  obf AUS DEM                          Malkavian:5
+1x Luc                    5  dem vic OBF                          Malkavian antitribu:4
+1x Bela                   3  ani obf pro DEM                      Malkavian:5
+
+Library (65 cards)
+Master (9)
+6x Ashur Tablets
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Pentex(TM) Subversion
+
+Action (13)
+10x Kindred Spirits
+1x Madman's Quill
+2x Restructure
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (16)
+2x Confusion
+3x Elder Impersonation
+5x Eyes of Chaos
+3x Faceless Night
+3x Lost in Crowds
+
+Action Modifier/Combat (6)
+3x Hide the Mind
+3x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Touch of Clarity
+
+Reaction (10)
+3x On the Qui Vive
+3x Telepathic Misdirection
+4x Wrong and Crosswise
+
+Combat (4)
+4x No Trace
+
+Event (1)
+1x Scourge of the Enochians

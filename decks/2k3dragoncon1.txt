@@ -1,0 +1,73 @@
+DragonCon - Improvised Tactics
+DragonCon 2003, Atlanta, Georgia
+August 29th 2003
+Unknown
+16 players
+Matt Guinn
+
+
+-- Unknown
+
+Who Needs Stealth
+
+Unknown
+
+Crypt (12 cards, min=16 max=32 avg=6.08)
+----------------------------------------
+1x Donatien                      9  cel pot AUS PRE       cardinal     Toreador antitribu:2
+1x Fleurdumal                    8  cel tha AUS DEM PRE   prince       Toreador:3
+1x Lachlan, Noddist              8  dom AUS CEL PRE       archbishop   Toreador antitribu:2
+1x Greta Kircher                 7  obf AUS CEL PRE                    Toreador antitribu:2
+1x Jessica                       7  AUS CEL OBT PRE       bishop       Toreador antitribu:2
+1x Ian Wallingford               6  aus CEL PRE           bishop       Toreador antitribu:2
+1x Jost Werner                   6  ani AUS PRE                        Toreador antitribu:2
+1x Sheila Mezarin                6  cel for AUS PRE                    Toreador antitribu:2
+1x Creamy Jade                   5  aus cel vic PRE                    Toreador antitribu:3
+1x Michael Luther                4  aus pre                            Toreador:3
+1x Remilliard, Devout Crusader   4  pre AUS                            Toreador antitribu:2
+1x Lolita                        3  for pre                            Toreador antitribu:2
+
+Library (90 cards)
+Master (20)
+2x Anarch Revolt
+1x Anarch Troublemaker
+1x Barrens, The
+3x Blood Doll
+1x Coven, The
+3x Dreams of the Sphinx
+1x Hungry Coyote, The
+1x Misdirection
+4x Palla Grande
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rumor Mill, Tabloid Newspaper, The
+
+Action (16)
+11x Enchant Kindred
+1x Entrancement
+4x Mind Numb
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (10)
+4x Consanguineous Boon
+5x Conservative Agitation
+1x Dramatic Upheaval
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (18)
+4x Awe
+8x Change of Target
+2x Telepathic Vote Counting
+4x Voter Captivation
+
+Reaction (16)
+4x Forced Awakening
+8x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (8)
+8x Majesty

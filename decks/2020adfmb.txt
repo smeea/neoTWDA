@@ -1,0 +1,68 @@
+Ano da Fortuna
+Maceió, Brazil
+January 11th 2020
+3R+F
+15 players
+Marcelo Mendes
+https://www.vekn.net/event-calendar/event/9524
+
+-- 2gw8 + 3vp in the final
+
+Setites Bleed with Stealth
+
+Notes: Our champion Marcelo <aka jackfruit> is an old player who just got back
+in the game and played with a incomplete deck. The player benefited immensely
+from the reactions in his deck on this tournament meta. This deck should soon
+be upgraded with 1 more form of corruption and at least 3-4 enticements.
+
+Crypt (12 cards, min=18 max=38 avg=7.5)
+---------------------------------------
+2x Nakhthorheb                     10  OBF PRE SER                         Ministry:4
+2x Renenet                          5  ser OBF PRE                         Ministry:4
+2x Marla Kenyon                     4  ser PRE                             Ministry:4
+1x Neferu                           9  dom nec OBF PRE SER THA   2 votes   Ministry:4
+1x Pentweret                        9  aus for obe OBF PRE SER             Ministry:5
+1x Porphyrion                       9  for CHI OBF PRE SER                 Ministry:5
+1x Shemti                           9  vic OBF POT PRE SER       1 vote    Ministry:5
+1x Arnulf Jormungandrsson           8  aus cel OBF PRE SER                 Ministry:5
+1x Sundervere, The Devil Brahmin    8  obf AUS PRE SER THA                 Ministry:4
+
+Library (89 cards)
+Master (11)
+3x Blood Doll
+1x Eternals of Sirius, The
+1x Khobar Towers, Al-Khubar
+2x Minion Tap
+1x Opium Den
+1x Rumor Mill, Tabloid Newspaper, The
+1x Serpentis
+1x Temple Hunting Ground
+
+Action (13)
+1x Conceal
+4x Enchant Kindred
+1x Form of Corruption
+2x Legal Manipulations
+5x Social Charm
+
+Ally (1)
+1x Saatet-ta
+
+Action Modifier (28)
+6x Elder Impersonation
+5x Faceless Night
+7x Lost in Crowds
+5x Spying Mission
+5x True Love's Face
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (20)
+7x Ecstasy
+4x Eluding the Arms of Morpheus
+9x Ophidian Gaze
+
+Combat (11)
+4x Majesty
+7x Serpent's Numbing Kiss

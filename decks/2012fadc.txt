@@ -1,0 +1,67 @@
+Forced Awakening
+Denver, Colorado
+September 22nd 2012
+2R+F
+13 players
+Kevin Mergen
+
+
+-- Unknown
+
+Cryptic Moon v3.2
+
+Get out as many guys as you can, Vessel off,
+Cryptic lockdown, get cool allies, bleed + deflect.
+
+Crypt (12 cards, min=13 max=21 avg=4.33)
+----------------------------------------
+1x Reverend Blackwood   6  obf DOM THA       bishop   Tremere antitribu:2
+1x Aisling Sturbridge   5  dom AUS THA                Tremere:2
+1x Hannigan             5  dom AUS THA                Tremere antitribu:2
+1x Kurt Strauss         5  aus tha DOM                Tremere antitribu:2
+1x Merrill Molitor      5  aus dom THA                Tremere:1
+1x Sabine Lafitte       5  aus dom pot tha            Tremere:1
+1x Ignatius             4  aus dom tha                Tremere:1
+1x Sarah Cobbler        4  dom THA                    Tremere:1
+1x Thelonius            4  aus dom tha                Tremere antitribu:2
+1x Blythe Candeleria    3  aus THA                    Tremere:2
+1x Brooke               3  dom tha                    Tremere antitribu:2
+1x Jing Wei             3  dom tha                    Tremere:1
+
+Library (78 cards)
+Master (16)
+1x Dominate
+2x Dreams of the Sphinx
+2x Society of Leopold
+2x Sudden Reversal
+1x Thaumaturgy
+8x Vessel
+
+Action (18)
+2x Arson
+15x Cryptic Mission
+1x Far Mastery
+
+Ally (5)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Impundulu
+1x Ponticulus
+1x Young Bloods
+
+Action Modifier (16)
+8x Conditioning
+8x Mirror Walk
+
+Reaction (10)
+6x Deflection
+4x On the Qui Vive
+
+Combat (11)
+1x Burst of Sunlight
+6x Movement of the Mind
+4x Wind Dance
+
+Event (2)
+1x Hunger Moon
+1x Unmasking, The

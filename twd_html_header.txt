@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>TWDA</title></head>
+
+<body>
+<center>
+<h1>Tournament Winning Deck Archive</h1>
+<h2>Formerly hosted on the Lasombra</h2>
+
+<p>
+This is a chronological archive of decks that have won tournaments that were<br>
+sanctioned by the Vampire: Elder Kindred Network and had 10 or more players.<br>
+National and Continental Championship are included as well, irrelatively to their attendance.<br>
+To be included in this list, a tournament report had to be made on the official V:EKN Player's Forum:<br>
+<a href="https://www.vekn.net/index.php/forum/9-event-reports-and-twd">https://www.vekn.net/index.php/forum/9-event-reports-and-twd</a><br>
+This archive will not include the Storyline Tournament Winning Decks.<br>
+Unless otherwise noted, each deck was the winning player's creation.<br>
+<br>
+The original <a href="http://www.thelasombra.com/hall_of_fame.htm">Hall of Fame</a> and the <a href="http://www.veknfrance.com/decks/twd.htm">Tournament Winning Deck Archive</a> were closed as of October 26, 2013.<br>
+Many thanks to Jeff Thompson for maintaining them for all these years.
+</p>
+<table width="500" align="center" border="2" cellpadding="0">
+<tbody><tr align="center">
+<td colspan="10">You can jump to the end of a year that interests you:</td>
+</tr>
+<tr align="center">
+<td colspan="2"></td>
+<td><a href="#Year2022">2022</a></td>
+<td><a href="#Year2021">2021</a></td>
+<td><a href="#Year2020">2020</a></td>
+<td><a href="#Year2019">2019</a></td>
+<td><a href="#Year2018">2018</a></td>
+<td><a href="#Year2017">2017</a></td>
+<td colspan="3"></td>
+</tr><tr align="center">
+<td><a href="#Year2016">2016</a></td>
+<td><a href="#Year2015">2015</a></td>
+<td><a href="#Year2014">2014</a></td>
+<td><a href="#Year2013">2013</a></td>
+<td><a href="#Year2012">2012</a></td>
+<td><a href="#Year2011">2011</a></td>
+<td><a href="#Year2010">2010</a></td>
+<td><a href="#Year2009">2009</a></td>
+<td><a href="#Year2008">2008</a></td>
+<td><a href="#Year2007">2007</a></td>
+</tr><tr align="center">
+<td><a href="#Year2006">2006</a></td>
+<td><a href="#Year2005">2005</a></td>
+<td><a href="#Year2004">2004</a></td>
+<td><a href="#Year2003">2003</a></td>
+<td><a href="#Year2002">2002</a></td>
+<td><a href="#Year2001">2001</a></td>
+<td><a href="#Year2000">2000</a></td>
+<td><a href="#Year1999">1999</a></td>
+<td><a href="#Year1998">1998</a></td>
+<td><a href="#Year1997">1997</a></td>
+</tr>
+</tbody></table>
+<p>Some abbreviations are used throughout the archive:
+<table>
+<tr><td>NC</td><td>National Championship</td><td>NAC</td><td>North American (Continental) Championship</td></tr>
+<tr><td>NCQ</td><td>National Championship Qualifier</td><td>SAC</td><td>South American (Continental) Championship</td></tr>
+<tr><td>ECQ</td><td>European Championship Qualifier</td><td>EC</td><td>European (Continental) Championship</td></tr>
+<tr><td>CCQ</td><td>Continental Championship Qualifier</td><td>ACC</td><td>Asian Continental Championship</td></tr>
+</table>

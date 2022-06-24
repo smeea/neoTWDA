@@ -1,0 +1,68 @@
+Origins Thursday 5pm
+Columbus, Ohio
+June 25th 2009
+Unknown
+33 players
+Ben Swainbank
+
+
+-- Unknown
+
+Mad Fat Bastards
+
+Unknown
+
+Crypt (12 cards, min=16 max=38 avg=6.92)
+----------------------------------------
+1x Nakhthorheb              10  OBF PRE SER                         Ministry:4
+1x Seterpenre               10  AUS NEC OBF PRE SER                 Ministry:5
+1x Neferu                    9  dom nec OBF PRE SER THA   2 votes   Ministry:4
+1x Pentweret                 9  aus for obe OBF PRE SER             Ministry:5
+1x Porphyrion                9  for CHI OBF PRE SER                 Ministry:5
+1x Shemti                    9  vic OBF POT PRE SER       1 vote    Ministry:5
+1x Clea Auguste d'Holford    6  pre ser OBF POT                     Ministry:5
+1x Abdelsobek                5  for nec obf pre ser                 Ministry:5
+1x Renenet                   5  ser OBF PRE                         Ministry:4
+1x Sahira Siraj              4  obf ser tha                         Ministry:4
+1x Sisocharis                4  cel obf pre                         Ministry:5
+1x Ahmose Chambers           3  obf ser                             Ministry:5
+
+Library (60 cards)
+Master (11)
+1x Barrens, The
+2x Blood Doll
+1x Crocodile Temple, The
+3x Effective Management
+1x Mob Connections
+1x Specialization
+1x Vampiric Disease
+1x WMRH Talk Radio
+
+Action (12)
+1x Form of Corruption
+11x Spell of Life
+
+Ally (8)
+1x Amam the Devourer
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Nephren-Ka
+1x Ossian
+1x Procurer
+1x Vagabond Mystic
+1x Young Bloods
+
+Action Modifier (20)
+2x Cloak the Gathering
+4x Elder Impersonation
+6x Faceless Night
+6x Lost in Crowds
+2x Veil the Legions
+
+Combat (7)
+5x Boxed In
+2x Weighted Walking Stick
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

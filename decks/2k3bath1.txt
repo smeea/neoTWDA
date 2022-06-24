@@ -1,0 +1,64 @@
+Blood Bath
+Bath, England
+April 5th 2003
+Unknown
+12 players
+Hugh Angseesing
+
+
+-- Unknown
+
+Unknown
+
+"Camille & Raven's Royal Bash"
+
+This deck is based upon a deck I used to play before NRA rules were
+introduced. When DS was first released force of will added to freak
+drive, day operation, movement of the slow body & a rapid healing or
+two, was just insane. To compensate for the "limited" number of bleed
+actions being performed, some of the rapid healing/Force of wills
+have been replaced by dominate cards.
+
+Crypt (12 cards, min=16 max=38 avg=6.42)
+----------------------------------------
+4x Camille Devereux, The Raven    5  ani FOR PRO                          Gangrel:1
+2x Stanislava                    11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2
+2x Iliana                         7  tha DOM FOR PRO                      Gangrel:2
+1x Ingrid Rossler                 9  dom ANI FOR PRO       prince         Gangrel:2
+1x Dylan                          6  aus cel dom for pro                  Ventrue antitribu:2
+1x Chandler Hungerford            3  PRO                                  Gangrel:2
+1x Ricki Van Demsi                3  for pro                              Gangrel:1
+
+Library (89 cards)
+Master (18)
+2x Backways
+4x Blood Doll
+3x Direct Intervention
+2x Dominate
+2x Ecoterrorists
+3x Information Highway
+2x Zoo Hunting Ground
+
+Action (21)
+8x Force of Will
+5x Movement of the Slow Body
+6x Rapid Healing
+2x Tier of Souls
+
+Retainer (1)
+1x J. S. Simmons, Esq.
+
+Action Modifier (25)
+6x Conditioning
+6x Day Operation
+10x Earth Control
+3x Freak Drive
+
+Action Modifier/Combat (4)
+4x Rapid Change
+
+Reaction (10)
+10x Deflection
+
+Combat (10)
+10x Form of Mist

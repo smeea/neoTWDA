@@ -1,0 +1,59 @@
+Paulistão 2012 + SAC Qualifier
+São Paulo, Brazil
+November 4th 2012
+3R+F
+13 players
+Bruno Keiti Tamane
+
+
+-- Unknown
+
+Ventrue - Little Princes
+
+Unknown
+
+Crypt (12 cards, min=20 max=30 avg=6.17)
+----------------------------------------
+2x Lodin (Olaf Holte)   8  aus pro DOM FOR PRE   prince     Ventrue:5
+2x Graham Gottesman     7  obf pre tha DOM FOR   prince     Ventrue:5
+2x Mustafa, The Heir    6  cel dom FOR PRE       prince     Ventrue:4
+2x Victor Donaldson     6  for pre DOM           prince     Ventrue:5
+2x Emily Carson         5  for pre DOM           primogen   Ventrue:5
+2x Victor Pelletier     5  cel dom for PRE                  Ventrue:4
+
+Library (70 cards)
+Master (13)
+2x Anarch Troublemaker
+1x Coven, The
+4x Dreams of the Sphinx
+1x Hostile Takeover
+2x Misdirection
+2x Pentex(TM) Subversion
+1x Ventrue Headquarters
+
+Action (10)
+2x Entrancement
+8x Govern the Unaligned
+
+Equipment (3)
+3x Heart of Nizchetus
+
+Political Action (10)
+6x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (20)
+3x Bewitching Oration
+4x Conditioning
+2x Daring the Dawn
+8x Freak Drive
+3x Voter Captivation
+
+Reaction (5)
+5x Deflection
+
+Combat (8)
+8x Majesty
+
+Event (1)
+1x Bitter and Sweet Story, The

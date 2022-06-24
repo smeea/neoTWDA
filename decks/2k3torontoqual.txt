@@ -1,0 +1,75 @@
+Toronto Qualifier
+Toronto, Ontario
+May 3rd 2003
+Unknown
+21 players
+Andrew Weston
+
+
+-- Unknown
+
+Unknown
+
+Here's the deck. It started out as an exact duplicate of one of "The
+Lasombra's" decks called "In the Presence of the Lasombra" but was
+quite a bit different after some last-minute tweaks. And it could use
+a lot more frankly. I still contend that this deck is not that
+fantastic. I welcome any comments, and if people are interested, I
+will reveal what changes I think should be made based on all the hand
+jam I was getting all day.
+
+LASOMBRA -- OBT/PRE/DOM
+
+Crypt (12 cards, min=13 max=40 avg=7.17)
+----------------------------------------
+2x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal     Lasombra:2
+2x Marcus Vitel                             10  DOM FOR OBF OBT PRE       prince       Ventrue:3
+1x Antonio Delgado                           9  tha DOM OBT POT           archbishop   Lasombra:2
+1x Francisco Domingo de Polonia              9  pro DOM OBT POT PRE       archbishop   Lasombra:2
+1x Gratiano                                  8  obf pot DOM OBT           priscus      Lasombra:2
+1x Tobias Smith                              7  pot DOM OBT PRE                        Lasombra:3
+1x Sela                                      6  cel obt POT PRE           bishop       Brujah antitribu:2
+1x Cameron                                   3  dom pot                                Lasombra:2
+1x Aaron Duggan, Cameron's Toady             2  obt                                    Lasombra:2
+1x Mitchell, The Headhunter                  2  obt pot                                Pander:2
+
+Library (90 cards)
+Master (18)
+2x Direct Intervention
+1x Dreams of the Sphinx
+1x Effective Management
+1x Golconda: Inner Peace
+3x Information Highway
+7x Minion Tap
+1x Power Structure
+2x Zillah's Valley
+
+Action (4)
+2x Baltimore Purge
+2x Graverobbing
+
+Political Action (17)
+1x Ancient Influence
+1x Banishment
+1x Disputed Territory
+1x Dramatic Upheaval
+4x Honor the Elders
+8x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (25)
+4x Bewitching Oration
+4x Bonding
+5x Shadow Play
+6x Shroud of Night
+6x Voter Captivation
+
+Reaction (12)
+4x Deflection
+2x Redirection
+6x Wake with Evening's Freshness
+
+Combat (14)
+4x Arms of the Abyss
+3x Entombment
+7x Majesty

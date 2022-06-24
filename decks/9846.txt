@@ -1,0 +1,88 @@
+Origins - Thursday 1
+Columbus, Ohio
+September 30th 2021
+2R+F
+12 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/9846
+
+-- Unknown
+
+Broccolini
+
+This deck was developed independently from (but about the same time as) Esa-Matti Smolander's 17 Sept 2019 winner. The designs turned out similar because there's a single logical path for development with these vampires:
+1) Get too many MPA and discard options,
+2) Play Ashur Tablets,
+3) Profit.
+
+I suspect I'm a little more ruthless in discarding than Esa-Matti is - I have one more set of Tablets and want dual stealth locations. Between Blithe Acceptance and those locations, I can leverage a more compact stealth module from that point forward.
+
+Who Eats A Lot Of Broccoli is clearly the focus. If I don't get him early I'm behind the curve, digging for Wider View and pushing subsequent Tend the Flocks + Info Highway for pool gain. The deck would probably run better with 5/13 Huitz since it can limp along without Giotto if needed - but having a valid target for Tend is still pretty important.
+The 3 Anarch Converts give the Railroad stealth, but also provide 1-3 chump block options if that's needed more. I seldom get the High Priest unless I'm pretty far ahead in the mid game (like, never???)
+
+Crypt (12 cards, min=10 max=40 avg=6.58)
+----------------------------------------
+4x Huitzilopochtli            10  AUS DAI DOM OBF POT PRE      Baali:2
+4x Giotto Verducci             7  for pot pre DAI OBF          Baali:2
+3x Anarch Convert              1                               Caitiff:ANY
+1x High Priest Angra Mainyu    8  dem ser DAI OBF PRE          Baali:2
+
+Library (75 cards)
+Master (41)
+1x Anarch Railroad
+1x Archon Investigation
+12x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Jake Washington
+1x Metro Underground
+1x Monastery of Shadows
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x Perfectionist
+6x Tend the Flock
+4x Villein
+1x Wash
+2x Wider View
+
+Action (8)
+1x Blithe Acceptance
+1x Contagion
+1x Dominate Kine
+3x Entrancement
+2x Unleash Hell's Fury
+
+Ally (4)
+1x Carlton Van Wyk
+1x Infernal Servitor
+1x Mylan Horseed
+1x Veneficti
+
+Action Modifier (10)
+1x Elder Impersonation
+1x Enkil Cog
+1x Faceless Night
+2x Forgotten Labyrinth
+2x I am Legion
+2x Into Thin Air
+1x Psychomachia
+
+Action Modifier/Combat (2)
+1x Force of Personality
+1x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+3x Sense the Sin
+
+Reaction (4)
+2x Deflection
+2x Eluding the Arms of Morpheus
+
+Combat (2)
+2x Majesty
+
+Event (1)
+1x Scourge of the Enochians

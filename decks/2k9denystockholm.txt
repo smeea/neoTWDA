@@ -1,0 +1,76 @@
+Deny
+Stockholm, Sweden
+February 28th 2009
+Unknown
+14 players
+Erik Gustafsson
+
+
+-- Unknown
+
+Blood of the Rabbat
+
+Unknown
+
+Crypt (12 cards, min=19 max=38 avg=7.08)
+----------------------------------------
+3x Rabbat, The Sewer Goddess    7  pot ANI FOR OBF              Nosferatu:4
+2x Nakhthorheb                 10  OBF PRE SER                  Ministry:4
+1x Pentweret                    9  aus for obe OBF PRE SER      Ministry:5
+1x Porphyrion                   9  for CHI OBF PRE SER          Ministry:5
+1x Ogwon                        7  for OBF PRE SER              Ministry:5
+1x Ankh-sen-Sutekh              6  obf PRE SER                  Ministry:4
+1x Abdelsobek                   5  for nec obf pre ser          Ministry:5
+1x Renenet                      5  ser OBF PRE                  Ministry:4
+1x Ahmose Chambers              3  obf ser                      Ministry:5
+
+Library (90 cards)
+Master (17)
+2x Blood Doll
+1x Cave of Apples
+2x Eternals of Sirius, The
+1x Heidelberg Castle, Germany
+1x Information Highway
+4x Minion Tap
+1x Opium Den
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Temple Hunting Ground
+2x Vessel
+
+Action (27)
+3x Blithe Acceptance
+2x Enchant Kindred
+1x Form of Corruption
+1x Heart of the City
+3x Legal Manipulations
+5x Public Trust
+1x Scouting Mission
+11x Temptation
+
+Equipment (7)
+4x Flak Jacket
+3x Unlicensed Taxicab
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (21)
+5x Cloak the Gathering
+3x Faceless Night
+4x Freak Drive
+3x Lost in Crowds
+4x True Love's Face
+2x Veil the Legions
+
+Action Modifier/Combat (6)
+6x Swallowed by the Night
+
+Reaction (2)
+2x Mental Maze
+
+Combat (8)
+1x Cobra Fangs
+5x Majesty
+2x Soak

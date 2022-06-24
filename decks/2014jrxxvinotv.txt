@@ -1,0 +1,65 @@
+Justicar Retribution XXVI - Night of the Vampire
+Helsinki, Finland
+April 20th 2014
+3R+F
+12 players
+Matias Frosterus
+https://www.vekn.net/event-calendar/event/7639
+
+-- Unknown
+
+Dmitra's Show of Force
+
+A toolboxy deck that's a bruise bleed with light stealth, some voting
+power and Second Tradition defense. The number of red cards could be kept low since
+the actions bring so much +strength.
+
+Crypt (12 cards, min=24 max=36 avg=7.67)
+----------------------------------------
+4x Dmitra Ilyanova        9  obf CEL FOR POT PRE   justicar   Brujah:5
+2x Dark Selina            9  dom for CEL POT PRE   cardinal   Brujah antitribu:5
+2x Tara                   6  cel POT PRE           prince     Brujah:5
+1x Aren, Priest of Eshu   7  ani obf POT PRE                  Guruhi:4
+1x Karen Suadela          7  obf pre CEL POT       prince     Brujah:5
+1x Gold Pan Dan           6  cel POT PRE                      Brujah antitribu:5
+1x Tomaine                6  CEL POT PRE           primogen   Brujah:4
+
+Library (79 cards)
+Master (13)
+1x Barrens, The
+2x Dreams of the Sphinx
+1x Information Highway
+1x Pentex(TM) Subversion
+6x Villein
+2x Wider View
+
+Action (14)
+1x Entrancement
+4x Esprit de Corps
+2x Heroic Might
+7x Show of Force
+
+Political Action (7)
+1x Banishment
+3x Kine Resources Contested
+3x Parity Shift
+
+Action Modifier (8)
+2x Forced March
+5x Iron Glare
+1x Perfect Paragon
+
+Action Modifier/Combat (6)
+6x Resist Earth's Grasp
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (23)
+2x Blur
+1x Hidden Strength
+6x Immortal Grapple
+2x Pursuit
+3x Sideslip
+5x Taste of Vitae
+4x Torn Signpost

@@ -1,0 +1,62 @@
+English NC 2008
+Reading, England
+December 6th 2008
+3R+F
+28 players
+Matt Green
+
+
+-- 3vp in the final
+
+Snakes with a Chain (v3.1)
+
+Unknown
+
+Crypt (12 cards, min=16 max=39 avg=7.08)
+----------------------------------------
+3x Nefertiti                  10  cel pot DOM OBF PRE SER            Ministry:2
+2x Khay'tall, Snake of Eden    9  aus DOM OBF PRE SER                Ministry:2
+1x Kahina the Sorceress        9  nec pre AUS DOM OBF SER   1 vote   Ministry:3
+1x Allonzo Montoya             6  ani aus OBF SER                    Abomination:3
+1x Hesha Ruhadze               6  ani obf pre SER                    Ministry:2
+1x Count Ormonde               5  dom pre ser OBF                    Ministry:2
+1x Dedefra                     5  nec obf SER                        Ministry:2
+1x Celine Chevalier            3  obf ser                            Ministry:2
+1x Khalil Anvari               3  pre ser                            Ministry:2
+
+Library (70 cards)
+Master (17)
+5x Eternals of Sirius, The
+1x Giant's Blood
+2x Heidelberg Castle, Germany
+3x Minion Tap
+2x Opium Den
+2x Vessel
+2x Wash
+
+Action (20)
+3x Enticement
+2x Form of Corruption
+6x Govern the Unaligned
+4x Mind Rape
+2x Set's Curse
+3x Temptation
+
+Ally (1)
+1x Mylan Horseed
+
+Action Modifier (16)
+3x Elder Impersonation
+6x Lost in Crowds
+2x Spying Mission
+5x Truth of a Thousand Lies
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (9)
+5x Deflection
+4x Wake with Evening's Freshness
+
+Combat (4)
+4x Majesty

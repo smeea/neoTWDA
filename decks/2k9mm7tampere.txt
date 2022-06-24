@@ -1,0 +1,91 @@
+Monday Mayhem VII
+Sonera-Talo, Tampere, Finland
+June 8th 2009
+Unknown
+11 players
+Jussi Ranta
+
+
+-- Unknown
+
+Man Smell 2009
+
+A deck, which was my Imperator deck. For some reason I
+had taken out almost 20 cards, so I just sort of threw this one together.
+I had some storyline specific cards as well (Justicar vote, Triole's
+revenge), but I took them out as well.
+
+Crypt (12 cards, min=23 max=36 avg=7.17)
+----------------------------------------
+4x Crusher                           9  for CEL POT PRE       primogen   Brujah:1
+3x Richter, The Templar of Du Mont   7  for pre CEL POT                  Brujah antitribu:2
+2x Anvil                             6  dom pre tha CEL POT   primogen   Brujah:1
+1x Bianca                            6  pot pre CEL                      Brujah:1
+1x Rake                              6  aus cel pot PRE       prince     Brujah:1
+1x Volker, The Puppet Prince         5  pot CEL               prince     Brujah:2
+
+Library (89 cards)
+Master (18)
+3x Blood Doll
+3x Dreams of the Sphinx
+2x Fame
+1x Frontal Assault
+1x Giant's Blood
+1x Haven Uncovered
+1x Life in the City
+1x Monster
+1x New Carthage
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Sudden Reversal
+1x Tension in the Ranks
+
+Action (17)
+1x Ambush
+4x Bum's Rush
+4x Entrancement
+2x Harass
+2x Legal Manipulations
+2x Mind Numb
+1x Rampage
+1x Red List
+
+Ally (3)
+1x Carlton Van Wyk
+1x Ossian
+1x Repo Man
+
+Equipment (5)
+2x Ambulance
+1x Blood Tears of Kephran
+1x Heart of Nizchetus
+1x Leather Jacket
+
+Political Action (1)
+1x Kine Resources Contested
+
+Action Modifier (6)
+2x Forced March
+4x Freak Drive
+
+Action Modifier/Combat (6)
+6x Resist Earth's Grasp
+
+Reaction (1)
+1x Delaying Tactics
+
+Combat (30)
+2x Armor of Vitality
+4x Blur
+6x Immortal Grapple
+1x Infection
+1x Infernal Pursuit
+2x Psyche!
+6x Pursuit
+2x Sideslip
+2x Taste of Vitae
+4x Torn Signpost
+
+Event (2)
+1x Narrow Minds
+1x Scourge of the Enochians

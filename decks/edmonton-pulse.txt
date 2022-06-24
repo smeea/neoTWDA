@@ -1,0 +1,76 @@
+Crusade V: Kiss of Ra
+Edmonton, Alberta
+July 14th 2001
+Unknown
+Unknown 
+Kevin J. Wiebe
+
+
+-- Unknown
+
+Pulse of the Canaille (!Malkavian)
+
+They lurk in the darkness. They are the shadow
+that chills the heart. They are fear and loathing. They know
+not pity nor remorse. They are the kindred rabble that will
+bring you down.
+
+Crypt (12 cards, min=20 max=35 avg=7.0)
+---------------------------------------
+1x Hannibal                 10  cel dom AUS DEM OBF   cardinal   Malkavian antitribu:2
+1x Vasantasena               9  dom pot AUS DEM OBF              Malkavian antitribu:2
+1x Cornelius Ottavio         8  pre qui AUS OBF                  Malkavian:2
+1x Sylvester Simms           8  ani dom pre AUS OBF   primogen   Malkavian:1
+1x Virgil                    8  cel AUS DEM OBF       bishop     Malkavian antitribu:2
+1x Gilbert Duane             7  AUS DOM OBF           prince     Malkavian:1
+1x Greger Anderssen          7  dom pro AUS OBF       prince     Malkavian:2
+1x Korah                     7  ani AUS DEM OBF       priscus    Malkavian antitribu:2
+1x Dolphin Black             6  AUS DEM OBF                      Malkavian antitribu:2
+1x Quira, The Bitch Queen    6  obt tha AUS OBF                  Malkavian antitribu:2
+1x Agrippina                 4  pot OBF                          Nosferatu:1
+1x Tansu Bekir               4  cel OBF                          Banu Haqim:2
+
+Library (90 cards)
+Master (30)
+1x Barrens, The
+6x Blood Doll
+2x Direct Intervention
+3x Dominate
+1x Giant's Blood
+1x Hungry Coyote, The
+1x Inbase Discotek, Frankfurt
+1x Institution Hunting Ground
+1x Metro Underground
+3x Minion Tap
+3x Parthenon, The
+3x Storage Annex
+4x Sudden Reversal
+
+Action (6)
+6x Pulse of the Canaille
+
+Equipment (4)
+1x Aaron's Feeding Razor
+1x Blood Tears of Kephran
+1x Laptop Computer
+1x Palatial Estate
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (27)
+3x Cloak the Gathering
+6x Conditioning
+3x Faceless Night
+3x Lost in Crowds
+6x Mask of a Thousand Faces
+6x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (18)
+6x Telepathic Counter
+6x Telepathic Misdirection
+6x Wake with Evening's Freshness

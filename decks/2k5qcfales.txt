@@ -1,0 +1,46 @@
+French NCQ
+Alès, France
+June 12th 2005
+Unknown
+32 players
+Régis Laubry
+
+
+-- Unknown
+
+Eurobrujah feat. Theo
+
+Combat part with no blood cost very good, need some bleed modifier
+
+Crypt (12 cards, min=24 max=32 avg=7.08)
+----------------------------------------
+3x Dónal O'Connor              8  CEL DOM POT           prince   Brujah:2
+3x Theo Bell                   7  cel dom pre POT                Brujah:2
+2x Constanza Vinti             8  CEL DOM POT           prince   Brujah:2
+2x Theo Bell (ADV)             7  aus dom CEL POT PRE            Brujah:2
+2x Volker, The Puppet Prince   5  pot CEL               prince   Brujah:2
+
+Library (90 cards)
+Master (15)
+6x Blood Doll
+2x Direct Intervention
+3x Storage Annex
+2x Sudden Reversal
+2x Visit from the Capuchin
+
+Action (8)
+8x Govern the Unaligned
+
+Political Action (5)
+5x Parity Shift
+
+Reaction (18)
+6x Deflection
+12x Second Tradition: Domain
+
+Combat (44)
+8x Disarm
+8x Immortal Grapple
+12x Pursuit
+8x Sideslip
+8x Torn Signpost

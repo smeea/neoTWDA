@@ -1,0 +1,57 @@
+Legacy of Power - Australian Championship Qualifier 2002
+Canberra, Australia
+July 14th 2002
+Unknown
+15 players
+Chris Wall
+
+
+-- Unknown
+
+Unknown
+
+Ahrimane Wall
+
+Crypt (12 cards, min=21 max=31 avg=6.58)
+----------------------------------------
+3x Howler                8  obf ANI PRE SPI          Ahrimane:2
+3x Siamese, The          7  ani pro PRE SPI          Ahrimane:2
+2x Cynthia Ingold        6  ani for pre SPI          Ahrimane:2
+2x Bear Paw              5  for pre pro ANI          Gangrel:1
+1x Gunther, Beast Lord   7  aus for pro ANI          Gangrel:1
+1x Nettie Hale           5  ani cel pre pro spi      Ahrimane:2
+
+Library (88 cards)
+Master (7)
+4x Blood Doll
+2x Feral Spirit
+1x Zoo Hunting Ground
+
+Action (23)
+4x Army of Rats
+4x Enchant Kindred
+2x Engling Fury
+2x Legal Manipulations
+1x Muricia's Call
+7x Nose of the Hound
+2x Sanguine Instruction
+1x Wildebeest, The
+
+Retainer (4)
+1x Dog Pack
+3x Raven Spy
+
+Action Modifier (4)
+4x Aire of Elation
+
+Action Modifier/Combat (5)
+5x Swiftness of the Stag
+
+Reaction (20)
+5x Cats' Guidance
+5x Falcon's Eye
+10x Speak with Spirits
+
+Combat (25)
+15x Aid from Bats
+10x Carrion Crows

@@ -1,0 +1,59 @@
+Who ate the Fruitcake? Expiate it!
+Boston, Massachusetts
+May 21th 2006
+Unknown
+12 players
+John Eno
+
+
+-- Unknown
+
+Old School Beats
+
+CEL/pot rush. Jimmy and Bianca are the stars, and Volker should
+probably be a second Bianca.
+
+Crypt (12 cards, min=15 max=23 avg=4.67)
+----------------------------------------
+2x Rigby, Crusade Vanguard     5  aus pot CEL PRE            Brujah antitribu:2
+2x Jimmy Dunn                  4  for CEL POT                Pander:2
+1x Bianca                      6  pot pre CEL                Brujah:1
+1x Julian Sanders              6  pot CEL PRE                Brujah antitribu:2
+1x Sela                        6  cel obt POT PRE   bishop   Brujah antitribu:2
+1x Volker, The Puppet Prince   5  pot CEL           prince   Brujah:2
+1x Evangeline                  4  cel pot pre                Brujah antitribu:2
+1x Hugo                        4  pre vic POT                Brujah antitribu:2
+1x Victor Tolliver             4  pot CEL                    Brujah antitribu:2
+1x Jacob Bragg                 3  cel pot                    Brujah antitribu:2
+
+Library (90 cards)
+Master (13)
+1x Amusement Park Hunting Ground
+3x Blood Doll
+1x Dreams of the Sphinx
+1x Elder Library
+2x Fame
+2x Gang Territory
+3x Haven Uncovered
+
+Action (16)
+10x Bum's Rush
+3x Flurry of Action
+3x Legal Manipulations
+
+Reaction (6)
+6x Wake with Evening's Freshness
+
+Combat (54)
+6x Blur
+1x Fast Hands
+4x Flash
+10x Immortal Grapple
+4x Pursuit
+7x Sideslip
+6x Taste of Vitae
+4x Thrown Sewer Lid
+12x Torn Signpost
+
+Event (1)
+1x Dragonbound

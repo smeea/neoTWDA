@@ -1,0 +1,62 @@
+Living Manse
+Milan, Italy
+April 25th 2009
+Unknown
+28 players
+Gianluca Vindigni
+
+
+-- Unknown
+
+Assamite Amaravati
+
+Unknown
+
+Crypt (12 cards, min=12 max=32 avg=5.83)
+----------------------------------------
+4x Amaravati            8  ani chi DOM OBF QUI            Banu Haqim:4
+1x Kashan               7  obt pre CEL OBF QUI   1 vote   Banu Haqim:4
+1x Olugbenga            7  ani cel OBF QUI       magaji   Banu Haqim:4
+1x Hafsa, The Watcher   6  aus cel OBF QUI                Banu Haqim:5
+1x Vardar Vardarian     6  cel pre OBF QUI                Banu Haqim:4
+1x Layla bint-Nadr      5  qui CEL OBF                    Banu Haqim:4
+1x Kamau Jafari         4  obf QUI                        Banu Haqim:4
+1x Alu                  2  obf                            Banu Haqim:5
+1x Basir                1  qui                            Banu Haqim:4
+
+Library (90 cards)
+Master (24)
+4x Alamut
+2x Black Throne, The
+1x Creepshow Casino
+2x Direct Intervention
+1x Giant's Blood
+4x Information Highway
+2x Rack, The
+6x Vessel
+2x Yoruba Shrine
+
+Action (24)
+8x Embrace, The
+6x Haqim's Law: Leadership
+6x Loss
+4x Web of Knives Recruit
+
+Equipment (6)
+4x Heart of Nizchetus
+2x Sargon Fragment, The
+
+Political Action (18)
+1x Ancilla Empowerment
+8x Consanguineous Boon
+1x Domain Challenge
+4x Kine Resources Contested
+4x Reckless Agitation
+
+Action Modifier (16)
+4x Elder Impersonation
+6x Lost in Crowds
+6x Veil the Legions
+
+Reaction (2)
+2x Delaying Tactics

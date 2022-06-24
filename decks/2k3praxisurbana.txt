@@ -1,0 +1,93 @@
+Praxis Seizure: Champaign-Urbana
+Champaign, Illinois
+March 8th 2003
+Unknown
+14 players
+Eric Chiang
+
+
+-- Unknown
+
+The !Tremere Make Their Presence Known
+
+A !Tremere vote deck that
+utilizes Presence. Alfred, Ayelea, and Bryan already
+have Presence. Ian can play Presence cards. Otherwise,
+use a combination of Infernal Pact, Presence skill
+cards, and Created Gargoyles (cute Pokemon proxies).
+Once you manage to secure political domination,
+outplay, outwit, and outlast your opponents!
+
+* Story-line Legal
+
+
+[Misc.: 6 cards
+
+Clan Toys: 3 cards
+
+
+Discipline: 41 cards]
+[7 Auspex, 8 Dominate, 20 Presence, 6 Thaumaturgy
+
+Crypt (13 cards, min=14 max=37 avg=6.46)
+----------------------------------------
+2x Ayelea, The Manipulator           10  pre AUS DOM OBT THA   cardinal     Tremere antitribu:2
+2x Alfred Benezri                     6  aus dom PRE THA       bishop       Pander:3
+1x Ethan Locke                        9  aus cel pot DOM THA   archbishop   Tremere antitribu:2
+1x Ian Forestal                       8  AUS DOM THA                        Tremere antitribu:2
+1x Kij Dansky                         8  obt AUS DOM THA       priscus      Tremere antitribu:2
+1x Bryan Van Duesen                   7  aus pre DOM THA                    Tremere antitribu:2
+1x Reverend Blackwood                 6  obf DOM THA           bishop       Tremere antitribu:2
+1x Hannigan                           5  dom AUS THA                        Tremere antitribu:2
+1x Richard Tauber, Ayelea's Puppet    4  tha AUS                            Tremere antitribu:2
+1x Brooke                             3  dom tha                            Tremere antitribu:2
+1x Heinrick Schlempt                  2  tha                                Tremere antitribu:2
+
+Library (90 cards)
+Master (20)
+1x Archon Investigation
+3x Blood Doll
+1x Creepshow Casino
+1x Infernal Pact
+2x Information Highway
+3x Minion Tap
+1x Powerbase: Madrid
+5x Presence
+1x University Hunting Ground
+2x Zillah's Valley
+
+Action (8)
+2x Create Gargoyle
+4x Govern the Unaligned
+2x Rutor's Hand
+
+Ally (1)
+1x Nephandus
+
+Political Action (20)
+1x Ancient Influence
+2x Banishment
+3x Cardinal Benediction
+1x Crusade: Detroit
+1x Crusade: Mexico City
+1x Crusade: Philadelphia
+1x Disputed Territory
+2x Dramatic Upheaval
+7x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (15)
+5x Awe
+2x Bewitching Oration
+2x Change of Target
+2x Telepathic Vote Counting
+4x Voter Captivation
+
+Reaction (13)
+4x Deflection
+5x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (13)
+4x Blood Fury
+9x Majesty

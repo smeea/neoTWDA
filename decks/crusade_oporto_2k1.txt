@@ -1,0 +1,61 @@
+Crusade: Oporto
+Oporto, Portugal
+November 17th 2001
+Unknown
+8 players
+Luis Duarte
+https://web.archive.org/web/20021112000109/http://planeta.clix.pt/vampire/torneios/crpt01classf.txt
+
+-- Unknown
+
+Giovanni Dominate
+
+Type: Unblock&Bleed
+
+Crypt (12 cards, min=12 max=28 avg=5.08)
+----------------------------------------
+3x Gloria Giovanni                   4  nec DOM              Giovanni:2
+2x Andrea Giovanni                   7  pot vic DOM NEC      Giovanni:2
+2x Gillespi Giovanni                 7  aus DOM NEC POT      Giovanni:2
+2x Stefano Giovanni                  6  nec pot pre DOM      Giovanni:2
+2x Marciana Giovanni, Investigator   2  dom                  Giovanni:2
+1x Isabel Giovanni                   5  pot DOM NEC          Giovanni:2
+
+Library (90 cards)
+Master (16)
+1x Barrens, The
+5x Blood Doll
+1x Coven, The
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Morgue Hunting Ground
+2x Necromancy
+1x Secure Haven
+1x Visit from the Capuchin
+
+Action (14)
+1x Dominate Kine
+2x Ex Nihilo
+3x Govern the Unaligned
+6x Scouting Mission
+2x Summon Soul
+
+Action Modifier (31)
+5x Bonding
+7x Call of the Hungry Dead
+3x Command of the Beast
+3x Foreshadowing Destruction
+7x Seduction
+3x Sleeping Mind, The
+3x Threats
+
+Action Modifier/Reaction (5)
+5x Spectral Divination
+
+Reaction (14)
+7x Deflection
+7x Wake with Evening's Freshness
+
+Combat (10)
+8x Spiritual Intervention
+2x Undead Strength

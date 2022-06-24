@@ -1,0 +1,62 @@
+Problems Dawning in Gothenburg
+Gothenburg, Sweden
+May 4th 2002
+Unknown
+12 players
+Johan Carlsson
+
+
+-- Unknown
+
+Howler leads the way
+
+Unknown
+
+Crypt (12 cards, min=24 max=31 avg=6.83)
+----------------------------------------
+1x Howler                                  8  obf ANI PRE SPI                Ahrimane:2
+1x Lachlan, Noddist                        8  dom AUS CEL PRE   archbishop   Toreador antitribu:2
+1x Miller Delmardigan, Teacher of Bahari   8  aus pro CEL PRE   bishop       Toreador antitribu:2
+1x Amelia                                  7  CEL POT PRE       bishop       Brujah antitribu:2
+1x Greta Kircher                           7  obf AUS CEL PRE                Toreador antitribu:2
+1x Jessica                                 7  AUS CEL OBT PRE   bishop       Toreador antitribu:2
+1x Siamese, The                            7  ani pro PRE SPI                Ahrimane:2
+1x Ian Wallingford                         6  aus CEL PRE       bishop       Toreador antitribu:2
+1x Jost Werner                             6  ani AUS PRE                    Toreador antitribu:2
+1x Julian Sanders                          6  pot CEL PRE                    Brujah antitribu:2
+1x Sela                                    6  cel obt POT PRE   bishop       Brujah antitribu:2
+1x Sheila Mezarin                          6  cel for AUS PRE                Toreador antitribu:2
+
+Library (90 cards)
+Master (16)
+2x Information Highway
+8x Minion Tap
+6x Obfuscate
+
+Action (1)
+1x Entrancement
+
+Political Action (26)
+1x Blood Siege
+8x Cardinal Benediction
+7x Conservative Agitation
+2x Disputed Territory
+7x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (36)
+5x Awe
+6x Bewitching Oration
+5x Change of Target
+3x Cloak the Gathering
+1x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+2x Lost in Crowds
+10x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Combat (9)
+9x Majesty

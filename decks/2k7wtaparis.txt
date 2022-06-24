@@ -1,0 +1,54 @@
+Walk Through Arcadia
+Troll2Jeux, Paris, France
+September 8th 2007
+3R+F
+19 players
+Nikolaj Wendt
+
+
+-- Unknown
+
+PPP - Princes, Parities and Potence
+
+Unknown
+
+Crypt (12 cards, min=24 max=39 avg=8.08)
+----------------------------------------
+2x Casino Reeds                 9  cel dem ANI OBF POT       prince     Nosferatu:3
+1x Cock Robin                  10  aus for ANI OBF POT       justicar   Nosferatu:3
+1x François Villon             10  chi obf pot AUS CEL PRE   prince     Toreador:2
+1x Jaroslav Pascek             10  for obf CEL POT PRE       justicar   Brujah:3
+1x Spiridonas                   9  pot pre DOM THA           prince     Tremere:2
+1x Constanza Vinti              8  CEL DOM POT               prince     Brujah:2
+1x Dónal O'Connor               8  CEL DOM POT               prince     Brujah:2
+1x Murat                        7  ser OBF POT               prince     Nosferatu:2
+1x Nikolaus Vermeulen           7  ani for obf POT           prince     Nosferatu:2
+1x Calebros, The Martyr         5  obf pot ANI               prince     Nosferatu:2
+1x Volker, The Puppet Prince    5  pot CEL                   prince     Brujah:2
+
+Library (90 cards)
+Master (14)
+3x Blood Doll
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+3x Minion Tap
+2x Specialization
+
+Action (10)
+10x Fourth Tradition: The Accounting
+
+Political Action (8)
+8x Parity Shift
+
+Reaction (14)
+14x Second Tradition: Domain
+
+Combat (44)
+2x Decapitate
+6x Disarm
+10x Immortal Grapple
+8x Taste of Vitae
+8x Thrown Gate
+10x Torn Signpost

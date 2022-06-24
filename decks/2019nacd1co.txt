@@ -1,0 +1,69 @@
+NAC 2019 Day 1
+Columbus, Ohio
+June 14th 2019
+3R+F
+39 players
+Mehdi Mazni
+https://www.vekn.net/event-calendar/event/9190
+
+-- 2gw7 + 1.5vp in the final
+
+Ventrue Stickman
+
+Unknown
+
+Crypt (12 cards, min=20 max=31 avg=6.33)
+----------------------------------------
+3x Lodin (Olaf Holte)   8  aus pro DOM FOR PRE   prince     Ventrue:5
+2x Graham Gottesman     7  obf pre tha DOM FOR   prince     Ventrue:5
+2x Victor Donaldson     6  for pre DOM           prince     Ventrue:5
+1x Mustafa, The Heir    6  cel dom FOR PRE       prince     Ventrue:4
+1x Emily Carson         5  for pre DOM           primogen   Ventrue:5
+1x Jephta Hester        5  aus DOM FOR                      Ventrue antitribu:4
+1x João Bilé            5  pre DOM FOR                      Ventrue:4
+1x Victor Pelletier     5  cel dom for PRE                  Ventrue:4
+
+Library (84 cards)
+Master (15)
+1x Anarch Troublemaker
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Giant's Blood
+1x Misdirection
+1x Papillon
+2x Pentex(TM) Subversion
+1x Ventrue Headquarters
+2x Vessel
+2x Villein
+1x Wash
+
+Action (14)
+1x Dominate Kine
+2x Entrancement
+11x Govern the Unaligned
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (5)
+1x Justicar Retribution
+4x Parity Shift
+
+Action Modifier (16)
+2x Bonding
+5x Conditioning
+3x Daring the Dawn
+1x Foreshadowing Destruction
+3x Freak Drive
+2x Seduction
+
+Reaction (16)
+8x Deflection
+8x Second Tradition: Domain
+
+Combat (16)
+5x Hidden Strength
+5x Indomitability
+2x Rolling with the Punches
+4x Weighted Walking Stick

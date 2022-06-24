@@ -1,0 +1,54 @@
+Powerbase Örebro - Swedish NC 2009
+Örebro, Sweden
+September 12th 2009
+Unknown
+44 players
+Joni Huumonen
+
+
+-- Unknown
+
+Potence rush
+
+Unknown
+
+Crypt (12 cards, min=16 max=25 avg=4.92)
+----------------------------------------
+2x Agatha                              4  obf POT                    Nosferatu antitribu:2
+2x Hector Sosa                         4  pre POT                    Brujah:1
+1x Beast, The Leatherface of Detroit   7  ani cel OBF POT            Nosferatu antitribu:2
+1x Theo Bell                           7  cel dom pre POT            Brujah:2
+1x Gaspare Giovanni                    6  cel nec POT                Giovanni:2
+1x Nigel the Shunned                   5  obf ANI POT                Nosferatu antitribu:2
+1x Olivia                              5  vic OBF POT       bishop   Nosferatu antitribu:2
+1x Terry                               5  aus dom san POT            Blood Brother:2
+1x Hugo                                4  pre vic POT                Brujah antitribu:2
+1x Jimmy Dunn                          4  for CEL POT                Pander:2
+
+Library (90 cards)
+Master (17)
+2x Archon Investigation
+10x Blood Doll
+2x Fame
+3x Haven Uncovered
+
+Action (13)
+2x Ambush
+5x Bum's Rush
+6x Harass
+
+Reaction (2)
+2x Touch of Pain
+
+Combat (58)
+1x Fake Out
+1x Glancing Blow
+8x Immortal Grapple
+5x Mighty Grapple
+2x Pulled Fangs
+4x Slam
+3x Stunt Cycle
+13x Taste of Vitae
+6x Thrown Sewer Lid
+12x Torn Signpost
+3x Undead Strength

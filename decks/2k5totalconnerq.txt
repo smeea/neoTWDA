@@ -1,0 +1,75 @@
+TotalCon Saturday - Northeast Regional Qualifier
+Mansfield, Massachusetts
+February 26th 2005
+3R+F
+33 players
+Robyn Tatu
+
+
+-- Unknown
+
+Unknown
+
+Maris and Casino
+
+Crypt (12 cards, min=28 max=39 avg=8.58)
+----------------------------------------
+3x Casino Reeds            9  cel dem ANI OBF POT   prince     Nosferatu:3
+3x Maris Streck            9  ani dem dom AUS OBF   justicar   Malkavian:3
+2x Rachel Brandywine      10  ani AUS DEM OBF PRO   prince     Malkavian:3
+1x Cock Robin             10  aus for ANI OBF POT   justicar   Nosferatu:3
+1x Korah                   7  ani AUS DEM OBF       priscus    Malkavian antitribu:2
+1x Nikolaus Vermeulen      7  ani for obf POT       prince     Nosferatu:2
+1x Calebros, The Martyr    5  obf pot ANI           prince     Nosferatu:2
+
+Library (89 cards)
+Master (11)
+2x Animalism
+1x Bleeding the Vine
+3x Blood Doll
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Minion Tap
+1x Rack, The
+
+Action (4)
+1x Blessing of Chaos
+3x Kindred Spirits
+
+Equipment (3)
+3x .44 Magnum
+
+Political Action (10)
+1x Ancilla Empowerment
+1x Banishment
+1x Domain Challenge
+1x First Tradition: The Masquerade
+3x Kine Resources Contested
+2x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (11)
+1x Elder Impersonation
+2x Faceless Night
+3x Forgotten Labyrinth
+3x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (23)
+6x Cats' Guidance
+2x Guard Dogs
+8x Second Tradition: Domain
+1x Spirit's Touch
+4x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (25)
+6x Aid from Bats
+2x Behind You!
+1x Canine Horde
+10x Carrion Crows
+1x Disguised Weapon
+5x Taste of Vitae

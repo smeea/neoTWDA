@@ -1,0 +1,71 @@
+Tournament
+Toronto, Ontario
+April 20th 2002
+Unknown
+16 players
+Andrew Weston
+
+
+-- Unknown
+
+Unknown
+
+Not a fantastic deck by any means. This was the first time I had
+played with it, though it was partly based on Bernie B's successful
+Origins deck last year. Take out the Freak Drives, Extortions, Bleed
+permanents for a better cycling deck I think...
+
+Crypt (12 cards, min=14 max=20 avg=4.5)
+---------------------------------------
+4x Camille Devereux, The Raven   5  ani FOR PRO      Gangrel:1
+4x Mirembe Kabbada               5  ani PRO SER      Gangrel:2
+2x Daliyah                       4  obf PRO          Nosferatu:2
+2x Chandler Hungerford           3  PRO              Gangrel:2
+
+Library (90 cards)
+Master (16)
+2x Anarch Revolt
+1x Barrens, The
+2x Blood Doll
+1x Club Zombie
+2x Direct Intervention
+1x Ecoterrorists
+1x Powerbase: Montreal
+1x Rack, The
+2x Sudden Reversal
+2x Tribute to the Master
+1x Zoo Hunting Ground
+
+Action (24)
+4x Atonement
+10x Computer Hacking
+6x Enticement
+1x Form of Corruption
+3x Shadow of the Beast
+
+Ally (1)
+1x Renegade Garou
+
+Equipment (1)
+1x Laptop Computer
+
+Retainer (5)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Owl Companion
+1x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (8)
+4x Earth Control
+4x Freak Drive
+
+Reaction (10)
+2x Extortion
+8x Wake with Evening's Freshness
+
+Combat (25)
+3x Claws of the Dead
+10x Earth Meld
+2x Flesh of Marble
+10x Form of Mist

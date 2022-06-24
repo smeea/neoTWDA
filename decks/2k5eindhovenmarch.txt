@@ -1,0 +1,66 @@
+Grapple of the Serpent
+Eindhoven, Netherlands
+March 20th 2005
+3R+F
+27 players
+Peter Bouwman
+
+
+-- Unknown
+
+I never thought of a name for the deck
+
+Unknown
+
+Crypt (12 cards, min=23 max=34 avg=7.08)
+----------------------------------------
+3x Greta Kircher       7  obf AUS CEL PRE                    Toreador antitribu:2
+2x Jessica (ADV)       8  AUS CEL OBT PRE       bishop       Toreador antitribu:2
+2x Jost Werner         6  ani AUS PRE                        Toreador antitribu:2
+1x Marthe Dizier      10  pro AUS CEL OBF PRE                Toreador antitribu:3
+1x Lachlan, Noddist    8  dom AUS CEL PRE       archbishop   Toreador antitribu:2
+1x Kite                7  obf pre AUS DEM       bishop       Malkavian antitribu:2
+1x Sheila Mezarin      6  cel for AUS PRE                    Toreador antitribu:2
+1x Cristos Mantigo     5  aus cel dom obf pre                Toreador antitribu:3
+
+Library (90 cards)
+Master (19)
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Foundation Exhibit
+1x Giant's Blood
+8x Minion Tap
+5x Obfuscate
+2x Palla Grande
+
+Action (6)
+4x Enchant Kindred
+2x Entrancement
+
+Political Action (22)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+6x Cardinal Benediction
+1x Consanguineous Boon
+2x Conservative Agitation
+9x Kine Resources Contested
+2x Rumors of Gehenna
+
+Action Modifier (31)
+2x Awe
+7x Bewitching Oration
+4x Cloak the Gathering
+4x Faceless Night
+2x Forgotten Labyrinth
+4x Lost in Crowds
+8x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (6)
+4x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (4)
+4x Majesty

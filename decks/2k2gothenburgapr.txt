@@ -1,0 +1,48 @@
+Gothenburg Black Tide
+Gothenburg, Sweden
+April 13th 2002
+Unknown
+12 players
+Johan Hansson
+
+
+-- Unknown
+
+Breed Bleed
+
+Unknown
+
+Crypt (12 cards, min=12 max=26 avg=4.83)
+----------------------------------------
+2x Remilliard, Devout Crusader   4  pre AUS                    Toreador antitribu:2
+2x Lolita                        3  for pre                    Toreador antitribu:2
+1x Greta Kircher                 7  obf AUS CEL PRE            Toreador antitribu:2
+1x Jessica                       7  AUS CEL OBT PRE   bishop   Toreador antitribu:2
+1x Ian Wallingford               6  aus CEL PRE       bishop   Toreador antitribu:2
+1x Jost Werner                   6  ani AUS PRE                Toreador antitribu:2
+1x Sheila Mezarin                6  cel for AUS PRE            Toreador antitribu:2
+1x Mercy, Knight Inquisitor      5  cel dom pre AUS            Toreador antitribu:2
+1x Victor Revell, Loyalist       5  aus dem pre CEL            Toreador antitribu:2
+1x Carter                        2  cel                        Toreador antitribu:2
+
+Library (84 cards)
+Master (25)
+1x Dreams of the Sphinx
+4x Hungry Coyote, The
+6x Palla Grande
+10x Presence
+4x Tribute to the Master
+
+Action (41)
+7x Art Scam
+16x Embrace, The
+2x Entrancement
+3x Intimidation
+3x Legal Manipulations
+10x Social Charm
+
+Action Modifier (6)
+6x Change of Target
+
+Combat (12)
+12x Catatonic Fear

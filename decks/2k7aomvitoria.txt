@@ -1,0 +1,54 @@
+Art of Memory
+Vitoria, Spain
+April 15th 2007
+Unknown
+18 players
+Iñaki Jimenez
+
+
+-- Unknown
+
+CEL Guns
+
+Unknown
+
+Crypt (12 cards, min=15 max=20 avg=4.5)
+---------------------------------------
+1x Brachah                     5  for CEL PRE                Brujah:2
+1x Dodd                        5  dom pre CEL                Brujah antitribu:2
+1x Skryta Zyleta               5  obf pot pro CEL            Gangrel antitribu:3
+1x Steve Booth                 5  pot pre pro CEL            Brujah:3
+1x Victor Revell, Loyalist     5  aus dem pre CEL            Toreador antitribu:2
+1x Volker, The Puppet Prince   5  pot CEL           prince   Brujah:2
+1x Yusuf, Scribe of Alamut     5  aus obf qui CEL            Banu Haqim:2
+1x Jimmy Dunn                  4  for CEL POT                Pander:2
+1x Parmenides                  4  qui CEL                    Banu Haqim:2
+1x Scarlet Carson O'Toole      4  pro CEL                    Gangrel antitribu:3
+1x Victor Tolliver             4  pot CEL                    Brujah antitribu:2
+1x Sarah Brando                3  CEL                        Brujah antitribu:2
+
+Library (80 cards)
+Master (11)
+6x Blood Doll
+2x Fame
+2x Frontal Assault
+1x Tension in the Ranks
+
+Action (10)
+10x Bum's Rush
+
+Equipment (8)
+8x .44 Magnum
+
+Combat (50)
+6x Blur
+8x Concealed Weapon
+5x Flash
+10x Psyche!
+8x Pursuit
+2x Side Strike
+5x Sideslip
+6x Taste of Vitae
+
+Event (1)
+1x Dragonbound

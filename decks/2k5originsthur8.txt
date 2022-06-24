@@ -1,0 +1,54 @@
+Origins Thursday 8pm
+Columbus, Ohio
+June 30th 2005
+2R+F
+14 players
+Connor Bell
+
+
+-- Unknown
+
+Unknown
+
+Unknown
+
+Crypt (12 cards, min=16 max=28 avg=5.5)
+---------------------------------------
+2x Sarrasine                   7  aus nec ser OBF PRE      Ministry:2
+2x Sir Marriot D'Urban         5  aus obf ser PRE          Ministry:2
+1x Greta Kircher               7  obf AUS CEL PRE          Toreador antitribu:2
+1x Qufur am-Heru               7  cel tha OBF PRE SER      Ministry:2
+1x Ezekiel, Lord of Montreal   6  obf pot PRE SER          Ministry:3
+1x Hesha Ruhadze               6  ani obf pre SER          Ministry:2
+1x Count Ormonde               5  dom pre ser OBF          Ministry:2
+1x Hadrian Garrick             4  obf pre                  Ministry:2
+1x Nepata                      4  obf pre ser              Ministry:2
+1x Lena Rowe                   3  aus obf pre              Pander:2
+
+Library (90 cards)
+Master (17)
+1x Archon Investigation
+9x Blood Doll
+1x Giant's Blood
+1x Opium Den
+3x Perfectionist
+2x Secure Haven
+
+Action (13)
+1x Form of Corruption
+12x Legal Manipulations
+
+Action Modifier (38)
+4x Cloak the Gathering
+3x Elder Impersonation
+4x Faceless Night
+5x Lost in Crowds
+8x Spying Mission
+14x True Love's Face
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Combat (17)
+4x Disengage
+13x Majesty

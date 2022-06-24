@@ -1,0 +1,71 @@
+Italian NC 2010
+Bologna, Italy
+November 28th 2010
+3R+F
+51 players
+Guido Canciani
+
+
+-- 3vp in the final
+
+Unknown
+
+Action oriented Ventrue g4-g5
+
+Crypt (12 cards, min=19 max=27 avg=5.75)
+----------------------------------------
+3x Victor Pelletier     5  cel dom for PRE                  Ventrue:4
+2x Victor Donaldson     6  for pre DOM           prince     Ventrue:5
+1x Lodin (Olaf Holte)   8  aus pro DOM FOR PRE   prince     Ventrue:5
+1x Graham Gottesman     7  obf pre tha DOM FOR   prince     Ventrue:5
+1x Mustafa, The Heir    6  cel dom FOR PRE       prince     Ventrue:4
+1x Tara                 6  cel POT PRE           prince     Brujah:5
+1x Vasily               6  aus pre ser CEL       prince     Toreador:5
+1x Emily Carson         5  for pre DOM           primogen   Ventrue:5
+1x Reginald Moore       4  PRE                   primogen   Brujah:4
+
+Library (70 cards)
+Master (17)
+1x Anarch Troublemaker
+6x Ashur Tablets
+1x Coven, The
+3x Dreams of the Sphinx
+3x Information Highway
+1x Island of Yiaros
+1x Pentex(TM) Subversion
+1x Temptation of Greater Power
+
+Action (8)
+3x Entrancement
+5x Govern the Unaligned
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (4)
+1x AK-47
+3x Heart of Nizchetus
+
+Political Action (17)
+1x Alastor
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Conservative Agitation
+1x First Tradition: The Masquerade
+5x Kine Resources Contested
+7x Parity Shift
+
+Action Modifier (9)
+9x Freak Drive
+
+Action Modifier/Combat (2)
+2x Force of Personality
+
+Reaction (6)
+6x Deflection
+
+Combat (5)
+5x Majesty
+
+Event (1)
+1x Fourth Cycle, The

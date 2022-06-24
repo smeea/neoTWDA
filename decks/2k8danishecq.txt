@@ -1,0 +1,59 @@
+Danish ECQ
+Aarhus, Denmark
+August 30th 2008
+Unknown
+13 players
+Nikolaj Wendt
+
+
+-- 4vp in the final
+
+Princes, Parities, Potence and then some
+
+Unknown
+
+Crypt (12 cards, min=27 max=39 avg=8.33)
+----------------------------------------
+2x Cock Robin             10  aus for ANI OBF POT   justicar   Nosferatu:3
+2x Spiridonas              9  pot pre DOM THA       prince     Tremere:2
+2x Dónal O'Connor          8  CEL DOM POT           prince     Brujah:2
+1x Jaroslav Pascek        10  for obf CEL POT PRE   justicar   Brujah:3
+1x Casino Reeds            9  cel dem ANI OBF POT   prince     Nosferatu:3
+1x Constanza Vinti         8  CEL DOM POT           prince     Brujah:2
+1x Murat                   7  ser OBF POT           prince     Nosferatu:2
+1x Nikolaus Vermeulen      7  ani for obf POT       prince     Nosferatu:2
+1x Calebros, The Martyr    5  obf pot ANI           prince     Nosferatu:2
+
+Library (90 cards)
+Master (12)
+3x Blood Doll
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+3x Minion Tap
+
+Action (9)
+9x Fourth Tradition: The Accounting
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (7)
+7x Parity Shift
+
+Action Modifier (4)
+4x Conditioning
+
+Reaction (17)
+4x Deflection
+13x Second Tradition: Domain
+
+Combat (40)
+4x Canine Horde
+2x Decapitate
+6x Disarm
+8x Immortal Grapple
+7x Taste of Vitae
+5x Thrown Gate
+8x Torn Signpost

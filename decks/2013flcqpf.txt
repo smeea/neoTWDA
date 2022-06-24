@@ -1,0 +1,57 @@
+French NC 2013 - Last Chance Qualifier
+Paris, France
+September 21th 2013
+3R+F
+40 players
+Jorge Delgado
+
+
+-- Unknown
+
+T'es une fille et tu n'as pas de shampoing
+
+2GW9 (1st seed) + 1.5vp (Time-limit)
+
+(You're a girl and you don't have any shampoo)
+
+Crypt (12 cards, min=22 max=32 avg=6.75)
+----------------------------------------
+2x Victor Pelletier            5  cel dom for PRE                Ventrue:4
+1x Carlak                      8  dom pot CEL PRE       prince   Brujah:5
+1x Epikasta Rigatos            8  cel AUS DOM PRE       prince   Toreador:4
+1x Giangaleazzo, The Traitor   8  dom OBT POT PRE       prince   Lasombra:4
+1x Lodin (Olaf Holte)          8  aus pro DOM FOR PRE   prince   Ventrue:5
+1x Graham Gottesman            7  obf pre tha DOM FOR   prince   Ventrue:5
+1x Karen Suadela               7  obf pre CEL POT       prince   Brujah:5
+1x Mukhtar Bey                 7  obf pot FOR PRE QUI   prince   Caitiff:4
+1x Mustafa, The Heir           6  cel dom FOR PRE       prince   Ventrue:4
+1x Tara                        6  cel POT PRE           prince   Brujah:5
+1x Victor Donaldson            6  for pre DOM           prince   Ventrue:5
+
+Library (60 cards)
+Master (12)
+3x Dreams of the Sphinx
+2x Information Highway
+2x Pentex(TM) Subversion
+5x Tomb of Rameses III
+
+Action (5)
+5x Legal Manipulations
+
+Political Action (14)
+6x First Tradition: The Masquerade
+8x Parity Shift
+
+Action Modifier (18)
+3x Aire of Elation
+2x Awe
+3x Bewitching Oration
+3x Perfect Paragon
+7x Voter Captivation
+
+Combat (9)
+9x Majesty
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Fourth Cycle, The

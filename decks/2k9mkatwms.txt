@@ -1,0 +1,65 @@
+My Kin Against The World MQ
+Alcorcón, Madrid, Spain
+July 11th 2009
+Unknown
+14 players
+Jorge Jiménez
+
+
+-- Unknown
+
+Lutz and his lovely Dmitra
+
+Unknown
+
+Crypt (12 cards, min=26 max=44 avg=9.17)
+----------------------------------------
+4x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE       inner circle   Malkavian:4
+2x Dmitra Ilyanova          9  obf CEL FOR POT PRE       justicar       Brujah:5
+1x Adana de Sforza         11  aus CEL OBF POT PRE PRO   inner circle   Brujah:4
+1x Rafael de Corazon       11  AUS CEL DOM OBF PRE       inner circle   Toreador:4
+1x Alicia Barrows           9  AUS DEM OBF POT PRE       archbishop     Malkavian antitribu:4
+1x Stavros                  7  dem AUS OBF PRE           priscus        Malkavian antitribu:4
+1x Herbert Westin           5  pot OBF PRE                              Brujah:4
+1x Renenet                  5  ser OBF PRE                              Ministry:4
+
+Library (70 cards)
+Master (17)
+6x Ashur Tablets
+1x Dreams of the Sphinx
+2x Golconda: Inner Peace
+2x Information Highway
+5x Minion Tap
+1x Vessel
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+1x Domain Challenge
+5x Kine Resources Contested
+2x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (23)
+1x Approximation of Loyalty
+4x Awe
+1x Cloak the Gathering
+4x Elder Impersonation
+3x Forgotten Labyrinth
+4x Lost in Crowds
+1x Perfect Paragon
+5x Voter Captivation
+
+Reaction (8)
+4x Eyes of Argus
+4x Telepathic Misdirection
+
+Combat (4)
+4x Majesty

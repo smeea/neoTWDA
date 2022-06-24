@@ -1,0 +1,68 @@
+Spanish ECQ
+Barcelona, Spain
+October 18th 2003
+Unknown
+172 players
+César Brera
+
+
+-- Unknown
+
+Spanish_Qualifier_EC03_1r_Clasificado_Cesar_Brera
+
+Unknown
+
+Crypt (12 cards, min=14 max=26 avg=5.25)
+----------------------------------------
+2x Jost Werner                   6  ani AUS PRE                Toreador antitribu:2
+2x Sheila Mezarin                6  cel for AUS PRE            Toreador antitribu:2
+1x Greta Kircher                 7  obf AUS CEL PRE            Toreador antitribu:2
+1x Jessica                       7  AUS CEL OBT PRE   bishop   Toreador antitribu:2
+1x Ian Wallingford               6  aus CEL PRE       bishop   Toreador antitribu:2
+1x Creamy Jade                   5  aus cel vic PRE            Toreador antitribu:3
+1x Mercy, Knight Inquisitor      5  cel dom pre AUS            Toreador antitribu:2
+1x Remilliard, Devout Crusader   4  pre AUS                    Toreador antitribu:2
+1x Lolita                        3  for pre                    Toreador antitribu:2
+1x Carter                        2  cel                        Toreador antitribu:2
+
+Library (90 cards)
+Master (16)
+2x Anarch Troublemaker
+1x Archon Investigation
+3x Blood Doll
+1x Coven, The
+2x Dreams of the Sphinx
+1x Fetish Club Hunting Ground
+1x Hungry Coyote, The
+4x Palla Grande
+1x Pentex(TM) Subversion
+
+Action (34)
+8x Art Scam
+8x Embrace, The
+10x Enchant Kindred
+2x Entrancement
+4x Patronage
+2x Revelations
+
+Equipment (2)
+1x Ivory Bow
+1x Signet of King Saul, The
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (10)
+2x Aire of Elation
+6x Change of Target
+2x Daring the Dawn
+
+Reaction (20)
+2x Delaying Tactics
+4x Forced Awakening
+4x My Enemy's Enemy
+6x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (7)
+7x Majesty
