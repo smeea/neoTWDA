@@ -3,7 +3,7 @@
 neoTWDA is a set of utilities to generate static TWDA (Tournament Winning Decks Archive) pages from separate deck files for [Vampire the Eternal Struggle (VTES)](https://www.vekn.net/what-is-v-tes) collectible card game.
 
 ## OLD (CURRENT) APPROACH
-Existing [Official TWDA](http://www.vekn.fr/decks/twd.htm) is maintained (updated with new TWDs) by editing single html file which later served to the public.
+Existing [TWDA](http://www.vekn.fr/decks/twd.htm) is maintained (updated with new TWDs) by editing single html file in [TWDA repository](https://github.com/GiottoVerducci/TWD) which later served to the public.
 
 ### PROBLEMS WITH CURRENT APPROACH
 * Target file is very big (hundreds of thousand lines) which is not very convenient to edit/navigate
@@ -34,7 +34,7 @@ Similar works to edit/delete the deck.
 ### WHERE TO GET DECK FILE
 * Deck files are standard txt files, so 'simplest' (not easiest!) way is to type it in your favorite text editor
 * Deck-building software (Amaranth, VDB, etc) can to export deck to Text or TWD format, then edit header fields (Event, Date, etc) in text editor.
-* To help verify deck file integrity it is possible to use (VDB Check TWD)[https://vdb.im/twd_check] page, but it's not mandatory and approach designed to avoid any format/vendor-locking and to be plain-text-driven.
+* To help verify deck file integrity it is possible to use [VDB Check TWD](https://vdb.im/twd_check) page (under construction, not fully working yet), but it's not mandatory and approach designed to avoid any format/vendor-locking and to be plain-text-driven.
 * Final entry (with filled fields) could then be attached as file to TWD Report post in the forum or pasted as text, and is ready to be add to TWD with minimal overhead for TWDA maintainers.
 
 ## INSTALLATION
@@ -46,3 +46,6 @@ Similar works to edit/delete the deck.
     source venv/bin/activate
     python -m pip install -r requirements.txt
 ```
+
+## EXAMPLE
+Hosted example of generated static html from the repo - [EXAMPLE](https://vdb-beta.smeea.casa/twd.htm)
