@@ -21,7 +21,9 @@ Existing [Official TWDA](http://www.vekn.fr/decks/twd.htm) is maintained (update
 ### DECK FILE FORMAT
 File name must be event id.
 First 6 lines order (Event...Player) is important, as their values used for ToC generation.
-The rest may be in arbitrary order/style (i.e. script will reuse it as-is just like plain text - this allows custom style like author card comments in deck list).
+The rest may be in arbitrary order/style (i.e. script will reuse it as-is[1] just like plain text - this allows custom style like author card comments in deck list).
+
+[1] Except text wrapping up to `STRING_LIMIT` from `create_twd_html.py` which allows both one-long-line descriptions in deck file as well as pre-trimmed lines.
 
 ### HOW TO ADD NEW DECK
 * Put deck file `event-id.txt` file into `./decks`
