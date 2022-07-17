@@ -26,6 +26,18 @@ def format_deck(id, entry):
     return deck
 
 
+def get_stars(decks):
+    stars = 0
+    for deck in decks:
+        if re.search(
+            r"(NAC|NC|EC|RESAC|SAC|Continental Championship) \d{4}$", deck["event"]
+        ):
+            stars += 1
+        if re.search(r"(NAC|NC|EC) \d{4} Day 2$", deck["event"]):
+            stars += 1
+    return stars
+
+
 def generate_listed_players_hidden(badly_sorted_names):
     rows = []
     rows.append(f"<!-- {len(badly_sorted_names)} players listed")
@@ -46,7 +58,7 @@ def generate_top_players_list(sorted_names, players_twd):
         if column == 1:
             rows.append("<tr>")
         name = sorted_names[(column - 1) * rows_per_column + row - 1]
-        stars = 1  # TODO list of star-tournaments
+        stars = get_stars(players_twd[name])  # TODO list of star-tournaments
         rows.append(
             f"<td>({len(players_twd[name])}) <a href=\"#{name.replace(' ', '')}\">{name}<sup>{'★'*stars}</sup></a></td>"
         )
