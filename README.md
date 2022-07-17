@@ -37,14 +37,14 @@ Similar works to edit/delete the deck.
 * To help verify deck file integrity it is possible to use [VDB Check TWD](https://vdb.im/twd_check) page (under construction, not fully working yet), but it's not mandatory and approach designed to avoid any format/vendor-locking and to be plain-text-driven.
 * Final entry (with filled fields) could then be attached as file to TWD Report post in the forum or pasted as text, and is ready to be add to TWD with minimal overhead for TWDA maintainers.
 
-## INSTALLATION
+## REQUIREMENTS
+* Python 3.10 (may work in older versions also, just not tested)
 
+## INSTALLATION
 ```
-    git clone https://github.com/smeea/neotwda.git
-    cd neotwda
-    python -m venv venv
-    source venv/bin/activate
-    python -m pip install -r requirements.txt
+    git clone https://github.com/smeea/neoTWDA.git
+    cd neoTWDA
+    python create_twd_html.py // TO GENERATE NEW TWD.HTM FILE
 ```
 
 ## EXAMPLE
