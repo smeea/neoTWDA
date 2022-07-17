@@ -2,4 +2,4 @@
 - Restore comments for old decks
 
 # FEATURES
-- Generate Hall of Fame
+- Stars for National or Continental champions in Hall of Fame
