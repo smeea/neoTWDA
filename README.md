@@ -35,7 +35,7 @@ Similar works to edit/delete the deck.
 ### WHERE TO GET DECK FILE
 * Deck files are standard txt files, so 'simplest' (not easiest!) way is to type it in your favorite text editor
 * Deck-building software (Amaranth, VDB, etc) can to export deck to Text or TWD format, then edit header fields (Event, Date, etc) in text editor.
-* To help verify deck file integrity it is possible to use [VDB Check TWD](https://vdb.im/twd_check) page (under construction, not fully working yet), but it's not mandatory and approach designed to avoid any format/vendor-locking and to be plain-text-driven.
+* To help verify deck file integrity it is possible to use [VDB Check TWD](https://vdb.im/twd/deck_check) page (under construction, not fully working yet), but it's not mandatory and approach designed to avoid any format/vendor-locking and to be plain-text-driven.
 * Final entry (with filled fields) could then be attached as file to TWD Report post in the forum or pasted as text, and is ready to be add to TWD with minimal overhead for TWDA maintainers.
 
 ## REQUIREMENTS
