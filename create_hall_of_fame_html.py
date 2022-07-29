@@ -30,7 +30,8 @@ def get_stars(decks):
     stars = 0
     for deck in decks:
         if re.search(
-            r"(NAC|NC|EC|RESAC|SAC|Continental Championship) \d{4}$", deck["event"]
+            r"(NAC|NC|EC|RESAC|SAC|ACC|Continental Championship) \d{4}( -- |$)",
+            deck["event"],
         ):
             stars += 1
         if re.search(r"(NAC|NC|EC) \d{4} Day 2$", deck["event"]):
