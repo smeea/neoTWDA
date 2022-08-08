@@ -25,21 +25,21 @@ Crypt (12 cards, min=19 max=32 avg=6.42)
 1x Beauregard Krueller   4  aus dem obf              Malkavian antitribu:4
 
 Library (71 cards)
-Master (7)
+Master (7; 3 trifle)
 1x Blood Doll
 2x Direct Intervention
 1x Sudden Reversal
 3x Villein
 
 Action (16)
-1x Black Hand Ritual
+1x Black Hand Ritual -- To remove Anthelios and/or The Unmasking.
 2x Call, The
 9x Kindred Spirits
 2x Madman's Quill
 2x Reunion Kamut
 
 Action Modifier (35)
-11x Art of Memory, The
+11x Art of Memory, The -- Linchpin card for dialing in the moment-appropriate card.
 2x Cloak the Gathering
 4x Confusion
 3x Elder Impersonation
@@ -51,11 +51,11 @@ Action Modifier (35)
 
 Action Modifier/Combat (8)
 3x Deny
-2x Hide the Mind
+2x Hide the Mind -- Generates 2-3VP per tournament in this deck.
 3x Swallowed by the Night
 
 Action Modifier/Reaction (1)
-1x Touch of Clarity
+1x Touch of Clarity -- Recent addition, unneeded in this tournament.
 
 Reaction (4)
 2x On the Qui Vive

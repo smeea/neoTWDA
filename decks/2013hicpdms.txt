@@ -22,7 +22,7 @@ Crypt (12 cards, min=26 max=36 avg=7.83)
 1x Dónal O'Connor               8  CEL DOM POT       prince     Brujah:2
 
 Library (75 cards)
-Master (24)
+Master (24; 5 trifle)
 9x Ashur Tablets
 1x Direct Intervention
 2x Dreams of the Sphinx
@@ -39,28 +39,28 @@ Action (2)
 2x Bum's Rush
 
 Ally (1)
-1x Carlton Van Wyk
+1x Carlton Van Wyk -- Useful
 
 Equipment (6)
 6x .44 Magnum
 
 Political Action (2)
-2x Parity Shift
+2x Parity Shift -- Never played
 
 Retainer (1)
 1x Mr. Winthrop
 
 Reaction (10)
-2x Deflection
+2x Deflection -- Played once and just for a bleed of 2
 8x Second Tradition: Domain
 
 Combat (28)
 2x Blur
 6x Concealed Weapon
-8x Infernal Pursuit
-4x Psyche!
-2x Pursuit
-2x Side Strike
+8x Infernal Pursuit -- Key card, but maybe I should exchange 2 for some Psyche!
+4x Psyche! -- Never had it when I really needed it
+2x Pursuit -- Maybe +2
+2x Side Strike -- Maybe -2
 4x Taste of Vitae
 
 Event (1)

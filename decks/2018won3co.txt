@@ -31,7 +31,7 @@ Crypt (12 cards, min=18 max=44 avg=7.83)
 1x Slag                       4  ani obf pot                  Nosferatu:5
 
 Library (89 cards)
-Master (27)
+Master (27; 7 trifle)
 2x Blood Doll
 1x Charisma
 1x Giant's Blood
@@ -44,7 +44,7 @@ Master (27)
 1x Perfectionist
 1x Vessel
 3x Villein
-2x Warsaw Station
+2x Warsaw Station -- so good, I could stuff a 3rd in.
 1x Wash
 2x Wider View
 4x Zillah's Valley
@@ -94,4 +94,4 @@ Reaction (19)
 Combat (9)
 3x Immortal Grapple
 4x Resilience
-2x Rolling with the Punches
+2x Rolling with the Punches -- I've moved more towards Resilience these days, since [ANI] is more common than [CEL] in my playgroup. The Grapples have to be well-timed to mean anything, but I've found having them in the deck is crucial.

@@ -59,14 +59,14 @@ Crypt (13 cards, min=4 max=10 avg=1.69)
 1x Old Neddacka                 2  obf          Nosferatu antitribu:4
 
 Library (60 cards)
-Master (14)
-1x Anarch Railroad
-1x Archon Investigation
-6x Ashur Tablets
-1x Fear of Mekhet
-2x Information Highway
+Master (14; 2 trifle)
+1x Anarch Railroad -- never used
+1x Archon Investigation -- not used all day
+6x Ashur Tablets -- recycled once, not critical
+1x Fear of Mekhet -- didn't see IC or Justicar
+2x Information Highway -- another may be warranted
 1x Pentex(TM) Subversion
-2x Wash
+2x Wash -- extremely handy, more?
 
 Action (10)
 10x Night Moves
@@ -82,7 +82,7 @@ Action Modifier (19)
 3x Cryptic Rider
 1x Faceless Night
 3x Forgotten Labyrinth
-3x Memory Rift
+3x Memory Rift -- can be cycled on any action
 7x Propaganda of the Deed
 1x Spying Mission
 

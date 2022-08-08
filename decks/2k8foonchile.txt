@@ -24,9 +24,9 @@ Crypt (12 cards, min=16 max=31 avg=5.92)
 1x Horatio          2  vic                             Tzimisce:2
 
 Library (90 cards)
-Master (19)
+Master (19; 4 trifle)
 2x Blood Doll
-2x Direct Intervention
+2x Direct Intervention -- Anti Kiss of Ra
 1x Erciyes Fragments, The
 1x Fame
 1x Library Hunting Ground

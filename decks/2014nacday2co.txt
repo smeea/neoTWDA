@@ -51,11 +51,11 @@ Crypt (12 cards, min=25 max=39 avg=8.25)
 1x Meshenka                                  8  ANI AUS VIC           priscus      Tzimisce:2
 1x Sascha Vykos, The Angel of Caine          8  ani dom AUS THA VIC   priscus      Tzimisce:2
 1x Sascha Vykos, The Angel of Caine (ADV)    8  ani dom AUS THA VIC   archbishop   Tzimisce:2
-1x Elizabeth Westcott                        5  ani cel vic AUS                    Tzimisce:3
+1x Elizabeth Westcott                        5  ani cel vic AUS                    Tzimisce:3 -- Should actually be Devin Bisley, but I didn't have a copy on hand.
 1x Lolita Houston                            4  aus VIC                            Tzimisce:2
 
 Library (90 cards)
-Master (19)
+Master (19; 6 trifle)
 1x Admonitions, The
 1x Black Forest Base
 4x Blood Doll
@@ -72,7 +72,7 @@ Master (19)
 
 Action (5)
 1x Abbot
-1x Fiendish Tongue
+1x Fiendish Tongue -- Could probably be a Deep Song, in case you want to rush. The untap from Tongue isn't really needed given all the untap/wakes in the deck.
 1x Shepherd's Innocence
 2x Under Siege
 
@@ -90,7 +90,7 @@ Political Action (11)
 1x Ancilla Empowerment
 1x Disputed Territory
 5x Kine Resources Contested
-1x Public Vilification
+1x Public Vilification -- It's a bit too hard to use. I had 2 copies in the Terrifisto deck and I dropped down to one here.
 1x Reins of Power
 
 Action Modifier (14)
@@ -98,7 +98,7 @@ Action Modifier (14)
 4x Changeling
 1x Conditioning
 1x Crocodile's Tongue
-3x Mind of the Wilds
+3x Mind of the Wilds -- I'm a real big fan of this card, as it lets Tzimisce decks play that second point of stealth without spending a blood on Plasmic Form.
 1x Private Audience
 3x Telepathic Vote Counting
 
@@ -106,7 +106,7 @@ Action Modifier/Combat (1)
 1x Plasmic Form
 
 Reaction (27)
-1x Cardinal Sin: Insubordination
+1x Cardinal Sin: Insubordination -- Never got to pull it off in the tournament, but I'd still keep it in the deck. I was anticipating more Sabbat decks using Danse Macabre cards.
 1x Cats' Guidance
 2x Eagle's Sight
 2x Eyes of Argus

@@ -58,8 +58,8 @@ Crypt (12 cards, min=20 max=31 avg=6.33)
 1x Ermenegildo, The Rake   5  pot DOM OBT                        Lasombra:4
 
 Library (90 cards)
-Master (13)
-4x Capitalist
+Master (13; 4 trifle)
+4x Capitalist -- I didn't get this vessel-capitalist thing to work as well as I thought, but I still think the idea is sound
 1x Elysian Fields
 1x Grooming the Protégé
 1x Path of Night, The
@@ -80,14 +80,14 @@ Action Modifier (24)
 2x Conditioning
 3x Seduction
 5x Shadow Play
-3x Shroud of Night
-1x Tangle Atropos' Hand
+3x Shroud of Night -- Should definitely be Shroud of Absence. I think I only have one and that wasn't in my obtenebrations cards pile
+1x Tangle Atropos' Hand -- Didn't use this one, I had to include it because I have just this one copy and I had never played it before
 1x Tenebrous Form
 6x Threats
 
 Reaction (16)
 4x Deflection
-3x On the Qui Vive
+3x On the Qui Vive -- Should have had more. All my other OtQV's were in different decks and I didn't have time to go through them (or I just was lazy and figured that wakes will do)
 5x Redirection
 4x Wake with Evening's Freshness
 

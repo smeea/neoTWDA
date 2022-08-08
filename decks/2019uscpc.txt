@@ -32,16 +32,16 @@ Crypt (12 cards, min=22 max=32 avg=6.83)
 2x Dame Hollerton            5  myt DOM OBT                     Kiasyd:4
 
 Library (83 cards)
-Master (14)
+Master (14; 3 trifle)
 1x Barrens, The
 2x Capitalist
-2x Chanjelin Ward
+2x Chanjelin Ward -- was worried about Rush
 1x Coven, The
 2x Dreams of the Sphinx
-1x Great Symposium
+1x Great Symposium -- Get the Arcadian
 2x Information Highway
 1x Pentex(TM) Subversion
-2x Wash
+2x Wash -- Stop Pentex Subversion from being used on you, sadly I never drew it when I needed it
 
 Action (20)
 13x Govern the Unaligned

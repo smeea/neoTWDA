@@ -32,30 +32,30 @@ Crypt (12 cards, min=15 max=38 avg=6.75)
 1x Jackson Asher         2  dom                                  Ventrue:4
 
 Library (74 cards)
-Master (16)
+Master (16; 5 trifle)
 2x Blood Doll
 2x Information Highway
 1x Labyrinth, The
-1x Perfectionist
+1x Perfectionist -- Marginal, but useful enough to keep only because of Warsaw Station hunting.
 1x Slum Hunting Ground
 4x Villein
-2x Warsaw Station
+2x Warsaw Station -- Could go to 3 copies as this is the only multi-action option in the deck.
 1x Wider View
 2x Zillah's Valley
 
 Action (15)
 2x Deep Song
 8x Govern the Unaligned
-1x Graverobbing
-1x Heroic Might
-1x SchreckNET
+1x Graverobbing -- Last minute add (replacing Temptation of Greater Power), not used.
+1x Heroic Might -- Only for Gustaphe, primarily to destroy equipment.
+1x SchreckNET -- Never used when in play, unsure of true value.
 2x Scouting Mission
 
 Ally (1)
-1x Underbridge Stray
+1x Underbridge Stray -- Underappreciated ally
 
 Political Action (1)
-1x Parity Shift
+1x Parity Shift -- Because it has to be there if it can reasonably be played.
 
 Action Modifier (11)
 2x Cloak the Gathering

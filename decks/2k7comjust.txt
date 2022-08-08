@@ -41,12 +41,12 @@ Master (14)
 1x Information Highway
 1x Mob Connections
 1x Pentex(TM) Subversion
-1x Powerbase: Zürich
+1x Powerbase: Zürich -- In the absence of intercept this was sickeningly good.
 
 Action (5)
-2x Abbot
+2x Abbot -- I like these. Got smiled at until people realized I actually packed combat.
 1x Aranthebes, The Immortal
-1x Gramle
+1x Gramle -- This should help contesting Aranthebes, fetch another AI, or DI for a delayed vote. Never used though.
 1x Graverobbing
 
 Ally (4)
@@ -63,15 +63,15 @@ Reaction (12)
 1x Wake with Evening's Freshness
 
 Combat (50)
-2x Botched Move
+2x Botched Move -- Pushes the maximum damage in a round to 7. Cute, but nearly useless.:)
 1x Boxed In
 2x Fake Out
 6x Glancing Blow
 3x Lucky Blow
 5x Pulled Fangs
 2x Target Hand
-5x Target Head
-6x Target Vitals
+5x Target Head -- I think none of these ever landed,
+6x Target Vitals -- whereas none of these failed all day.
 7x Taste of Vitae
 2x Trap
 6x Weighted Walking Stick

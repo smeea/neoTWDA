@@ -35,10 +35,10 @@ Crypt (13 cards, min=4 max=14 avg=2.23)
 Library (74 cards)
 Master (20)
 2x Anarch Railroad
-1x Anarch Troublemaker
+1x Anarch Troublemaker -- this can probably be omitted now.
 2x Creepshow Casino
 1x Direct Intervention
-1x Garibaldi-Meucci Museum
+1x Garibaldi-Meucci Museum -- unused this tournament
 2x Jake Washington
 5x Liquidation
 1x Pentex(TM) Subversion
@@ -48,15 +48,15 @@ Master (20)
 
 Action (18)
 4x Embrace, The
-9x Khazar's Diary (Endless Night)
-5x Sudario Refraction
+9x Khazar's Diary (Endless Night) -- The "Moose Juice" of this deck.
+5x Sudario Refraction -- Recursion is dumb, dumb, dumb.
 
 Ally (13)
 1x Carlton Van Wyk
-8x Cry Wolf
-1x Gianna di Canneto
+8x Cry Wolf -- extra entries in the Diary.
+1x Gianna di Canneto -- Burn guns, get an entry in the Diary.
 1x Ossian
-1x Tye Cooper
+1x Tye Cooper -- synergy with Wolves, see also dumb, dumb, dumb.
 1x Vivienne Géroux
 
 Equipment (1)

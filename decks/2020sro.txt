@@ -31,26 +31,26 @@ Crypt (12 cards, min=4 max=27 avg=3.0)
 1x Royce                       1  dom                                      Pander:2
 
 Library (80 cards)
-Master (22)
+Master (22; 2 trifle)
 1x Archon Investigation
 1x Barrens, The
 1x Black Forest Base
 1x Coven, The
+2x Día de los Muertos
 1x Direct Intervention
 2x Dreams of the Sphinx
-2x Día de los Muertos
 1x Information Highway
 2x Minion Tap
 6x Obfuscate
 1x Parthenon, The
 1x Pentex(TM) Subversion
 1x Tribute to the Master
-1x Wash
+1x Wash -- could probably be a Bleeding the Vine
 
 Political Action (35)
 2x Autarkis Persecution
 5x Banishment
-8x Consanguineous Boon
+8x Consanguineous Boon -- learned the pronounciation of it at last: kon·sang·gwi·nee·uhs:D
 2x Conservative Agitation
 1x Crusade: Aragon
 1x Crusade: Detroit

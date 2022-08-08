@@ -23,7 +23,7 @@ Library (90 cards)
 Master (21)
 1x Creepshow Casino
 1x Giant's Blood
-3x Golconda: Inner Peace
+3x Golconda: Inner Peace -- Inner Peace
 1x Heidelberg Castle, Germany
 4x Information Highway
 1x Lilith's Blessing

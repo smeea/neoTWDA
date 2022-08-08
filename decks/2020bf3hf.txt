@@ -36,12 +36,12 @@ Crypt (12 cards, min=18 max=31 avg=6.17)
 1x Ulrike Rothbart      3  dom for                          Ventrue antitribu:4
 
 Library (88 cards)
-Master (16)
+Master (16; 5 trifle)
 1x Anarch Troublemaker
 1x Direct Intervention
 1x Dreams of the Sphinx
 1x Giant's Blood
-1x Golconda: Inner Peace
+1x Golconda: Inner Peace -- Neat card, but never played. Should propably switch for another Dreams or Wash
 1x Misdirection
 1x Papillon
 2x Pentex(TM) Subversion
@@ -73,7 +73,7 @@ Reaction (16)
 8x Deflection
 3x On the Qui Vive
 4x Second Tradition: Domain
-1x Wake with Evening's Freshness
+1x Wake with Evening's Freshness -- This should be another On the Qui Vive but I was too lazy to find 1 from my collection
 
 Combat (17)
 5x Hidden Strength

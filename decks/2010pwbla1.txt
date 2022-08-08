@@ -47,42 +47,42 @@ Crypt (18 cards, min=4 max=15 avg=1.72)
 1x  Saiz           3  aus dom              Tremere antitribu:3
 
 Library (79 cards)
-Master (13)
-5x Ashur Tablets
-1x Carver's Meat Packing and Storage
-1x Dreams of the Sphinx
+Master (13; 2 trifle)
+5x Ashur Tablets -- tune late-game combat as needed.
+1x Carver's Meat Packing and Storage -- anti-weenie.
+1x Dreams of the Sphinx -- combat support or free Tupdogs.
 1x Fame
 1x Heidelberg Castle, Germany
-1x Powerbase: Montreal
-1x Secure Haven
+1x Powerbase: Montreal -- free Tupdogs
+1x Secure Haven -- to contest and to save a slave master.
 2x Vessel
 
 Action (13)
-5x Dive Bomb
-1x Goblinism
+5x Dive Bomb -- stealth multi-rush as a "spare" Tupdog action
+1x Goblinism -- destroy location as a "spare" Tupdog action.
 2x Graverobbing
-3x Raw Recruit
-2x Thin-Blooded Seer
+3x Raw Recruit -- additional slaves from a "spare" Tupdog action.
+2x Thin-Blooded Seer -- Tupdog "spare" actions.
 
 Ally (1)
-1x Nephandus
+1x Nephandus -- safe removal of torporized minions.
 
 Equipment (2)
-1x Hand of Conrad
-1x Sargon Fragment, The
+1x Hand of Conrad -- recycle Tupdogs, should probably be duplicated.
+1x Sargon Fragment, The -- recycle everything else
 
 Political Action (2)
-1x Ancient Influence
-1x Reins of Power
+1x Ancient Influence -- eradicate your prey and call as a "spare" Tupdog action
+1x Reins of Power -- eradicate your predator and call as a "spare" Tupdog action
 
 Action Modifier (8)
-8x As the Crow
+8x As the Crow -- makes my Tuppers freaky.
 
 Combat (39)
 8x Brick by Brick
 8x Immortal Grapple
-4x Lead Fist
-9x Raking Talons
+4x Lead Fist -- critical to circumvent "prevent 1" decks
+9x Raking Talons -- probably should be 10.
 10x Stonestrength
 
 Event (1)

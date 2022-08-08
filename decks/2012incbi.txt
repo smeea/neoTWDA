@@ -25,7 +25,7 @@ Crypt (12 cards, min=12 max=20 avg=4.17)
 1x Saiz                3  aus dom                    Tremere antitribu:3
 
 Library (81 cards)
-Master (15)
+Master (15; 7 trifle)
 3x Blood Doll
 1x Giant's Blood
 1x Hungry Coyote, The
@@ -54,9 +54,9 @@ Action Modifier (10)
 3x Mirror Walk
 
 Reaction (16)
-8x Deflection
-2x Delaying Tactics
-6x On the Qui Vive
+8x Deflection -- this is a wild guess since the reaction module was missing from the TWD
+2x Delaying Tactics -- this is a wild guess since the reaction module was missing from the TWD
+6x On the Qui Vive -- this is a wild guess since the reaction module was missing from the TWD
 
 Combat (13)
 5x Molotov Cocktail

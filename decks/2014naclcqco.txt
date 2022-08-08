@@ -27,7 +27,7 @@ Library (90 cards)
 Master (17)
 1x Archon Investigation
 6x Ashur Tablets
-1x Club Illusion
+1x Club Illusion -- wait for it...
 4x Coroner's Contact
 1x Giant's Blood
 1x Information Highway
@@ -37,7 +37,7 @@ Master (17)
 Action (31)
 3x Clotho's Gift
 7x Dark Mirror of the Mind
-4x Go Anarch
+4x Go Anarch -- there it is!
 7x Little Mountain Cemetery
 2x Night Moves
 7x Off Kilter

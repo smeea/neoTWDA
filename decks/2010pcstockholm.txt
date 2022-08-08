@@ -29,14 +29,14 @@ Crypt (12 cards, min=8 max=33 avg=5.5)
 1x Yuri Kerezenski      5  aus for vic ANI       bishop   Tzimisce:4
 
 Library (89 cards)
-Master (17)
+Master (17; 4 trifle)
 1x Animalism
 2x Blood Doll
-1x Carver's Meat Packing and Storage
+1x Carver's Meat Packing and Storage -- was not worthwhile; remove
 1x Erciyes Fragments, The
 1x Giant's Blood
 2x Guardian Angel
-1x Pentex(TM) Subversion
+1x Pentex(TM) Subversion -- might want to add one more, to contest
 1x Powerbase: Montreal
 1x Rack, The
 2x Smiling Jack, The Anarch
@@ -52,7 +52,7 @@ Ally (1)
 
 Equipment (3)
 1x .44 Magnum
-1x Banshee Ironwail
+1x Banshee Ironwail -- very strong
 1x Bowl of Convergence
 
 Reaction (28)

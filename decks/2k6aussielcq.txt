@@ -30,10 +30,10 @@ Crypt (12 cards, min=16 max=29 avg=6.0)
 Library (88 cards)
 Master (14)
 6x Blood Doll
-1x Carver's Meat Packing and Storage
-2x Dreams of the Sphinx
+1x Carver's Meat Packing and Storage -- would consider 2 more
+2x Dreams of the Sphinx -- would consider 1 more
 1x Elder Library
-1x Fortitude
+1x Fortitude -- would drop if swapping Amelia for Richter
 1x Gang Territory
 1x Tension in the Ranks
 1x Unnatural Disaster
@@ -41,7 +41,7 @@ Master (14)
 Action (18)
 5x Big Game
 7x Bum's Rush
-1x Games of Instinct
+1x Games of Instinct -- would swap for an Ambush or another rush card.
 5x Legal Manipulations
 
 Action Modifier (3)

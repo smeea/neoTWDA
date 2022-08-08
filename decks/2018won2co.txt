@@ -38,7 +38,7 @@ Crypt (12 cards, min=17 max=34 avg=6.33)
 1x Stick            3  ANI                          Nosferatu antitribu:4
 
 Library (84 cards)
-Master (34)
+Master (34; 6 trifle)
 1x Anarch Free Press, The
 1x Anarch Railroad
 6x Anarch Revolt
@@ -63,7 +63,7 @@ Action (7)
 7x Deep Song
 
 Equipment (3)
-1x Codex of the Edenic Groundskeepers
+1x Codex of the Edenic Groundskeepers -- synergistic surge offense.
 1x Heart of Nizchetus
 1x Sport Bike
 

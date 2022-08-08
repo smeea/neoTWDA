@@ -30,25 +30,25 @@ Crypt (12 cards, min=14 max=26 avg=5.0)
 1x Lucy Markowitz          3  dom obt                      Lasombra:4
 
 Library (76 cards)
-Master (14)
+Master (14; 1 trifle)
 2x Anarch Troublemaker
 1x Coven, The
 1x Elysian Fields
 1x Giant's Blood
 2x Jake Washington
-1x Nocturn Theater
+1x Nocturn Theater -- last minute addition, replacing a third Remover; too expensive and burnable to be useful, so pull it and put the third Remover back in
 1x Pentex(TM) Subversion
 1x Political Hunting Ground
 2x Remover
 1x Watchtower: Four Ride Forth
-1x Weeping Stone
+1x Weeping Stone -- I drew this early in all three games, and always hesitated to play it due to its cost, but it was pivotal in every game
 
 Action (14)
 11x Govern the Unaligned
 3x Tattoo Signal
 
 Ally (4)
-4x Nocturn
+4x Nocturn -- included to defend against rushes, but there was less rush combat than I'd feared and I ended up just bleeding with them
 
 Equipment (4)
 1x Codex of the Edenic Groundskeepers
@@ -57,7 +57,7 @@ Equipment (4)
 1x Zaire River Ferry
 
 Action Modifier (24)
-3x Art of Memory, The
+3x Art of Memory, The -- highly underrated card
 2x Change of Target
 5x Conditioning
 3x Foreshadowing Destruction
@@ -65,7 +65,7 @@ Action Modifier (24)
 2x Shadow Play
 3x Shroud of Absence
 2x Shroud of Night
-2x Tangle Atropos' Hand
+2x Tangle Atropos' Hand -- in theory, these are amazing with the bleed equipment; in practice, I'll probably forget to make sure that the equipment is on the guys in my crypt who have Potence, and I didn't need any of them to win any of my games in this tournament, so they can probably go
 
 Reaction (14)
 5x Deflection

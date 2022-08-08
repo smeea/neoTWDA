@@ -25,7 +25,7 @@ Crypt (12 cards, min=23 max=36 avg=7.17)
 1x Volker, The Puppet Prince         5  pot CEL               prince     Brujah:2
 
 Library (89 cards)
-Master (18)
+Master (18; 1 trifle)
 3x Blood Doll
 3x Dreams of the Sphinx
 2x Fame
@@ -45,31 +45,31 @@ Action (17)
 4x Bum's Rush
 4x Entrancement
 2x Harass
-2x Legal Manipulations
-2x Mind Numb
-1x Rampage
-1x Red List
+2x Legal Manipulations -- One more?
+2x Mind Numb -- Even in combat decks, these ROCK!
+1x Rampage -- Killed Black Forest Base of Lutz deck with this
+1x Red List -- Switch to some other rush
 
 Ally (3)
 1x Carlton Van Wyk
-1x Ossian
+1x Ossian -- Ossian won me the finals, or at least kept me alive to win it.
 1x Repo Man
 
 Equipment (5)
-2x Ambulance
+2x Ambulance -- Never equipped, has potential
 1x Blood Tears of Kephran
-1x Heart of Nizchetus
+1x Heart of Nizchetus -- Essential for giving me the finals!
 1x Leather Jacket
 
 Political Action (1)
 1x Kine Resources Contested
 
 Action Modifier (6)
-2x Forced March
+2x Forced March -- Couple more these
 4x Freak Drive
 
 Action Modifier/Combat (6)
-6x Resist Earth's Grasp
+6x Resist Earth's Grasp -- Just too good to be true
 
 Reaction (1)
 1x Delaying Tactics

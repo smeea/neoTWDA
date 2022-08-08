@@ -62,7 +62,7 @@ Master (14)
 1x Wall Street Night, Financial Newspaper
 
 Conviction (1)
-1x Second Sight
+1x Second Sight -- I've tried running three, you just recycle the Second Sight every time anyway.
 
 Action (17)
 4x Computer Hacking
@@ -76,7 +76,7 @@ Ally (10)
 1x Young Bloods
 
 Equipment (1)
-1x Unlicensed Taxicab
+1x Unlicensed Taxicab -- Never saw play.
 
 Action Modifier (3)
 1x Conditioning

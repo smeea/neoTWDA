@@ -24,8 +24,8 @@ Crypt (12 cards, min=14 max=24 avg=4.75)
 1x Uncle George                   5  aus dom obf DEM             Malkavian antitribu:3
 1x Adelaide Davis                 4  aus dem obf                 Malkavian:3
 1x Claven                         4  aus dem obf                 Malkavian antitribu:2
-1x Jeremy Talbot                  4  dem obf                     Malkavian:3
-1x Midget                         3  obf pre DEM                 Malkavian antitribu:3
+1x Jeremy Talbot                  4  dem obf                     Malkavian:3 -- special involving math
+1x Midget                         3  obf pre DEM                 Malkavian antitribu:3 -- secret to ultimate victory
 1x Yorik                          3  dem obf                     Malkavian antitribu:2
 
 Library (87 cards)

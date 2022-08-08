@@ -29,7 +29,7 @@ repeat until you have wiped everyone out
 
 Crypt (15 cards, min=44 max=44 avg=11.0)
 ----------------------------------------
-15x Arika   11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
+15x Arika   11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2 -- could have more, 15 was enough
 
 Library (90 cards)
 Action (20)
@@ -48,10 +48,10 @@ Action Modifier (50)
 10x Awe
 10x Conditioning
 10x Daring the Dawn
-3x Elder Impersonation
-5x Forgotten Labyrinth
+3x Elder Impersonation -- would exchange for Faceless Night x4
+5x Forgotten Labyrinth -- would add one more
 10x Freak Drive
-2x Seduction
+2x Seduction -- would delete
 
 Combat (3)
 3x Majesty

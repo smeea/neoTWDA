@@ -35,36 +35,36 @@ Crypt (13 cards, min=4 max=14 avg=2.08)
 1x Paul DiCarlo, The Alpha           2  pot              Giovanni:2
 
 Library (76 cards)
-Master (20)
-2x Acquired Ventrue Assets
+Master (20; 4 trifle)
+2x Acquired Ventrue Assets -- gold as always
 1x Anarch Railroad
 2x Direct Intervention
-3x Jake Washington
-3x Liquidation
+3x Jake Washington -- with Vessel this is a guaranteed counter on the diary
+3x Liquidation -- funny, I liquidated my two other Liquations in the final
 1x Pentex(TM) Subversion
-3x Piper
+3x Piper -- perhaps 1-3 more would be useful; what to remove?
 1x Powerbase: Cape Verde
 4x Vessel
 
 Action (21)
-1x Abomination
-1x Chair of Hades
+1x Abomination -- didn't get into play today, but has in the past; could remove
+1x Chair of Hades -- blocked every time I tried to use it, but was great for feints nonetheless; warning does not add a counter to the Diary
 5x Embrace, The
-8x Khazar's Diary (Endless Night)
-1x Soul Feasting
+8x Khazar's Diary (Endless Night) -- might consider 1 more
+1x Soul Feasting -- expected to see Legionaires; didn't use, but good in theory
 5x Sudario Refraction
 
 Ally (15)
 2x Carlton Van Wyk
-5x Cry Wolf
-1x Gianna di Canneto
+5x Cry Wolf -- the bread and butter of the Anarch Khazar deck
+1x Gianna di Canneto -- burned a .44 in rounds 1 and 3; perhaps another?
 1x Giulia Giovanni Abruzzina
 1x Gregory Winter
 1x Grey Thorne
-1x Ossian
+1x Ossian -- never played him today
 1x Repo Man
-1x Tye Cooper
-1x Vivienne Géroux
+1x Tye Cooper -- so good, but stolen twice!
+1x Vivienne Géroux -- proved very useful for this deck; she bled for 5 pool, no one would block her
 
 Action Modifier (2)
 1x Call of the Hungry Dead
@@ -81,7 +81,7 @@ Reaction (12)
 1x Poison Pill
 
 Combat (2)
-2x Target Vitals
+2x Target Vitals -- killed a Garou; the surpirse extra damage played out well today
 
 Event (3)
 1x FBI Special Affairs Division

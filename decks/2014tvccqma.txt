@@ -23,11 +23,11 @@ NOTE: out of 4 games, I only got Mr Winthrop once, and no Sport Bike ever. Every
 
 Crypt (12 cards, min=24 max=24 avg=6.0)
 ---------------------------------------
-6x Henry Taylor   6  cel pre pro POT      Brujah antitribu:3
-6x Pariah         6  pot pre OBF PRO      Abomination:2
+6x Henry Taylor   6  cel pre pro POT      Brujah antitribu:3 -- combat recycling special
+6x Pariah         6  pot pre OBF PRO      Abomination:2 -- rush, +1 strength, discard Master specials
 
 Library (90 cards)
-Master (40)
+Master (40; 10 trifle)
 1x Anarch Free Press, The
 2x Anarch Revolt
 1x Channel 10
@@ -35,7 +35,7 @@ Master (40)
 1x Dreams of the Sphinx
 1x Erciyes Fragments, The
 1x Fame
-5x Galaric's Legacy
+5x Galaric's Legacy -- NOTE: with Anarch Convert I'd all the replace Galaric's Legacy with other Trifles.
 1x Gang Territory
 1x Guardian Angel
 1x Jake Washington
@@ -46,11 +46,11 @@ Master (40)
 1x Rumor Mill, Tabloid Newspaper, The
 2x Smiling Jack, The Anarch
 8x Storage Annex
-1x WMRH Talk Radio
 1x Wall Street Night, Financial Newspaper
 2x Wash
-1x Waste Management Operation
+1x Waste Management Operation -- NOTE: even in this deck, this is a terrible card.
 1x Wider View
+1x WMRH Talk Radio
 
 Equipment (2)
 2x Sport Bike

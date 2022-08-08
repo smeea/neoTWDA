@@ -52,8 +52,8 @@ Crypt (12 cards, min=15 max=20 avg=4.58)
 Library (90 cards)
 Master (17)
 1x Amusement Park Hunting Ground
-5x Blood Doll
-2x Dreams of the Sphinx
+5x Blood Doll -- Blood Doll >> Vessel for this deck.
+2x Dreams of the Sphinx -- Didn't see a single one all day in this tournament, but only jammed once.
 1x Fame
 3x Frontal Assault
 1x Heidelberg Castle, Germany

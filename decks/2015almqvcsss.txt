@@ -25,7 +25,7 @@ Crypt (12 cards, min=12 max=28 avg=5.17)
 1x Justine Chen, Innocent   2  pre                      Toreador antitribu:4
 
 Library (78 cards)
-Master (16)
+Master (16; 2 trifle)
 1x Anarch Troublemaker
 1x Coven, The
 1x Fetish Club Hunting Ground
@@ -39,7 +39,7 @@ Master (16)
 Action (32)
 1x Aranthebes, The Immortal
 12x Art Scam
-1x Black Hand Emissary
+1x Black Hand Emissary -- la metí de extra y fué la oxxx
 12x Embrace, The
 4x Mustajib
 2x Tattoo Signal
@@ -60,7 +60,7 @@ Reaction (13)
 5x Telepathic Misdirection
 
 Combat (6)
-6x Target Vitals
+6x Target Vitals -- abrazos pegando 4R xd
 
 Event (4)
 1x Blood Trade

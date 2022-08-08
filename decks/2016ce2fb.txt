@@ -22,8 +22,8 @@ Crypt (12 cards, min=31 max=44 avg=9.75)
 1x Sean Andrews         2  cel                                      Toreador:4
 
 Library (90 cards)
-Master (18)
-1x Arcane Library
+Master (18; 5 trifle)
+1x Arcane Library -- :P (failed) kkkkkkkkkkkkkk
 1x Creepshow Casino
 1x Erciyes Fragments, The
 1x Giant's Blood
@@ -34,8 +34,8 @@ Master (18)
 1x Society Hunting Ground
 4x Vessel
 1x Villein
-1x WMRH Talk Radio
 1x Warzone Hunting Ground
+1x WMRH Talk Radio
 
 Action (1)
 1x Aranthebes, The Immortal

@@ -25,12 +25,12 @@ Crypt (12 cards, min=15 max=40 avg=7.33)
 1x Arishat                    6  DAI OBF PRE           1 vote    Baali:6
 
 Library (79 cards)
-Master (15)
+Master (15; 3 trifle)
 1x Giant's Blood
 1x Path of Evil Revelations
 1x Pentex(TM) Subversion
 2x Perfectionist
-1x Rötschreck
+1x Rötschreck -- recent, but solid inclusion
 6x Tend the Flock
 1x Vessel
 2x Wider View
@@ -38,11 +38,11 @@ Master (15)
 Action (12)
 2x Contagion
 6x Flurry of Action
-1x Shadow of the Beast
-3x Unleash Hell's Fury
+1x Shadow of the Beast -- marginal inclusion
+3x Unleash Hell's Fury -- significant deterrent
 
 Ally (6)
-4x Infernal Servitor
+4x Infernal Servitor -- amazing burst payload
 1x Mylan Horseed
 1x Veneficti
 
@@ -70,7 +70,7 @@ Action Modifier/Reaction (5)
 5x Sense the Sin
 
 Reaction (4)
-4x Eluding the Arms of Morpheus
+4x Eluding the Arms of Morpheus -- should be in every Baali deck.
 
 Combat (3)
 3x Majesty

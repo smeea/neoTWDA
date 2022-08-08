@@ -22,11 +22,11 @@ Crypt (12 cards, min=10 max=40 avg=6.0)
 2x Belle Equitone     2  ser                  Ministry:4
 1x Ogwon              7  for OBF PRE SER      Ministry:5
 1x Ankh-sen-Sutekh    6  obf PRE SER          Ministry:4
-1x Renenet            5  ser OBF PRE          Ministry:4
+1x Renenet            5  ser OBF PRE          Ministry:4 -- which i drew every game
 1x Sisocharis         4  cel obf pre          Ministry:5
 
 Library (88 cards)
-Master (16)
+Master (16; 4 trifle)
 1x Barrens, The
 4x Blood Doll
 1x Crocodile Temple, The
@@ -41,16 +41,16 @@ Action (38)
 5x Blithe Acceptance
 5x Enchant Kindred
 2x Enticement
-6x Eternal Mask, The
+6x Eternal Mask, The -- should add more they rox
 2x Form of Corruption
 6x Mesu Bedshet
 4x Revelation of Ecstasy
-1x Scouting Mission
-1x Set's Curse
+1x Scouting Mission -- this shouldn't be in the deck
+1x Set's Curse -- i need more!!
 6x Temptation
 
 Ally (2)
-1x Nephren-Ka
+1x Nephren-Ka -- Finals winner, Tariq stopper
 1x Tutu the Doubly Evil One
 
 Equipment (1)
@@ -76,4 +76,4 @@ Combat (6)
 2x Unholy Penance
 
 Event (1)
-1x Narrow Minds
+1x Narrow Minds -- rox

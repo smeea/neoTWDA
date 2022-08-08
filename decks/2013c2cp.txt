@@ -20,10 +20,10 @@ Crypt (12 cards, min=40 max=43 avg=10.25)
 3x Queen Anne         10  aus obf DOM FOR PRE       prince         Ventrue:2
 
 Library (90 cards)
-Master (20)
+Master (20; 6 trifle)
 1x Creepshow Casino
 1x Giant's Blood
-2x Golconda: Inner Peace
+2x Golconda: Inner Peace -- Inner Peace
 3x Heidelberg Castle, Germany
 4x Information Highway
 1x Monastery of Shadows

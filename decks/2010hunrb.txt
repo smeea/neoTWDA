@@ -40,7 +40,7 @@ Crypt (12 cards, min=8 max=32 avg=4.5)
 1x Lisa Noble             1  ani              Caitiff:3
 
 Library (76 cards)
-Master (21)
+Master (21; 1 trifle)
 3x Animalism
 9x Ashur Tablets
 2x Blood Doll
@@ -52,7 +52,7 @@ Master (21)
 1x Wider View
 
 Action (13)
-13x Deep Song
+13x Deep Song -- just the right number
 
 Reaction (8)
 2x Cats' Guidance

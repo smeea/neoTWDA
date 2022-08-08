@@ -27,7 +27,7 @@ Crypt (12 cards, min=7 max=16 avg=3.08)
 Library (89 cards)
 Master (13)
 6x Ashur Tablets
-4x Celerity
+4x Celerity -- cel
 3x Tribute to the Master
 
 Action (12)

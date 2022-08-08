@@ -23,7 +23,7 @@ Crypt (12 cards, min=24 max=38 avg=7.83)
 3x Ubende               7  for obf qui CEL PRE       magaji   Ishtarri:4
 2x Ayo Igoli           10  obf tha AUS CEL FOR PRE            Ishtarri:4
 2x Shasa Abu Badr       5  cel for PRE                        Ishtarri:4
-1x Ganhuru              7  cel pro FOR PRE                    Ishtarri:4
+1x Ganhuru              7  cel pro FOR PRE                    Ishtarri:4 -- Should be switched for a 3rd Ayo. Used as a proxy for her in friendly games
 
 Library (90 cards)
 Master (19)

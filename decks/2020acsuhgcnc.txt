@@ -28,7 +28,7 @@ Crypt (12 cards, min=14 max=20 avg=4.25)
 1x Paul "Sixofswords29" Moreton   4  def vis          Visionary:4
 
 Library (60 cards)
-Master (15)
+Master (15; 1 trifle)
 5x Angel of Berlin
 1x Ascendance
 1x Church of Vindicated Faith, The
@@ -37,18 +37,18 @@ Master (15)
 1x Millicent Smith, Puritan Vampire Hunter
 1x Short-Term Investment
 1x Smiling Jack, The Anarch
-1x Specialization
+1x Specialization -- GOLD
 1x True Faith
 1x Two Wrongs
 
 Conviction (18)
-4x React with Conviction
+4x React with Conviction -- always fish for it first
 7x Second Sight
 7x Strike with Conviction
 
 Ally (3)
 1x Carlton Van Wyk
-1x Ossian
+1x Ossian -- grrrrr
 1x Vagabond Mystic
 
 Equipment (9)

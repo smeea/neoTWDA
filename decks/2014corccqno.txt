@@ -33,16 +33,16 @@ Crypt (12 cards, min=28 max=43 avg=8.92)
 1x Victor Pelletier     5  cel dom for PRE                          Ventrue:4
 
 Library (73 cards)
-Master (28)
+Master (28; 8 trifle)
 6x Ashur Tablets
-1x Bleeding the Vine
+1x Bleeding the Vine -- strong in subtle ways (prevent influence of lategame minion)
 1x Dreams of the Sphinx
 1x Giant's Blood
 1x Information Highway
 1x Legendary Vampire
-1x Metro Underground
+1x Metro Underground -- might be marginal in this deck.
 1x Monastery of Shadows
-1x Parthenon, The
+1x Parthenon, The -- wouldn't criticize anyone opting for a 2nd Parthenon.
 1x Pentex(TM) Subversion
 6x Villein
 2x Wider View
@@ -50,7 +50,7 @@ Master (28)
 
 Action (8)
 1x Entrancement
-1x Exile
+1x Exile -- underused card
 6x Govern the Unaligned
 
 Political Action (12)
@@ -61,7 +61,7 @@ Political Action (12)
 1x Kine Resources Contested
 2x Parity Shift
 1x Political Stranglehold
-1x Reinforcements
+1x Reinforcements -- should be Ancilla Empowerment
 1x Reins of Power
 1x Rumors of Gehenna
 

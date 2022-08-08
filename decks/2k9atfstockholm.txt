@@ -32,7 +32,7 @@ Crypt (12 cards, min=7 max=16 avg=2.83)
 1x Lisa Noble             1  ani              Caitiff:3
 
 Library (90 cards)
-Master (15)
+Master (15; 4 trifle)
 3x Animalism
 1x Direct Intervention
 3x Dominate
@@ -43,7 +43,7 @@ Master (15)
 1x WMRH Talk Radio
 
 Action (14)
-9x Computer Hacking
+9x Computer Hacking -- Yes, all of these SHOULD be Deep Song
 5x Deep Song
 
 Ally (3)

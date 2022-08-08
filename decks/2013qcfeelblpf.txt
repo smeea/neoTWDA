@@ -37,13 +37,13 @@ Crypt (12 cards, min=17 max=34 avg=6.58)
 1x Dimple                      2  obf                              Nosferatu:1
 
 Library (84 cards)
-Master (9)
+Master (9; 1 trifle)
 1x Archon Investigation
 2x Blood Doll
 1x Coven, The
 1x Labyrinth, The
 1x Pentex(TM) Subversion
-1x Secret Library of Alexandria, The
+1x Secret Library of Alexandria, The -- Its cycling power is beyond imagination.
 1x Slum Hunting Ground
 1x Warsaw Station
 

@@ -26,12 +26,12 @@ Crypt (12 cards, min=15 max=40 avg=7.33)
 1x Arishat                    6  DAI OBF PRE           1 vote    Baali:6
 
 Library (79 cards)
-Master (15)
+Master (15; 3 trifle)
 1x Giant's Blood
 1x Path of Evil Revelations
 1x Pentex(TM) Subversion
 2x Perfectionist
-1x Rötschreck
+1x Rötschreck -- added before Origins 2015, this has been really useful across several games.
 6x Tend the Flock
 1x Vessel
 2x Wider View
@@ -39,16 +39,16 @@ Master (15)
 Action (12)
 2x Contagion
 6x Flurry of Action
-1x Shadow of the Beast
+1x Shadow of the Beast -- remains just barely good enough to keep in
 3x Unleash Hell's Fury
 
 Ally (6)
-4x Infernal Servitor
+4x Infernal Servitor -- amazing in so many ways beyond its ability to bleed.
 1x Mylan Horseed
 1x Veneficti
 
 Equipment (1)
-1x Kaymakli Fragment
+1x Kaymakli Fragment -- might cull this if I keep playing this deck.
 
 Retainer (3)
 3x Homunculus
@@ -57,8 +57,8 @@ Action Modifier (25)
 2x Elder Impersonation
 3x Enkil Cog
 2x Faceless Night
-5x I am Legion
-6x Instantaneous Transformation
+5x I am Legion -- didn't cancel more than a couple of [aus] cards in all 4 rounds this time.
+6x Instantaneous Transformation -- huge piece of making the deck work
 2x Lost in Crowds
 1x Mask of a Thousand Faces
 2x Psychomachia
@@ -71,7 +71,7 @@ Action Modifier/Reaction (5)
 5x Sense the Sin
 
 Reaction (4)
-4x Eluding the Arms of Morpheus
+4x Eluding the Arms of Morpheus -- so solid in Baali decks
 
 Combat (3)
 3x Majesty

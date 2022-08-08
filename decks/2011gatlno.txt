@@ -57,14 +57,14 @@ replace them with Deflection.
 
 Crypt (12 cards, min=30 max=38 avg=8.67)
 ----------------------------------------
-5x Marconius           9  pot DOM MYT OBT       archbishop   Kiasyd:2
-2x Marcus Vitel       10  DOM FOR OBF OBT PRE   prince       Ventrue:3
-2x Quentin             9  cel obt AUS DOM FOR   bishop       Ventrue antitribu:2
-2x Gratiano            8  obf pot DOM OBT       priscus      Lasombra:2
-1x Béatrice L'Angou    5  aus dom nec MYT                    Kiasyd:2
+5x Marconius           9  pot DOM MYT OBT       archbishop   Kiasyd:2 -- Paying 1 less for Faerie Wards is what makes the deck viable in the first place.
+2x Marcus Vitel       10  DOM FOR OBF OBT PRE   prince       Ventrue:3 -- Conditional +bleed for everyone else in the crypt, but I rarely have more than 2 vampires out. His inclusion is a bit questionable to me at this point.
+2x Quentin             9  cel obt AUS DOM FOR   bishop       Ventrue antitribu:2 -- I've considered adding more of Quentin since voting is one of the weaknesses of the deck (Faerie Wards only usable on [D] actions). His ability to cancel votes has been critical several games.
+2x Gratiano            8  obf pot DOM OBT       priscus      Lasombra:2 -- He's just good for this deck in every way.
+1x Béatrice L'Angou    5  aus dom nec MYT                    Kiasyd:2 -- probably should change her to someone more useful.
 
 Library (80 cards)
-Master (24)
+Master (24; 7 trifle)
 6x Ashur Tablets
 1x Auspex
 2x Fortitude
@@ -105,7 +105,7 @@ Action Modifier/Reaction (1)
 
 Reaction (25)
 15x Faerie Wards
-3x Obedience
+3x Obedience -- Critical when blocking 0-stealth actions with Eternal Vigilance.
 3x On the Qui Vive
 4x Wake with Evening's Freshness
 

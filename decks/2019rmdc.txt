@@ -40,7 +40,7 @@ Crypt (12 cards, min=18 max=36 avg=7.0)
 1x New Blood                    2  san                                Blood Brother:ANY
 
 Library (65 cards)
-Master (23)
+Master (23; 7 trifle)
 1x Coven, The
 3x Dreams of the Sphinx
 1x Giant's Blood
@@ -54,7 +54,7 @@ Master (23)
 2x Perfectionist
 5x Villein
 1x Wider View
-1x Zillah's Valley
+1x Zillah's Valley -- No idea how this ended at one instead of 2.
 
 Action (8)
 3x Deep Song
@@ -62,15 +62,15 @@ Action (8)
 2x Under Siege
 
 Ally (1)
-1x War Ghoul
+1x War Ghoul -- Upgrades less useful stolen allies.
 
 Equipment (3)
-3x Living Manse
+3x Living Manse -- Frequently burned to end combat. One goes on Stephen ASAP.
 
 Action Modifier (9)
 4x Changeling
 2x Earth Control
-3x Mind of the Wilds
+3x Mind of the Wilds -- With Chiropteran, offers an occassional surprise for blockers
 
 Action Modifier/Combat (3)
 2x Plasmic Form
@@ -87,4 +87,4 @@ Combat (5)
 3x Form of Mist
 
 Event (1)
-1x Scourge of the Enochians
+1x Scourge of the Enochians -- Because I want to consistently highlight how stupid this card is.

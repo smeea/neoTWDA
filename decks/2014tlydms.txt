@@ -25,7 +25,7 @@ Crypt (12 cards, min=28 max=44 avg=9.5)
 1x Belle Equitone           2  ser                                      Ministry:4
 
 Library (66 cards)
-Master (15)
+Master (15; 4 trifle)
 1x Anachronism
 1x Anarch Troublemaker
 1x Dreams of the Sphinx
@@ -35,7 +35,7 @@ Master (15)
 1x Pentex(TM) Subversion
 3x Villein
 1x Wider View
-2x Zillah's Valley
+2x Zillah's Valley -- Deberian ser Eternal
 
 Action (19)
 1x Conceal

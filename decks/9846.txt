@@ -28,42 +28,42 @@ Crypt (12 cards, min=10 max=40 avg=6.58)
 1x High Priest Angra Mainyu    8  dem ser DAI OBF PRE          Baali:2
 
 Library (75 cards)
-Master (41)
-1x Anarch Railroad
+Master (41; 8 trifle)
+1x Anarch Railroad -- not perfect, but good enough
 1x Archon Investigation
-12x Ashur Tablets
+12x Ashur Tablets -- because they are stupidly broken.
 1x Coven, The
 1x Direct Intervention
 1x Dreams of the Sphinx
 1x Giant's Blood
-2x Information Highway
-1x Jake Washington
-1x Metro Underground
+2x Information Highway -- helps stabilize with 3 pool gain per Tend if needed.
+1x Jake Washington -- he blocks more than he pops for blood.
+1x Metro Underground -- fits with Cog and bounce functions
 1x Monastery of Shadows
 3x Parthenon, The
 1x Pentex(TM) Subversion
-1x Perfectionist
-6x Tend the Flock
+1x Perfectionist -- might be non-essential, but Blithe Acceptance sometimes creates extra blood demand.
+6x Tend the Flock -- this keeps me from running Secure Haven
 4x Villein
-1x Wash
+1x Wash -- have you seen how this fits in Tablet decks? It's so stupid.
 2x Wider View
 
 Action (8)
-1x Blithe Acceptance
+1x Blithe Acceptance -- stupidly good in this kind of deck
 1x Contagion
-1x Dominate Kine
-3x Entrancement
-2x Unleash Hell's Fury
+1x Dominate Kine -- mostly to steal intercept locations.
+3x Entrancement -- because Emerald Legionnaires exist.
+2x Unleash Hell's Fury -- staple Baali defense.
 
 Ally (4)
-1x Carlton Van Wyk
-1x Infernal Servitor
-1x Mylan Horseed
+1x Carlton Van Wyk -- this tends to plug a lot of holes.
+1x Infernal Servitor -- the Govern that blocks.
+1x Mylan Horseed -- the Metro Underground that bleeds.
 1x Veneficti
 
 Action Modifier (10)
 1x Elder Impersonation
-1x Enkil Cog
+1x Enkil Cog -- I'm usually not in a hurry, it comes when it comes - it's needs Metro Underground or Mylan so I would have to churn to make the thing work even with a second copy.
 1x Faceless Night
 2x Forgotten Labyrinth
 2x I am Legion
@@ -71,7 +71,7 @@ Action Modifier (10)
 1x Psychomachia
 
 Action Modifier/Combat (2)
-1x Force of Personality
+1x Force of Personality -- useful anti-ally tech with an S:CE
 1x Swallowed by the Night
 
 Action Modifier/Reaction (3)
@@ -79,10 +79,10 @@ Action Modifier/Reaction (3)
 
 Reaction (4)
 2x Deflection
-2x Eluding the Arms of Morpheus
+2x Eluding the Arms of Morpheus -- this card should have Baali clan reminder text..
 
 Combat (2)
 2x Majesty
 
 Event (1)
-1x Scourge of the Enochians
+1x Scourge of the Enochians -- answers too many questions to not have in the deck, its deployment can be timed with the Tablets.

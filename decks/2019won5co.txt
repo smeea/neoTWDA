@@ -100,17 +100,17 @@ Crypt (13 cards, min=4 max=23 avg=3.31)
 1x Muse                             3  ani for mel          Daughter of Cacophony:2
 
 Library (77 cards)
-Master (15)
-1x Anarch Railroad
-1x Archon Investigation
-1x Barrens, The
+Master (15; 1 trifle)
+1x Anarch Railroad -- permanent stealth variety so useful to get one early
+1x Archon Investigation -- critical to finals win
+1x Barrens, The -- critical to finals win; used ~11-13 times
 1x Bastille Opera House
-1x Carfax Abbey
-1x Command Performance
-4x Conductor
+1x Carfax Abbey -- golden when running Barons
+1x Command Performance -- never put into play today; useful in past
+4x Conductor -- required to make this deck run
 1x Coven, The
 1x Creepshow Casino
-1x Garibaldi-Meucci Museum
+1x Garibaldi-Meucci Museum -- Revolutionary Council recursion makes this deck go
 1x Paris Opera House
 1x Pentex(TM) Subversion
 
@@ -123,18 +123,18 @@ Action (12)
 1x Fee Stake: Perth
 
 Political Action (17)
-1x Anarchist Uprising
-4x Consanguineous Boon
-1x Domain Challenge
-2x Eat the Rich
+1x Anarchist Uprising -- added last minute; never used
+4x Consanguineous Boon -- preferable over Benefit Concert since you can vote other clans
+1x Domain Challenge -- added last minute; better per minion vote since you breed
+2x Eat the Rich -- really great card
 3x Firebrand
 4x Lily Prelude
-2x Revolutionary Council
+2x Revolutionary Council -- like having every Palla Grande bleed hit; so powerful
 
 Action Modifier (22)
-2x Bewitching Oration
+2x Bewitching Oration -- should probably be something else: Echo of Harmonies?
 2x Change of Target
-2x Cryptic Rider
+2x Cryptic Rider -- bypasses Delaying Tactics
 1x Daring the Dawn
 4x Freak Drive
 6x Missing Voice, The
@@ -142,7 +142,7 @@ Action Modifier (22)
 4x Voter Captivation
 
 Action Modifier/Reaction (7)
-7x Madrigal
+7x Madrigal -- great for putting blood back on "real" Daughters; power Firebrands
 
 Combat (4)
 4x Majesty

@@ -72,10 +72,10 @@ Action Modifier/Reaction (1)
 Reaction (9)
 2x Deflection
 2x Delaying Tactics
-5x On the Qui Vive
+5x On the Qui Vive -- with mostly inferior [dom] the OtQV get double duty for both wolf blocks and reaction access.
 
 Combat (5)
-5x Target Vitals
+5x Target Vitals -- as often used by blocked Giovanni as by the rushing wolves.
 
 Event (3)
 1x FBI Special Affairs Division

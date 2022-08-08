@@ -14,7 +14,7 @@ Winning deck: Flash Boom Bang
 
 Crypt (12 cards, min=7 max=18 avg=3.33)
 ---------------------------------------
-2x Tupdog                         1  POT VIS          Gargoyle:3
+2x Tupdog                         1  POT VIS          Gargoyle:3 -- can recruit el vagabundo or Carlton
 1x Jennie "Cassie247" Orne        5  inn jud vis      Visionary:4
 1x Travis "Traveler72" Miller     5  mar def          Martyr:4
 1x Jack "Hannibal137" Harmon      4  def jud          Defender:4

@@ -103,25 +103,25 @@ Crypt (12 cards, min=9 max=32 avg=5.08)
 1x Old Neddacka            2  obf                                Nosferatu antitribu:4
 
 Library (80 cards)
-Master (23)
+Master (23; 2 trifle)
 6x Ashur Tablets
 3x Blood Doll
 3x Dreams of the Sphinx
 1x Hungry Coyote, The
-5x Obfuscate
-1x Pentex(TM) Subversion
+5x Obfuscate -- if you have an opening Fabrizia consider holding one
+1x Pentex(TM) Subversion -- never played; discarded twice
 1x Powerbase: Madrid
 1x Sunset Strip, Hollywood
-2x Vessel
+2x Vessel -- prefer Blood Dolls for this deck, but need the trifle
 
 Action (11)
 7x Creation Rites
 3x Dream World
-1x Sibyl's Tongue
+1x Sibyl's Tongue -- adds flexibility in lieu of second copies of silver bullets
 
 Ally (7)
 1x Mylan Horseed
-6x Procurer
+6x Procurer -- Impundulu can eat these guys and that made me sad
 
 Political Action (4)
 3x Consanguineous Boon
@@ -149,4 +149,4 @@ Reaction (14)
 5x Telepathic Misdirection
 
 Event (1)
-1x Uncoiling, The
+1x Uncoiling, The -- hate needing to have a bullet to shoot down other bullets
