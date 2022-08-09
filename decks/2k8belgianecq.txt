@@ -8,22 +8,23 @@ Jörg Alten
 
 -- Unknown
 
-Shape and Gnaw 3.0 (Post-LotN)
+Deck Name: Shape and Gnaw 3.0 (Post-LotN)
 
+Description:
 Modified variant with cards from Lords of the Night
 
 Crypt (12 cards, min=12 max=21 avg=4.17)
 ----------------------------------------
-3x Camille Devereux, The Raven   5  ani FOR PRO          Gangrel:1
+3x Camille Devereux, The Raven   5  FOR PRO ani          Gangrel:1
 3x Chandler Hungerford           3  PRO                  Gangrel:2
-2x Mirembe Kabbada               5  ani PRO SER          Gangrel:2
-1x Badger                        6  ani pot FOR PRO      Gangrel:1
+2x Mirembe Kabbada               5  PRO SER ani          Gangrel:2
+1x Badger                        6  FOR PRO ani pot      Gangrel:1
 1x Ramona                        4  for pro              Gangrel:2
 1x Anastasia Grey                3  ani pro              Gangrel:1
 1x Ricki Van Demsi               3  for pro              Gangrel:1
 
 Library (65 cards)
-Master (17)
+Master (17; 2 trifle)
 1x Channel 10
 2x Direct Intervention
 2x Ecoterrorists

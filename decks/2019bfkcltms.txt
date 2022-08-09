@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9464
 
 -- 1gw3.5 + 3vp in the final
 
-Spanish Ladies AV
+Deck Name: Spanish Ladies AV
 
+Description:
 Had a blast playing (first ever tournament for me), final was very close
 (ousted my 3rd player with 1 pool left).
 
@@ -17,16 +18,16 @@ Crypt (12 cards, min=4 max=23 avg=3.67)
 ---------------------------------------
 4x Anarch Convert          1                             Caitiff:ANY
 1x Isanwayen               6  DOM MYT OBT                Kiasyd:4
-1x Onaedo                  6  aus pot DOM OBT            Lasombra:4
-1x Virginie, Prodigy       6  obt DOM POT       bishop   Lasombra:4
-1x Banjoko                 5  obt pot DOM                Lasombra:3
-1x Dame Hollerton          5  myt DOM OBT                Kiasyd:4
-1x Ermenegildo, The Rake   5  pot DOM OBT                Lasombra:4
+1x Onaedo                  6  DOM OBT aus pot            Lasombra:4
+1x Virginie, Prodigy       6  DOM POT obt       bishop   Lasombra:4
+1x Banjoko                 5  DOM obt pot                Lasombra:3
+1x Dame Hollerton          5  DOM OBT myt                Kiasyd:4
+1x Ermenegildo, The Rake   5  DOM OBT pot                Lasombra:4
 1x Quincy, The Trapper     4  dom myt obt                Kiasyd:3
 1x Lucy Markowitz          3  dom obt                    Lasombra:4
 
 Library (65 cards)
-Master (12)
+Master (12; 1 trifle)
 1x Coven, The
 4x Dreams of the Sphinx
 1x Giant's Blood

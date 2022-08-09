@@ -8,8 +8,9 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bYcjGAL9eeM
 
 -- Unknown
 
-Sandwich of the month
+Deck Name: Sandwich of the month
 
+Description:
 Matthew Green won, with a quite EXTRAORDINARY toolbox Malky deck,
 including [blush, simper] Out-of-turn Rush/aggravated damage/Rotschreck
 combat. He only had 5.5VP to get to the final but he engineered this
@@ -37,13 +38,13 @@ still more OOT cards may be a bad idea. I'll try it and see."
 Crypt (12 cards, min=15 max=28 avg=5.33)
 ----------------------------------------
 2x Gilbert Duane      7  AUS DOM OBF       prince   Malkavian:1
-2x Greger Anderssen   7  dom pro AUS OBF   prince   Malkavian:2
-2x Victoria           5  cel obf AUS                Malkavian:2
-2x Zebulon            5  aus dom pro OBF            Malkavian:1
-1x Ozmo               6  dom obf AUS                Malkavian:1
-1x Aleph              4  dom AUS                    Malkavian:1
+2x Greger Anderssen   7  AUS OBF dom pro   prince   Malkavian:2
+2x Victoria           5  AUS cel obf                Malkavian:2
+2x Zebulon            5  OBF aus dom pro            Malkavian:1
+1x Ozmo               6  AUS dom obf                Malkavian:1
+1x Aleph              4  AUS dom                    Malkavian:1
 1x Watenda            3  obf                        Malkavian:2
-1x Zöe                3  cel obf AUS                Malkavian:2
+1x Zöe                3  AUS cel obf                Malkavian:2
 
 Library (82 cards)
 Master (19)

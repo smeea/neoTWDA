@@ -8,8 +8,9 @@ Rob Treasure
 
 -- Unknown
 
-Brick in a sock
+Deck Name: Brick in a sock
 
+Description:
 Ummmm... pretty obvious bleed or rush with lots of Pot
 minions. Use Computer Hacks to force blocks or bleed for steady twos.
 Bring back diab'ed minions with Hand of Conrad. Use Tributes as soon
@@ -41,8 +42,8 @@ Anyway enough crap here is 'Brick in a sock'
 
 Crypt (14 cards, min=8 max=15 avg=2.79)
 ---------------------------------------
-2x Jimmy Dunn                 4  for CEL POT      Pander:2
-1x Agatha                     4  obf POT          Nosferatu antitribu:2
+2x Jimmy Dunn                 4  CEL POT for      Pander:2
+1x Agatha                     4  POT obf          Nosferatu antitribu:2
 1x Cameron                    3  dom pot          Lasombra:2
 1x Erinyi                     3  pot vis          Gargoyle:2
 1x Jacob Bragg                3  cel pot          Brujah antitribu:2

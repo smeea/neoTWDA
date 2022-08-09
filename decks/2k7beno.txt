@@ -8,8 +8,9 @@ Bob Joseph
 
 -- Unknown
 
-Imbued 1.0
+Deck Name: Imbued 1.0
 
+Description:
 Thanks to Matthew Morgan for the idea.
 
 Crypt (12 cards, min=12 max=21 avg=4.08)

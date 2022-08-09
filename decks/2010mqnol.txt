@@ -8,8 +8,9 @@ Selen Turkay
 
 -- Unknown
 
-Brujah has a reason for it
+Deck Name: Brujah has a reason for it
 
+Description:
 It's a bruise bleed deck. I like it. I don't feel
 defenseless. I feel safe. I don't like being without combat.
 
@@ -17,9 +18,9 @@ Crypt (12 cards, min=21 max=32 avg=6.92)
 ----------------------------------------
 3x Constanza Vinti             8  CEL DOM POT       prince   Brujah:2
 3x Dónal O'Connor              8  CEL DOM POT       prince   Brujah:2
-3x Theo Bell                   7  cel dom pre POT            Brujah:2
-2x Volker, The Puppet Prince   5  pot CEL           prince   Brujah:2
-1x Jimmy Dunn                  4  for CEL POT                Pander:2
+3x Theo Bell                   7  POT cel dom pre            Brujah:2
+2x Volker, The Puppet Prince   5  CEL pot           prince   Brujah:2
+1x Jimmy Dunn                  4  CEL POT for                Pander:2
 
 Library (90 cards)
 Master (14)

@@ -8,25 +8,26 @@ https://www.vekn.net/event-calendar/event/9632
 
 -- 2gw8 + 2vp in the final
 
-Schwerpunkt Principle
+Deck Name: Schwerpunkt Principle
 
+Description:
 Based on Jens Johansson's list from 2012.
 
 Crypt (12 cards, min=16 max=32 avg=6.08)
 ----------------------------------------
-2x Emerson Bridges                   8  pot DOM FOR PRE       prince   Ventrue:1
+2x Emerson Bridges                   8  DOM FOR PRE pot       prince   Ventrue:1
 2x Sir Walter Nash                   7  DOM FOR PRE           prince   Ventrue:1
-1x Wilhelm Waldburg                  9  aus cel DOM FOR PRE   prince   Ventrue:2
-1x Timothy Crowley                   7  ani dom FOR PRE       prince   Ventrue:1
-1x Vanessa                           6  aus pre DOM FOR                Ventrue antitribu:2
-1x Jazz Wentworth                    5  dom for PRE                    Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar   5  for DOM PRE                    Ventrue:2
-1x Ingrid Russo                      4  for DOM                        Ventrue antitribu:2
-1x Violette Prentiss                 4  dom PRE                        Ventrue:1
+1x Wilhelm Waldburg                  9  DOM FOR PRE aus cel   prince   Ventrue:2
+1x Timothy Crowley                   7  FOR PRE ani dom       prince   Ventrue:1
+1x Vanessa                           6  DOM FOR aus pre                Ventrue antitribu:2
+1x Jazz Wentworth                    5  PRE dom for                    Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for                    Ventrue:2
+1x Ingrid Russo                      4  DOM for                        Ventrue antitribu:2
+1x Violette Prentiss                 4  PRE dom                        Ventrue:1
 1x Gideon Fontaine                   3  PRE                            Ventrue:1
 
 Library (82 cards)
-Master (12)
+Master (12; 2 trifle)
 1x Anarch Troublemaker
 1x Blood Doll
 1x Dreams of the Sphinx

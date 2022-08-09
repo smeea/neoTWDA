@@ -8,8 +8,9 @@ Bram Vink
 
 -- Unknown
 
-Gangrel
+Deck Name: Gangrel
 
+Description:
 Wanting to play a deck without bounce, my eye fell on gangrel royalty.
 This is what i made of it. After the tournament I would scratch the
 Raven Spies, Succubus Club, Fifth Traditions, Fourth Traditions, and
@@ -18,10 +19,10 @@ card for this deck.
 
 Crypt (12 cards, min=18 max=42 avg=8.0)
 ---------------------------------------
-3x Ingrid Rossler         9  dom ANI FOR PRO       prince         Gangrel:2
+3x Ingrid Rossler         9  ANI FOR PRO dom       prince         Gangrel:2
 2x Stanislava            11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2
-2x Angus the Unruled     10  cel for pot ANI PRO   justicar       Gangrel:1
-2x Katarina               9  pot pro ANI FOR       prince         Gangrel:2
+2x Angus the Unruled     10  ANI PRO cel for pot   justicar       Gangrel:1
+2x Katarina               9  ANI FOR pot pro       prince         Gangrel:2
 1x Anastasia Grey         3  ani pro                              Gangrel:1
 1x Chandler Hungerford    3  PRO                                  Gangrel:2
 1x Ricki Van Demsi        3  for pro                              Gangrel:1

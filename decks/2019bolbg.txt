@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9307
 
 -- 1gw4.5 + 3vp in the final
 
-Anson’s beautifull Tongue
+Deck Name: Anson’s beautifull Tongue
 
+Description:
 Here is my Aching Beauty deck.
 
 The below deck is an adaptation a deck from Armen Khachikyan who won the
@@ -28,14 +29,14 @@ So in advance some changes to the below deck.
 
 Crypt (12 cards, min=32 max=44 avg=9.67)
 ----------------------------------------
-4x Alexandra         11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-4x Anson              8  aus dom CEL PRE           prince         Toreador:1
-2x Anneke            10  dom AUS CEL PRE           justicar       Toreador:1
-1x François Villon   10  chi obf pot AUS CEL PRE   prince         Toreador:2
+4x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+4x Anson              8  CEL PRE aus dom           prince         Toreador:1
+2x Anneke            10  AUS CEL PRE dom           justicar       Toreador:1
+1x François Villon   10  AUS CEL PRE chi obf pot   prince         Toreador:2
 1x Masika            10  AUS CEL PRE               primogen       Toreador:1
 
 Library (87 cards)
-Master (33)
+Master (33; 8 trifle)
 5x Aching Beauty
 1x Art Museum
 12x Ashur Tablets

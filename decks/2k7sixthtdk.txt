@@ -8,15 +8,11 @@ Norbert Broda
 
 -- 3vp in the final
 
-Unknown
-
-Unknown
-
 Crypt (15 cards, min=4 max=31 avg=3.47)
 ---------------------------------------
-2x Korah                       7  ani AUS DEM OBF       priscus      Malkavian antitribu:2
-2x Marie Faucigny              7  dem tha AUS OBF       archbishop   Malkavian antitribu:3
-1x Hannibal                   10  cel dom AUS DEM OBF   cardinal     Malkavian antitribu:2
+2x Korah                       7  AUS DEM OBF ani       priscus      Malkavian antitribu:2
+2x Marie Faucigny              7  AUS OBF dem tha       archbishop   Malkavian antitribu:3
+1x Hannibal                   10  AUS DEM OBF cel dom   cardinal     Malkavian antitribu:2
 1x Lena Rowe                   3  aus obf pre                        Pander:2
 1x Christine Boscacci          2  dom vic                            Pander:2
 1x Mitchell, The Headhunter    2  obt pot                            Pander:2
@@ -29,7 +25,7 @@ Crypt (15 cards, min=4 max=31 avg=3.47)
 1x Royce                       1  dom                                Pander:2
 
 Library (90 cards)
-Master (22)
+Master (22; 3 trifle)
 1x Coven, The
 3x Dreams of the Sphinx
 2x Día de los Muertos

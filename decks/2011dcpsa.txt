@@ -8,23 +8,24 @@ Marc Pittermann
 
 -- 3vp in the final
 
-Deep Shoes
+Deck Name: Deep Shoes
 
+Description:
 Bleed opponent and grind down their minion with Deep Song and
 Horse Shoes then eventually drop Dragonbound for the oust.
 
 Crypt (12 cards, min=25 max=39 avg=8.17)
 ----------------------------------------
-2x Cock Robin                    10  aus for ANI OBF POT   justicar     Nosferatu:3
-2x Khalid                         9  tha ANI AUS OBF POT   primogen     Nosferatu:3
-1x Cailean                       10  dom ANI OBF POT PRE   archbishop   Nosferatu antitribu:2
-1x Casino Reeds                   9  cel dem ANI OBF POT   prince       Nosferatu:3
-1x Calebos                        8  cel ANI OBF POT       bishop       Nosferatu antitribu:2
-1x Tammy Walenski                 8  nec tha ANI OBF POT                Nosferatu:3
-1x Kendrick                       7  aus obf ANI POT       priscus      Nosferatu antitribu:2
-1x Teresita, The Godmother        7  for ANI OBF POT                    Nosferatu antitribu:3
-1x Gerard Rafin                   6  ani for OBF POT                    Nosferatu:3
-1x Amelia, The Blood Red Tears    5  ani obf POT                        Nosferatu:3
+2x Cock Robin                    10  ANI OBF POT aus for   justicar     Nosferatu:3
+2x Khalid                         9  ANI AUS OBF POT tha   primogen     Nosferatu:3
+1x Cailean                       10  ANI OBF POT PRE dom   archbishop   Nosferatu antitribu:2
+1x Casino Reeds                   9  ANI OBF POT cel dem   prince       Nosferatu:3
+1x Calebos                        8  ANI OBF POT cel       bishop       Nosferatu antitribu:2
+1x Tammy Walenski                 8  ANI OBF POT nec tha                Nosferatu:3
+1x Kendrick                       7  ANI POT aus obf       priscus      Nosferatu antitribu:2
+1x Teresita, The Godmother        7  ANI OBF POT for                    Nosferatu antitribu:3
+1x Gerard Rafin                   6  OBF POT ani for                    Nosferatu:3
+1x Amelia, The Blood Red Tears    5  POT ani obf                        Nosferatu:3
 
 Library (83 cards)
 Master (9)

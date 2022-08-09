@@ -8,9 +8,10 @@ Steven McRoy
 
 -- Unknown
 
-Arika Turbo
+Deck Name: Arika Turbo
 
-Comments: Well the run is you get Arika out, wait a turn
+Description:
+Well the run is you get Arika out, wait a turn
 (hopefully no pentex, smash, or her getting torped), next
 you equip her with soul gem, Freak Drive to untap, then
 call Praxis S whatever to increase her capacity +1 and to
@@ -29,7 +30,7 @@ repeat until you have wiped everyone out
 
 Crypt (15 cards, min=44 max=44 avg=11.0)
 ----------------------------------------
-15x Arika   11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2 -- could have more, 15 was enough
+15x Arika   11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
 
 Library (90 cards)
 Action (20)
@@ -48,10 +49,10 @@ Action Modifier (50)
 10x Awe
 10x Conditioning
 10x Daring the Dawn
-3x Elder Impersonation -- would exchange for Faceless Night x4
-5x Forgotten Labyrinth -- would add one more
+3x Elder Impersonation
+5x Forgotten Labyrinth
 10x Freak Drive
-2x Seduction -- would delete
+2x Seduction
 
 Combat (3)
 3x Majesty

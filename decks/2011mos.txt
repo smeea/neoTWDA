@@ -8,8 +8,9 @@ Erik Torstensson
 
 -- Unknown
 
-instead of lots
+Deck Name: instead of lots
 
+Description:
 high caps instead of low caps
 infernal pursuit instead of liquidation
 +1 bleed instead of -1 stealth on every action she performs against
@@ -21,15 +22,15 @@ giant's blood during master phase instead of discard phase
 
 Crypt (12 cards, min=26 max=43 avg=8.58)
 ----------------------------------------
-4x Anson                        8  aus dom CEL PRE           prince         Toreador:1
-3x Alexandra                   11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-2x Volker, The Puppet Prince    5  pot CEL                   prince         Brujah:2
-1x Anneke                      10  dom AUS CEL PRE           justicar       Toreador:1
-1x François Villon             10  chi obf pot AUS CEL PRE   prince         Toreador:2
-1x Marcellus                    8  pro AUS CEL               prince         Toreador:2
+4x Anson                        8  CEL PRE aus dom           prince         Toreador:1
+3x Alexandra                   11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+2x Volker, The Puppet Prince    5  CEL pot                   prince         Brujah:2
+1x Anneke                      10  AUS CEL PRE dom           justicar       Toreador:1
+1x François Villon             10  AUS CEL PRE chi obf pot   prince         Toreador:2
+1x Marcellus                    8  AUS CEL pro               prince         Toreador:2
 
 Library (79 cards)
-Master (34)
+Master (34; 6 trifle)
 9x Ashur Tablets
 1x Dreams of the Sphinx
 1x Erciyes Fragments, The

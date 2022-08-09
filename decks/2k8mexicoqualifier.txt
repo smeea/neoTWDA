@@ -8,8 +8,9 @@ Matthew Morgan
 
 -- 5vp in the final
 
-La Cancion de la Patata Magica
+Deck Name: La Cancion de la Patata Magica
 
+Description:
 I suppose there's not a ton of strategy here except that
 it's better to bleed for a lot with everyone than bleed for a lot with
 only one or two minions.
@@ -41,10 +42,10 @@ idea here.
 
 Crypt (12 cards, min=23 max=32 avg=6.92)
 ----------------------------------------
-4x Pherydima                 8  obt pot DOM MYT NEC   bishop    Kiasyd:4
-3x Omme Enberbenight         7  cel dom MYT OBT       priscus   Kiasyd:4
-3x Roderick Phillips March   7  cel obt tha DOM MYT             Kiasyd:4
-1x Dame Hollerton            5  myt DOM OBT                     Kiasyd:4
+4x Pherydima                 8  DOM MYT NEC obt pot   bishop    Kiasyd:4
+3x Omme Enberbenight         7  MYT OBT cel dom       priscus   Kiasyd:4
+3x Roderick Phillips March   7  DOM MYT cel obt tha             Kiasyd:4
+1x Dame Hollerton            5  DOM OBT myt                     Kiasyd:4
 1x Quincy, The Trapper       4  dom myt obt                     Kiasyd:3
 
 Library (83 cards)

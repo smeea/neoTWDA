@@ -6,21 +6,20 @@ July 11th 2021
 Nicola Lonardi
 https://www.vekn.net/event-calendar/event/9816
 
--- Unknown
+-- 1gw, 4vps in finals
 
-Diario 1.0
+Deck Name: Diario 1.0
 
-1gw, 4vps in finals
-
+Description:
 Classic Khazar swarm deck
 
 Crypt (12 cards, min=6 max=18 avg=3.0)
 --------------------------------------
 2x Tupdog                            1  POT VIS          Gargoyle:3
-1x Isabel Giovanni                   5  pot DOM NEC      Giovanni:2
-1x Le Dinh Tho                       5  aus dom NEC      Nagaraja:2
+1x Isabel Giovanni                   5  DOM NEC pot      Giovanni:2
+1x Le Dinh Tho                       5  NEC aus dom      Nagaraja:2
 1x Francesca Giovanni                4  dom nec pot      Giovanni:2
-1x Gloria Giovanni                   4  nec DOM          Giovanni:2
+1x Gloria Giovanni                   4  DOM nec          Giovanni:2
 1x Cristofero Giovanni               3  nec pot          Giovanni:2
 1x Lia Milliner                      3  dom nec          Giovanni:3
 1x Mario Giovanni                    3  nec pot          Giovanni:2
@@ -29,7 +28,7 @@ Crypt (12 cards, min=6 max=18 avg=3.0)
 1x Paul DiCarlo, The Alpha           2  pot              Giovanni:2
 
 Library (90 cards)
-Master (24)
+Master (24; 4 trifle)
 3x Acquired Ventrue Assets
 1x Direct Intervention
 3x Jake Washington

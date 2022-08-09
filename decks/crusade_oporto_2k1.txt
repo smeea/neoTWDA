@@ -8,21 +8,22 @@ https://web.archive.org/web/20021112000109/http://planeta.clix.pt/vampire/tornei
 
 -- Unknown
 
-Giovanni Dominate
+Deck Name: Giovanni Dominate
 
+Description:
 Type: Unblock&Bleed
 
 Crypt (12 cards, min=12 max=28 avg=5.08)
 ----------------------------------------
-3x Gloria Giovanni                   4  nec DOM              Giovanni:2
-2x Andrea Giovanni                   7  pot vic DOM NEC      Giovanni:2
-2x Gillespi Giovanni                 7  aus DOM NEC POT      Giovanni:2
-2x Stefano Giovanni                  6  nec pot pre DOM      Giovanni:2
+3x Gloria Giovanni                   4  DOM nec              Giovanni:2
+2x Andrea Giovanni                   7  DOM NEC pot vic      Giovanni:2
+2x Gillespi Giovanni                 7  DOM NEC POT aus      Giovanni:2
+2x Stefano Giovanni                  6  DOM nec pot pre      Giovanni:2
 2x Marciana Giovanni, Investigator   2  dom                  Giovanni:2
-1x Isabel Giovanni                   5  pot DOM NEC          Giovanni:2
+1x Isabel Giovanni                   5  DOM NEC pot          Giovanni:2
 
 Library (90 cards)
-Master (16)
+Master (16; 1 trifle)
 1x Barrens, The
 5x Blood Doll
 1x Coven, The

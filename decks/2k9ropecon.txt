@@ -8,8 +8,9 @@ Adam Esbjörnsson
 
 -- Unknown
 
-Tutte bjuder till fest
+Deck Name: Tutte bjuder till fest
 
+Description:
 The deck is best slow-played, not to show off too much
 dominate to keep the table guessing at whether you play combat or
 votes. Using mirror walk and obedience to never get into a combat you
@@ -21,14 +22,14 @@ that.
 
 Crypt (12 cards, min=23 max=40 avg=8.08)
 ----------------------------------------
-5x Gabrielle di Righetti   10  obf pot ANI AUS DOM THA   justicar   Tremere:5
-1x Dr. John Dee             9  chi ANI AUS DOM THA       prince     Tremere:4
-1x Troius                   8  cel AUS DOM THA           prince     Tremere:4
-1x Graham Gottesman         7  obf pre tha DOM FOR       prince     Ventrue:5
-1x Preston Varrick          7  aus nec DOM OBF THA                  Tremere:4
-1x Muhsin Samir             6  aus pot DOM THA                      Tremere:4
+5x Gabrielle di Righetti   10  ANI AUS DOM THA obf pot   justicar   Tremere:5
+1x Dr. John Dee             9  ANI AUS DOM THA chi       prince     Tremere:4
+1x Troius                   8  AUS DOM THA cel           prince     Tremere:4
+1x Graham Gottesman         7  DOM FOR obf pre tha       prince     Ventrue:5
+1x Preston Varrick          7  DOM OBF THA aus nec                  Tremere:4
+1x Muhsin Samir             6  DOM THA aus pot                      Tremere:4
 1x Andrew Stuart            5  AUS DOM THA                          Tremere:4
-1x Claus Wegener            5  aus for tha DOM                      Tremere:5
+1x Claus Wegener            5  DOM aus for tha                      Tremere:5
 
 Library (76 cards)
 Master (8)

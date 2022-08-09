@@ -8,21 +8,22 @@ Leonardo Ribeiro Dias
 
 -- Unknown
 
-Guillaume Turbo-Hand
+Deck Name: Guillaume Turbo-Hand
 
+Description:
 Using the Guillaume's Advantage. Why not?
 
 Crypt (12 cards, min=20 max=36 avg=7.0)
 ---------------------------------------
-5x Guillaume Giovanni   9  obt CEL DOM NEC POT      Giovanni:4
-2x Zygodat              6  pot AUS NEC              Harbinger of Skulls:4
+5x Guillaume Giovanni   9  CEL DOM NEC POT obt      Giovanni:4
+2x Zygodat              6  AUS NEC pot              Harbinger of Skulls:4
 2x Abdelsobek           5  for nec obf pre ser      Ministry:5
-1x Gualtiero Ghiberti   7  cel pot tha DOM NEC      Giovanni:4
-1x Raphaela Giovanni    6  pot pre DOM NEC          Giovanni:4
-1x Thomasso Ghiberti    4  pot NEC                  Giovanni:4
+1x Gualtiero Ghiberti   7  DOM NEC cel pot tha      Giovanni:4
+1x Raphaela Giovanni    6  DOM NEC pot pre          Giovanni:4
+1x Thomasso Ghiberti    4  NEC pot                  Giovanni:4
 
 Library (90 cards)
-Master (30)
+Master (30; 4 trifle)
 1x Barrens, The
 1x Charisma
 1x Fortschritt Library

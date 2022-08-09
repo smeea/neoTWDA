@@ -8,8 +8,9 @@ Luis Duarte
 
 -- Unknown
 
-Gangrel say goodbye to the Camarilla!
+Deck Name: Gangrel say goodbye to the Camarilla!
 
+Description:
 Type: Vote/Bloat
 
 The deck strength resides on the vampires titles. The big ones can be
@@ -37,9 +38,9 @@ blood after playing some protean action modifiers.
 
 Crypt (12 cards, min=13 max=39 avg=7.33)
 ----------------------------------------
-3x Angus the Unruled     10  cel for pot ANI PRO   justicar   Gangrel:1
-3x Ingrid Rossler         9  dom ANI FOR PRO       prince     Gangrel:2
-2x Katarina               9  pot pro ANI FOR       prince     Gangrel:2
+3x Angus the Unruled     10  ANI PRO cel for pot   justicar   Gangrel:1
+3x Ingrid Rossler         9  ANI FOR PRO dom       prince     Gangrel:2
+2x Katarina               9  ANI FOR pot pro       prince     Gangrel:2
 2x Chandler Hungerford    3  PRO                              Gangrel:2
 1x Ramona                 4  for pro                          Gangrel:2
 1x Ricki Van Demsi        3  for pro                          Gangrel:1

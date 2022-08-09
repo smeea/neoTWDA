@@ -8,8 +8,9 @@ http://web.archive.org/web/20030118091821fw_/http://www.oricom.ca/melkor/vekn_qu
 
 -- Unknown
 
-GAGNER SANS DOMINATE NI PRESENCE (Montreal version)
+Deck Name: GAGNER SANS DOMINATE NI PRESENCE (Montreal version)
 
+Description:
 This is the winning deck of Hugues Bertrand for the tournament Theo Bell
 Invitational, held in Montreal on September 8, 2001.  It's a new version of the deck he
 played at the Lure of the Serpent tournament.  Note: The name of the deck can be
@@ -17,15 +18,15 @@ translated something like this:  "Winning without Dominate and Presence"
 
 Crypt (12 cards, min=23 max=38 avg=7.83)
 ----------------------------------------
-2x Sheldon, Lord of the Clog    9  for ANI AUS OBF POT       justicar   Nosferatu:1
-2x Selma the Repugnant          8  ani for OBF POT           prince     Nosferatu:1
-2x Nikolaus Vermeulen           7  ani for obf POT           prince     Nosferatu:2
-1x Angus the Unruled           10  cel for pot ANI PRO       justicar   Gangrel:1
-1x Ulugh Beg, The Watcher      10  cel for pot AUS DOM THA   justicar   Tremere:1
-1x Suhailah                     9  pot ser FOR OBF           prince     Ventrue:2
-1x Emerson Bridges              8  pot DOM FOR PRE           prince     Ventrue:1
-1x Calebros, The Martyr         5  obf pot ANI               prince     Nosferatu:2
-1x Jimmy Dunn                   4  for CEL POT                          Pander:2
+2x Sheldon, Lord of the Clog    9  ANI AUS OBF POT for       justicar   Nosferatu:1
+2x Selma the Repugnant          8  OBF POT ani for           prince     Nosferatu:1
+2x Nikolaus Vermeulen           7  POT ani for obf           prince     Nosferatu:2
+1x Angus the Unruled           10  ANI PRO cel for pot       justicar   Gangrel:1
+1x Ulugh Beg, The Watcher      10  AUS DOM THA cel for pot   justicar   Tremere:1
+1x Suhailah                     9  FOR OBF pot ser           prince     Ventrue:2
+1x Emerson Bridges              8  DOM FOR PRE pot           prince     Ventrue:1
+1x Calebros, The Martyr         5  ANI obf pot               prince     Nosferatu:2
+1x Jimmy Dunn                   4  CEL POT for                          Pander:2
 
 Library (90 cards)
 Master (12)

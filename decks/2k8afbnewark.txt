@@ -8,21 +8,20 @@ Brad Cashdollar
 
 -- Unknown
 
-Unknown
-
+Description:
 "Darkbob's Angry Dragon"
 By Brad Cashdollar
 
 Crypt (12 cards, min=27 max=36 avg=8.08)
 ----------------------------------------
-3x Nehemiah                      9  obt POT PRE SER TEM   2 votes   True Brujah:4
-3x Shemti                        9  vic OBF POT PRE SER   1 vote    Ministry:5
-3x Bupe Kuila                    7  pre OBF POT SER                 Ministry:4
-2x Cagliostro, The Grand Copht   8  nec pot OBF PRE SER             Ministry:4
-1x Clea Auguste d'Holford        6  pre ser OBF POT                 Ministry:5
+3x Nehemiah                      9  POT PRE SER TEM obt   2 votes   True Brujah:4
+3x Shemti                        9  OBF POT PRE SER vic   1 vote    Ministry:5
+3x Bupe Kuila                    7  OBF POT SER pre                 Ministry:4
+2x Cagliostro, The Grand Copht   8  OBF PRE SER nec pot             Ministry:4
+1x Clea Auguste d'Holford        6  OBF POT pre ser                 Ministry:5
 
 Library (88 cards)
-Master (14)
+Master (14; 2 trifle)
 1x Blood Doll
 2x Fame
 1x Giant's Blood

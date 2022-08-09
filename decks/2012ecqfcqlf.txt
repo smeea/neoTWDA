@@ -6,19 +6,17 @@ March 31st 2012
 Mathieu Rivero
 
 
--- Unknown
+-- 1GW4 (5th seed) + 1.5VP in final
 
-Embrace moi si tu peux !!
-
-1GW4 (5th seed) + 1.5VP in final
+Deck Name: Embrace moi si tu peux !!
 
 Crypt (12 cards, min=9 max=19 avg=3.5)
 --------------------------------------
 1x Andrei Puxon                   5  ani cel chi for      Ravnos:2
-1x Ghivran Dalaal, The Dead God   5  ani aus chi FOR      Ravnos:2
-1x Khalil Ravana                  5  ani for pre CHI      Ravnos:2
+1x Ghivran Dalaal, The Dead God   5  FOR ani aus chi      Ravnos:2
+1x Khalil Ravana                  5  CHI ani for pre      Ravnos:2
 1x Anka, Priestess of Thorns      4  ani chi pro          Ravnos:2
-1x Salbatore Bokkengro            4  for pro CHI          Ravnos:2
+1x Salbatore Bokkengro            4  CHI for pro          Ravnos:2
 1x Sennuwy, The Promoter          4  ani chi for          Ravnos:2
 1x Lázár Dobrescu                 3  for                  Ravnos:2
 1x Tsigane                        3  aus chi              Ravnos:2

@@ -8,8 +8,9 @@ David Tatu
 
 -- 4vp in the final
 
-John's Powerless
+Deck Name: John's Powerless
 
+Description:
 Created after Witness1
 
 Crypt (12 cards, min=16 max=20 avg=4.33)
@@ -25,7 +26,7 @@ Crypt (12 cards, min=16 max=20 avg=4.33)
 1x Marion "Teacher193" Perks      4  red jud          Redeemer:4
 
 Library (90 cards)
-Master (12)
+Master (12; 1 trifle)
 4x Angel of Berlin
 1x Archon Investigation
 1x Church of Vindicated Faith, The

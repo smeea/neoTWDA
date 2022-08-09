@@ -8,8 +8,9 @@ Ronan Seal Castro
 
 -- Unknown
 
-Van Helsing's Tricks
+Deck Name: Van Helsing's Tricks
 
+Description:
 Imbued Toolbox
 
 Crypt (12 cards, min=15 max=21 avg=4.42)
@@ -25,7 +26,7 @@ Crypt (12 cards, min=15 max=21 avg=4.42)
 1x François "Warden" Loehr        3  def jud          Judge:4
 
 Library (68 cards)
-Master (18)
+Master (18; 1 trifle)
 5x Angel of Berlin
 2x Church of Vindicated Faith, The
 1x Fame

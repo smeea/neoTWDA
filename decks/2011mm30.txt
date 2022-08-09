@@ -8,17 +8,15 @@ Heikki Palomäki
 
 -- Unknown
 
-Mexican time out
-
-Unknown
+Deck Name: Mexican time out
 
 Crypt (13 cards, min=13 max=36 avg=6.23)
 ----------------------------------------
-5x Joaquin Murietta        9  obf pre qui AUS CEL            Toreador:3
-1x Ira Rivers              7  ani pre AUS CEL       prince   Toreador:3
-1x Dominique Santo Paulo   6  pot pre AUS CEL                Toreador antitribu:4
+5x Joaquin Murietta        9  AUS CEL obf pre qui            Toreador:3
+1x Ira Rivers              7  AUS CEL ani pre       prince   Toreador:3
+1x Dominique Santo Paulo   6  AUS CEL pot pre                Toreador antitribu:4
 1x Homa                    6  AUS CEL POT                    Osebo:4
-1x Idrissa                 4  aus CEL                        Osebo:4
+1x Idrissa                 4  CEL aus                        Osebo:4
 1x Lin Jun                 4  aus cel pre tha                Toreador:4
 1x Gengis                  3  aus cel pot                    Brujah:3
 1x Monique Kim             3  aus cel                        Toreador antitribu:4

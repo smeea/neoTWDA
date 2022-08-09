@@ -8,8 +8,7 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/VxNIRLLpGmc
 
 -- Unknown
 
-Unknown
-
+Description:
 Scourge of El Segundo
 "A" vote deck
 
@@ -71,8 +70,8 @@ tourney, where were the Malks?
 
 Crypt (12 cards, min=36 max=44 avg=10.0)
 ----------------------------------------
-6x Arika              11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-6x Natasha Volfchek    9  cel dom pot FOR PRE       primogen       Ventrue:1
+6x Arika              11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+6x Natasha Volfchek    9  FOR PRE cel dom pot       primogen       Ventrue:1
 
 Library (90 cards)
 Master (20)

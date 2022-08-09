@@ -8,8 +8,9 @@ Hugh Angseesing
 
 -- 3vp in the final
 
-Dualism in America
+Deck Name: Dualism in America
 
+Description:
 Very flexible deck based upon Marko's Dualism deck.
 Main changes are reducing the dual forms by three
 as I was seeing far too much combat in the previous
@@ -21,16 +22,16 @@ Rubrics, as I never seem to draw it when I have Ondine anyway.
 
 Crypt (12 cards, min=12 max=36 avg=6.08)
 ----------------------------------------
-3x Ondine "Boudicca" Sinclair   9  obt AUS CEL PRE PRO                Toreador antitribu:5
-2x Malabranca                   9  obf AUS CEL PRE PRO   archbishop   Toreador antitribu:4
-2x Redbone McCray               6  cel pro AUS PRE                    Toreador antitribu:4
+3x Ondine "Boudicca" Sinclair   9  AUS CEL PRE PRO obt                Toreador antitribu:5
+2x Malabranca                   9  AUS CEL PRE PRO obf   archbishop   Toreador antitribu:4
+2x Redbone McCray               6  AUS PRE cel pro                    Toreador antitribu:4
 2x L'Épuisette                  4  aus cel pro                        Toreador antitribu:4
 1x Jonathan Gursel              3  aus pre                            Toreador antitribu:4
 1x Monique Kim                  3  aus cel                            Toreador antitribu:4
 1x Justine Chen, Innocent       2  pre                                Toreador antitribu:4
 
 Library (90 cards)
-Master (22)
+Master (22; 6 trifle)
 1x Blood Doll
 2x Direct Intervention
 1x Fetish Club Hunting Ground

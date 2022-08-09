@@ -8,21 +8,19 @@ Mathieu Subra
 
 -- Unknown
 
-lucky 7 setite
-
-Unknown
+Deck Name: lucky 7 setite
 
 Crypt (12 cards, min=10 max=40 avg=6.5)
 ---------------------------------------
 4x Nakhthorheb                   10  OBF PRE SER                      Ministry:4
-2x Cagliostro, The Grand Copht    8  nec pot OBF PRE SER              Ministry:4
+2x Cagliostro, The Grand Copht    8  OBF PRE SER nec pot              Ministry:4
 2x Ahmose Chambers                3  obf ser                          Ministry:5
 2x Belle Equitone                 2  ser                              Ministry:4
-1x Amenophobis                    7  dom pre OBF SER       primogen   Ministry:4
+1x Amenophobis                    7  OBF SER dom pre       primogen   Ministry:4
 1x Abdelsobek                     5  for nec obf pre ser              Ministry:5
 
 Library (77 cards)
-Master (19)
+Master (19; 5 trifle)
 3x Dreams of the Sphinx
 5x Eternals of Sirius, The
 1x Golconda: Inner Peace

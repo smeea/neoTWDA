@@ -8,17 +8,18 @@ http://web.archive.org/web/20030118092302fw_/http://www.oricom.ca/melkor/vekn_qu
 
 -- Unknown
 
-Potent Vitae
+Deck Name: Potent Vitae
 
+Description:
 Assamite toolbox with 6 disciplines. Lot of fun !
 
 Crypt (12 cards, min=25 max=35 avg=7.67)
 ----------------------------------------
-3x Tegyrius, Vizier    9  pre AUS CEL FOR QUI      Banu Haqim:2
-2x Bajazet al-Nasir    8  cel for pre OBF QUI      Banu Haqim:2
-2x Cornelius Ottavio   8  pre qui AUS OBF          Malkavian:2
-2x Fatima al-Faqadi    8  aus for CEL OBF QUI      Banu Haqim:2
-2x Tariq, The Silent   7  cel AUS FOR OBF QUI      Banu Haqim:2
+3x Tegyrius, Vizier    9  AUS CEL FOR QUI pre      Banu Haqim:2
+2x Bajazet al-Nasir    8  OBF QUI cel for pre      Banu Haqim:2
+2x Cornelius Ottavio   8  AUS OBF pre qui          Malkavian:2
+2x Fatima al-Faqadi    8  CEL OBF QUI aus for      Banu Haqim:2
+2x Tariq, The Silent   7  AUS FOR OBF QUI cel      Banu Haqim:2
 1x Harika Guljan       3  QUI                      Banu Haqim:2
 
 Library (90 cards)

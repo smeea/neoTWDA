@@ -8,15 +8,13 @@ Miguel del Valle
 
 -- Unknown
 
-Me pareció ver un lindo gatito
-
-Unknown
+Deck Name: Me pareció ver un lindo gatito
 
 Crypt (17 cards, min=4 max=21 avg=2.0)
 --------------------------------------
 14x Tupdog           1  POT VIS                         Gargoyle:3
-2x  Mata Hari        7  aus for qui CHI OBF   2 votes   Ravnos:4
-1x  Shawnda Dorrit   6  obt pot pre CEL       priscus   Brujah antitribu:4
+2x  Mata Hari        7  CHI OBF aus for qui   2 votes   Ravnos:4
+1x  Shawnda Dorrit   6  CEL obt pot pre       priscus   Brujah antitribu:4
 
 Library (60 cards)
 Master (10)

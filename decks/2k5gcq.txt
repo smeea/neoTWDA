@@ -8,17 +8,15 @@ Andreas Nusser
 
 -- Unknown
 
-Tempting
-
-Unknown
+Deck Name: Tempting
 
 Crypt (12 cards, min=14 max=28 avg=5.25)
 ----------------------------------------
-2x Kephamos, High Priest of Marrakech   8  dom obf pre SER   2 votes   Ministry:2
-2x Hesha Ruhadze                        6  ani obf pre SER             Ministry:2
-2x Count Ormonde                        5  dom pre ser OBF             Ministry:2
-1x Ezekiel, Lord of Montreal            6  obf pot PRE SER             Ministry:3
-1x Sir Marriot D'Urban                  5  aus obf ser PRE             Ministry:2
+2x Kephamos, High Priest of Marrakech   8  SER dom obf pre   2 votes   Ministry:2
+2x Hesha Ruhadze                        6  SER ani obf pre             Ministry:2
+2x Count Ormonde                        5  OBF dom pre ser             Ministry:2
+1x Ezekiel, Lord of Montreal            6  PRE SER obf pot             Ministry:3
+1x Sir Marriot D'Urban                  5  PRE aus obf ser             Ministry:2
 1x Hadrian Garrick                      4  obf pre                     Ministry:2
 1x Nepata                               4  obf pre ser                 Ministry:2
 1x Celine Chevalier                     3  obf ser                     Ministry:2

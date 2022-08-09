@@ -8,24 +8,25 @@ Tomas Wallmur
 
 -- 3vp in the final
 
-The Hotelkedja
+Deck Name: The Hotelkedja
 
+Description:
 SB with Hotel. Govern down until you have enough minions then bleed.
 Yes I know its kinda revoloutionary, but give it a try.
 
 Crypt (13 cards, min=22 max=36 avg=7.31)
 ----------------------------------------
-5x Guillaume Giovanni      9  obt CEL DOM NEC POT            Giovanni:4
+5x Guillaume Giovanni      9  CEL DOM NEC POT obt            Giovanni:4
 2x Isanwayen               6  DOM MYT OBT                    Kiasyd:4
-1x Pherydima               8  obt pot DOM MYT NEC   bishop   Kiasyd:4
-1x Henri Lavenant          7  pot qui DOM OBT                Lasombra:3
-1x Tobias Smith            7  pot DOM OBT PRE                Lasombra:3
-1x Onaedo                  6  aus pot DOM OBT                Lasombra:4
-1x Dame Hollerton          5  myt DOM OBT                    Kiasyd:4
-1x Ermenegildo, The Rake   5  pot DOM OBT                    Lasombra:4
+1x Pherydima               8  DOM MYT NEC obt pot   bishop   Kiasyd:4
+1x Henri Lavenant          7  DOM OBT pot qui                Lasombra:3
+1x Tobias Smith            7  DOM OBT PRE pot                Lasombra:3
+1x Onaedo                  6  DOM OBT aus pot                Lasombra:4
+1x Dame Hollerton          5  DOM OBT myt                    Kiasyd:4
+1x Ermenegildo, The Rake   5  DOM OBT pot                    Lasombra:4
 
 Library (90 cards)
-Master (27)
+Master (27; 7 trifle)
 1x Barrens, The
 3x Coven, The
 1x Elysian Fields

@@ -8,17 +8,16 @@ http://www.thepathofblood.com/forums/viewtopic.php?t=988
 
 -- Unknown
 
-Unknown
-
+Description:
 Tegyrius, Wall
 
 Crypt (13 cards, min=15 max=36 avg=6.92)
 ----------------------------------------
-5x Tegyrius, Vizier   9  pre AUS CEL FOR QUI      Banu Haqim:2
-2x Fatima al-Faqadi   8  aus for CEL OBF QUI      Banu Haqim:2
-2x Parnassus          7  aus tha CEL QUI          Banu Haqim:2
-1x Felicia Mostrom    5  pre AUS CEL              Toreador:1
-1x Dorian Strack      4  cel AUS                  Toreador:1
+5x Tegyrius, Vizier   9  AUS CEL FOR QUI pre      Banu Haqim:2
+2x Fatima al-Faqadi   8  CEL OBF QUI aus for      Banu Haqim:2
+2x Parnassus          7  CEL QUI aus tha          Banu Haqim:2
+1x Felicia Mostrom    5  AUS CEL pre              Toreador:1
+1x Dorian Strack      4  AUS cel                  Toreador:1
 1x Colin Flynn        3  aus cel                  Toreador:1
 1x Isabel de Leon     3  AUS                      Toreador:2
 

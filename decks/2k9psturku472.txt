@@ -8,16 +8,15 @@ Otso Saariluoma
 
 -- 3vp in the final
 
-Unknown
-
+Description:
 Based on decks by Iñaki Puigdollers and Yannick Gibert.
 
 Crypt (12 cards, min=5 max=17 avg=2.83)
 ---------------------------------------
-2x Victoria         5  cel obf AUS      Malkavian:2
-2x Zöe              3  cel obf AUS      Malkavian:2
+2x Victoria         5  AUS cel obf      Malkavian:2
+2x Zöe              3  AUS cel obf      Malkavian:2
 2x Anarch Convert   1                   Caitiff:ANY
-1x Aleph            4  dom AUS          Malkavian:1
+1x Aleph            4  AUS dom          Malkavian:1
 1x Dollface         3  aus obf          Malkavian:1
 1x Isabel de Leon   3  AUS              Toreador:2
 1x Watenda          3  obf              Malkavian:2
@@ -25,7 +24,7 @@ Crypt (12 cards, min=5 max=17 avg=2.83)
 1x Franciscus       1  aus              Caitiff:2
 
 Library (75 cards)
-Master (14)
+Master (14; 4 trifle)
 2x Direct Intervention
 2x Madness Network
 1x Pentex(TM) Subversion

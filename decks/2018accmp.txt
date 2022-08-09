@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9050
 
 -- 2gw3 + 4vp in the final
 
-Horsemen of Gehenna
+Deck Name: Horsemen of Gehenna
 
+Description:
 Gehenna Imbued Deck
 
 Crypt (12 cards, min=13 max=20 avg=4.25)

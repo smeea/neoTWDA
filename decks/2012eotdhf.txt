@@ -8,8 +8,9 @@ Aleksi Nuora
 
 -- 2.5vp in the final
 
-The Shalmath Limb Donor Foundation
+Deck Name: The Shalmath Limb Donor Foundation
 
+Description:
 Rush immediate threats, tool up Shalmath.
 Remove prey's defense and follow up with Andre + 1-caps.
 
@@ -24,7 +25,7 @@ Crypt (12 cards, min=4 max=40 avg=5.08)
 1x Walker Grimes     1  ani              Caitiff:5
 
 Library (71 cards)
-Master (16)
+Master (16; 6 trifle)
 4x Ashur Tablets
 1x Channel 10
 1x Guardian Angel

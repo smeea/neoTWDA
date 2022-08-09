@@ -8,8 +8,9 @@ Robert Scythe
 
 -- Unknown
 
-City Ahrimanes
+Deck Name: City Ahrimanes
 
+Description:
 Toolbox Ahrimanes that try to get their actions through.
 A thorough mix of bleed/bloat, intercept and offensive/defensive
 combat. this deck normally has no Mind Numbs, Vessels or Dreams and
@@ -18,12 +19,12 @@ a Jake and a Heart of Nizchetus.
 
 Crypt (12 cards, min=24 max=32 avg=7.0)
 ---------------------------------------
-4x Howler           8  obf ANI PRE SPI      Ahrimane:2
-4x Siamese, The     7  ani pro PRE SPI      Ahrimane:2
-4x Cynthia Ingold   6  ani for pre SPI      Ahrimane:2
+4x Howler           8  ANI PRE SPI obf      Ahrimane:2
+4x Siamese, The     7  PRE SPI ani pro      Ahrimane:2
+4x Cynthia Ingold   6  SPI ani for pre      Ahrimane:2
 
 Library (90 cards)
-Master (12)
+Master (12; 1 trifle)
 3x Blood Doll
 1x Club Zombie
 1x Direct Intervention

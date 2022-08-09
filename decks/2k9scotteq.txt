@@ -6,29 +6,26 @@ July 11th 2009
 Hugh Angseesing
 http://www.anarchfreepress.com/vtesuk/viewtopic.php?t=610
 
--- Unknown
+-- 1.5, 3, 1.5 + 1.5 in final
 
-Unknown
-
-1.5, 3, 1.5 + 1.5 in final
-
+Description:
 Janey's got a real nice pair o' claws.
 
 Crypt (12 cards, min=15 max=25 avg=5.08)
 ----------------------------------------
-3x Janey Pickman         6  for ANI PRO              Gangrel antitribu:4
-1x Doyle Fincher         7  aus for obf ANI PRO      Gangrel antitribu:4
-1x Horrock               6  vic ANI PRO              Gangrel:3
-1x Céleste Lamontagne    5  for ANI PRO              Gangrel antitribu:4
-1x Dr. Allan Woodstock   5  ani aus for PRO          Gangrel:3
-1x Jacob Fermor          5  ani tha PRO              Gangrel:4
-1x Mowgli                5  ani cel FOR PRO          Gangrel antitribu:4
-1x Bobby Lemon           4  pro ANI                  Gangrel:3
-1x Gunnar                4  for PRO                  Gangrel:4
+3x Janey Pickman         6  ANI PRO for              Gangrel antitribu:4
+1x Doyle Fincher         7  ANI PRO aus for obf      Gangrel antitribu:4
+1x Horrock               6  ANI PRO vic              Gangrel:3
+1x Céleste Lamontagne    5  ANI PRO for              Gangrel antitribu:4
+1x Dr. Allan Woodstock   5  PRO ani aus for          Gangrel:3
+1x Jacob Fermor          5  PRO ani tha              Gangrel:4
+1x Mowgli                5  FOR PRO ani cel          Gangrel antitribu:4
+1x Bobby Lemon           4  ANI pro                  Gangrel:3
+1x Gunnar                4  PRO for                  Gangrel:4
 1x Robert Price          2  pro                      Gangrel:4
 
 Library (90 cards)
-Master (18)
+Master (18; 5 trifle)
 1x Archon Investigation
 1x Campground Hunting Ground
 1x Channel 10

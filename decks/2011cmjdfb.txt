@@ -8,21 +8,19 @@ Danilo Fernandes
 
 -- Unknown
 
-Laibons AyeAyeAye
-
-Unknown
+Deck Name: Laibons AyeAyeAye
 
 Crypt (12 cards, min=20 max=39 avg=7.92)
 ----------------------------------------
-3x Ayo Igoli     10  obf tha AUS CEL FOR PRE            Ishtarri:4
-3x Kabede Maru    9  abo pot AUS CEL OBF QUI   magaji   Banu Haqim:5
-3x Massassi       9  obf AUS CEL POT QUI                Osebo:4
+3x Ayo Igoli     10  AUS CEL FOR PRE obf tha            Ishtarri:4
+3x Kabede Maru    9  AUS CEL OBF QUI abo pot   magaji   Banu Haqim:5
+3x Massassi       9  AUS CEL POT QUI obf                Osebo:4
 1x Guedado        4  aus obf vic                        Tzimisce:4
-1x Idrissa        4  aus CEL                            Osebo:4
+1x Idrissa        4  CEL aus                            Osebo:4
 1x Kalila         3  aus obf                            Malkavian:5
 
 Library (90 cards)
-Master (20)
+Master (20; 13 trifle)
 9x Aye
 2x Mbare Market, Harare
 1x Pentex(TM) Subversion

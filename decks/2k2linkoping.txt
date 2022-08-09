@@ -8,17 +8,18 @@ Henrik Isaksson
 
 -- Unknown
 
-The Big Eye sees you!
+Deck Name: The Big Eye sees you!
 
+Description:
 Intercept everything!
 
 Crypt (12 cards, min=8 max=16 avg=3.0)
 --------------------------------------
-2x Idalia, Prophet of Guadalajara   4  dem AUS          Malkavian antitribu:2
+2x Idalia, Prophet of Guadalajara   4  AUS dem          Malkavian antitribu:2
 2x Isabel de Leon                   3  AUS              Toreador:2
-2x Zöe                              3  cel obf AUS      Malkavian:2
-1x Aleph                            4  dom AUS          Malkavian:1
-1x Dorian Strack                    4  cel AUS          Toreador:1
+2x Zöe                              3  AUS cel obf      Malkavian:2
+1x Aleph                            4  AUS dom          Malkavian:1
+1x Dorian Strack                    4  AUS cel          Toreador:1
 1x Dollface                         3  aus obf          Malkavian:1
 1x Brazil                           2  aus              Malkavian:1
 1x Dieter Kleist                    2  aus              Toreador:1

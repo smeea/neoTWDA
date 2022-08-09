@@ -8,8 +8,7 @@ http://www.lightlink.com/pdb6
 
 -- Unknown
 
-Unknown
-
+Description:
 Bats with Birds in Their Mouths
 
 (* and when they echo-locate, they shoot birds at you.)
@@ -18,11 +17,11 @@ Peter D Bakija
 
 Crypt (12 cards, min=7 max=21 avg=3.33)
 ---------------------------------------
-1x Christanius Lionel, The Mad Chronicler   6  pot ANI OBF            Nosferatu antitribu:2
-1x Calebros, The Martyr                     5  obf pot ANI   prince   Nosferatu:2
-1x Devin Bisley                             5  vic ANI AUS            Tzimisce:2
-1x Nigel the Shunned                        5  obf ANI POT            Nosferatu antitribu:2
-1x Bobby Lemon                              4  pro ANI                Gangrel:3
+1x Christanius Lionel, The Mad Chronicler   6  ANI OBF pot            Nosferatu antitribu:2
+1x Calebros, The Martyr                     5  ANI obf pot   prince   Nosferatu:2
+1x Devin Bisley                             5  ANI AUS vic            Tzimisce:2
+1x Nigel the Shunned                        5  ANI POT obf            Nosferatu antitribu:2
+1x Bobby Lemon                              4  ANI pro                Gangrel:3
 1x Shannon Price, the Whisperer             3  ani obf                Nosferatu antitribu:2
 1x Tommy                                    3  ani pot                Nosferatu antitribu:2
 1x Dani                                     2  ani                    Nosferatu antitribu:2

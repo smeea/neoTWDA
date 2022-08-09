@@ -8,17 +8,18 @@ Craig Love
 
 -- Unknown
 
-Old School
+Deck Name: Old School
 
+Description:
 Deck description: Immortal Grapples with a splash of fresh new hate.
 
 Crypt (12 cards, min=8 max=16 avg=3.0)
 --------------------------------------
-2x Jimmy Dunn                     4  for CEL POT      Pander:2
+2x Jimmy Dunn                     4  CEL POT for      Pander:2
 2x Lupo                           2  pot              Brujah:1
-1x Agatha                         4  obf POT          Nosferatu antitribu:2
-1x Hector Sosa                    4  pre POT          Brujah:1
-1x Hugo                           4  pre vic POT      Brujah antitribu:2
+1x Agatha                         4  POT obf          Nosferatu antitribu:2
+1x Hector Sosa                    4  POT pre          Brujah:1
+1x Hugo                           4  POT pre vic      Brujah antitribu:2
 1x Dre, Leader of the Cold Dawn   3  cel pot          Brujah:1
 1x Jacob Bragg                    3  cel pot          Brujah antitribu:2
 1x KoKo                           2  pot              Nosferatu:1
@@ -26,7 +27,7 @@ Crypt (12 cards, min=8 max=16 avg=3.0)
 1x Paul DiCarlo, The Alpha        2  pot              Giovanni:2
 
 Library (90 cards)
-Master (13)
+Master (13; 3 trifle)
 3x Dreams of the Sphinx
 3x Fame
 1x Jake Washington

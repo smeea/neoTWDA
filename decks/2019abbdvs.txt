@@ -8,21 +8,22 @@ https://www.vekn.net/event-calendar/event/9332
 
 -- 2gw6 + 2vp in the final
 
-Bailando la Bamba en Alamut
+Deck Name: Bailando la Bamba en Alamut
 
+Description:
 Assamite's deathstar comanded by Olugbenga
 
 Crypt (12 cards, min=11 max=31 avg=5.83)
 ----------------------------------------
-4x Olugbenga      7  ani cel OBF QUI       magaji   Banu Haqim:4
-3x Amaravati      8  ani chi DOM OBF QUI            Banu Haqim:4
-2x Kamau Jafari   4  obf QUI                        Banu Haqim:4
-1x Kashan         7  obt pre CEL OBF QUI   1 vote   Banu Haqim:4
+4x Olugbenga      7  OBF QUI ani cel       magaji   Banu Haqim:4
+3x Amaravati      8  DOM OBF QUI ani chi            Banu Haqim:4
+2x Kamau Jafari   4  QUI obf                        Banu Haqim:4
+1x Kashan         7  CEL OBF QUI obt pre   1 vote   Banu Haqim:4
 1x Alu            2  obf                            Banu Haqim:5
 1x Basir          1  qui                            Banu Haqim:4
 
 Library (90 cards)
-Master (17)
+Master (17; 3 trifle)
 3x Alamut
 1x Ancestor Spirit
 1x Black Throne, The

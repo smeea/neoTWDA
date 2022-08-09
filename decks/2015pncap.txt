@@ -8,8 +8,9 @@ Marisa Borda d'Água
 
 -- Unknown
 
-Nana anarch, low crypt, Portuguese version
+Deck Name: Nana anarch, low crypt, Portuguese version
 
+Description:
 Fill the table with anarch revolt, and then deep song in prey's anarch.
 Also control our predator game
 
@@ -23,15 +24,15 @@ Crypt (13 cards, min=4 max=29 avg=4.0)
 --------------------------------------
 4x Anarch Convert    1                             Caitiff:ANY
 3x Nana Buruku       8  ANI POT PRE                Guruhi:4
-1x Petra             5  aus ANI OBF                Nosferatu:4
-1x Yuri Kerezenski   5  aus for vic ANI   bishop   Tzimisce:4
-1x Beetleman         4  obf ANI                    Nosferatu:4
-1x Bobby Lemon       4  pro ANI                    Gangrel:3
+1x Petra             5  ANI OBF aus                Nosferatu:4
+1x Yuri Kerezenski   5  ANI aus for vic   bishop   Tzimisce:4
+1x Beetleman         4  ANI obf                    Nosferatu:4
+1x Bobby Lemon       4  ANI pro                    Gangrel:3
 1x Stick             3  ANI                        Nosferatu antitribu:4
 1x T.J.              3  cel for                    Gangrel:4
 
 Library (90 cards)
-Master (28)
+Master (28; 5 trifle)
 11x Anarch Revolt
 1x Archon Investigation
 1x Dreams of the Sphinx

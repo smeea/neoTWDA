@@ -8,8 +8,9 @@ Edward McGlynn
 
 -- Unknown
 
-Euro Brujah
+Deck Name: Euro Brujah
 
+Description:
 We've all seen it before. Conditioning/Deflection and Torn
 Signpost/Immortal Grapple. Has an assortment of celerity and
 taste of vitae for combat and the bare minimum of master cards.
@@ -21,12 +22,12 @@ Crypt (12 cards, min=26 max=37 avg=7.83)
 ----------------------------------------
 2x Constanza Vinti              8  CEL DOM POT               prince     Brujah:2
 2x Dónal O'Connor               8  CEL DOM POT               prince     Brujah:2
-2x Juggler                      7  obf pot CEL DOM                      Brujah:3
-2x Theo Bell                    7  cel dom pre POT                      Brujah:2
-1x Jaroslav Pascek             10  for obf CEL POT PRE       justicar   Brujah:3
-1x Menele                      10  aus dom CEL POT PRE THA              Brujah:3
-1x Tyler                        9  dom for obt CEL POT PRE   primogen   Brujah:3
-1x Volker, The Puppet Prince    5  pot CEL                   prince     Brujah:2
+2x Juggler                      7  CEL DOM obf pot                      Brujah:3
+2x Theo Bell                    7  POT cel dom pre                      Brujah:2
+1x Jaroslav Pascek             10  CEL POT PRE for obf       justicar   Brujah:3
+1x Menele                      10  CEL POT PRE THA aus dom              Brujah:3
+1x Tyler                        9  CEL POT PRE dom for obt   primogen   Brujah:3
+1x Volker, The Puppet Prince    5  CEL pot                   prince     Brujah:2
 
 Library (83 cards)
 Master (9)

@@ -8,8 +8,9 @@ Fletcher Gibson
 
 -- Unknown
 
-Jacked Up
+Deck Name: Jacked Up
 
+Description:
 Samedi Anarch Wall. Centered around Jack Dawson and his
 amazing weapon skills, make sure you go Anarch the hardway as soon as
 you can and share the Camera Phone for bleed via Forced March or Hag's
@@ -18,10 +19,10 @@ out before the tournament so thems the breaks.
 
 Crypt (12 cards, min=12 max=32 avg=5.92)
 ----------------------------------------
-3x Jack Dawson (ADV)               8  cel nec qui thn FOR OBF      Samedi:2
-2x Jack Dawson                     8  cel nec qui thn FOR OBF      Samedi:2
-2x Jorge De La Muerte, The Agent   7  cel for nec OBF THN          Samedi:2
-1x Lithrac                         5  for thn OBF                  Samedi:2
+3x Jack Dawson (ADV)               8  FOR OBF cel nec qui thn      Samedi:2
+2x Jack Dawson                     8  FOR OBF cel nec qui thn      Samedi:2
+2x Jorge De La Muerte, The Agent   7  OBF THN cel for nec          Samedi:2
+1x Lithrac                         5  OBF for thn                  Samedi:2
 1x Gustavo Morales                 4  ani cel for                  Gangrel:3
 1x Wolfgang                        4  for obf pot                  Nosferatu:3
 1x Krid                            2  obf                          Nosferatu:3

@@ -8,22 +8,20 @@ Toni Karjalainen
 
 -- 4vp in the final
 
-Nakhthorheb
-
-Unknown
+Deck Name: Nakhthorheb
 
 Crypt (12 cards, min=16 max=40 avg=7.75)
 ----------------------------------------
 5x Nakhthorheb      10  OBF PRE SER                         Ministry:4
 2x Anarch Convert    1                                      Caitiff:ANY
-1x Neferu            9  dom nec OBF PRE SER THA   2 votes   Ministry:4
-1x Pentweret         9  aus for obe OBF PRE SER             Ministry:5
-1x Porphyrion        9  for CHI OBF PRE SER                 Ministry:5
-1x Shemti            9  vic OBF POT PRE SER       1 vote    Ministry:5
+1x Neferu            9  OBF PRE SER THA dom nec   2 votes   Ministry:4
+1x Pentweret         9  OBF PRE SER aus for obe             Ministry:5
+1x Porphyrion        9  CHI OBF PRE SER for                 Ministry:5
+1x Shemti            9  OBF POT PRE SER vic       1 vote    Ministry:5
 1x Abdelsobek        5  for nec obf pre ser                 Ministry:5
 
 Library (70 cards)
-Master (16)
+Master (16; 4 trifle)
 7x Eternals of Sirius, The
 2x Golconda: Inner Peace
 1x Opium Den

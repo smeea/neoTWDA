@@ -8,8 +8,9 @@ Michael Sedunary
 
 -- Unknown
 
-We Shall, We Shall Overcome
+Deck Name: We Shall, We Shall Overcome
 
+Description:
 Michael Sedunary swept the final round in 28 minutes with this deck.
 
 Crypt (14 cards, min=4 max=4 avg=1.0)
@@ -28,7 +29,7 @@ Crypt (14 cards, min=4 max=4 avg=1.0)
 1x Sandra White           1               Caitiff:3
 
 Library (60 cards)
-Master (14)
+Master (14; 5 trifle)
 5x Effective Management
 2x Information Highway
 5x Life in the City

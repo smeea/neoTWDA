@@ -8,17 +8,15 @@ Xavi Bagan
 
 -- Unknown
 
-titania te quiere (gehena version)
-
-Unknown
+Deck Name: titania te quiere (gehena version)
 
 Crypt (12 cards, min=12 max=32 avg=6.0)
 ---------------------------------------
-3x Sébastien Goulet         8  cel pre pro DOM OBF            Gangrel antitribu:3
-2x Sébastien Goulet (ADV)   8  cel pre pro DOM OBF            Gangrel antitribu:3
-2x Soldat                   7  cel dom obf POT PRO            Gangrel antitribu:3
+3x Sébastien Goulet         8  DOM OBF cel pre pro            Gangrel antitribu:3
+2x Sébastien Goulet (ADV)   8  DOM OBF cel pre pro            Gangrel antitribu:3
+2x Soldat                   7  POT PRO cel dom obf            Gangrel antitribu:3
 2x Max Lowell               3  cel obf                        Gangrel antitribu:2
-1x Caitlin                  6  aus dom ANI PRO       bishop   Gangrel antitribu:2
+1x Caitlin                  6  ANI PRO aus dom       bishop   Gangrel antitribu:2
 1x Wren                     4  cel obf pro                    Gangrel antitribu:2
 1x Sadie                    2  pro                            Gangrel antitribu:2
 

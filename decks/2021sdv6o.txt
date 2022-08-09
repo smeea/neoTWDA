@@ -8,22 +8,18 @@ https://www.vekn.net/event-calendar/event/9802
 
 -- 1,5vp in the final
 
-Unknown
-
-Unknown
-
 Crypt (13 cards, min=4 max=32 avg=5.46)
 ---------------------------------------
-4x Sébastien Goulet         8  cel pre pro DOM OBF      Gangrel antitribu:3
+4x Sébastien Goulet         8  DOM OBF cel pre pro      Gangrel antitribu:3
 4x Anarch Convert           1                           Caitiff:ANY
-1x Sébastien Goulet (ADV)   8  cel pre pro DOM OBF      Gangrel antitribu:3
-1x Iliana                   7  tha DOM FOR PRO          Gangrel:2
-1x Kanimana Belghazi        7  pro AUS DOM NEC          Nagaraja:2
-1x Soldat                   7  cel dom obf POT PRO      Gangrel antitribu:3
-1x Henry Taylor             6  cel pre pro POT          Brujah antitribu:3
+1x Sébastien Goulet (ADV)   8  DOM OBF cel pre pro      Gangrel antitribu:3
+1x Iliana                   7  DOM FOR PRO tha          Gangrel:2
+1x Kanimana Belghazi        7  AUS DOM NEC pro          Nagaraja:2
+1x Soldat                   7  POT PRO cel dom obf      Gangrel antitribu:3
+1x Henry Taylor             6  POT cel pre pro          Brujah antitribu:3
 
 Library (90 cards)
-Master (23)
+Master (23; 9 trifle)
 1x Charisma
 1x Direct Intervention
 1x KRCG News Radio

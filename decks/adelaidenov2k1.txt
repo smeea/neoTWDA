@@ -8,16 +8,15 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/xwpotTgS8Uk
 
 -- Unknown
 
-Unknown
-
+Description:
 "Well'ard Vamps"
 
 Crypt (12 cards, min=7 max=16 avg=2.92)
 ---------------------------------------
-1x Agatha                     4  obf POT          Nosferatu antitribu:2
-1x Hector Sosa                4  pre POT          Brujah:1
-1x Hugo                       4  pre vic POT      Brujah antitribu:2
-1x Jimmy Dunn                 4  for CEL POT      Pander:2
+1x Agatha                     4  POT obf          Nosferatu antitribu:2
+1x Hector Sosa                4  POT pre          Brujah:1
+1x Hugo                       4  POT pre vic      Brujah antitribu:2
+1x Jimmy Dunn                 4  CEL POT for      Pander:2
 1x Cristofero Giovanni        3  nec pot          Giovanni:2
 1x Mario Giovanni             3  nec pot          Giovanni:2
 1x Raziya Samater             3  ani pot          Brujah:2

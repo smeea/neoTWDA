@@ -8,23 +8,22 @@ James Messer
 
 -- Unknown
 
-Unknown
-
+Description:
 Title: The Ventrue Are Always Awesome
 
 Crypt (12 cards, min=22 max=39 avg=7.75)
 ----------------------------------------
-3x Mary Anne Blaire     10  ani pot AUS DOM FOR PRE   justicar   Ventrue:5
+3x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot   justicar   Ventrue:5
 2x Johannes Castelein    9  DEM DOM FOR PRE           prince     Ventrue:4
-2x Lodin (Olaf Holte)    8  aus pro DOM FOR PRE       prince     Ventrue:5
-1x Graham Gottesman      7  obf pre tha DOM FOR       prince     Ventrue:5
-1x Mustafa, The Heir     6  cel dom FOR PRE           prince     Ventrue:4
-1x Victor Donaldson      6  for pre DOM               prince     Ventrue:5
-1x Emily Carson          5  for pre DOM               primogen   Ventrue:5
-1x Victor Pelletier      5  cel dom for PRE                      Ventrue:4
+2x Lodin (Olaf Holte)    8  DOM FOR PRE aus pro       prince     Ventrue:5
+1x Graham Gottesman      7  DOM FOR obf pre tha       prince     Ventrue:5
+1x Mustafa, The Heir     6  FOR PRE cel dom           prince     Ventrue:4
+1x Victor Donaldson      6  DOM for pre               prince     Ventrue:5
+1x Emily Carson          5  DOM for pre               primogen   Ventrue:5
+1x Victor Pelletier      5  PRE cel dom for                      Ventrue:4
 
 Library (90 cards)
-Master (13)
+Master (13; 3 trifle)
 2x Blood Doll
 1x Dark Influences
 1x Elysium: The Arboretum

@@ -8,21 +8,19 @@ Ginés Quiñonero
 
 -- Unknown
 
-The Inert Circle
-
-Unknown
+Deck Name: The Inert Circle
 
 Crypt (12 cards, min=36 max=44 avg=10.17)
 -----------------------------------------
 4x Huitzilopochtli           10  AUS DAI DOM OBF POT PRE                  Baali:2
-3x Arika                     11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-2x Anson                      8  aus dom CEL PRE           prince         Toreador:1
-1x Etrius                    11  pro AUS DOM OBF THA       inner circle   Tremere:2
-1x Leandro                   11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-1x Ur-Shulgi, The Shepherd   11  aus CEL DOM OBF QUI THA   2 votes        Banu Haqim:2
+3x Arika                     11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+2x Anson                      8  CEL PRE aus dom           prince         Toreador:1
+1x Etrius                    11  AUS DOM OBF THA pro       inner circle   Tremere:2
+1x Leandro                   11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+1x Ur-Shulgi, The Shepherd   11  CEL DOM OBF QUI THA aus   2 votes        Banu Haqim:2
 
 Library (90 cards)
-Master (47)
+Master (47; 9 trifle)
 12x Ashur Tablets
 1x Creepshow Casino
 1x Dark Influences

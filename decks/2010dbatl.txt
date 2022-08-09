@@ -6,23 +6,21 @@ September 5th 2010
 Jeffrey Brandon
 
 
--- Unknown
+-- 2GW6 to tie for 2nd going into the finals, 4VP in final
 
-Evil Genius 2.0
-
-2GW6 to tie for 2nd going into the finals, 4VP in final
+Deck Name: Evil Genius 2.0
 
 Crypt (12 cards, min=22 max=32 avg=6.83)
 ----------------------------------------
-2x Arcadian, The             8  chi for DOM MYT OBT             Kiasyd:5
-2x Pherydima                 8  obt pot DOM MYT NEC   bishop    Kiasyd:4
-2x Omme Enberbenight         7  cel dom MYT OBT       priscus   Kiasyd:4
-2x Roderick Phillips March   7  cel obt tha DOM MYT             Kiasyd:4
+2x Arcadian, The             8  DOM MYT OBT chi for             Kiasyd:5
+2x Pherydima                 8  DOM MYT NEC obt pot   bishop    Kiasyd:4
+2x Omme Enberbenight         7  MYT OBT cel dom       priscus   Kiasyd:4
+2x Roderick Phillips March   7  DOM MYT cel obt tha             Kiasyd:4
 2x Isanwayen                 6  DOM MYT OBT                     Kiasyd:4
-2x Dame Hollerton            5  myt DOM OBT                     Kiasyd:4
+2x Dame Hollerton            5  DOM OBT myt                     Kiasyd:4
 
 Library (90 cards)
-Master (16)
+Master (16; 1 trifle)
 1x Barrens, The
 4x Blood Doll
 2x Dreams of the Sphinx

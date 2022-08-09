@@ -8,9 +8,7 @@ Rafael Ramos
 
 -- Unknown
 
-Tup Dog
-
-Unknown
+Deck Name: Tup Dog
 
 Crypt (28 cards, min=4 max=14 avg=1.57)
 ---------------------------------------
@@ -22,7 +20,7 @@ Crypt (28 cards, min=4 max=14 avg=1.57)
 1x  Saiz           3  aus dom          Tremere antitribu:3
 
 Library (90 cards)
-Master (18)
+Master (18; 2 trifle)
 1x Dreams of the Sphinx
 5x Effective Management
 2x Fame

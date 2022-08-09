@@ -8,13 +8,11 @@ Richard Cortes
 
 -- Unknown
 
-Mazo Animalismo
-
-Unknown
+Deck Name: Mazo Animalismo
 
 Crypt (13 cards, min=7 max=15 avg=2.77)
 ---------------------------------------
-1x Bear Paw                       5  for pre pro ANI      Gangrel:1
+1x Bear Paw                       5  ANI for pre pro      Gangrel:1
 1x Roman Alexander                4  ani for pro          Gangrel:1
 1x Anastasia Grey                 3  ani pro              Gangrel:1
 1x Leon                           3  ani for              Gangrel antitribu:2

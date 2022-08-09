@@ -8,8 +8,9 @@ John Bell
 
 -- Unknown
 
-Bell's Bruise, Bleed, and Bloat Brujah
+Deck Name: Bell's Bruise, Bleed, and Bloat Brujah
 
+Description:
 I played nearly an identical version of this deck in the
 storyline tournament at Anderson, IN. Major change from that deck was
 I replaced Francois Villion with Anneke, with the idea of being able
@@ -31,12 +32,12 @@ Prince of Cincinnati
 
 Crypt (12 cards, min=23 max=38 avg=7.67)
 ----------------------------------------
-3x Anneke                      10  dom AUS CEL PRE       justicar   Toreador:1
+3x Anneke                      10  AUS CEL PRE dom       justicar   Toreador:1
 2x Constanza Vinti              8  CEL DOM POT           prince     Brujah:2
 2x Dónal O'Connor               8  CEL DOM POT           prince     Brujah:2
-2x Theo Bell                    7  cel dom pre POT                  Brujah:2
-2x Volker, The Puppet Prince    5  pot CEL               prince     Brujah:2
-1x Anvil                        6  dom pre tha CEL POT   primogen   Brujah:1
+2x Theo Bell                    7  POT cel dom pre                  Brujah:2
+2x Volker, The Puppet Prince    5  CEL pot               prince     Brujah:2
+1x Anvil                        6  CEL POT dom pre tha   primogen   Brujah:1
 
 Library (90 cards)
 Master (17)

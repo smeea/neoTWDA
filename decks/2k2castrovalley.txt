@@ -8,9 +8,9 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TlYSyldqjxg
 
 -- Unknown
 
-Unknown
+Deck Name: Of Ghastly Dreams (best safety lies in fear)
 
-Winning Deck Name: Of Ghastly Dreams (best safety lies in fear)
+Description:
 Clearly toolbox, the core is "intercept". This deck had
 been doing well in our casual games, so with some tuning, I thought it
 might be an interesting candidate for playing in a tournament. After
@@ -23,14 +23,14 @@ should be more than one.
 
 Crypt (12 cards, min=12 max=28 avg=4.83)
 ----------------------------------------
-1x Gabrin                         8  dom for ANI CHI          Ravnos:2
-1x Tereza Rostas                  8  ani aus pot CHI FOR      Ravnos:2
+1x Gabrin                         8  ANI CHI dom for          Ravnos:2
+1x Tereza Rostas                  8  CHI FOR ani aus pot      Ravnos:2
 1x Joaquina Amaya                 6  ANI CHI FOR              Ravnos:2
-1x Vaclav Petalengro              6  for pot ANI CHI          Ravnos:2
-1x Ghivran Dalaal, The Dead God   5  ani aus chi FOR          Ravnos:2
-1x Khalil Ravana                  5  ani for pre CHI          Ravnos:2
+1x Vaclav Petalengro              6  ANI CHI for pot          Ravnos:2
+1x Ghivran Dalaal, The Dead God   5  FOR ani aus chi          Ravnos:2
+1x Khalil Ravana                  5  CHI ani for pre          Ravnos:2
 1x Anka, Priestess of Thorns      4  ani chi pro              Ravnos:2
-1x Salbatore Bokkengro            4  for pro CHI              Ravnos:2
+1x Salbatore Bokkengro            4  CHI for pro              Ravnos:2
 1x Sennuwy, The Promoter          4  ani chi for              Ravnos:2
 1x Tsigane                        3  aus chi                  Ravnos:2
 1x Vedel Esbreno                  3  chi for                  Ravnos:2

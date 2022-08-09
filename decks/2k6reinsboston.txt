@@ -8,16 +8,14 @@ Scott Gomes
 
 -- Unknown
 
-Bats Cats and Yuri's mustache
-
-Unknown
+Deck Name: Bats Cats and Yuri's mustache
 
 Crypt (12 cards, min=8 max=19 avg=3.25)
 ---------------------------------------
-1x Lord Ashton            5  for pro ANI                Gangrel:3
-1x Petra                  5  aus ANI OBF                Nosferatu:4
-1x Yuri Kerezenski        5  aus for vic ANI   bishop   Tzimisce:4
-1x Bobby Lemon            4  pro ANI                    Gangrel:3
+1x Lord Ashton            5  ANI for pro                Gangrel:3
+1x Petra                  5  ANI OBF aus                Nosferatu:4
+1x Yuri Kerezenski        5  ANI aus for vic   bishop   Tzimisce:4
+1x Bobby Lemon            4  ANI pro                    Gangrel:3
 1x Bothwell               3  ani for                    Gangrel:3
 1x Clarissa Steinburgen   3  ani obf                    Nosferatu:3
 1x Darva Felispa          3  ani pot                    Nosferatu:3

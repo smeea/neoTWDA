@@ -8,22 +8,20 @@ Luis Fonseca
 
 -- Unknown
 
-The Ingrid Rossler Show
-
-Unknown
+Deck Name: The Ingrid Rossler Show
 
 Crypt (12 cards, min=17 max=36 avg=6.75)
 ----------------------------------------
-4x Ingrid Rossler        9  dom ANI FOR PRO   prince   Gangrel:2
-2x Danielle Diron        7  chi for ANI PRO   1 vote   Gangrel:3
-2x Mirembe Kabbada       5  ani PRO SER                Gangrel:2
-1x Katarina              9  pot pro ANI FOR   prince   Gangrel:2
-1x Dr. Allan Woodstock   5  ani aus for PRO            Gangrel:3
-1x Daliyah               4  obf PRO                    Nosferatu:2
+4x Ingrid Rossler        9  ANI FOR PRO dom   prince   Gangrel:2
+2x Danielle Diron        7  ANI PRO chi for   1 vote   Gangrel:3
+2x Mirembe Kabbada       5  PRO SER ani                Gangrel:2
+1x Katarina              9  ANI FOR pot pro   prince   Gangrel:2
+1x Dr. Allan Woodstock   5  PRO ani aus for            Gangrel:3
+1x Daliyah               4  PRO obf                    Nosferatu:2
 1x Chandler Hungerford   3  PRO                        Gangrel:2
 
 Library (75 cards)
-Master (17)
+Master (17; 7 trifle)
 1x Ecoterrorists
 1x Mundane
 1x Papillon

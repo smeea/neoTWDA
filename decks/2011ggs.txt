@@ -8,8 +8,9 @@ Stefan Karlsson
 
 -- Unknown
 
-Glöggansiktet Gerald
+Deck Name: Glöggansiktet Gerald
 
+Description:
 This is some sort of Freak Show but I can not
 stress enough that this is no one-turn deck. Ankara Citadel
 first of course and then tool up with 5-10 actions each turn,

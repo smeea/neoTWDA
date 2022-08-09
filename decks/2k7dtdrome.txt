@@ -8,8 +8,9 @@ Emiliano Arnotti
 
 -- Unknown
 
-[Imb] We have one Conviction... MkII
+Deck Name: [Imb] We have one Conviction... MkII
 
+Description:
 Imbued deck
 
 Crypt (12 cards, min=14 max=20 avg=4.17)

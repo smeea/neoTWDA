@@ -8,22 +8,20 @@ Pawel Kosz
 
 -- 2gw5.5 + 4vp in the final
 
-rety rety rolety!
-
-Unknown
+Deck Name: rety rety rolety!
 
 Crypt (12 cards, min=14 max=24 avg=4.83)
 ----------------------------------------
 2x Morel                          6  AUS DEM OBF          Malkavian:4
-2x Tony                           6  dom obf AUS DEM      Malkavian:3
-2x Apache Jones                   5  aus for obf DEM      Malkavian antitribu:4
-2x Uncle George                   5  aus dom obf DEM      Malkavian antitribu:3
-2x Midget                         3  obf pre DEM          Malkavian antitribu:3
-1x Persia, The Beautiful Statue   5  aus obf DEM          Malkavian:3
+2x Tony                           6  AUS DEM dom obf      Malkavian:3
+2x Apache Jones                   5  DEM aus for obf      Malkavian antitribu:4
+2x Uncle George                   5  DEM aus dom obf      Malkavian antitribu:3
+2x Midget                         3  DEM obf pre          Malkavian antitribu:3
+1x Persia, The Beautiful Statue   5  DEM aus obf          Malkavian:3
 1x Jackie                         3  DEM                  Malkavian antitribu:4
 
 Library (85 cards)
-Master (14)
+Master (14; 4 trifle)
 1x Antediluvian Awakening
 1x Archon Investigation
 1x Barrens, The

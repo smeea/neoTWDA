@@ -8,8 +8,7 @@ Peter Rophail
 
 -- Unknown
 
-Unknown
-
+Description:
 Outback's Imbued
 
 Crypt (40 cards, min=12 max=20 avg=4.1)
@@ -21,21 +20,21 @@ Crypt (40 cards, min=12 max=20 avg=4.1)
 4x Jennifer "Flame61" Vidisania   4  ven vis          Avenger:4
 4x John "Cop90" O'Malley          4  jud ven          Avenger:4
 4x Marion "Teacher193" Perks      4  red jud          Redeemer:4
-4x Peter "Outback295" Rophail     4  red ven          Redeemer:4 -- Doesn't actually fit this deck very well
+4x Peter "Outback295" Rophail     4  red ven          Redeemer:4
 3x François "Warden" Loehr        3  def jud          Judge:4
-3x Inez "Nurse216" Villagrande    3  inn              Innocent:4 -- Great value with Inspire
+3x Inez "Nurse216" Villagrande    3  inn              Innocent:4
 
 Library (90 cards)
 Master (19)
-5x Angel of Berlin -- Maybe one too many
-1x Barrens, The -- Ended up contesting this card twice in 4 rounds
+5x Angel of Berlin
+1x Barrens, The
 2x Church of Vindicated Faith, The
 1x Dummy Corporation
-1x Fortschritt Library -- Useful
-1x KRCG News Radio -- Not required on the day
-3x Memories of Mortality -- Responsible for a few VP's on the day
+1x Fortschritt Library
+1x KRCG News Radio
+3x Memories of Mortality
 1x Millicent Smith, Puritan Vampire Hunter
-2x Not to Be -- Paranoid fear of Break the code which never came
+2x Not to Be
 1x Powerbase: Los Angeles
 1x Rose Foundation, The
 
@@ -45,43 +44,43 @@ Conviction (20)
 8x Strike with Conviction
 
 Action (1)
-1x Aranthebes, The Immortal -- Last minute addition. Won me a table
+1x Aranthebes, The Immortal
 
 Ally (6)
-1x Carlton Van Wyk -- Star performer
+1x Carlton Van Wyk
 1x Gregory Winter
-1x Ossian -- Rush ability added an extra dimension
+1x Ossian
 2x Vagabond Mystic
-1x Wendell Delburton -- Never came out
+1x Wendell Delburton
 
 Equipment (6)
 1x Crusader Sword, The
 2x Leather Jacket
-1x Orb of Ulain -- Saved my game early in the final
+1x Orb of Ulain
 2x Sniper Rifle
-
-Power (21)
-1x Abjure -- Handy
-5x Discern
-1x Foresee -- Never used
-1x Inspire -- Excellent for bloating
-5x Rejuvenate
-1x Surge -- Never used
-7x Vigilance
 
 Retainer (3)
 1x J. S. Simmons, Esq.
 1x Mr. Winthrop
 1x Tasha Morgan
 
+Power (21)
+1x Abjure
+5x Discern
+1x Foresee
+1x Inspire
+5x Rejuvenate
+1x Surge
+7x Vigilance
+
 Reaction (4)
-4x Determine -- rarely used
+4x Determine
 
 Combat (4)
-4x Dodge -- Low combat environment made these unnecessary
+4x Dodge
 
 Event (6)
 1x Blood Trade
 2x Edge Explosion
-1x Thirst -- Weenie hoser
+1x Thirst
 2x Unmasking, The

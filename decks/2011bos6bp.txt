@@ -8,8 +8,9 @@ Andrzej Wilczynski
 
 -- Unknown
 
-Cailean using the Advantage
+Deck Name: Cailean using the Advantage
 
+Description:
 it needs one more enkil cog, and monastery
 of shadows. Nosferatu kingdom goes out... in older
 version of this deck, there were more Nosferatu,
@@ -17,7 +18,7 @@ now there is only Cailean, so i just forgot to throw it out.
 
 Crypt (12 cards, min=5 max=40 avg=4.42)
 ---------------------------------------
-4x Cailean                           10  dom ANI OBF POT PRE   archbishop   Nosferatu antitribu:2
+4x Cailean                           10  ANI OBF POT PRE dom   archbishop   Nosferatu antitribu:2
 1x Christine Boscacci                 2  dom vic                            Pander:2
 1x Frederick the Weak                 2  pre                                Brujah antitribu:2
 1x Marciana Giovanni, Investigator    2  dom                                Giovanni:2
@@ -28,7 +29,7 @@ Crypt (12 cards, min=5 max=40 avg=4.42)
 1x Royce                              1  dom                                Pander:2
 
 Library (60 cards)
-Master (17)
+Master (17; 3 trifle)
 2x Dreams of the Sphinx
 1x Information Network
 1x Jake Washington

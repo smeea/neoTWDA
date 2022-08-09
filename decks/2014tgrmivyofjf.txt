@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/7474
 
 -- Unknown
 
-Geezers will find...
+Deck Name: Geezers will find...
 
+Description:
 2h30 time limit for finals
 
 Based on Randall Rudstam's Ropecon 2012 tournament winning deck. I did some
@@ -18,14 +19,14 @@ small modifications to crypt and library. Heja Sverige!
 Crypt (12 cards, min=40 max=44 avg=10.5)
 ----------------------------------------
 4x Huitzilopochtli   10  AUS DAI DOM OBF POT PRE                  Baali:2
-3x Arika             11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-2x Etrius            11  pro AUS DOM OBF THA       inner circle   Tremere:2
-1x Leandro           11  cel dom AUS OBF PRE       inner circle   Malkavian:2
+3x Arika             11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+2x Etrius            11  AUS DOM OBF THA pro       inner circle   Tremere:2
+1x Leandro           11  AUS OBF PRE cel dom       inner circle   Malkavian:2
 1x Esau              10  AUS DEM DOM OBF PRE                      Malkavian:3
-1x Queen Anne        10  aus obf DOM FOR PRE       prince         Ventrue:2
+1x Queen Anne        10  DOM FOR PRE aus obf       prince         Ventrue:2
 
 Library (75 cards)
-Master (31)
+Master (31; 7 trifle)
 6x Ashur Tablets
 1x Coven, The
 1x Direct Intervention

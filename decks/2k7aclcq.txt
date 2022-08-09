@@ -8,15 +8,14 @@ Duncan Kemp
 
 -- Unknown
 
-Unknown
-
+Description:
 The Setites Will Come For You
 Cheesy
 
 Crypt (12 cards, min=12 max=20 avg=4.0)
 ---------------------------------------
-2x Count Ormonde         5  dom pre ser OBF      Ministry:2
-2x Sir Marriot D'Urban   5  aus obf ser PRE      Ministry:2
+2x Count Ormonde         5  OBF dom pre ser      Ministry:2
+2x Sir Marriot D'Urban   5  PRE aus obf ser      Ministry:2
 2x Hadrian Garrick       4  obf pre              Ministry:2
 2x Nepata                4  obf pre ser          Ministry:2
 2x Celine Chevalier      3  obf ser              Ministry:2

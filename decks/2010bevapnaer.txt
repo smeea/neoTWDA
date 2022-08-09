@@ -8,16 +8,17 @@ Adam Esbjörnsson
 
 -- 3vp in the final
 
-Terrorists in mountains
+Deck Name: Terrorists in mountains
 
+Description:
 A merge of decks by Michael Homlström and Vincent Ripoll.
 
 Crypt (12 cards, min=13 max=20 avg=4.25)
 ----------------------------------------
-2x Jephta Hester        5  aus DOM FOR          Ventrue antitribu:4
-2x João Bilé            5  pre DOM FOR          Ventrue:4
-1x Catherine du Bois    5  for obf pre DOM      Ventrue:3
-1x Esoara               5  aus for pot DOM      Tremere antitribu:4
+2x Jephta Hester        5  DOM FOR aus          Ventrue antitribu:4
+2x João Bilé            5  DOM FOR pre          Ventrue:4
+1x Catherine du Bois    5  DOM for obf pre      Ventrue:3
+1x Esoara               5  DOM aus for pot      Tremere antitribu:4
 1x Earl                 4  dom for pot          Ventrue:3
 1x Katherine Stoddard   4  dom for              Ventrue antitribu:3
 1x Randel, The Coward   4  dom for obt          Ventrue antitribu:4

@@ -8,8 +8,9 @@ John Newquist
 
 -- Unknown
 
-Those Who Endure
+Deck Name: Those Who Endure
 
+Description:
 Darby Dance with LotN updates. Needs 1 Unlicensed Taxicab.
 
 Crypt (12 cards, min=14 max=21 avg=4.33)

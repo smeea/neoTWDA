@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9564
 
 -- 2gw7 + 1.5vp in the final
 
-Gangrene Bleed
+Deck Name: Gangrene Bleed
 
+Description:
 This brew is a remake of my first tournament deck from 2004. According to my
 deck building philosophy back then, this deck tries to accrue a critical mass
 of permanent effects and win in the late game. Hatch the Viper was insanely
@@ -17,19 +18,19 @@ strong and in hindsight I'd probably adjust the deck to rely more on it.
 
 Crypt (12 cards, min=10 max=33 avg=5.5)
 ---------------------------------------
-2x Torvus Bloodbeard      9  pot ANI FOR OBF PRO            Gangrel:3
-2x Danielle Diron         7  chi for ANI PRO       1 vote   Gangrel:3
-1x Nadima                 8  ani aus FOR PRO SER            Gangrel:3
-1x Horrock                6  vic ANI PRO                    Gangrel:3
-1x Dr. Allan Woodstock    5  ani aus for PRO                Gangrel:3
-1x Mirembe Kabbada        5  ani PRO SER                    Gangrel:2
-1x Daliyah                4  obf PRO                        Nosferatu:2
+2x Torvus Bloodbeard      9  ANI FOR OBF PRO pot            Gangrel:3
+2x Danielle Diron         7  ANI PRO chi for       1 vote   Gangrel:3
+1x Nadima                 8  FOR PRO SER ani aus            Gangrel:3
+1x Horrock                6  ANI PRO vic                    Gangrel:3
+1x Dr. Allan Woodstock    5  PRO ani aus for                Gangrel:3
+1x Mirembe Kabbada        5  PRO SER ani                    Gangrel:2
+1x Daliyah                4  PRO obf                        Nosferatu:2
 1x Chandler Hungerford    3  PRO                            Gangrel:2
 1x Sadie                  2  pro                            Gangrel antitribu:2
 1x Huang, Blood Cultist   1  pro                            Pander:2
 
 Library (69 cards)
-Master (17)
+Master (17; 7 trifle)
 1x Archon Investigation
 1x Backways
 1x Ecoterrorists

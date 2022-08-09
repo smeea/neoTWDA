@@ -8,22 +8,23 @@ Alex Ek
 
 -- 2gw6 + 4vp in the final
 
-Nihil Sine Deo!
+Deck Name: Nihil Sine Deo!
 
+Description:
 Wanted to try out
 "My Kin Against the World" and decided to go the Lutz route.
 
 Crypt (12 cards, min=31 max=44 avg=9.58)
 ----------------------------------------
-4x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE   inner circle   Malkavian:4
+4x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot   inner circle   Malkavian:4
 3x Tryphosa                10  AUS DEM DOM OBF POT   prince         Malkavian:4
-2x Maris Streck             9  ani dem dom AUS OBF   justicar       Malkavian:3
-1x Rachel Brandywine       10  ani AUS DEM OBF PRO   prince         Malkavian:3
-1x Quentin King III         7  obf pre AUS DEM       prince         Malkavian:3
+2x Maris Streck             9  AUS OBF ani dem dom   justicar       Malkavian:3
+1x Rachel Brandywine       10  AUS DEM OBF PRO ani   prince         Malkavian:3
+1x Quentin King III         7  AUS DEM obf pre       prince         Malkavian:3
 1x Morel                    6  AUS DEM OBF                          Malkavian:4
 
 Library (67 cards)
-Master (19)
+Master (19; 7 trifle)
 2x Coven, The
 2x Dreams of the Sphinx
 1x Giant's Blood

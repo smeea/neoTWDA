@@ -8,24 +8,25 @@ https://www.vekn.net/event-calendar/event/7881
 
 -- Unknown
 
-Lady Constancia Calls
+Deck Name: Lady Constancia Calls
 
+Description:
 1 + gw4 + gw2 / 3vp
 
 Crypt (13 cards, min=15 max=39 avg=6.62)
 ----------------------------------------
 3x Lady Constancia            10  AUS DOM FOR NEC POT   2 votes   Giovanni:4
-2x Ignazio Giovanni            9  obf DOM FOR NEC POT             Giovanni:3
-2x Lorrie Dunsirn              4  for nec POT                     Abomination:4
-1x Baldesar Rossellini         8  aus for nec DOM POT             Giovanni:4
-1x Benedict Giovanni, Agent    6  cel dom nec FOR POT             Giovanni:4
-1x Donatello Giovanni          5  aus pot pre DOM                 Giovanni:4
+2x Ignazio Giovanni            9  DOM FOR NEC POT obf             Giovanni:3
+2x Lorrie Dunsirn              4  POT for nec                     Abomination:4
+1x Baldesar Rossellini         8  DOM POT aus for nec             Giovanni:4
+1x Benedict Giovanni, Agent    6  FOR POT cel dom nec             Giovanni:4
+1x Donatello Giovanni          5  DOM aus pot pre                 Giovanni:4
 1x Earl                        4  dom for pot                     Ventrue:3
 1x Primo Giovanni              4  dom nec pot                     Giovanni:4
 1x Almodo Giovanni             3  dom pot                         Giovanni:4
 
 Library (90 cards)
-Master (12)
+Master (12; 2 trifle)
 1x Archon Investigation
 2x Blood Doll
 1x Direct Intervention

@@ -8,23 +8,24 @@ Alexander Båskman
 
 -- 4vp in the final
 
-So long, and thanks for all the governs
+Deck Name: So long, and thanks for all the governs
 
+Description:
 Inspired by Adam Esbjörnsson, Randal Rudstam and Jonas Ståhle.
 
 Crypt (12 cards, min=18 max=26 avg=5.42)
 ----------------------------------------
-3x Banjoko                 5  obt pot DOM                Lasombra:3
-2x Henri Lavenant          7  pot qui DOM OBT            Lasombra:3
-2x Ermenegildo, The Rake   5  pot DOM OBT                Lasombra:4
+3x Banjoko                 5  DOM obt pot                Lasombra:3
+2x Henri Lavenant          7  DOM OBT pot qui            Lasombra:3
+2x Ermenegildo, The Rake   5  DOM OBT pot                Lasombra:4
 1x Isanwayen               6  DOM MYT OBT                Kiasyd:4
-1x Onaedo                  6  aus pot DOM OBT            Lasombra:4
-1x Virginie, Prodigy       6  obt DOM POT       bishop   Lasombra:4
-1x Dame Hollerton          5  myt DOM OBT                Kiasyd:4
+1x Onaedo                  6  DOM OBT aus pot            Lasombra:4
+1x Virginie, Prodigy       6  DOM POT obt       bishop   Lasombra:4
+1x Dame Hollerton          5  DOM OBT myt                Kiasyd:4
 1x Lucy Markowitz          3  dom obt                    Lasombra:4
 
 Library (68 cards)
-Master (14)
+Master (14; 7 trifle)
 1x Anarch Troublemaker
 2x Corporal Reservoir
 3x Coven, The

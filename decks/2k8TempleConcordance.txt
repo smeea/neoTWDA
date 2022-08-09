@@ -8,8 +8,9 @@ Matthew Morgan
 
 -- Unknown
 
-Howling Anarchs
+Deck Name: Howling Anarchs
 
+Description:
 Continuing in my quest to with a tournament with
 every clan alphabetically, I had to put together an Ahrimanes
 deck. I hadn't ever played them much and generally felt like
@@ -73,17 +74,17 @@ and it was more important to be able to hurt opposing minions.
 
 Crypt (12 cards, min=12 max=32 avg=5.75)
 ----------------------------------------
-4x Howler             8  obf ANI PRE SPI          Ahrimane:2
-2x Siamese, The       7  ani pro PRE SPI          Ahrimane:2
-1x Cynthia Ingold     6  ani for pre SPI          Ahrimane:2
+4x Howler             8  ANI PRE SPI obf          Ahrimane:2
+2x Siamese, The       7  PRE SPI ani pro          Ahrimane:2
+1x Cynthia Ingold     6  SPI ani for pre          Ahrimane:2
 1x Nettie Hale        5  ani cel pre pro spi      Ahrimane:2
-1x Bobby Lemon        4  pro ANI                  Gangrel:3
+1x Bobby Lemon        4  ANI pro                  Gangrel:3
 1x Juanita Santiago   4  ani pre spi              Ahrimane:2
 1x Dani               2  ani                      Nosferatu antitribu:2
 1x Gillian Krader     2  ani dem                  Pander:2
 
 Library (90 cards)
-Master (19)
+Master (19; 5 trifle)
 1x Anarch Free Press, The
 4x Anarch Revolt
 1x Animalism

@@ -8,23 +8,22 @@ Ville Kaijasaari
 
 -- Unknown
 
-Unknown
-
+Description:
 Brujah At
 
 Crypt (12 cards, min=20 max=32 avg=6.67)
 ----------------------------------------
-4x Jacko                             8  obt CEL POT PRE              Brujah antitribu:2
-2x Richter, The Templar of Du Mont   7  for pre CEL POT              Brujah antitribu:2
+4x Jacko                             8  CEL POT PRE obt              Brujah antitribu:2
+2x Richter, The Templar of Du Mont   7  CEL POT for pre              Brujah antitribu:2
 1x Amelia                            7  CEL POT PRE       bishop     Brujah antitribu:2
-1x Miguel Santo Domingo              7  cel for POT PRE              Brujah antitribu:3
-1x Jeremiah Noble                    6  obt pre CEL POT              Brujah antitribu:3
-1x Pug Jackson                       6  for pre CEL POT   primogen   Brujah:3
-1x Jimmy Dunn                        4  for CEL POT                  Pander:2
-1x Victor Tolliver                   4  pot CEL                      Brujah antitribu:2
+1x Miguel Santo Domingo              7  POT PRE cel for              Brujah antitribu:3
+1x Jeremiah Noble                    6  CEL POT obt pre              Brujah antitribu:3
+1x Pug Jackson                       6  CEL POT for pre   primogen   Brujah:3
+1x Jimmy Dunn                        4  CEL POT for                  Pander:2
+1x Victor Tolliver                   4  CEL pot                      Brujah antitribu:2
 
 Library (90 cards)
-Master (19)
+Master (19; 7 trifle)
 1x Amusement Park Hunting Ground
 2x Archon Investigation
 1x Fame

@@ -8,8 +8,9 @@ Rodd Closson
 
 -- Unknown
 
-Law and Order
+Deck Name: Law and Order
 
+Description:
 New group Ventrue featuring Mary Anne Blaire and her
 associates. Basic idea is to keep to yourself while using Mary Anne
 Blaire's built in Scouting Mission to bloat, occasionally flick
@@ -18,15 +19,15 @@ your oust when your prey doesn't expect it.
 
 Crypt (12 cards, min=21 max=40 avg=7.42)
 ----------------------------------------
-4x Mary Anne Blaire     10  ani pot AUS DOM FOR PRE   justicar   Ventrue:5
-2x Graham Gottesman      7  obf pre tha DOM FOR       prince     Ventrue:5
-2x Victor Donaldson      6  for pre DOM               prince     Ventrue:5
-2x Victor Pelletier      5  cel dom for PRE                      Ventrue:4
-1x Lodin (Olaf Holte)    8  aus pro DOM FOR PRE       prince     Ventrue:5
-1x Emily Carson          5  for pre DOM               primogen   Ventrue:5
+4x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot   justicar   Ventrue:5
+2x Graham Gottesman      7  DOM FOR obf pre tha       prince     Ventrue:5
+2x Victor Donaldson      6  DOM for pre               prince     Ventrue:5
+2x Victor Pelletier      5  PRE cel dom for                      Ventrue:4
+1x Lodin (Olaf Holte)    8  DOM FOR PRE aus pro       prince     Ventrue:5
+1x Emily Carson          5  DOM for pre               primogen   Ventrue:5
 
 Library (90 cards)
-Master (20)
+Master (20; 6 trifle)
 1x Archon Investigation
 1x Direct Intervention
 1x Dreams of the Sphinx

@@ -8,15 +8,16 @@ David Baker
 
 -- Unknown
 
-my mind is numb
+Deck Name: my mind is numb
 
+Description:
 inspired by Jay's "Frederick is not weak" deck that he won with in 2001
 
 Crypt (12 cards, min=6 max=16 avg=2.75)
 ---------------------------------------
-1x Jazz Wentworth                      5  dom for PRE      Ventrue:1
-1x Mariana Gilbert                     4  cel PRE          Toreador:1
-1x Violette Prentiss                   4  dom PRE          Ventrue:1
+1x Jazz Wentworth                      5  PRE dom for      Ventrue:1
+1x Mariana Gilbert                     4  PRE cel          Toreador:1
+1x Violette Prentiss                   4  PRE dom          Ventrue:1
 1x Gideon Fontaine                     3  PRE              Ventrue:1
 1x Itzahk Levine                       3  cel pre          Ventrue:2
 1x Lena Rowe                           3  aus obf pre      Pander:2
@@ -28,7 +29,7 @@ Crypt (12 cards, min=6 max=16 avg=2.75)
 1x Igo the Hungry                      1  pre pro          Caitiff:1
 
 Library (90 cards)
-Master (15)
+Master (15; 1 trifle)
 2x Anarch Troublemaker
 1x Coven, The
 1x Dark Influences

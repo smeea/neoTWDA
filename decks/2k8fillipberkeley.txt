@@ -8,8 +8,9 @@ Ira Fay
 
 -- Unknown
 
-Gio hand size bruise/bleed
+Deck Name: Gio hand size bruise/bleed
 
+Description:
 Get a giant hand size and win. It's fun! Cards I
 intended to include but couldn't find before the tournament: Benedict
 Giovanni, Esoara, Almodo Giovanni, and Earl in my crypt, and
@@ -20,14 +21,14 @@ contesting them!
 
 Crypt (12 cards, min=23 max=36 avg=7.67)
 ----------------------------------------
-5x Guillaume Giovanni             9  obt CEL DOM NEC POT             Giovanni:4
-3x Baldesar Rossellini            8  aus for nec DOM POT             Giovanni:4
+5x Guillaume Giovanni             9  CEL DOM NEC POT obt             Giovanni:4
+3x Baldesar Rossellini            8  DOM POT aus for nec             Giovanni:4
 2x Don Michael Antonio Giovanni   7  DOM NEC POT           2 votes   Giovanni:4
-1x Raphaela Giovanni              6  pot pre DOM NEC                 Giovanni:4
+1x Raphaela Giovanni              6  DOM NEC pot pre                 Giovanni:4
 1x Lia Milliner                   3  dom nec                         Giovanni:3
 
 Library (90 cards)
-Master (24)
+Master (24; 2 trifle)
 3x Blood Doll
 1x Carver's Meat Packing and Storage
 1x Centralized Background Check

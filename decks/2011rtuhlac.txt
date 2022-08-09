@@ -8,8 +8,9 @@ Robert Scythe
 
 -- Unknown
 
-Faerie Guardian
+Deck Name: Faerie Guardian
 
+Description:
 I've always disliked Archon Investigation because,
 though it takes a big bleeder off you, it hurts my predator too much
 (unless he's just a heavy stealth bleeder) and Faerie Wards does
@@ -22,13 +23,13 @@ protean.
 
 Crypt (12 cards, min=36 max=40 avg=9.5)
 ---------------------------------------
-4x Marconius                                 9  pot DOM MYT OBT           archbishop   Kiasyd:2
-3x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal     Lasombra:2
+4x Marconius                                 9  DOM MYT OBT pot           archbishop   Kiasyd:2
+3x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2
 3x Marcus Vitel                             10  DOM FOR OBF OBT PRE       prince       Ventrue:3
-2x Francisco Domingo de Polonia              9  pro DOM OBT POT PRE       archbishop   Lasombra:2
+2x Francisco Domingo de Polonia              9  DOM OBT POT PRE pro       archbishop   Lasombra:2
 
 Library (76 cards)
-Master (18)
+Master (18; 7 trifle)
 1x Animalism
 1x Celerity
 1x Fortitude

@@ -8,21 +8,19 @@ Luiz Fernando K. Ferreira
 
 -- Unknown
 
-Campeão da Copa do Brasil
-
-Unknown
+Deck Name: Campeão da Copa do Brasil
 
 Crypt (12 cards, min=37 max=44 avg=10.08)
 -----------------------------------------
-4x Arika                  11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-3x Lucinde, Alastor       10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
+4x Arika                  11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+3x Lucinde, Alastor       10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
 2x Marcus Vitel           10  DOM FOR OBF OBT PRE       prince         Ventrue:3
-1x Queen Anne             10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Wilhelm Waldburg        9  aus cel DOM FOR PRE       prince         Ventrue:2
-1x Victorine Lafourcade    8  tha DOM FOR PRE           prince         Ventrue:3
+1x Queen Anne             10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Wilhelm Waldburg        9  DOM FOR PRE aus cel       prince         Ventrue:2
+1x Victorine Lafourcade    8  DOM FOR PRE tha           prince         Ventrue:3
 
 Library (90 cards)
-Master (16)
+Master (16; 2 trifle)
 1x Creepshow Casino
 1x Giant's Blood
 2x Golconda: Inner Peace

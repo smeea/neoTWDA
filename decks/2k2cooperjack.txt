@@ -8,8 +8,9 @@ Jon Cooper
 
 -- Unknown
 
-Jacks Back Part 1
+Deck Name: Jacks Back Part 1
 
+Description:
 Let the anarchy spread....
 
 Completely untested (prior to the tournament), i would remove the
@@ -24,10 +25,10 @@ other meths is NO FUN(tm).
 
 Crypt (12 cards, min=15 max=20 avg=4.58)
 ----------------------------------------
-4x Camille Devereux, The Raven   5  ani FOR PRO          Gangrel:1
-3x Mirembe Kabbada               5  ani PRO SER          Gangrel:2
-2x Bear Paw                      5  for pre pro ANI      Gangrel:1
-1x Daliyah                       4  obf PRO              Nosferatu:2
+4x Camille Devereux, The Raven   5  FOR PRO ani          Gangrel:1
+3x Mirembe Kabbada               5  PRO SER ani          Gangrel:2
+2x Bear Paw                      5  ANI for pre pro      Gangrel:1
+1x Daliyah                       4  PRO obf              Nosferatu:2
 1x Anastasia Grey                3  ani pro              Gangrel:1
 1x Chandler Hungerford           3  PRO                  Gangrel:2
 

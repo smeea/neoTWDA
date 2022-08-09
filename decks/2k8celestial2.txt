@@ -8,8 +8,9 @@ Ira Fay
 
 -- Unknown
 
-Lots of Babies
+Deck Name: Lots of Babies
 
+Description:
 It's a little tricky to acquire 30 Trophy: Progeny irl
 (thanks gNat and Ian!), but once you get them, this deck can be fun to
 play. It reliably takes advantage of turns 1-3 master phases, which
@@ -37,8 +38,8 @@ a Trophy: Progeny in this deck. Golconda was very helpful to keep me
 
 Crypt (12 cards, min=20 max=32 avg=7.0)
 ---------------------------------------
-5x Anson                                   8  aus dom CEL PRE   prince   Toreador:1
-5x Miller Delmardigan, Teacher of Bahari   8  aus pro CEL PRE   bishop   Toreador antitribu:2
+5x Anson                                   8  CEL PRE aus dom   prince   Toreador:1
+5x Miller Delmardigan, Teacher of Bahari   8  CEL PRE aus pro   bishop   Toreador antitribu:2
 2x Carter                                  2  cel                        Toreador antitribu:2
 
 Library (90 cards)

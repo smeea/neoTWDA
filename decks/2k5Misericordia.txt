@@ -8,9 +8,7 @@ Ginés Quiñonero
 
 -- Unknown
 
-We are legion
-
-Unknown
+Deck Name: We are legion
 
 Crypt (15 cards, min=4 max=5 avg=1.07)
 --------------------------------------

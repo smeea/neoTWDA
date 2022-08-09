@@ -8,24 +8,22 @@ Erik Gustafsson
 
 -- Unknown
 
-Blood of the Rabbat
-
-Unknown
+Deck Name: Blood of the Rabbat
 
 Crypt (12 cards, min=19 max=38 avg=7.08)
 ----------------------------------------
-3x Rabbat, The Sewer Goddess    7  pot ANI FOR OBF              Nosferatu:4
+3x Rabbat, The Sewer Goddess    7  ANI FOR OBF pot              Nosferatu:4
 2x Nakhthorheb                 10  OBF PRE SER                  Ministry:4
-1x Pentweret                    9  aus for obe OBF PRE SER      Ministry:5
-1x Porphyrion                   9  for CHI OBF PRE SER          Ministry:5
-1x Ogwon                        7  for OBF PRE SER              Ministry:5
-1x Ankh-sen-Sutekh              6  obf PRE SER                  Ministry:4
+1x Pentweret                    9  OBF PRE SER aus for obe      Ministry:5
+1x Porphyrion                   9  CHI OBF PRE SER for          Ministry:5
+1x Ogwon                        7  OBF PRE SER for              Ministry:5
+1x Ankh-sen-Sutekh              6  PRE SER obf                  Ministry:4
 1x Abdelsobek                   5  for nec obf pre ser          Ministry:5
-1x Renenet                      5  ser OBF PRE                  Ministry:4
+1x Renenet                      5  OBF PRE ser                  Ministry:4
 1x Ahmose Chambers              3  obf ser                      Ministry:5
 
 Library (90 cards)
-Master (17)
+Master (17; 2 trifle)
 2x Blood Doll
 1x Cave of Apples
 2x Eternals of Sirius, The

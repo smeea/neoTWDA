@@ -8,21 +8,22 @@ Goran Damjanic
 
 -- Unknown
 
-Le Giovanni
+Deck Name: Le Giovanni
 
+Description:
 Giovanni Powerbleed
 
 Crypt (12 cards, min=16 max=28 avg=5.33)
 ----------------------------------------
-3x Isabel Giovanni     5  pot DOM NEC          Giovanni:2
-2x Andrea Giovanni     7  pot vic DOM NEC      Giovanni:2
-2x Gillespi Giovanni   7  aus DOM NEC POT      Giovanni:2
-2x Le Dinh Tho         5  aus dom NEC          Nagaraja:2
-2x Gloria Giovanni     4  nec DOM              Giovanni:2
+3x Isabel Giovanni     5  DOM NEC pot          Giovanni:2
+2x Andrea Giovanni     7  DOM NEC pot vic      Giovanni:2
+2x Gillespi Giovanni   7  DOM NEC POT aus      Giovanni:2
+2x Le Dinh Tho         5  NEC aus dom          Nagaraja:2
+2x Gloria Giovanni     4  DOM nec              Giovanni:2
 1x Lia Milliner        3  dom nec              Giovanni:3
 
 Library (90 cards)
-Master (15)
+Master (15; 4 trifle)
 1x Archon Investigation
 1x Direct Intervention
 1x Dominate

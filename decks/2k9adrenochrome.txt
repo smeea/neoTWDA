@@ -8,21 +8,22 @@ Stefan Karlsson
 
 -- 2.5vp in the final
 
-Saturday the 13th Chainsaw Massacre
+Deck Name: Saturday the 13th Chainsaw Massacre
 
+Description:
 Gerald is simply the perfect toolbox-vampire! Make sure
 to get Ankara Citadel and then do whatever you need to win.
 
 Crypt (12 cards, min=22 max=36 avg=7.58)
 ----------------------------------------
 5x Gerald Windham     9  AUS DOM FOR THA                    Tremere:5
-2x Polly Kay Fisher   8  for pot AUS DOM THA   archbishop   Ventrue antitribu:4
-2x Jefferson Foster   6  for tha AUS DOM       bishop       Ventrue antitribu:4
-2x Claus Wegener      5  aus for tha DOM                    Tremere:5
-1x Phagian            8  dom for AUS NEC THA                Harbinger of Skulls:4
+2x Polly Kay Fisher   8  AUS DOM THA for pot   archbishop   Ventrue antitribu:4
+2x Jefferson Foster   6  AUS DOM for tha       bishop       Ventrue antitribu:4
+2x Claus Wegener      5  DOM aus for tha                    Tremere:5
+1x Phagian            8  AUS NEC THA dom for                Harbinger of Skulls:4
 
 Library (80 cards)
-Master (9)
+Master (9; 4 trifle)
 1x Giant's Blood
 1x Marrakesh Codex, The
 1x Pentex(TM) Subversion

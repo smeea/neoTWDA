@@ -8,8 +8,9 @@ Dennis Lien
 
 -- Unknown
 
-Extremely Silent and Incredibly Far Away
+Deck Name: Extremely Silent and Incredibly Far Away
 
+Description:
 This is a modification of an old deck idea where I tried to have
 Tariq "atone" and block everything. This version is much more
 balanced and simply tries to use Tariq's abilities with the possiblity
@@ -25,15 +26,15 @@ the game timed out.
 
 Crypt (12 cards, min=6 max=28 avg=4.67)
 ---------------------------------------
-3x Tariq, The Silent                7  cel AUS FOR OBF QUI      Banu Haqim:2
-3x Tariq, The Silent (ADV)          7  cel AUS FOR OBF QUI      Banu Haqim:2
+3x Tariq, The Silent                7  AUS FOR OBF QUI cel      Banu Haqim:2
+3x Tariq, The Silent (ADV)          7  AUS FOR OBF QUI cel      Banu Haqim:2
 3x Anarch Convert                   1                           Caitiff:ANY
-1x Dorian Strack                    4  cel AUS                  Toreador:1
-1x Idalia, Prophet of Guadalajara   4  dem AUS                  Malkavian antitribu:2
+1x Dorian Strack                    4  AUS cel                  Toreador:1
+1x Idalia, Prophet of Guadalajara   4  AUS dem                  Malkavian antitribu:2
 1x Isabel de Leon                   3  AUS                      Toreador:2
 
 Library (90 cards)
-Master (25)
+Master (25; 4 trifle)
 6x Ashur Tablets
 1x Celerity
 2x Coven, The

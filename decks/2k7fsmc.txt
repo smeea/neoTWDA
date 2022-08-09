@@ -8,8 +8,9 @@ Omael Rangel
 
 -- Unknown
 
-Nephandi
+Deck Name: Nephandi
 
+Description:
 4 memories of mortality -- when they are gone i should add a fort. library, a pentex subversion and maybe anarchist troublemaker
 6 computer hacking -- maybe add 1 more
 3 glancing blows -- I'll remove this and add more concealed and molotovs
@@ -17,14 +18,14 @@ Nephandi
 
 Crypt (12 cards, min=4 max=20 avg=3.0)
 --------------------------------------
-4x Antonio d'Erlette   5  dom for pot THA      Tremere antitribu:4
+4x Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4
 4x Tupdog              1  POT VIS              Gargoyle:3
 2x Keith Moody         3  DOM                  Tremere antitribu:4
 1x Ember Wright        3  aus dom              Tremere antitribu:3
 1x Saiz                3  aus dom              Tremere antitribu:3
 
 Library (86 cards)
-Master (22)
+Master (22; 6 trifle)
 1x Archon Investigation
 4x Blood Doll
 3x Direct Intervention

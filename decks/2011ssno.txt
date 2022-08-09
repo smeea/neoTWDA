@@ -8,26 +8,24 @@ David Baker
 
 -- 4vp in the final
 
-Need for Speed
-
-Unknown
+Deck Name: Need for Speed
 
 Crypt (12 cards, min=15 max=27 avg=5.33)
 ----------------------------------------
 2x Morel                 6  AUS DEM OBF                  Malkavian:4
-1x Bloody Mary           8  pre AUS DEM OBF   primogen   Malkavian:5
-1x Reiner Stoschka       7  obf AUS DEM THA              Malkavian:5
-1x Drusilla Euphemia     6  dem vic AUS OBF              Malkavian antitribu:4
-1x Gem Ghastly           6  aus DEM OBF       primogen   Malkavian:5
-1x Apache Jones          5  aus for obf DEM              Malkavian antitribu:4
-1x Arthur Denholm        5  obf AUS DEM                  Malkavian:5
-1x Luc                   5  dem vic OBF                  Malkavian antitribu:4
+1x Bloody Mary           8  AUS DEM OBF pre   primogen   Malkavian:5
+1x Reiner Stoschka       7  AUS DEM THA obf              Malkavian:5
+1x Drusilla Euphemia     6  AUS OBF dem vic              Malkavian antitribu:4
+1x Gem Ghastly           6  DEM OBF aus       primogen   Malkavian:5
+1x Apache Jones          5  DEM aus for obf              Malkavian antitribu:4
+1x Arthur Denholm        5  AUS DEM obf                  Malkavian:5
+1x Luc                   5  OBF dem vic                  Malkavian antitribu:4
 1x Beauregard Krueller   4  aus dem obf                  Malkavian antitribu:4
-1x Bela                  3  ani obf pro DEM              Malkavian:5
+1x Bela                  3  DEM ani obf pro              Malkavian:5
 1x Jackie                3  DEM                          Malkavian antitribu:4
 
 Library (90 cards)
-Master (12)
+Master (12; 5 trifle)
 1x Dark Influences
 4x Dreams of the Sphinx
 2x Pentex(TM) Subversion

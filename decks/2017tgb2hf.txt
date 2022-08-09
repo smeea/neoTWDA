@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8568
 
 -- 2gw5.5 + 0.5vp in the final
 
-Montano Purge/Mind Rape
+Deck Name: Montano Purge/Mind Rape
 
+Description:
 Here's the list I played to get 3 vp + 2,5 vp in the prelims and glorious 0,5
 vps in the finals to win the whole deal. The author of the deck is Akseli
 Jalava; we switched decks prior to the tournament and I got the better end of
@@ -37,15 +38,15 @@ should probably be in there, too.
 Crypt (12 cards, min=25 max=44 avg=9.17)
 ----------------------------------------
 5x Montano                                  11  ANI DOM FOR OBT POT       2 votes    Lasombra:3
-2x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal   Lasombra:2
+2x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal   Lasombra:2
 1x Marcus Vitel                             10  DOM FOR OBF OBT PRE       prince     Ventrue:3
-1x Gratiano                                  8  obf pot DOM OBT           priscus    Lasombra:2
-1x Lucita (ADV)                              8  cel pot DOM FOR OBT                  Lasombra:2
-1x Banjoko                                   5  obt pot DOM                          Lasombra:3
+1x Gratiano                                  8  DOM OBT obf pot           priscus    Lasombra:2
+1x Lucita (ADV)                              8  DOM FOR OBT cel pot                  Lasombra:2
+1x Banjoko                                   5  DOM obt pot                          Lasombra:3
 1x Ignacio, The Black Priest                 4  dom obt pot                          Lasombra:2
 
 Library (72 cards)
-Master (13)
+Master (13; 3 trifle)
 1x Direct Intervention
 2x Dreams of the Sphinx
 1x Elysian Fields

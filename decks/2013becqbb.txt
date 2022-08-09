@@ -8,21 +8,19 @@ Sahan Abeln
 
 -- Unknown
 
-Belgian ECQ 2013
-
-Unknown
+Deck Name: Belgian ECQ 2013
 
 Crypt (13 cards, min=22 max=36 avg=7.46)
 ----------------------------------------
-4x Nangila Were     9  obf ser ANI POT PRE      Guruhi:4
+4x Nangila Were     9  ANI POT PRE obf ser      Guruhi:4
 4x Nana Buruku      8  ANI POT PRE              Guruhi:4
-2x Fish             5  pre ANI POT              Guruhi:4
-1x Maskini          7  abo ANI POT PRE SER      Guruhi:4
-1x Batsheva (ADV)   6  obt pot ANI PRE          Guruhi:4
-1x Sundown          6  obf pre ANI POT          Nosferatu:3
+2x Fish             5  ANI POT pre              Guruhi:4
+1x Maskini          7  ANI POT PRE SER abo      Guruhi:4
+1x Batsheva (ADV)   6  ANI PRE obt pot          Guruhi:4
+1x Sundown          6  ANI POT obf pre          Nosferatu:3
 
 Library (90 cards)
-Master (35)
+Master (35; 15 trifle)
 12x Ashur Tablets
 1x Depravity
 1x Dreams of the Sphinx

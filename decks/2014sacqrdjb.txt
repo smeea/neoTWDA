@@ -8,22 +8,21 @@ André Luiz
 
 -- Unknown
 
-Unknown
-
+Description:
 Deck Giovanne
 
 Crypt (12 cards, min=17 max=36 avg=6.75)
 ----------------------------------------
-4x Guillaume Giovanni             9  obt CEL DOM NEC POT             Giovanni:4
+4x Guillaume Giovanni             9  CEL DOM NEC POT obt             Giovanni:4
 2x Don Michael Antonio Giovanni   7  DOM NEC POT           2 votes   Giovanni:4
-2x Raphaela Giovanni              6  pot pre DOM NEC                 Giovanni:4
-1x Diego Giovanni                 8  ani CHI DOM NEC POT             Giovanni:5
+2x Raphaela Giovanni              6  DOM NEC pot pre                 Giovanni:4
+1x Diego Giovanni                 8  CHI DOM NEC POT ani             Giovanni:5
 1x Primo Giovanni                 4  dom nec pot                     Giovanni:4
-1x Thomasso Ghiberti              4  pot NEC                         Giovanni:4
+1x Thomasso Ghiberti              4  NEC pot                         Giovanni:4
 1x Keith Moody                    3  DOM                             Tremere antitribu:4
 
 Library (90 cards)
-Master (20)
+Master (20; 3 trifle)
 1x Barrens, The
 1x Coven, The
 1x Giant's Blood

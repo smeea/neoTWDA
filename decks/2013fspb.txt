@@ -8,21 +8,19 @@ Tomàs López Jiménez
 
 -- Unknown
 
-Saulot Kakarot's Style
-
-Unknown
+Deck Name: Saulot Kakarot's Style
 
 Crypt (12 cards, min=17 max=44 avg=6.92)
 ----------------------------------------
-4x Saulot, The Wanderer   11  dai AUS FOR OBE THA VAL      Salubri:4
-2x Halim Bey               6  obf tha DOM SER              Ministry:4
+4x Saulot, The Wanderer   11  AUS FOR OBE THA VAL dai      Salubri:4
+2x Halim Bey               6  DOM SER obf tha              Ministry:4
 2x Abdelsobek              5  for nec obf pre ser          Ministry:5
-2x Black Lotus             5  aus obf ser DOM              Ministry:4
+2x Black Lotus             5  DOM aus obf ser              Ministry:4
 1x Sahira Siraj            4  obf ser tha                  Ministry:4
 1x Ahmose Chambers         3  obf ser                      Ministry:5
 
 Library (90 cards)
-Master (16)
+Master (16; 1 trifle)
 1x Barrens, The
 1x Dark Influences
 1x Dreams of the Sphinx

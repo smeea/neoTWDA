@@ -8,8 +8,7 @@ Peter Bakija
 
 -- Unknown
 
-Unknown
-
+Description:
 The Nosferatu Hate You! (version 6.0)
 
 The Delaying Tactics was my total prayer card, put in to hopefully avoid
@@ -24,12 +23,12 @@ my deck.
 
 Crypt (12 cards, min=6 max=22 avg=3.5)
 --------------------------------------
-2x Olivia                              5  vic OBF POT       bishop   Nosferatu antitribu:2
-2x Agatha                              4  obf POT                    Nosferatu antitribu:2
+2x Olivia                              5  OBF POT vic       bishop   Nosferatu antitribu:2
+2x Agatha                              4  POT obf                    Nosferatu antitribu:2
 2x Duck                                3  obf pot                    Nosferatu:1
 2x Hasina Kesi                         1  pot                        Caitiff:1
-1x Beast, The Leatherface of Detroit   7  ani cel OBF POT            Nosferatu antitribu:2
-1x Nigel the Shunned                   5  obf ANI POT                Nosferatu antitribu:2
+1x Beast, The Leatherface of Detroit   7  OBF POT ani cel            Nosferatu antitribu:2
+1x Nigel the Shunned                   5  ANI POT obf                Nosferatu antitribu:2
 1x KoKo                                2  pot                        Nosferatu:1
 1x Paul DiCarlo, The Alpha             2  pot                        Giovanni:2
 

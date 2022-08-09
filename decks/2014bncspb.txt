@@ -8,17 +8,15 @@ https://www.vekn.net/event-calendar/event/7461
 
 -- 4vp in the final
 
-TUP DOG
-
-Unknown
+Deck Name: TUP DOG
 
 Crypt (24 cards, min=4 max=20 avg=1.67)
 ---------------------------------------
 20x Tupdog              1  POT VIS              Gargoyle:3
-4x  Antonio d'Erlette   5  dom for pot THA      Tremere antitribu:4
+4x  Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4
 
 Library (90 cards)
-Master (16)
+Master (16; 6 trifle)
 1x Archon Investigation
 1x Channel 10
 2x Dreams of the Sphinx

@@ -8,23 +8,21 @@ Anthony Coleman
 
 -- 4vp in the final
 
-Unknown
-
-Deck: Bridges, Coleman & Nash
+Deck Name: Bridges, Coleman & Nash
 
 Crypt (12 cards, min=15 max=31 avg=5.83)
 ----------------------------------------
-3x Emerson Bridges                   8  pot DOM FOR PRE   prince   Ventrue:1
+3x Emerson Bridges                   8  DOM FOR PRE pot   prince   Ventrue:1
 2x Sir Walter Nash                   7  DOM FOR PRE       prince   Ventrue:1
-2x Ranjan Rishi, Camarilla Scholar   5  for DOM PRE                Ventrue:2
-1x Timothy Crowley                   7  ani dom FOR PRE   prince   Ventrue:1
-1x Jazz Wentworth                    5  dom for PRE                Ventrue:1
-1x Violette Prentiss                 4  dom PRE                    Ventrue:1
+2x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for                Ventrue:2
+1x Timothy Crowley                   7  FOR PRE ani dom   prince   Ventrue:1
+1x Jazz Wentworth                    5  PRE dom for                Ventrue:1
+1x Violette Prentiss                 4  PRE dom                    Ventrue:1
 1x Gideon Fontaine                   3  PRE                        Ventrue:1
 1x Roland Loussarian                 3  for pre                    Ventrue:1
 
 Library (71 cards)
-Master (12)
+Master (12; 1 trifle)
 1x Anarch Troublemaker
 3x Blood Doll
 1x Coven, The

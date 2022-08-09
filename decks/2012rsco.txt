@@ -8,8 +8,9 @@ Adam Hulse
 
 -- Unknown
 
-Ghouls Occupy Wall Street version 2
+Deck Name: Ghouls Occupy Wall Street version 2
 
+Description:
 Even the ghouls have begun to protest! The ring leader
 is a very charismatic Smiling Jack. Very peacefully mind you.
 But when you get them riled up they go to your home and assault
@@ -26,10 +27,10 @@ Crypt (12 cards, min=5 max=22 avg=3.33)
 ---------------------------------------
 3x Anarch Convert       1                       Caitiff:ANY
 1x Caliban              6  ANI AUS VIC          Tzimisce:2
-1x Corine Marcón        6  ani AUS VIC          Tzimisce:2
-1x Devin Bisley         5  vic ANI AUS          Tzimisce:2
-1x Elizabeth Westcott   5  ani cel vic AUS      Tzimisce:3
-1x Lolita Houston       4  aus VIC              Tzimisce:2
+1x Corine Marcón        6  AUS VIC ani          Tzimisce:2
+1x Devin Bisley         5  ANI AUS vic          Tzimisce:2
+1x Elizabeth Westcott   5  AUS ani cel vic      Tzimisce:3
+1x Lolita Houston       4  VIC aus              Tzimisce:2
 1x Terrence             4  ani aus vic          Tzimisce:2
 1x Wendy Wade           3  ani aus              Tzimisce:2
 1x Horatio              2  vic                  Tzimisce:2

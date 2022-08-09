@@ -8,21 +8,22 @@ https://www.vekn.net/event-calendar/event/9118
 
 -- 1gw3.5 + 1vp in the final
 
-Multy Wall
+Deck Name: Multy Wall
 
+Description:
 multimaster wall deck
 
 Crypt (15 cards, min=4 max=40 avg=6.4)
 --------------------------------------
 4x Huitzilopochtli               10  AUS DAI DOM OBF POT PRE              Baali:2
-4x Maris Streck                   9  ani dem dom AUS OBF       justicar   Malkavian:3
+4x Maris Streck                   9  AUS OBF ani dem dom       justicar   Malkavian:3
 4x Anarch Convert                 1                                       Caitiff:ANY
-1x Anatole, Prophet of Gehenna    8  dom for AUS DEM OBF                  Malkavian:2
-1x Victoria                       5  cel obf AUS                          Malkavian:2
-1x Zöe                            3  cel obf AUS                          Malkavian:2
+1x Anatole, Prophet of Gehenna    8  AUS DEM OBF dom for                  Malkavian:2
+1x Victoria                       5  AUS cel obf                          Malkavian:2
+1x Zöe                            3  AUS cel obf                          Malkavian:2
 
 Library (90 cards)
-Master (40)
+Master (40; 7 trifle)
 12x Ashur Tablets
 1x Asylum Hunting Ground
 1x Direct Intervention

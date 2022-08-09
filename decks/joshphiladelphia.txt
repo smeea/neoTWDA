@@ -8,8 +8,7 @@ http://groups.yahoo.com/neo/groups/vtes/conversations/messages/490
 
 -- Unknown
 
-Unknown
-
+Description:
 Gangrel Wall of Untap
 
 Josh's deck is a fiendishly clever block and untap
@@ -26,14 +25,14 @@ wisdom on playing this thing.)
 
 Crypt (12 cards, min=14 max=32 avg=5.5)
 ---------------------------------------
-2x Bear Paw                       5  for pre pro ANI                  Gangrel:1
-2x Camille Devereux, The Raven    5  ani FOR PRO                      Gangrel:1
+2x Bear Paw                       5  ANI for pre pro                  Gangrel:1
+2x Camille Devereux, The Raven    5  FOR PRO ani                      Gangrel:1
 2x Chandler Hungerford            3  PRO                              Gangrel:2
-1x Basilia                       10  obf pot ANI FOR PRO   primogen   Gangrel:1
-1x Ingrid Rossler                 9  dom ANI FOR PRO       prince     Gangrel:2
+1x Basilia                       10  ANI FOR PRO obf pot   primogen   Gangrel:1
+1x Ingrid Rossler                 9  ANI FOR PRO dom       prince     Gangrel:2
 1x Gitane St. Claire              7  ANI FOR PRO           primogen   Gangrel:1
-1x Badger                         6  ani pot FOR PRO                  Gangrel:1
-1x Mirembe Kabbada                5  ani PRO SER                      Gangrel:2
+1x Badger                         6  FOR PRO ani pot                  Gangrel:1
+1x Mirembe Kabbada                5  PRO SER ani                      Gangrel:2
 1x Anastasia Grey                 3  ani pro                          Gangrel:1
 
 Library (90 cards)

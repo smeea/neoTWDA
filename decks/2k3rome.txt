@@ -8,8 +8,7 @@ Marco La Valle
 
 -- Unknown
 
-Unknown
-
+Description:
 "Mr. Majestic"
 
 A horde of  small cap vampires with PRE relentlessly bleed and vote,
@@ -25,8 +24,8 @@ this list will be made public).
 Crypt (12 cards, min=5 max=16 avg=2.67)
 ---------------------------------------
 2x Gideon Fontaine      3  PRE                        Ventrue:1
-1x Rake                 6  aus cel pot PRE   prince   Brujah:1
-1x Violette Prentiss    4  dom PRE                    Ventrue:1
+1x Rake                 6  PRE aus cel pot   prince   Brujah:1
+1x Violette Prentiss    4  PRE dom                    Ventrue:1
 1x Itzahk Levine        3  cel pre                    Ventrue:2
 1x Roland Loussarian    3  for pre                    Ventrue:1
 1x Uma Hatch            3  cel pre                    Brujah:1

@@ -8,21 +8,19 @@ https://www.vekn.net/event-calendar/event/9572
 
 -- 1gw3.5 + 3.5vp in the final
 
-Nosfi principes el bueno
-
-Unknown
+Deck Name: Nosfi principes el bueno
 
 Crypt (12 cards, min=22 max=39 avg=7.75)
 ----------------------------------------
-3x Cock Robin             10  aus for ANI OBF POT   justicar   Nosferatu:3
-3x Casino Reeds            9  cel dem ANI OBF POT   prince     Nosferatu:3
-2x Murat                   7  ser OBF POT           prince     Nosferatu:2
-2x Nikolaus Vermeulen      7  ani for obf POT       prince     Nosferatu:2
-1x Calebros, The Martyr    5  obf pot ANI           prince     Nosferatu:2
+3x Cock Robin             10  ANI OBF POT aus for   justicar   Nosferatu:3
+3x Casino Reeds            9  ANI OBF POT cel dem   prince     Nosferatu:3
+2x Murat                   7  OBF POT ser           prince     Nosferatu:2
+2x Nikolaus Vermeulen      7  POT ani for obf       prince     Nosferatu:2
+1x Calebros, The Martyr    5  ANI obf pot           prince     Nosferatu:2
 1x Clarissa Steinburgen    3  ani obf                          Nosferatu:3
 
 Library (90 cards)
-Master (18)
+Master (18; 4 trifle)
 1x Archon Investigation
 1x Direct Intervention
 1x Elysium: The Palace of Versailles

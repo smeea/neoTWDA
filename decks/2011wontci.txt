@@ -8,14 +8,15 @@ Bill Troxel
 
 -- 4vp in the final
 
-Pure Nos '94
+Deck Name: Pure Nos '94
 
+Description:
 All Jyhad-backed, crypt and library, weenie Nos cheesy breed/boon with lots of stealth.
 
 Crypt (12 cards, min=4 max=24 avg=3.25)
 ---------------------------------------
-2x Selma the Repugnant   8  ani for OBF POT   prince   Nosferatu:1
-2x Agrippina             4  pot OBF                    Nosferatu:1
+2x Selma the Repugnant   8  OBF POT ani for   prince   Nosferatu:1
+2x Agrippina             4  OBF pot                    Nosferatu:1
 1x Sammy                 4  ani obf pot                Nosferatu:1
 1x Duck                  3  obf pot                    Nosferatu:1
 1x Dimple                2  obf                        Nosferatu:1

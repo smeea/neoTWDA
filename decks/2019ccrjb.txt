@@ -8,20 +8,18 @@ https://www.vekn.net/event-calendar/event/9289
 
 -- 1gw4.5 + 2.5vp in the final
 
-Puteiro hunting ground
-
-Unknown
+Deck Name: Puteiro hunting ground
 
 Crypt (12 cards, min=22 max=32 avg=6.92)
 ----------------------------------------
-3x Venere Carboni     8  ani AUS CEL PRE   priscus      Toreador antitribu:3
+3x Venere Carboni     8  AUS CEL PRE ani   priscus      Toreador antitribu:3
 3x Jessica            7  AUS CEL OBT PRE   bishop       Toreador antitribu:2
-2x Lachlan, Noddist   8  dom AUS CEL PRE   archbishop   Toreador antitribu:2
-2x Greta Kircher      7  obf AUS CEL PRE                Toreador antitribu:2
+2x Lachlan, Noddist   8  AUS CEL PRE dom   archbishop   Toreador antitribu:2
+2x Greta Kircher      7  AUS CEL PRE obf                Toreador antitribu:2
 2x Sabrina            4  aus cel pre                    Toreador antitribu:3
 
 Library (90 cards)
-Master (21)
+Master (21; 4 trifle)
 1x Direct Intervention
 1x Dreams of the Sphinx
 2x Fame

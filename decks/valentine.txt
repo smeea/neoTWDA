@@ -8,8 +8,7 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/KYh8eHq10W4
 
 -- Unknown
 
-Unknown
-
+Description:
 The Laptops, AI, Sudden and Rumor Mill were late additions to the
 deck, the AI and Sudden mainly from my last meeting with Barney. The
 Rumor Mill was the most valuable though. It made several bleeders
@@ -19,12 +18,12 @@ other people apart from heads being kicked in.
 Crypt (12 cards, min=15 max=28 avg=5.25)
 ----------------------------------------
 2x Amelia                              7  CEL POT PRE           bishop     Brujah antitribu:2
-2x Beast, The Leatherface of Detroit   7  ani cel OBF POT                  Nosferatu antitribu:2
-2x Jimmy Dunn                          4  for CEL POT                      Pander:2
-2x Victor Tolliver                     4  pot CEL                          Brujah antitribu:2
-1x Anvil                               6  dom pre tha CEL POT   primogen   Brujah:1
-1x Rigby, Crusade Vanguard             5  aus pot CEL PRE                  Brujah antitribu:2
-1x Volker, The Puppet Prince           5  pot CEL               prince     Brujah:2
+2x Beast, The Leatherface of Detroit   7  OBF POT ani cel                  Nosferatu antitribu:2
+2x Jimmy Dunn                          4  CEL POT for                      Pander:2
+2x Victor Tolliver                     4  CEL pot                          Brujah antitribu:2
+1x Anvil                               6  CEL POT dom pre tha   primogen   Brujah:1
+1x Rigby, Crusade Vanguard             5  CEL PRE aus pot                  Brujah antitribu:2
+1x Volker, The Puppet Prince           5  CEL pot               prince     Brujah:2
 1x Jacob Bragg                         3  cel pot                          Brujah antitribu:2
 
 Library (90 cards)

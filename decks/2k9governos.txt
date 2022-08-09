@@ -8,21 +8,22 @@ Adam Esbjörnsson
 
 -- 4vp in the final
 
-Arsemite syrups
+Deck Name: Arsemite syrups
 
+Description:
 Thanks to Mathias Olsson for the inspiration
 
 Crypt (12 cards, min=19 max=36 avg=7.08)
 ----------------------------------------
-4x Izhim abd Azrael             9  pot CEL OBF QUI THA      Banu Haqim:5
-3x Djuhah, The Bronze Bow       7  aus cel pre OBF QUI      Banu Haqim:5
-2x Reza Fatir, The Dark Angel   6  obf pro CEL QUI          Banu Haqim:4
-1x Nizzam al-Latif              9  dem ANI CEL OBF QUI      Banu Haqim:5
+4x Izhim abd Azrael             9  CEL OBF QUI THA pot      Banu Haqim:5
+3x Djuhah, The Bronze Bow       7  OBF QUI aus cel pre      Banu Haqim:5
+2x Reza Fatir, The Dark Angel   6  CEL QUI obf pro          Banu Haqim:4
+1x Nizzam al-Latif              9  ANI CEL OBF QUI dem      Banu Haqim:5
 1x Rashid Stockton              4  cel obf vic              Gangrel antitribu:5
 1x Lubomira Hradok              3  OBF                      Nosferatu antitribu:5
 
 Library (77 cards)
-Master (22)
+Master (22; 6 trifle)
 1x Coven, The
 3x Dreams of the Sphinx
 1x Giant's Blood

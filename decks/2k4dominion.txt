@@ -8,8 +8,9 @@ Matthew Morgan
 
 -- Unknown
 
-Rachel Brandyclaws
+Deck Name: Rachel Brandyclaws
 
+Description:
 Stealth bleed with Protean for combat defense/offense.
 Bleed for 2 or 3 at stealth. Use Form of Mist to minimize bounce
 potential. Rotschreck rushers and odds are they won't rush again
@@ -78,14 +79,14 @@ Mostly used for stealth. I maneuvered a couple times just to cycle them.
 
 Crypt (12 cards, min=22 max=40 avg=7.67)
 ----------------------------------------
-4x Rachel Brandywine       10  ani AUS DEM OBF PRO   prince    Malkavian:3
-2x Rodolfo                  8  pro AUS DEM OBF       bishop    Malkavian antitribu:3
-1x Kite                     7  obf pre AUS DEM       bishop    Malkavian antitribu:2
-1x Korah                    7  ani AUS DEM OBF       priscus   Malkavian antitribu:2
+4x Rachel Brandywine       10  AUS DEM OBF PRO ani   prince    Malkavian:3
+2x Rodolfo                  8  AUS DEM OBF pro       bishop    Malkavian antitribu:3
+1x Kite                     7  AUS DEM obf pre       bishop    Malkavian antitribu:2
+1x Korah                    7  AUS DEM OBF ani       priscus   Malkavian antitribu:2
 1x Dolphin Black            6  AUS DEM OBF                     Malkavian antitribu:2
-1x Tony                     6  dom obf AUS DEM                 Malkavian:3
-1x Colonel, The             5  cel dem obf AUS                 Malkavian antitribu:3
-1x General Perfidio Díos    5  dem obf AUS           bishop    Malkavian antitribu:3
+1x Tony                     6  AUS DEM dom obf                 Malkavian:3
+1x Colonel, The             5  AUS cel dem obf                 Malkavian antitribu:3
+1x General Perfidio Díos    5  AUS dem obf           bishop    Malkavian antitribu:3
 
 Library (90 cards)
 Master (16)

@@ -8,8 +8,9 @@ Erik Torstensson
 
 -- 5vp in the final
 
-The White House
+Deck Name: The White House
 
+Description:
 Created by Alex Ek and Erik Torstensson.
 Won the tournament in Gothenburg on the 8 January, 2005. It took 1GW,
 The idea is to lock down the table with your first traditions, then
@@ -19,12 +20,12 @@ your other damage dealing votes to oust.
 
 Crypt (12 cards, min=19 max=40 avg=7.25)
 ----------------------------------------
-4x Lucian             10  cel tha AUS DOM OBF   justicar   Malkavian:1
+4x Lucian             10  AUS DOM OBF cel tha   justicar   Malkavian:1
 3x Gilbert Duane       7  AUS DOM OBF           prince     Malkavian:1
-2x Greger Anderssen    7  dom pro AUS OBF       prince     Malkavian:2
-1x Victoria            5  cel obf AUS                      Malkavian:2
-1x Aleph               4  dom AUS                          Malkavian:1
-1x Zöe                 3  cel obf AUS                      Malkavian:2
+2x Greger Anderssen    7  AUS OBF dom pro       prince     Malkavian:2
+1x Victoria            5  AUS cel obf                      Malkavian:2
+1x Aleph               4  AUS dom                          Malkavian:1
+1x Zöe                 3  AUS cel obf                      Malkavian:2
 
 Library (70 cards)
 Master (10)

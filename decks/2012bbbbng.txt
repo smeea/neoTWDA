@@ -8,22 +8,20 @@ Alexander Tüschen
 
 -- Unknown
 
-Blocking Hordes
-
-Unknown
+Deck Name: Blocking Hordes
 
 Crypt (12 cards, min=15 max=36 avg=6.08)
 ----------------------------------------
-4x Guillaume Giovanni             9  obt CEL DOM NEC POT             Giovanni:4
+4x Guillaume Giovanni             9  CEL DOM NEC POT obt             Giovanni:4
 3x Primo Giovanni                 4  dom nec pot                     Giovanni:4
 1x Don Michael Antonio Giovanni   7  DOM NEC POT           2 votes   Giovanni:4
-1x Raphaela Giovanni              6  pot pre DOM NEC                 Giovanni:4
-1x Donatello Giovanni             5  aus pot pre DOM                 Giovanni:4
-1x Thomasso Ghiberti              4  pot NEC                         Giovanni:4
+1x Raphaela Giovanni              6  DOM NEC pot pre                 Giovanni:4
+1x Donatello Giovanni             5  DOM aus pot pre                 Giovanni:4
+1x Thomasso Ghiberti              4  NEC pot                         Giovanni:4
 1x Nunzio Giovanni                3  nec pot                         Giovanni:4
 
 Library (90 cards)
-Master (18)
+Master (18; 3 trifle)
 1x Barrens, The
 1x Coven, The
 1x Dis Pater

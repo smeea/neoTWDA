@@ -8,8 +8,7 @@ Jay Kristoff
 
 -- Unknown
 
-Unknown
-
+Description:
 Vote Nos 2004
 Jay Kristoff won this tournament handily with 4VP in the final. I
 believe that he had 2 game wins going in.
@@ -30,12 +29,12 @@ Mark Loughman for loaning me cards to complete my deck.
 
 Crypt (12 cards, min=10 max=29 avg=4.83)
 ----------------------------------------
-2x Nikolaus Vermeulen                 7  ani for obf POT   prince   Nosferatu:2
-1x Selma the Repugnant                8  ani for OBF POT   prince   Nosferatu:1
-1x Murat                              7  ser OBF POT       prince   Nosferatu:2
-1x Tusk, The Talebearer               6  ani pot OBF                Nosferatu:1
-1x Calebros, The Martyr               5  obf pot ANI       prince   Nosferatu:2
-1x Agrippina                          4  pot OBF                    Nosferatu:1
+2x Nikolaus Vermeulen                 7  POT ani for obf   prince   Nosferatu:2
+1x Selma the Repugnant                8  OBF POT ani for   prince   Nosferatu:1
+1x Murat                              7  OBF POT ser       prince   Nosferatu:2
+1x Tusk, The Talebearer               6  OBF ani pot                Nosferatu:1
+1x Calebros, The Martyr               5  ANI obf pot       prince   Nosferatu:2
+1x Agrippina                          4  OBF pot                    Nosferatu:1
 1x Sammy                              4  ani obf pot                Nosferatu:1
 1x Duck                               3  obf pot                    Nosferatu:1
 1x Regilio, The Seeker of Akhenaten   3  aus obf                    Nosferatu:2

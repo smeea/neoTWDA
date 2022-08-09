@@ -8,20 +8,18 @@ Lukasz Wasylow
 
 -- 3vp in the final
 
-Rachel Madness
-
-Unknown
+Deck Name: Rachel Madness
 
 Crypt (12 cards, min=27 max=40 avg=8.83)
 ----------------------------------------
-7x Rachel Brandywine   10  ani AUS DEM OBF PRO   prince     Malkavian:3
-2x Greger Anderssen     7  dom pro AUS OBF       prince     Malkavian:2
-1x Maris Streck         9  ani dem dom AUS OBF   justicar   Malkavian:3
-1x Quentin King III     7  obf pre AUS DEM       prince     Malkavian:3
-1x Tony                 6  dom obf AUS DEM                  Malkavian:3
+7x Rachel Brandywine   10  AUS DEM OBF PRO ani   prince     Malkavian:3
+2x Greger Anderssen     7  AUS OBF dom pro       prince     Malkavian:2
+1x Maris Streck         9  AUS OBF ani dem dom   justicar   Malkavian:3
+1x Quentin King III     7  AUS DEM obf pre       prince     Malkavian:3
+1x Tony                 6  AUS DEM dom obf                  Malkavian:3
 
 Library (85 cards)
-Master (13)
+Master (13; 4 trifle)
 1x Direct Intervention
 4x Madness Network
 2x Pentex(TM) Subversion

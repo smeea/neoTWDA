@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8883
 
 -- 1gw3.5 + 4vp in the final
 
-Nosferatu Royalty Toolbox ft. Strohmann – Big Guys Do Big Things
+Deck Name: Nosferatu Royalty Toolbox ft. Strohmann – Big Guys Do Big Things
 
+Description:
 Bleed Big, Vote Big, Hit Big, So Many Oust Mechanisms!
 
 Never used Josef von Bauren, might change him for Dieudonne/Brunelle/Benjamin.
@@ -24,15 +25,15 @@ really really good abilities.
 
 Crypt (12 cards, min=33 max=41 avg=9.25)
 ----------------------------------------
-4x Alonso Petrodon      10  for tha ANI DOM OBF POT   justicar       Nosferatu:5
-3x Strohmann             9  dom ANI OBF POT THA       archbishop     Nosferatu antitribu:5
+4x Alonso Petrodon      10  ANI DOM OBF POT for tha   justicar       Nosferatu:5
+3x Strohmann             9  ANI OBF POT THA dom       archbishop     Nosferatu antitribu:5
 2x Baron Dieudonne       9  ANI OBF POT PRO           prince         Nosferatu:4
-1x Josef von Bauren     11  cel ANI DEM OBF POT       inner circle   Nosferatu:4
-1x Gustaphe Brunnelle    8  obf ANI DOM POT           primogen       Nosferatu:4
-1x Benjamin Rose         7  ani pot AUS OBF           prince         Nosferatu:5
+1x Josef von Bauren     11  ANI DEM OBF POT cel       inner circle   Nosferatu:4
+1x Gustaphe Brunnelle    8  ANI DOM POT obf           primogen       Nosferatu:4
+1x Benjamin Rose         7  AUS OBF ani pot           prince         Nosferatu:5
 
 Library (88 cards)
-Master (18)
+Master (18; 8 trifle)
 1x Direct Intervention
 1x Dreams of the Sphinx
 1x Fame

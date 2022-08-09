@@ -8,22 +8,20 @@ https://www.vekn.net/event-calendar/event/6226
 
 -- 4vp in the final
 
-Shamblers
-
-Unknown
+Deck Name: Shamblers
 
 Crypt (12 cards, min=6 max=25 avg=3.75)
 ---------------------------------------
 3x Tupdog             1  POT VIS              Gargoyle:3
-2x Andrea Giovanni    7  pot vic DOM NEC      Giovanni:2
-2x Isabel Giovanni    5  pot DOM NEC          Giovanni:2
+2x Andrea Giovanni    7  DOM NEC pot vic      Giovanni:2
+2x Isabel Giovanni    5  DOM NEC pot          Giovanni:2
 2x Rudolfo Giovanni   3  NEC                  Giovanni:2
-1x Stefano Giovanni   6  nec pot pre DOM      Giovanni:2
+1x Stefano Giovanni   6  DOM nec pot pre      Giovanni:2
 1x Lia Milliner       3  dom nec              Giovanni:3
 1x Mario Giovanni     3  nec pot              Giovanni:2
 
 Library (90 cards)
-Master (22)
+Master (22; 6 trifle)
 1x Charisma
 1x Fame
 1x Giant's Blood

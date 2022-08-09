@@ -8,8 +8,7 @@ Hugh Angseesing
 
 -- Unknown
 
-Unknown
-
+Description:
 3GW10
 
 Deck "Chainsaws to the Face" via John Eno circa 2009
@@ -26,7 +25,7 @@ Crypt (12 cards, min=14 max=20 avg=4.33)
 1x Inez "Nurse216" Villagrande   3  inn              Innocent:4
 
 Library (78 cards)
-Master (13)
+Master (13; 1 trifle)
 4x Angel of Berlin
 1x Barrens, The
 1x Church of Vindicated Faith, The

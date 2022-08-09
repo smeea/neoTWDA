@@ -8,8 +8,9 @@ Guido Canciani
 
 -- Unknown
 
-Nasty Panders
+Deck Name: Nasty Panders
 
+Description:
 legacy of rushing pander/weenie with db rounds and politics
 
 Crypt (15 cards, min=4 max=8 avg=1.6)

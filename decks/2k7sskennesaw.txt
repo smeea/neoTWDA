@@ -8,15 +8,16 @@ John Newquist
 
 -- Unknown
 
-Henry Twist is the New Darby Dance
+Deck Name: Henry Twist is the New Darby Dance
 
+Description:
 Based on Janne Hagglund's Twist with Conviction and
 Ben Peal's Henry Taylor Twister.
 it's unlikely I'll play this deck again.
 
 Crypt (12 cards, min=15 max=23 avg=4.75)
 ----------------------------------------
-3x Henry Taylor                 6  cel pre pro POT      Brujah antitribu:3
+3x Henry Taylor                 6  POT cel pre pro      Brujah antitribu:3
 3x Jennie "Cassie247" Orne      5  inn jud vis          Visionary:4
 1x Travis "Traveler72" Miller   5  mar def              Martyr:4
 1x Alessandro Garcia            4  pot pre pro          Brujah antitribu:4

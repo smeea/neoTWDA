@@ -8,8 +8,9 @@ Jussi Ranta
 
 -- Unknown
 
-Man Smell 2009
+Deck Name: Man Smell 2009
 
+Description:
 A deck, which was my Imperator deck. For some reason I
 had taken out almost 20 cards, so I just sort of threw this one together.
 I had some storyline specific cards as well (Justicar vote, Triole's
@@ -17,12 +18,12 @@ revenge), but I took them out as well.
 
 Crypt (12 cards, min=23 max=36 avg=7.17)
 ----------------------------------------
-4x Crusher                           9  for CEL POT PRE       primogen   Brujah:1
-3x Richter, The Templar of Du Mont   7  for pre CEL POT                  Brujah antitribu:2
-2x Anvil                             6  dom pre tha CEL POT   primogen   Brujah:1
-1x Bianca                            6  pot pre CEL                      Brujah:1
-1x Rake                              6  aus cel pot PRE       prince     Brujah:1
-1x Volker, The Puppet Prince         5  pot CEL               prince     Brujah:2
+4x Crusher                           9  CEL POT PRE for       primogen   Brujah:1
+3x Richter, The Templar of Du Mont   7  CEL POT for pre                  Brujah antitribu:2
+2x Anvil                             6  CEL POT dom pre tha   primogen   Brujah:1
+1x Bianca                            6  CEL pot pre                      Brujah:1
+1x Rake                              6  PRE aus cel pot       prince     Brujah:1
+1x Volker, The Puppet Prince         5  CEL pot               prince     Brujah:2
 
 Library (89 cards)
 Master (18; 1 trifle)
@@ -45,31 +46,31 @@ Action (17)
 4x Bum's Rush
 4x Entrancement
 2x Harass
-2x Legal Manipulations -- One more?
-2x Mind Numb -- Even in combat decks, these ROCK!
-1x Rampage -- Killed Black Forest Base of Lutz deck with this
-1x Red List -- Switch to some other rush
+2x Legal Manipulations
+2x Mind Numb
+1x Rampage
+1x Red List
 
 Ally (3)
 1x Carlton Van Wyk
-1x Ossian -- Ossian won me the finals, or at least kept me alive to win it.
+1x Ossian
 1x Repo Man
 
 Equipment (5)
-2x Ambulance -- Never equipped, has potential
+2x Ambulance
 1x Blood Tears of Kephran
-1x Heart of Nizchetus -- Essential for giving me the finals!
+1x Heart of Nizchetus
 1x Leather Jacket
 
 Political Action (1)
 1x Kine Resources Contested
 
 Action Modifier (6)
-2x Forced March -- Couple more these
+2x Forced March
 4x Freak Drive
 
 Action Modifier/Combat (6)
-6x Resist Earth's Grasp -- Just too good to be true
+6x Resist Earth's Grasp
 
 Reaction (1)
 1x Delaying Tactics

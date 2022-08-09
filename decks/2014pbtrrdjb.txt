@@ -8,8 +8,7 @@ Reginaldo Oliveira
 
 -- Unknown
 
-Unknown
-
+Description:
 Winning Grinder
 
 Crypt (12 cards, min=4 max=8 avg=1.5)
@@ -28,7 +27,7 @@ Crypt (12 cards, min=4 max=8 avg=1.5)
 1x Schuyler                      1  tha          Pander:4
 
 Library (90 cards)
-Master (15)
+Master (15; 5 trifle)
 5x Blood Doll
 5x Effective Management
 5x Life in the City

@@ -8,8 +8,9 @@ Robert Scythe
 
 -- Unknown
 
-The Gospel According To Set
+Deck Name: The Gospel According To Set
 
+Description:
 This deck can be rather difficult to play, but
 is pretty fun. With self Temptations, Firebrands and
 Abdelsobek a lot of Multi-acting nonsense ensues. One of the
@@ -20,16 +21,16 @@ in here, dammit, it even fits thematically.
 Crypt (12 cards, min=4 max=26 avg=3.83)
 ---------------------------------------
 5x Anarch Convert           1                           Caitiff:ANY
-1x Bupe Kuila               7  pre OBF POT SER          Ministry:4
-1x Ogwon                    7  for OBF PRE SER          Ministry:5
-1x Ankh-sen-Sutekh          6  obf PRE SER              Ministry:4
-1x Clea Auguste d'Holford   6  pre ser OBF POT          Ministry:5
+1x Bupe Kuila               7  OBF POT SER pre          Ministry:4
+1x Ogwon                    7  OBF PRE SER for          Ministry:5
+1x Ankh-sen-Sutekh          6  PRE SER obf              Ministry:4
+1x Clea Auguste d'Holford   6  OBF POT pre ser          Ministry:5
 1x Abdelsobek               5  for nec obf pre ser      Ministry:5
-1x Renenet                  5  ser OBF PRE              Ministry:4
-1x Zhenga                   5  obf pre SER              Ministry:4
+1x Renenet                  5  OBF PRE ser              Ministry:4
+1x Zhenga                   5  SER obf pre              Ministry:4
 
 Library (76 cards)
-Master (16)
+Master (16; 4 trifle)
 1x Anarch Free Press, The
 1x Anarch Railroad
 2x Ferraille

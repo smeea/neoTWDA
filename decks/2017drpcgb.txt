@@ -8,9 +8,7 @@ https://www.vekn.net/event-calendar/event/8723
 
 -- 0gw4 + 4vp in the final
 
-caitff JR
-
-Unknown
+Deck Name: caitff JR
 
 Crypt (18 cards, min=4 max=8 avg=1.22)
 --------------------------------------
@@ -34,7 +32,7 @@ Crypt (18 cards, min=4 max=8 avg=1.22)
 1x Uriah Winter               1  for pot      Caitiff:1
 
 Library (77 cards)
-Master (30)
+Master (30; 2 trifle)
 1x Anarch Troublemaker
 2x Archon Investigation
 13x Brainwash

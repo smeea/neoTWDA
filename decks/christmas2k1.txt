@@ -8,8 +8,9 @@ Martin Cubberley
 
 -- Unknown
 
-Suhailah Dares the Darkness
+Deck Name: Suhailah Dares the Darkness
 
+Description:
 Get Suhailah to tool up with the Heart of Darkness then
 Force of Will/Daring the Dawn your prey out of existence. Use the many
 Minion Taps for pool gain and refill vamps with Fifth Traditions - which make
@@ -19,13 +20,13 @@ with another one.
 
 Crypt (12 cards, min=16 max=40 avg=7.58)
 ----------------------------------------
-4x Suhailah               9  pot ser FOR OBF           prince         Ventrue:2
-2x Queen Anne            10  aus obf DOM FOR PRE       prince         Ventrue:2
+4x Suhailah               9  FOR OBF pot ser           prince         Ventrue:2
+2x Queen Anne            10  DOM FOR PRE aus obf       prince         Ventrue:2
 2x Rufina Soledad         2  for                                      Ventrue:1
-1x Arika                 11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Selma the Repugnant    8  ani for OBF POT           prince         Nosferatu:1
-1x Nikolaus Vermeulen     7  ani for obf POT           prince         Nosferatu:2
-1x Dedefra                5  nec obf SER                              Ministry:2
+1x Arika                 11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Selma the Repugnant    8  OBF POT ani for           prince         Nosferatu:1
+1x Nikolaus Vermeulen     7  POT ani for obf           prince         Nosferatu:2
+1x Dedefra                5  SER nec obf                              Ministry:2
 
 Library (90 cards)
 Master (15)

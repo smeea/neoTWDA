@@ -8,22 +8,23 @@ https://www.vekn.net/event-calendar/event/8253
 
 -- Unknown
 
-With a little help from Giotto (UK Nats)
+Deck Name: With a little help from Giotto (UK Nats)
 
+Description:
 For this tournament, I added another Pentex and replaced the Fourth Cycle by a Jake. The fact that noone else played Ashur Tablets made the things a bit easier.
 
 Crypt (12 cards, min=28 max=42 avg=8.75)
 ----------------------------------------
-5x Giotto Verducci     7  for pot pre DAI OBF                      Baali:2
-2x Arika              11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Cailean            10  dom ANI OBF POT PRE       archbishop     Nosferatu antitribu:2
-1x Jaroslav Pascek    10  for obf CEL POT PRE       justicar       Brujah:3
-1x Lucinde, Alastor   10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
-1x Queen Anne         10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Sarrasine (ADV)     8  aus nec OBF PRE SER       prince         Ministry:2
+5x Giotto Verducci     7  DAI OBF for pot pre                      Baali:2
+2x Arika              11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Cailean            10  ANI OBF POT PRE dom       archbishop     Nosferatu antitribu:2
+1x Jaroslav Pascek    10  CEL POT PRE for obf       justicar       Brujah:3
+1x Lucinde, Alastor   10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
+1x Queen Anne         10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Sarrasine (ADV)     8  OBF PRE SER aus nec       prince         Ministry:2
 
 Library (80 cards)
-Master (28)
+Master (28; 9 trifle)
 6x Ashur Tablets
 1x Coven, The
 1x Direct Intervention

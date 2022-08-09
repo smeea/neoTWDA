@@ -8,22 +8,20 @@ https://www.vekn.net/event-calendar/event/7539
 
 -- 4vp in the final
 
-Roberto Justus
-
-Unknown
+Deck Name: Roberto Justus
 
 Crypt (12 cards, min=32 max=44 avg=9.5)
 ---------------------------------------
-3x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE       inner circle   Malkavian:4
+3x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4
 2x Alicia Barrows           9  AUS DEM OBF POT PRE       archbishop     Malkavian antitribu:4
 2x Annazir                  9  DAI OBF POT PRE           2 votes        Baali:5
-2x Stavros                  7  dem AUS OBF PRE           priscus        Malkavian antitribu:4
-1x Adana de Sforza         11  aus CEL OBF POT PRE PRO   inner circle   Brujah:4
+2x Stavros                  7  AUS OBF PRE dem           priscus        Malkavian antitribu:4
+1x Adana de Sforza         11  CEL OBF POT PRE PRO aus   inner circle   Brujah:4
 1x Rafael de Corazon       11  AUS CEL DOM OBF PRE       inner circle   Toreador:4
-1x Dmitra Ilyanova          9  obf CEL FOR POT PRE       justicar       Brujah:5
+1x Dmitra Ilyanova          9  CEL FOR POT PRE obf       justicar       Brujah:5
 
 Library (90 cards)
-Master (18)
+Master (18; 6 trifle)
 2x Archon Investigation
 1x Dreams of the Sphinx
 2x Information Highway

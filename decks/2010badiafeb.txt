@@ -6,18 +6,16 @@ February 28th 2010
 Jordi Tomás
 
 
--- Unknown
+-- 0.5+3VP+3VP + 3.5VP in final
 
-Paella au d'Erlette
-
-0.5+3VP+3VP + 3.5VP in final
+Deck Name: Paella au d'Erlette
 
 Crypt (12 cards, min=10 max=20 avg=3.92)
 ----------------------------------------
-4x Antonio d'Erlette        5  dom for pot THA          Tremere antitribu:4
+4x Antonio d'Erlette        5  THA dom for pot          Tremere antitribu:4
 1x Cristos Mantigo          5  aus cel dom obf pre      Toreador antitribu:3
 1x L'Épuisette              4  aus cel pro              Toreador antitribu:4
-1x Loonar                   4  cel PRE                  Toreador antitribu:4
+1x Loonar                   4  PRE cel                  Toreador antitribu:4
 1x Sabrina                  4  aus cel pre              Toreador antitribu:3
 1x Jonathan Gursel          3  aus pre                  Toreador antitribu:4
 1x Monique Kim              3  aus cel                  Toreador antitribu:4
@@ -25,7 +23,7 @@ Crypt (12 cards, min=10 max=20 avg=3.92)
 1x Nicholas Chang           2  aus                      Toreador antitribu:3
 
 Library (73 cards)
-Master (15)
+Master (15; 4 trifle)
 1x Anarch Troublemaker
 2x Direct Intervention
 1x Fortschritt Library

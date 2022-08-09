@@ -8,25 +8,23 @@ https://www.vekn.net/event-calendar/event/7865
 
 -- 4vp in the final
 
-Puppeteers and their doggies
-
-Unknown
+Deck Name: Puppeteers and their doggies
 
 Crypt (12 cards, min=12 max=25 avg=4.92)
 ----------------------------------------
-3x Blanche Hill                      6  aus FOR OBE              Salubri:2
-1x Matthias                          7  nec AUS FOR OBE          Salubri:2
-1x Marlene, The Infernalist          6  dem for tha AUS DOM      Ventrue antitribu:2
-1x Vanessa                           6  aus pre DOM FOR          Ventrue antitribu:2
-1x Catherine du Bois                 5  for obf pre DOM          Ventrue:3
-1x Ranjan Rishi, Camarilla Scholar   5  for DOM PRE              Ventrue:2
-1x Gloria Giovanni                   4  nec DOM                  Giovanni:2
-1x Ingrid Russo                      4  for DOM                  Ventrue antitribu:2
+3x Blanche Hill                      6  FOR OBE aus              Salubri:2
+1x Matthias                          7  AUS FOR OBE nec          Salubri:2
+1x Marlene, The Infernalist          6  AUS DOM dem for tha      Ventrue antitribu:2
+1x Vanessa                           6  DOM FOR aus pre          Ventrue antitribu:2
+1x Catherine du Bois                 5  DOM for obf pre          Ventrue:3
+1x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for              Ventrue:2
+1x Gloria Giovanni                   4  DOM nec                  Giovanni:2
+1x Ingrid Russo                      4  DOM for                  Ventrue antitribu:2
 1x Lana Butcher                      3  dom for                  Ventrue:3
 1x Sandra White                      1                           Caitiff:3
 
 Library (68 cards)
-Master (13)
+Master (13; 5 trifle)
 2x Agent of Power
 2x Anarch Troublemaker
 1x Coven, The

@@ -8,19 +8,17 @@ João Augusto Sarcinelli
 
 -- Unknown
 
-Kid Bengala
-
-Unknown
+Deck Name: Kid Bengala
 
 Crypt (12 cards, min=24 max=38 avg=7.67)
 ----------------------------------------
-2x Ayo Igoli          10  obf tha AUS CEL FOR PRE              Ishtarri:4
-2x Undele              9  obf pre ser CEL FOR       magaji     Ishtarri:5
-2x Ganhuru             7  cel pro FOR PRE                      Ishtarri:4
-2x Ubende              7  for obf qui CEL PRE       magaji     Ishtarri:4
-2x Honorine Ateba      6  cel nec FOR PRE                      Ishtarri:4
-1x Dmitra Ilyanova     9  obf CEL FOR POT PRE       justicar   Brujah:5
-1x Victor Pelletier    5  cel dom for PRE                      Ventrue:4
+2x Ayo Igoli          10  AUS CEL FOR PRE obf tha              Ishtarri:4
+2x Undele              9  CEL FOR obf pre ser       magaji     Ishtarri:5
+2x Ganhuru             7  FOR PRE cel pro                      Ishtarri:4
+2x Ubende              7  CEL PRE for obf qui       magaji     Ishtarri:4
+2x Honorine Ateba      6  FOR PRE cel nec                      Ishtarri:4
+1x Dmitra Ilyanova     9  CEL FOR POT PRE obf       justicar   Brujah:5
+1x Victor Pelletier    5  PRE cel dom for                      Ventrue:4
 
 Library (90 cards)
 Master (10)

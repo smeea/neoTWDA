@@ -8,15 +8,16 @@ Jim Suh
 
 -- Unknown
 
-Setites can kiss my ra
+Deck Name: Setites can kiss my ra
 
+Description:
 How did this deck win? Luck.
 
 Crypt (12 cards, min=13 max=32 avg=5.5)
 ---------------------------------------
-4x Nadima                8  ani aus FOR PRO SER      Gangrel:3
-3x Mirembe Kabbada       5  ani PRO SER              Gangrel:2
-1x Hesha Ruhadze         6  ani obf pre SER          Ministry:2
+4x Nadima                8  FOR PRO SER ani aus      Gangrel:3
+3x Mirembe Kabbada       5  PRO SER ani              Gangrel:2
+1x Hesha Ruhadze         6  SER ani obf pre          Ministry:2
 1x Ramona                4  for pro                  Gangrel:2
 1x Ramona (ADV)          4  for pro                  Gangrel:2
 1x Chandler Hungerford   3  PRO                      Gangrel:2

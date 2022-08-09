@@ -8,14 +8,10 @@ Brian Moritz
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=4 max=19 avg=2.33)
 ---------------------------------------
-1x Korah                      7  ani AUS DEM OBF   priscus      Malkavian antitribu:2
-1x Marie Faucigny             7  dem tha AUS OBF   archbishop   Malkavian antitribu:3
+1x Korah                      7  AUS DEM OBF ani   priscus      Malkavian antitribu:2
+1x Marie Faucigny             7  AUS OBF dem tha   archbishop   Malkavian antitribu:3
 1x Lena Rowe                  3  aus obf pre                    Pander:2
 1x Christine Boscacci         2  dom vic                        Pander:2
 1x Mitchell, The Headhunter   2  obt pot                        Pander:2

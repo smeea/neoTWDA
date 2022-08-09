@@ -8,9 +8,7 @@ https://www.vekn.net/event-calendar/event/7963
 
 -- 3vp in the final
 
-Imbuid Twist
-
-Unknown
+Deck Name: Imbuid Twist
 
 Crypt (12 cards, min=11 max=20 avg=3.83)
 ----------------------------------------
@@ -23,7 +21,7 @@ Crypt (12 cards, min=11 max=20 avg=3.83)
 1x Liz "Ticket312" Thornton       2  inn red          Innocent:4
 
 Library (60 cards)
-Master (36)
+Master (36; 1 trifle)
 2x Angel of Berlin
 1x Archon Investigation
 1x Church of Vindicated Faith, The

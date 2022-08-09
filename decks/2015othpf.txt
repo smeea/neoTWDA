@@ -8,18 +8,19 @@ Guilhem Marrannes
 
 -- 3vp in the final
 
-!Bru Influence
+Deck Name: !Bru Influence
 
+Description:
 S&B !brujah Anarch
 
 Crypt (13 cards, min=4 max=23 avg=3.23)
 ---------------------------------------
 5x Anarch Convert       1                           Caitiff:ANY
 1x DeSalle              7  CEL POT PRE              Brujah antitribu:4
-1x Father Juan Carlos   6  aus cel pot tha PRE      Brujah antitribu:4
-1x Axel Von Anders      5  cel obf pot PRE          Brujah antitribu:4
-1x Gatjil Munyarryun    5  cel obt pre POT          Brujah antitribu:5
-1x Rodrigo              5  pot pre qui CEL          Brujah antitribu:4
+1x Father Juan Carlos   6  PRE aus cel pot tha      Brujah antitribu:4
+1x Axel Von Anders      5  PRE cel obf pot          Brujah antitribu:4
+1x Gatjil Munyarryun    5  POT cel obt pre          Brujah antitribu:5
+1x Rodrigo              5  CEL pot pre qui          Brujah antitribu:4
 1x Alessandro Garcia    4  pot pre pro              Brujah antitribu:4
 1x Smash                3  pot pre                  Brujah antitribu:4
 1x Honest Abe           2  pre                      Brujah:5

@@ -6,12 +6,11 @@ May 16th 2010
 Ruben Feldman
 
 
--- Unknown
+-- 2GW10 (5VP in final)
 
-Eldest are Ravnos
+Deck Name: Eldest are Ravnos
 
-2GW10 (5VP in final)
-
+Description:
 Description	Bring out little Ravnos, who in turn bring out littler
 Ravnos. Cycle Mozambique Allures easily by going Laibon and the
 calling votes using Eldest are Kholo. Vote defense is also Eldest are
@@ -34,7 +33,7 @@ Crypt (12 cards, min=8 max=15 avg=2.75)
 2x Spleen, Georgio Gutterpunk   2  ani chi          Ravnos:2
 2x Zip                          2  ani              Ravnos:3
 1x Anka, Priestess of Thorns    4  ani chi pro      Ravnos:2
-1x Salbatore Bokkengro          4  for pro CHI      Ravnos:2
+1x Salbatore Bokkengro          4  CHI for pro      Ravnos:2
 1x Sennuwy, The Promoter        4  ani chi for      Ravnos:2
 1x Lázár Dobrescu               3  for              Ravnos:2
 1x Tsigane                      3  aus chi          Ravnos:2

@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8945
 
 -- 1gw3 + 4vp in the final
 
-Haamujengi - Always the right answer.
+Deck Name: Haamujengi - Always the right answer.
 
+Description:
 As already discused in Deck clinic. Alafin is what makes the deck go.
 The ability has to be used to it's fullest, so don't give out free discards to others when they need them. You have to be smart about it...
 You will be milling yourself so much that you don't get to play every card in the deck.
@@ -20,13 +21,13 @@ Overly simplified: If you are thinking: Should I discard to Alafin? The answer i
 
 Crypt (12 cards, min=8 max=28 avg=5.17)
 ---------------------------------------
-4x Babalawo Alafin   7  ani AUS FOR NEC      Harbinger of Skulls:4
-3x Erebus            7  dem AUS FOR NEC      Harbinger of Skulls:3
+4x Babalawo Alafin   7  AUS FOR NEC ani      Harbinger of Skulls:4
+3x Erebus            7  AUS FOR NEC dem      Harbinger of Skulls:3
 3x Anarch Convert    1                       Caitiff:ANY
-2x Solomon Batanea   5  nec AUS FOR          Harbinger of Skulls:4
+2x Solomon Batanea   5  AUS FOR nec          Harbinger of Skulls:4
 
 Library (90 cards)
-Master (17)
+Master (17; 3 trifle)
 2x Dreams of the Sphinx
 1x Haven Uncovered
 1x Heidelberg Castle, Germany

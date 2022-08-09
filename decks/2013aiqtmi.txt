@@ -8,19 +8,20 @@ Danilo Torrisi
 
 -- Unknown
 
-Vintage Multimaster
+Deck Name: Vintage Multimaster
 
+Description:
 Multi master deck with old fashioned crypt
 
 Crypt (12 cards, min=37 max=44 avg=10.25)
 -----------------------------------------
-3x Arika             11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-3x Leandro           11  cel dom AUS OBF PRE       inner circle   Malkavian:2
+3x Arika             11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+3x Leandro           11  AUS OBF PRE cel dom       inner circle   Malkavian:2
 3x Huitzilopochtli   10  AUS DAI DOM OBF POT PRE                  Baali:2
-3x Maris Streck       9  ani dem dom AUS OBF       justicar       Malkavian:3
+3x Maris Streck       9  AUS OBF ani dem dom       justicar       Malkavian:3
 
 Library (89 cards)
-Master (46)
+Master (46; 8 trifle)
 9x Ashur Tablets
 1x Blind Spot
 1x Direct Intervention

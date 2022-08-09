@@ -8,20 +8,18 @@ https://groups.google.com/forum/#!topic/rec.games.trading-cards.jyhad/AeaelSFxnd
 
 -- Unknown
 
-Nosferatu politique
-
-Unknown
+Deck Name: Nosferatu politique
 
 Crypt (12 cards, min=11 max=35 avg=5.75)
 ----------------------------------------
-1x Harrod                      11  aus pre ANI CEL OBF POT   inner circle   Nosferatu:2
-1x Sheldon, Lord of the Clog    9  for ANI AUS OBF POT       justicar       Nosferatu:1
-1x Selma the Repugnant          8  ani for OBF POT           prince         Nosferatu:1
-1x Kendrick                     7  aus obf ANI POT           priscus        Nosferatu antitribu:2
-1x Murat                        7  ser OBF POT               prince         Nosferatu:2
-1x Nikolaus Vermeulen           7  ani for obf POT           prince         Nosferatu:2
-1x Grendel the Worm-Eaten       5  ani pot OBF                              Nosferatu:1
-1x Agrippina                    4  pot OBF                                  Nosferatu:1
+1x Harrod                      11  ANI CEL OBF POT aus pre   inner circle   Nosferatu:2
+1x Sheldon, Lord of the Clog    9  ANI AUS OBF POT for       justicar       Nosferatu:1
+1x Selma the Repugnant          8  OBF POT ani for           prince         Nosferatu:1
+1x Kendrick                     7  ANI POT aus obf           priscus        Nosferatu antitribu:2
+1x Murat                        7  OBF POT ser               prince         Nosferatu:2
+1x Nikolaus Vermeulen           7  POT ani for obf           prince         Nosferatu:2
+1x Grendel the Worm-Eaten       5  OBF ani pot                              Nosferatu:1
+1x Agrippina                    4  OBF pot                                  Nosferatu:1
 1x Sammy                        4  ani obf pot                              Nosferatu:1
 1x Duck                         3  obf pot                                  Nosferatu:1
 1x Dimple                       2  obf                                      Nosferatu:1

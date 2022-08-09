@@ -8,14 +8,15 @@ Marcin Watras
 
 -- 2gw7 + 4vp in the final
 
-Antonio - Ashur Tablets Nephandus swarm
+Deck Name: Antonio - Ashur Tablets Nephandus swarm
 
+Description:
 with some changes in the crypt (added 4 tupdogs)
 Easy to play, extremly effective
 
 Crypt (12 cards, min=4 max=20 avg=3.17)
 ---------------------------------------
-5x Antonio d'Erlette   5  dom for pot THA      Tremere antitribu:4
+5x Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4
 4x Tupdog              1  POT VIS              Gargoyle:3
 1x Ember Wright        3  aus dom              Tremere antitribu:3
 1x Keith Moody         3  DOM                  Tremere antitribu:4

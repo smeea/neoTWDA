@@ -8,8 +8,9 @@ Tiago Brum
 
 -- Unknown
 
-Tzimmy Wall
+Deck Name: Tzimmy Wall
 
+Description:
 What if Brum did a Tzimmy Wall?
 Typical Tzimisce Wall with my own analysis from the concept, that was created while writing a blog post about errors I see in wall building.
 
@@ -33,18 +34,18 @@ Vykos allows for extras in some places.
 
 Crypt (12 cards, min=22 max=37 avg=7.58)
 ----------------------------------------
-3x Sascha Vykos, The Angel of Caine (ADV)    8  ani dom AUS THA VIC   archbishop   Tzimisce:2
-2x Stravinsky                                9  pot ANI AUS VIC       archbishop   Tzimisce:2
-1x Lambach                                  10  pre ANI AUS DOM VIC   cardinal     Tzimisce:2
-1x John Paleologus                           9  pot ANI AUS CEL VIC   archbishop   Tzimisce:3
-1x Little Tailor of Prague                   8  dem ANI AUS VIC                    Tzimisce:2
+3x Sascha Vykos, The Angel of Caine (ADV)    8  AUS THA VIC ani dom   archbishop   Tzimisce:2
+2x Stravinsky                                9  ANI AUS VIC pot       archbishop   Tzimisce:2
+1x Lambach                                  10  ANI AUS DOM VIC pre   cardinal     Tzimisce:2
+1x John Paleologus                           9  ANI AUS CEL VIC pot   archbishop   Tzimisce:3
+1x Little Tailor of Prague                   8  ANI AUS VIC dem                    Tzimisce:2
 1x Meshenka                                  8  ANI AUS VIC           priscus      Tzimisce:2
 1x Caliban                                   6  ANI AUS VIC                        Tzimisce:2
-1x Corine Marcón                             6  ani AUS VIC                        Tzimisce:2
+1x Corine Marcón                             6  AUS VIC ani                        Tzimisce:2
 1x Horatio                                   2  vic                                Tzimisce:2
 
 Library (83 cards)
-Master (21)
+Master (21; 6 trifle)
 4x Dreams of the Sphinx
 2x Guardian Angel
 1x Information Highway

@@ -8,8 +8,9 @@ Dan Apholz
 
 -- 4vp in the final
 
-Mr Clean
+Deck Name: Mr Clean
 
+Description:
 Modified from an early deck borrowed from David it provides
 enough stealth to beat light intercept and voting power to
 get votes though. During each round the deck ran into little
@@ -22,12 +23,12 @@ Klaus back in as a 4th minion as the deck can easily get a
 
 Crypt (12 cards, min=36 max=40 avg=9.33)
 ----------------------------------------
-4x Armin Brenner   10  ani obf CEL FOR POT PRE   archbishop   Brujah antitribu:4
-4x Hektor           9  for CEL POT PRE QUI       priscus      Brujah antitribu:4
-4x Undele           9  obf pre ser CEL FOR       magaji       Ishtarri:5
+4x Armin Brenner   10  CEL FOR POT PRE ani obf   archbishop   Brujah antitribu:4
+4x Hektor           9  CEL POT PRE QUI for       priscus      Brujah antitribu:4
+4x Undele           9  CEL FOR obf pre ser       magaji       Ishtarri:5
 
 Library (90 cards)
-Master (16)
+Master (16; 6 trifle)
 1x Black Forest Base
 1x Creepshow Casino
 4x Dreams of the Sphinx

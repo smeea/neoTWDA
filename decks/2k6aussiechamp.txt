@@ -8,17 +8,13 @@ Jason Ryan
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=18 max=34 avg=6.58)
 ----------------------------------------
-3x Julia Prima         7  aus myt DOM OBT                    Kiasyd:2
-3x Kassiym Malikhair   6  dom for MYT OBT                    Kiasyd:2
-2x Marconius           9  pot DOM MYT OBT       archbishop   Kiasyd:2
-2x Bartholomew         8  dom obt AUS MYT NEC                Kiasyd:2
-1x Béatrice L'Angou    5  aus dom nec MYT                    Kiasyd:2
+3x Julia Prima         7  DOM OBT aus myt                    Kiasyd:2
+3x Kassiym Malikhair   6  MYT OBT dom for                    Kiasyd:2
+2x Marconius           9  DOM MYT OBT pot       archbishop   Kiasyd:2
+2x Bartholomew         8  AUS MYT NEC dom obt                Kiasyd:2
+1x Béatrice L'Angou    5  MYT aus dom nec                    Kiasyd:2
 1x Royce               1  dom                                Pander:2
 
 Library (90 cards)

@@ -8,8 +8,9 @@ Matthew Morgan
 
 -- Unknown
 
-This is not a Hatchling deck
+Deck Name: This is not a Hatchling deck
 
+Description:
 It's basically a swarm deck that can fight. I even found
 myself playing it like a swarm, i.e. Mustafa bleeds, gets blocked, I don't
 bother to slave in, but bleed with a Gargoyle instead.
@@ -62,11 +63,11 @@ pay 3 pool for the privilege.
 
 Crypt (12 cards, min=11 max=27 avg=4.83)
 ----------------------------------------
-3x Ublo-Satha                7  cel FOR POT VIS      Gargoyle:2
-2x Saxum, Master of Slaves   6  pot pre FOR VIS      Gargoyle:2
-2x Luma, Stone Beauty        5  aus pot vis FOR      Gargoyle:2
+3x Ublo-Satha                7  FOR POT VIS cel      Gargoyle:2
+2x Saxum, Master of Slaves   6  FOR VIS pot pre      Gargoyle:2
+2x Luma, Stone Beauty        5  FOR aus pot vis      Gargoyle:2
 1x Ignatius                  4  aus dom tha          Tremere:1
-1x Sarah Cobbler             4  dom THA              Tremere:1
+1x Sarah Cobbler             4  THA dom              Tremere:1
 1x Jing Wei                  3  dom tha              Tremere:1
 1x Mustafa Rahman            2  dom                  Tremere:2
 1x Roreca Quaid              2  tha                  Tremere:1

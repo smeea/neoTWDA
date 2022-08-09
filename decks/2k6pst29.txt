@@ -8,8 +8,9 @@ Jarkko Suvela
 
 -- 1gw5 + 3vp in the final
 
-"Xaviar's Meat Packing and Storage"
+Deck Name: "Xaviar's Meat Packing and Storage"
 
+Description:
 Concept: Xaviar multirush with Pander support
 
 Deck could really use more Dog Packs and maybe 1 or 2 Shadow of the
@@ -21,7 +22,7 @@ perhaps Metro Underground or the like)
 
 Crypt (14 cards, min=4 max=40 avg=3.86)
 ---------------------------------------
-4x Xaviar                 10  aus cel pot ANI FOR PRO   2 votes   Gangrel:3
+4x Xaviar                 10  ANI FOR PRO aus cel pot   2 votes   Gangrel:3
 1x Boy Toy                 2  dem                                 Malkavian antitribu:2
 1x Dani                    2  ani                                 Nosferatu antitribu:2
 1x Gillian Krader          2  ani dem                             Pander:2

@@ -8,19 +8,20 @@ https://www.vekn.net/event-calendar/event/9036
 
 -- 1gw3.5 + 4vp in the final
 
-El maestro está aquí
+Deck Name: El maestro está aquí
 
+Description:
 Lasombra combat
 
 Crypt (12 cards, min=32 max=44 avg=9.67)
 ----------------------------------------
 4x Montano                                  11  ANI DOM FOR OBT POT       2 votes    Lasombra:3
-4x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal   Lasombra:2
-2x Gratiano                                  8  obf pot DOM OBT           priscus    Lasombra:2
-2x Lucita (ADV)                              8  cel pot DOM FOR OBT                  Lasombra:2
+4x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal   Lasombra:2
+2x Gratiano                                  8  DOM OBT obf pot           priscus    Lasombra:2
+2x Lucita (ADV)                              8  DOM FOR OBT cel pot                  Lasombra:2
 
 Library (90 cards)
-Master (18)
+Master (18; 3 trifle)
 4x Dreams of the Sphinx
 1x Giant's Blood
 1x Jake Washington

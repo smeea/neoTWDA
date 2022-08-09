@@ -8,23 +8,24 @@ Slaven Karakas
 
 -- Unknown
 
-Kyassid Fancy School
+Deck Name: Kyassid Fancy School
 
+Description:
 Bleed your prey gradually and gain advantage
 over the pool he is gaining, wait patiently and strike quickly
 and decisively.
 
 Crypt (12 cards, min=22 max=32 avg=6.92)
 ----------------------------------------
-3x Pherydima                 8  obt pot DOM MYT NEC   bishop    Kiasyd:4
-2x Arcadian, The             8  chi for DOM MYT OBT             Kiasyd:5
-2x Omme Enberbenight         7  cel dom MYT OBT       priscus   Kiasyd:4
+3x Pherydima                 8  DOM MYT NEC obt pot   bishop    Kiasyd:4
+2x Arcadian, The             8  DOM MYT OBT chi for             Kiasyd:5
+2x Omme Enberbenight         7  MYT OBT cel dom       priscus   Kiasyd:4
 2x Isanwayen                 6  DOM MYT OBT                     Kiasyd:4
-2x Dame Hollerton            5  myt DOM OBT                     Kiasyd:4
-1x Roderick Phillips March   7  cel obt tha DOM MYT             Kiasyd:4
+2x Dame Hollerton            5  DOM OBT myt                     Kiasyd:4
+1x Roderick Phillips March   7  DOM MYT cel obt tha             Kiasyd:4
 
 Library (90 cards)
-Master (11)
+Master (11; 3 trifle)
 1x Capitalist
 1x Dominate
 1x Dreams of the Sphinx

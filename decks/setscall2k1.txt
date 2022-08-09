@@ -8,19 +8,17 @@ Hans Nemeczek
 
 -- Unknown
 
-Laurent the wannabe-malk n his crew
-
-Unknown
+Deck Name: Laurent the wannabe-malk n his crew
 
 Crypt (12 cards, min=11 max=21 avg=4.0)
 ---------------------------------------
 2x Laurent de Valois   4  ani dom obf          Nosferatu:2
-1x Ozmo                6  dom obf AUS          Malkavian:1
-1x Count Ormonde       5  dom pre ser OBF      Ministry:2
-1x Didi Meyers         5  aus cel obf DOM      Malkavian:1
-1x Zebulon             5  aus dom pro OBF      Malkavian:1
-1x Gloria Giovanni     4  nec DOM              Giovanni:2
-1x Ingrid Russo        4  for DOM              Ventrue antitribu:2
+1x Ozmo                6  AUS dom obf          Malkavian:1
+1x Count Ormonde       5  OBF dom pre ser      Ministry:2
+1x Didi Meyers         5  DOM aus cel obf      Malkavian:1
+1x Zebulon             5  OBF aus dom pro      Malkavian:1
+1x Gloria Giovanni     4  DOM nec              Giovanni:2
+1x Ingrid Russo        4  DOM for              Ventrue antitribu:2
 1x Roland Bishop       4  aus dom obf          Malkavian:1
 1x Duck                3  obf pot              Nosferatu:1
 1x Dimple              2  obf                  Nosferatu:1

@@ -8,21 +8,22 @@ https://www.vekn.net/event-calendar/event/8480
 
 -- 5vp in the final
 
-SaRod x Nakhthorheb
+Deck Name: SaRod x Nakhthorheb
 
+Description:
 Multi-action stealth & bleed.
 
 Crypt (12 cards, min=12 max=40 avg=7.33)
 ----------------------------------------
 4x Nakhthorheb      10  OBF PRE SER                         Ministry:4
-2x Porphyrion        9  for CHI OBF PRE SER                 Ministry:5
-2x Renenet           5  ser OBF PRE                         Ministry:4
+2x Porphyrion        9  CHI OBF PRE SER for                 Ministry:5
+2x Renenet           5  OBF PRE ser                         Ministry:4
 2x Anarch Convert    1                                      Caitiff:ANY
-1x Neferu            9  dom nec OBF PRE SER THA   2 votes   Ministry:4
-1x Pentweret         9  aus for obe OBF PRE SER             Ministry:5
+1x Neferu            9  OBF PRE SER THA dom nec   2 votes   Ministry:4
+1x Pentweret         9  OBF PRE SER aus for obe             Ministry:5
 
 Library (82 cards)
-Master (17)
+Master (17; 3 trifle)
 9x Eternals of Sirius, The
 1x Fragment of the Book of Nod
 1x Giant's Blood

@@ -8,20 +8,21 @@ Róbert László
 
 -- Unknown
 
-Alliance of factions
+Deck Name: Alliance of factions
 
+Description:
 Greetings from Hungary
 
 Crypt (12 cards, min=33 max=39 avg=9.0)
 ---------------------------------------
-4x Dmitra Ilyanova         9  obf CEL FOR POT PRE       justicar     Brujah:5
-3x Armin Brenner          10  ani obf CEL FOR POT PRE   archbishop   Brujah antitribu:4
-3x Undele                  9  obf pre ser CEL FOR       magaji       Ishtarri:5
-1x Count Germaine (ADV)    8  obf CEL FOR POT PRE                    Brujah:4
-1x Ubende                  7  for obf qui CEL PRE       magaji       Ishtarri:4
+4x Dmitra Ilyanova         9  CEL FOR POT PRE obf       justicar     Brujah:5
+3x Armin Brenner          10  CEL FOR POT PRE ani obf   archbishop   Brujah antitribu:4
+3x Undele                  9  CEL FOR obf pre ser       magaji       Ishtarri:5
+1x Count Germaine (ADV)    8  CEL FOR POT PRE obf                    Brujah:4
+1x Ubende                  7  CEL PRE for obf qui       magaji       Ishtarri:4
 
 Library (90 cards)
-Master (16)
+Master (16; 10 trifle)
 1x Black Forest Base
 1x Giant's Blood
 1x Information Highway

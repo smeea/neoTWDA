@@ -8,18 +8,19 @@ Teemu Sainomaa
 
 -- Unknown
 
-IC s!! Run for cover!
+Deck Name: IC s!! Run for cover!
 
+Description:
 Vote Alastors, rush, bleed. Good defence against most
 decks, deck flows well. Few changes to help get actions pass would
 improve a lot.
 
 Crypt (12 cards, min=44 max=44 avg=11.0)
 ----------------------------------------
-4x Gwendolyn    11  aus tha CEL FOR POT PRE   inner circle   Brujah:2
-3x Arika        11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
+4x Gwendolyn    11  CEL FOR POT PRE aus tha   inner circle   Brujah:2
+3x Arika        11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
 3x Stanislava   11  ANI CEL DOM FOR PRO       inner circle   Gangrel:2
-2x Alexandra    11  dom ANI AUS CEL PRE       inner circle   Toreador:2
+2x Alexandra    11  ANI AUS CEL PRE dom       inner circle   Toreador:2
 
 Library (90 cards)
 Master (15)

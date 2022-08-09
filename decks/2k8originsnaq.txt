@@ -8,9 +8,7 @@ John Newquist
 
 -- 3vp in the final
 
-Paralyze This!
-
-Unknown
+Deck Name: Paralyze This!
 
 Crypt (12 cards, min=14 max=20 avg=4.17)
 ----------------------------------------
@@ -25,7 +23,7 @@ Crypt (12 cards, min=14 max=20 avg=4.17)
 1x Inez "Nurse216" Villagrande   3  inn              Innocent:4
 
 Library (90 cards)
-Master (14)
+Master (14; 2 trifle)
 4x Angel of Berlin
 1x Channel 10
 2x Church of Vindicated Faith, The

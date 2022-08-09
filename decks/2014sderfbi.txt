@@ -8,9 +8,7 @@ https://www.vekn.net/event-calendar/event/7782
 
 -- Unknown
 
-anarch for-cel rush
-
-Unknown
+Deck Name: anarch for-cel rush
 
 Crypt (12 cards, min=4 max=18 avg=2.83)
 ---------------------------------------
@@ -23,7 +21,7 @@ Crypt (12 cards, min=4 max=18 avg=2.83)
 1x Ulrike Rothbart    3  dom for              Ventrue antitribu:4
 
 Library (90 cards)
-Master (12)
+Master (12; 2 trifle)
 1x Anarch Free Press, The
 1x Fame
 1x Filchware's Pawn Shop

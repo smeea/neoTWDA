@@ -8,8 +8,7 @@ Jay Kristoff
 
 -- Unknown
 
-Unknown
-
+Description:
 I just got home from an amazing first day at Origins. I was able to
 eak out a tournament victory with my Mirembe Rides Again deck. 25
 meths played in this event. 4 of the 5 finalists were from Ohio, the
@@ -22,8 +21,8 @@ by Jay Kristoff - jck@columbus.rr.com
 
 Crypt (12 cards, min=16 max=20 avg=4.67)
 ----------------------------------------
-6x Mirembe Kabbada               5  ani PRO SER      Gangrel:2
-4x Camille Devereux, The Raven   5  ani FOR PRO      Gangrel:1
+6x Mirembe Kabbada               5  PRO SER ani      Gangrel:2
+4x Camille Devereux, The Raven   5  FOR PRO ani      Gangrel:1
 2x Chandler Hungerford           3  PRO              Gangrel:2
 
 Library (90 cards)

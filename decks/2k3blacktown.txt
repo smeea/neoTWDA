@@ -8,8 +8,9 @@ Chris Kellahan
 
 -- Unknown
 
-Created Dominion v1.1
+Deck Name: Created Dominion v1.1
 
+Description:
 This won me a 12 player tournament on the 9th of August 2003 (AP League
 round 1), held in Blacktown, Sydney. 3 rounds plus final. 1GW and 6
 vps had me ranked 2nd going into the finals. I'd only seen 2 of the
@@ -23,12 +24,12 @@ Weenie dominate swarm bleed with Create Gargoyles.
 
 Crypt (12 cards, min=9 max=19 avg=3.42)
 ---------------------------------------
-1x Reverend Blackwood   6  obf DOM THA   bishop   Tremere antitribu:2
-1x Kurt Strauss         5  aus tha DOM            Tremere antitribu:2
+1x Reverend Blackwood   6  DOM THA obf   bishop   Tremere antitribu:2
+1x Kurt Strauss         5  DOM aus tha            Tremere antitribu:2
 1x Ignatius             4  aus dom tha            Tremere:1
-1x Sarah Cobbler        4  dom THA                Tremere:1
+1x Sarah Cobbler        4  THA dom                Tremere:1
 1x Thelonius            4  aus dom tha            Tremere antitribu:2
-1x Blythe Candeleria    3  aus THA                Tremere:2
+1x Blythe Candeleria    3  THA aus                Tremere:2
 1x Brooke               3  dom tha                Tremere antitribu:2
 1x Dr. John Casey       3  aus tha                Tremere:1
 1x Jing Wei             3  dom tha                Tremere:1
@@ -37,7 +38,7 @@ Crypt (12 cards, min=9 max=19 avg=3.42)
 1x Roreca Quaid         2  tha                    Tremere:1
 
 Library (77 cards)
-Master (17)
+Master (17; 1 trifle)
 1x Academic Hunting Ground
 1x Arcane Library
 1x Barrens, The

@@ -8,23 +8,24 @@ Petteri Teerikangas
 
 -- Unknown
 
-Angry Lorrie v.1.2 featuring Ignazio.
+Deck Name: Angry Lorrie v.1.2 featuring Ignazio.
 
+Description:
 Ignazio was great choice as a second rusher.
 This version was bit low on rushes, maybe need add one or
 two. But worked suprisingly well.
 
 Crypt (12 cards, min=15 max=36 avg=5.67)
 ----------------------------------------
-4x Ignazio Giovanni           9  obf DOM FOR NEC POT      Giovanni:3
-4x Lorrie Dunsirn             4  for nec POT              Abomination:4
-1x Dr. Julius Sutphen (ADV)   5  dom obt POT              Lasombra:3
+4x Ignazio Giovanni           9  DOM FOR NEC POT obf      Giovanni:3
+4x Lorrie Dunsirn             4  POT for nec              Abomination:4
+1x Dr. Julius Sutphen (ADV)   5  POT dom obt              Lasombra:3
 1x Earl                       4  dom for pot              Ventrue:3
 1x Wolfgang                   4  for obf pot              Nosferatu:3
 1x Caroline Bishops           3  cel for pot              Pander:4
 
 Library (85 cards)
-Master (16)
+Master (16; 3 trifle)
 2x Blood Doll
 1x Depravity
 1x Direct Intervention

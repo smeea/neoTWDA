@@ -8,8 +8,9 @@ Andrea Ravera
 
 -- Unknown
 
-[Lasombra] Turbo Lucita
+Deck Name: [Lasombra] Turbo Lucita
 
+Description:
 Put the soul gem on Lucita ASAP, she's a 8 cap, untap
 with freak drive (costs 1 blood). Employ camarilla vitae slave (costs
 2 blood, now lucita is a 9 cap), untap with freak drive (costs 1 blood).
@@ -26,8 +27,8 @@ Deadly, and hard to play.
 
 Crypt (18 cards, min=32 max=32 avg=8.0)
 ---------------------------------------
-13x Lucita         8  cel pot DOM FOR OBT      Lasombra:2
-5x  Lucita (ADV)   8  cel pot DOM FOR OBT      Lasombra:2
+13x Lucita         8  DOM FOR OBT cel pot      Lasombra:2
+5x  Lucita (ADV)   8  DOM FOR OBT cel pot      Lasombra:2
 
 Library (90 cards)
 Master (4)

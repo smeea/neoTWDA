@@ -8,18 +8,19 @@ Erol Hammer
 
 -- Unknown
 
-Erols Triple A
+Deck Name: Erols Triple A
 
+Description:
 Survive and make a deal with someone who can oust.
 
 Crypt (12 cards, min=19 max=41 avg=8.0)
 ---------------------------------------
-4x Anneke            10  dom AUS CEL PRE           justicar       Toreador:1
-3x Anson              8  aus dom CEL PRE           prince         Toreador:1
-1x Alexandra         11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-1x François Villon   10  chi obf pot AUS CEL PRE   prince         Toreador:2
-1x Dorian Strack      4  cel AUS                                  Toreador:1
-1x Mariana Gilbert    4  cel PRE                                  Toreador:1
+4x Anneke            10  AUS CEL PRE dom           justicar       Toreador:1
+3x Anson              8  CEL PRE aus dom           prince         Toreador:1
+1x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+1x François Villon   10  AUS CEL PRE chi obf pot   prince         Toreador:2
+1x Dorian Strack      4  AUS cel                                  Toreador:1
+1x Mariana Gilbert    4  PRE cel                                  Toreador:1
 1x Isabel de Leon     3  AUS                                      Toreador:2
 
 Library (90 cards)

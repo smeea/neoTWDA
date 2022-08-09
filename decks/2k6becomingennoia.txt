@@ -8,8 +8,9 @@ John Bell
 
 -- Unknown
 
-Matthew 7:15
+Deck Name: Matthew 7:15
 
+Description:
 Get Procurers, bloat as needed. Edged Illusions can
 really destroy weenie decks and can be used to slow down a table
 threat. Paul Forrest's ability is key to going forward - only drop
@@ -18,13 +19,13 @@ Week of Nightmares to end the game.
 Crypt (12 cards, min=16 max=32 avg=5.67)
 ----------------------------------------
 3x Paul Forrest, False Prophet    5  chi for pre                         Ravnos:4
-2x Callirus                       5  ani CHI FOR                         Ravnos:4
-1x Hazimel                       11  dem ANI AUS CHI FOR POT   2 votes   Ravnos:4
-1x Alexis Sorokin                 8  for CEL CHI OBF PRO                 Ravnos:4
-1x Mata Hari                      7  aus for qui CHI OBF       2 votes   Ravnos:4
-1x Tsunda                         6  abo ani dem CHI           magaji    Ravnos:4
+2x Callirus                       5  CHI FOR ani                         Ravnos:4
+1x Hazimel                       11  ANI AUS CHI FOR POT dem   2 votes   Ravnos:4
+1x Alexis Sorokin                 8  CEL CHI OBF PRO for                 Ravnos:4
+1x Mata Hari                      7  CHI OBF aus for qui       2 votes   Ravnos:4
+1x Tsunda                         6  CHI abo ani dem           magaji    Ravnos:4
 1x Devyn                          4  ani chi pre                         Ravnos:4
-1x Gharston Roland                4  ani pot CHI                         Ravnos:4
+1x Gharston Roland                4  CHI ani pot                         Ravnos:4
 1x Marion French                  3  ani chi                             Ravnos:4
 
 Library (90 cards)

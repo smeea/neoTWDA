@@ -8,19 +8,17 @@ Erol Hammer
 
 -- 2gw7 + 3vp in the final
 
-The Heyder
-
-Unknown
+Deck Name: The Heyder
 
 Crypt (12 cards, min=34 max=40 avg=9.5)
 ---------------------------------------
-4x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal     Lasombra:2
+4x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2
 4x Marcus Vitel (ADV)                       10  DOM FOR OBF OBT POT PRE                Lasombra:3
-3x Francisco Domingo de Polonia              9  pro DOM OBT POT PRE       archbishop   Lasombra:2
-1x Tobias Smith                              7  pot DOM OBT PRE                        Lasombra:3
+3x Francisco Domingo de Polonia              9  DOM OBT POT PRE pro       archbishop   Lasombra:2
+1x Tobias Smith                              7  DOM OBT PRE pot                        Lasombra:3
 
 Library (90 cards)
-Master (21)
+Master (21; 7 trifle)
 1x Black Forest Base
 1x Dark Influences
 2x Dreams of the Sphinx

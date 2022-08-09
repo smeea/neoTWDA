@@ -8,23 +8,24 @@ Rudolf Edlmayer
 
 -- 3vp in the final
 
-Bunyós Pityu, Lidi néni és a Tikok !
+Deck Name: Bunyós Pityu, Lidi néni és a Tikok !
 
+Description:
 blokk your prey, bleed out, and stay ingame
 until face2face, Vasiliy the best in face2face!
 
 Crypt (12 cards, min=14 max=32 avg=6.17)
 ----------------------------------------
-4x Vasiliy Vasilevich   8  for pro ANI CHI             Ravnos:5
-2x Chavi Oraczko        7  nec ANI CHI FOR             Ravnos:5
-2x Anjalika Underwood   5  aus chi for ANI             Ravnos:5
-1x Greensleeves         7  for pot ANI OBF   priscus   Nosferatu antitribu:4
+4x Vasiliy Vasilevich   8  ANI CHI for pro             Ravnos:5
+2x Chavi Oraczko        7  ANI CHI FOR nec             Ravnos:5
+2x Anjalika Underwood   5  ANI aus chi for             Ravnos:5
+1x Greensleeves         7  ANI OBF for pot   priscus   Nosferatu antitribu:4
 1x Uchenna              7  ABO ANI FOR       magaji    Akunanse:4
 1x Stick                3  ANI                         Nosferatu antitribu:4
 1x Walker Grimes        1  ani                         Caitiff:5
 
 Library (90 cards)
-Master (18)
+Master (18; 5 trifle)
 1x Blood Doll
 1x Direct Intervention
 1x Guardian Angel

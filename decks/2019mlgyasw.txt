@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9209
 
 -- 1gw4 + 3vp in the final
 
-Take 30 Tablets and Call Me in the Morning
+Deck Name: Take 30 Tablets and Call Me in the Morning
 
+Description:
 Deck was fun and resilient. If I were to play it again, I would include one more anti-location card (either Unnatural Disaster or a second Dominate Kine) and one or two bits of intercept (maybe KRCG and an Eyes of the Night). Oh, and a Great Symposium would be a nice add as well.
 
 Final Seating
@@ -18,14 +19,14 @@ Grayson (Giovanni tap n bleed) -> Burt (Arika multi-act) -> Bill (Kiasyd Tablets
 Crypt (12 cards, min=19 max=24 avg=5.33)
 ----------------------------------------
 5x Isanwayen               6  DOM MYT OBT                Kiasyd:4
-2x Dame Hollerton          5  myt DOM OBT                Kiasyd:4
-2x Ermenegildo, The Rake   5  pot DOM OBT                Lasombra:4
-1x Andrew Emory            5  aus dom pot OBT   bishop   Lasombra:4
-1x Banjoko                 5  obt pot DOM                Lasombra:3
+2x Dame Hollerton          5  DOM OBT myt                Kiasyd:4
+2x Ermenegildo, The Rake   5  DOM OBT pot                Lasombra:4
+1x Andrew Emory            5  OBT aus dom pot   bishop   Lasombra:4
+1x Banjoko                 5  DOM obt pot                Lasombra:3
 1x Quincy, The Trapper     4  dom myt obt                Kiasyd:3
 
 Library (90 cards)
-Master (57)
+Master (57; 4 trifle)
 30x Ashur Tablets
 3x Chanjelin Ward
 1x Coven, The

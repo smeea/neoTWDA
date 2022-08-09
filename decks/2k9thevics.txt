@@ -8,8 +8,9 @@ Jason Ryan
 
 -- 3vp in the final
 
-The Beautiful People
+Deck Name: The Beautiful People
 
+Description:
 Very reslient deck, but not really capable of fast ousts.
 Need to do something to speed it up. Giant's Blood was gold all day.
 Obediences were gold. Sniper Rifles were useless in ANI heavy meta.
@@ -22,11 +23,11 @@ Anthelios + 3MPA's = Joyyyyyyy
 
 Crypt (12 cards, min=17 max=42 avg=7.75)
 ----------------------------------------
-4x Anson              8  aus dom CEL PRE           prince         Toreador:1
-2x Alexandra         11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-2x Anneke            10  dom AUS CEL PRE           justicar       Toreador:1
-1x François Villon   10  chi obf pot AUS CEL PRE   prince         Toreador:2
-1x Dorian Strack      4  cel AUS                                  Toreador:1
+4x Anson              8  CEL PRE aus dom           prince         Toreador:1
+2x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+2x Anneke            10  AUS CEL PRE dom           justicar       Toreador:1
+1x François Villon   10  AUS CEL PRE chi obf pot   prince         Toreador:2
+1x Dorian Strack      4  AUS cel                                  Toreador:1
 1x Isabel de Leon     3  AUS                                      Toreador:2
 1x Delilah Easton     2  pre                                      Toreador:1
 

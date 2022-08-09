@@ -8,8 +8,9 @@ Rob Treasure
 
 -- Unknown
 
-The Turd
+Deck Name: The Turd
 
+Description:
 A real abomination of a deck, constructed initially taking advantage
 of Anneke's brilliant special to control the table but evolving into
 something much nastier. Interestingly I only had to use her special
@@ -26,10 +27,10 @@ master phase bombs.
 
 Crypt (12 cards, min=32 max=44 avg=9.67)
 ----------------------------------------
-4x Anneke    10  dom AUS CEL PRE           justicar       Toreador:1
-4x Anson      8  aus dom CEL PRE           prince         Toreador:1
-3x Leandro   11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-1x Arika     11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
+4x Anneke    10  AUS CEL PRE dom           justicar       Toreador:1
+4x Anson      8  CEL PRE aus dom           prince         Toreador:1
+3x Leandro   11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+1x Arika     11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
 
 Library (86 cards)
 Master (26)

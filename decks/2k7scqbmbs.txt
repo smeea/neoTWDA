@@ -8,18 +8,16 @@ Imanol López
 
 -- Unknown
 
-Amaravati & Co.
-
-Unknown
+Deck Name: Amaravati & Co.
 
 Crypt (12 cards, min=9 max=32 avg=5.33)
 ---------------------------------------
-5x Amaravati           8  ani chi DOM OBF QUI      Banu Haqim:4
+5x Amaravati           8  DOM OBF QUI ani chi      Banu Haqim:4
 2x Basir               1  qui                      Banu Haqim:4
-1x Black Lotus         5  aus obf ser DOM          Ministry:4
-1x Catherine du Bois   5  for obf pre DOM          Ventrue:3
-1x Michael diCarlo     5  obf qui CEL              Banu Haqim:4
-1x Kamau Jafari        4  obf QUI                  Banu Haqim:4
+1x Black Lotus         5  DOM aus obf ser          Ministry:4
+1x Catherine du Bois   5  DOM for obf pre          Ventrue:3
+1x Michael diCarlo     5  CEL obf qui              Banu Haqim:4
+1x Kamau Jafari        4  QUI obf                  Banu Haqim:4
 1x Ali Kar             3  obf qui                  Banu Haqim:3
 
 Library (90 cards)

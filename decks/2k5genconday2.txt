@@ -8,8 +8,7 @@ Peter Charnley
 
 -- Unknown
 
-Unknown
-
+Description:
 The North American Championship was won by Peter Charnley of
 Ann Arbor, Michigan with his Arika and Friends deck that got
 him to the finals last year as well. The Final was very
@@ -38,12 +37,12 @@ out there:)" - Peter Charnley
 
 Crypt (12 cards, min=29 max=44 avg=9.5)
 ---------------------------------------
-5x Arika                             11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
+5x Arika                             11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
 2x Marcus Vitel                      10  DOM FOR OBF OBT PRE       prince         Ventrue:3
-2x Katarina Kornfeld                  8  ani DOM FOR PRE           primogen       Ventrue:3
-1x Queen Anne                        10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Victorine Lafourcade               8  tha DOM FOR PRE           prince         Ventrue:3
-1x Ranjan Rishi, Camarilla Scholar    5  for DOM PRE                              Ventrue:2
+2x Katarina Kornfeld                  8  DOM FOR PRE ani           primogen       Ventrue:3
+1x Queen Anne                        10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Victorine Lafourcade               8  DOM FOR PRE tha           prince         Ventrue:3
+1x Ranjan Rishi, Camarilla Scholar    5  DOM PRE for                              Ventrue:2
 
 Library (90 cards)
 Master (16)

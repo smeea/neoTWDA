@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/10021
 
 -- 1GW + 1.5VPs in final
 
-Brujah Barons Steal the Truth
+Deck Name: Brujah Barons Steal the Truth
 
+Description:
 Created this deck one hour before the start of the tournament. Wanted to play something new,
 and did not care much about winning chances being extremely tired and the tournament organisor.
 I like to adopt decks or deck concepts, and am a big fan of the TWDA and tools like the VDB.
@@ -21,18 +22,18 @@ me (Brujah Undue Influence) => Sebastian (Anson + Masika Toolbox) => Kevin (Baro
 
 Crypt (12 cards, min=16 max=27 avg=5.5)
 ---------------------------------------
-2x Aline Gädeke         7  cel POT PRE       baron   Brujah:6
-2x Leumeah              6  cel for pot PRE   baron   Brujah:6
-2x Siarhei Levchenko    5  pot CEL PRE               Brujah:6
-1x Valeriya Zinovieva   7  cel pre pro POT   baron   Brujah:6
-1x Atiena               6  pot pre obf CEL   baron   Brujah:6
+2x Aline Gädeke         7  POT PRE cel       baron   Brujah:6
+2x Leumeah              6  PRE cel for pot   baron   Brujah:6
+2x Siarhei Levchenko    5  CEL PRE pot               Brujah:6
+1x Valeriya Zinovieva   7  POT cel pre pro   baron   Brujah:6
+1x Atiena               6  CEL pot pre obf   baron   Brujah:6
 1x Octane               6  CEL POT PRE               Brujah:6
-1x Brandon Grime        5  pot pre tha CEL           Brujah:6
+1x Brandon Grime        5  CEL pot pre tha           Brujah:6
 1x Ariane               3  cel pot pre               Brujah:5
 1x Laura Goldman        3  cel pre                   Brujah:5
 
 Library (60 cards)
-Master (12)
+Master (12; 4 trifle)
 1x Anarch Railroad
 1x Club Illusion
 1x Coven, The

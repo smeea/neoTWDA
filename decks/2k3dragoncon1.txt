@@ -8,27 +8,25 @@ Matt Guinn
 
 -- Unknown
 
-Who Needs Stealth
-
-Unknown
+Deck Name: Who Needs Stealth
 
 Crypt (12 cards, min=16 max=32 avg=6.08)
 ----------------------------------------
-1x Donatien                      9  cel pot AUS PRE       cardinal     Toreador antitribu:2
-1x Fleurdumal                    8  cel tha AUS DEM PRE   prince       Toreador:3
-1x Lachlan, Noddist              8  dom AUS CEL PRE       archbishop   Toreador antitribu:2
-1x Greta Kircher                 7  obf AUS CEL PRE                    Toreador antitribu:2
+1x Donatien                      9  AUS PRE cel pot       cardinal     Toreador antitribu:2
+1x Fleurdumal                    8  AUS DEM PRE cel tha   prince       Toreador:3
+1x Lachlan, Noddist              8  AUS CEL PRE dom       archbishop   Toreador antitribu:2
+1x Greta Kircher                 7  AUS CEL PRE obf                    Toreador antitribu:2
 1x Jessica                       7  AUS CEL OBT PRE       bishop       Toreador antitribu:2
-1x Ian Wallingford               6  aus CEL PRE           bishop       Toreador antitribu:2
-1x Jost Werner                   6  ani AUS PRE                        Toreador antitribu:2
-1x Sheila Mezarin                6  cel for AUS PRE                    Toreador antitribu:2
-1x Creamy Jade                   5  aus cel vic PRE                    Toreador antitribu:3
+1x Ian Wallingford               6  CEL PRE aus           bishop       Toreador antitribu:2
+1x Jost Werner                   6  AUS PRE ani                        Toreador antitribu:2
+1x Sheila Mezarin                6  AUS PRE cel for                    Toreador antitribu:2
+1x Creamy Jade                   5  PRE aus cel vic                    Toreador antitribu:3
 1x Michael Luther                4  aus pre                            Toreador:3
-1x Remilliard, Devout Crusader   4  pre AUS                            Toreador antitribu:2
+1x Remilliard, Devout Crusader   4  AUS pre                            Toreador antitribu:2
 1x Lolita                        3  for pre                            Toreador antitribu:2
 
 Library (90 cards)
-Master (20)
+Master (20; 1 trifle)
 2x Anarch Revolt
 1x Anarch Troublemaker
 1x Barrens, The

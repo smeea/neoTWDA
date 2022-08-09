@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9504
 
 -- 2gw5.5 + 1vp in the final
 
-Malk midcap SB with a twist
+Deck Name: Malk midcap SB with a twist
 
+Description:
 Finals Seating:
 Aapo Järvelin (Capuchin Multirush) --> Hannu Kokkonen (Daughters of Cacophony Anarch Vote) --> Jyri Puhakka (Midcap Malkavian Bleed & Block) --> Jani Malmi (Euro Brujah) --> Katja Malmi (Arika & Friends)
 
@@ -21,15 +22,15 @@ possible.
 
 Crypt (12 cards, min=16 max=30 avg=5.83)
 ----------------------------------------
-2x Bloody Mary          8  pre AUS DEM OBF   primogen   Malkavian:5
-2x Apolonia Czarnecki   7  pre AUS DEM OBF              Malkavian:5
-2x Hagar Stone          6  obf AUS DEM                  Malkavian antitribu:5
+2x Bloody Mary          8  AUS DEM OBF pre   primogen   Malkavian:5
+2x Apolonia Czarnecki   7  AUS DEM OBF pre              Malkavian:5
+2x Hagar Stone          6  AUS DEM obf                  Malkavian antitribu:5
 2x Morel                6  AUS DEM OBF                  Malkavian:4
-2x Arthur Denholm       5  obf AUS DEM                  Malkavian:5
+2x Arthur Denholm       5  AUS DEM obf                  Malkavian:5
 2x Jackie               3  DEM                          Malkavian antitribu:4
 
 Library (87 cards)
-Master (14)
+Master (14; 4 trifle)
 3x Blood Doll
 1x Direct Intervention
 3x Dreams of the Sphinx

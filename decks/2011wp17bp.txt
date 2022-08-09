@@ -8,8 +8,9 @@ Marcin Watras
 
 -- Unknown
 
-Imbued - "Inspire the World"
+Deck Name: Imbued - "Inspire the World"
 
+Description:
 Deck based on Felipe Fiuza's "Cascaduuuuuura".
 Once set up, very difficult to stop. Needs to be played slowly
 at the beginning. Nice experience anyway - that was my first

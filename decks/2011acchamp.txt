@@ -8,8 +8,9 @@ Jason Ryan
 
 -- Unknown
 
-Smash the Pinata
+Deck Name: Smash the Pinata
 
+Description:
 Visit from the Capuchin is silver. The Rising is gold.
 
 Crypt (12 cards, min=14 max=20 avg=4.33)

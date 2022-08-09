@@ -8,8 +8,9 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0Kw0rK38TGY/m/UnchoF
 
 -- Unknown
 
-Jack's War Ghoul Protection Service
+Deck Name: Jack's War Ghoul Protection Service
 
+Description:
 Fairly standard Tzimischeese intercept deck with long-term goals in
 mind. Jack's War Ghoul protection service is your key to victory.
 Props to Jay Kristoff for helping me master the Tzimisce
@@ -51,12 +52,12 @@ which is more or less a master-heavy "pool gain" version.
 
 Crypt (12 cards, min=24 max=32 avg=7.33)
 ----------------------------------------
-2x Anton                              8  cel obf vic ANI AUS             Tzimisce:2
-2x Little Tailor of Prague            8  dem ANI AUS VIC                 Tzimisce:2
+2x Anton                              8  ANI AUS cel obf vic             Tzimisce:2
+2x Little Tailor of Prague            8  ANI AUS VIC dem                 Tzimisce:2
 2x Meshenka                           8  ANI AUS VIC           priscus   Tzimisce:2
-2x Sascha Vykos, The Angel of Caine   8  ani dom AUS THA VIC   priscus   Tzimisce:2
-2x Dragos                             7  vic ANI AUS                     Tzimisce:2
-2x Devin Bisley                       5  vic ANI AUS                     Tzimisce:2
+2x Sascha Vykos, The Angel of Caine   8  AUS THA VIC ani dom   priscus   Tzimisce:2
+2x Dragos                             7  ANI AUS vic                     Tzimisce:2
+2x Devin Bisley                       5  ANI AUS vic                     Tzimisce:2
 
 Library (75 cards)
 Master (14)

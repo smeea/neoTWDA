@@ -8,8 +8,9 @@ Heikki Palomäki
 
 -- 5vp in the final
 
-Heavy duty
+Deck Name: Heavy duty
 
+Description:
 Shameless obf dom S&B. A lot of titles for table control
 and vote protection. There is also a sizable reaction package for bleed
 defence. Using murmur of the false will as main defence gives this deck
@@ -23,17 +24,17 @@ it would require taking something else out.
 
 Crypt (12 cards, min=27 max=44 avg=8.92)
 ----------------------------------------
-2x Etrius               11  pro AUS DOM OBF THA       inner circle   Tremere:2
-2x Lucian               10  cel tha AUS DOM OBF       justicar       Malkavian:1
-2x Gratiano              8  obf pot DOM OBT           priscus        Lasombra:2
+2x Etrius               11  AUS DOM OBF THA pro       inner circle   Tremere:2
+2x Lucian               10  AUS DOM OBF cel tha       justicar       Malkavian:1
+2x Gratiano              8  DOM OBT obf pot           priscus        Lasombra:2
 2x Gilbert Duane         7  AUS DOM OBF               prince         Malkavian:1
-1x Arika                11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Leandro              11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-1x Greger Anderssen      7  dom pro AUS OBF           prince         Malkavian:2
-1x Reverend Blackwood    6  obf DOM THA               bishop         Tremere antitribu:2
+1x Arika                11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Leandro              11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+1x Greger Anderssen      7  AUS OBF dom pro           prince         Malkavian:2
+1x Reverend Blackwood    6  DOM THA obf               bishop         Tremere antitribu:2
 
 Library (90 cards)
-Master (17)
+Master (17; 8 trifle)
 4x Dreams of the Sphinx
 1x Giant's Blood
 4x Information Highway

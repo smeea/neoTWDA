@@ -8,23 +8,21 @@ Matt Guinn
 
 -- 3vp in the final
 
-Return of the Brujah
-
-Unknown
+Deck Name: Return of the Brujah
 
 Crypt (12 cards, min=24 max=38 avg=7.75)
 ----------------------------------------
-2x Jann Berger       10  dem for CEL POT PRE   prince     Brujah:4
-2x Dmitra Ilyanova    9  obf CEL FOR POT PRE   justicar   Brujah:5
-2x Karen Suadela      7  obf pre CEL POT       prince     Brujah:5
-2x Tara               6  cel POT PRE           prince     Brujah:5
-1x Hektor             9  for CEL POT PRE QUI   priscus    Brujah antitribu:4
-1x Carlak             8  dom pot CEL PRE       prince     Brujah:5
-1x Shawnda Dorrit     6  obt pot pre CEL       priscus    Brujah antitribu:4
+2x Jann Berger       10  CEL POT PRE dem for   prince     Brujah:4
+2x Dmitra Ilyanova    9  CEL FOR POT PRE obf   justicar   Brujah:5
+2x Karen Suadela      7  CEL POT obf pre       prince     Brujah:5
+2x Tara               6  POT PRE cel           prince     Brujah:5
+1x Hektor             9  CEL POT PRE QUI for   priscus    Brujah antitribu:4
+1x Carlak             8  CEL PRE dom pot       prince     Brujah:5
+1x Shawnda Dorrit     6  CEL obt pot pre       priscus    Brujah antitribu:4
 1x Tomaine            6  CEL POT PRE           primogen   Brujah:4
 
 Library (88 cards)
-Master (16)
+Master (16; 7 trifle)
 2x Blood Doll
 2x Dreams of the Sphinx
 1x Giant's Blood

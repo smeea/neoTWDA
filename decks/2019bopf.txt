@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9185
 
 -- 2gw5 + 4vp in the final
 
-Women in Chains 2019
+Deck Name: Women in Chains 2019
 
+Description:
 Yet another variation of my (or a?) Stanislava deck. I added another
 copy of Ancilla Empowerment to handle the Nephandus and Emerald Legionnaire
 decks that are à la mode these days.
@@ -17,14 +18,14 @@ decks that are à la mode these days.
 Crypt (12 cards, min=35 max=44 avg=9.92)
 ----------------------------------------
 4x Stanislava       11  ANI CEL DOM FOR PRO           inner circle   Gangrel:2
-3x Ingrid Rossler    9  dom ANI FOR PRO               prince         Gangrel:2
-2x Xaviar (ADV)     10  aus cel pot ABO ANI FOR PRO   justicar       Gangrel:3
-1x Genevieve        10  aus dom ANI FOR PRO           priscus        Gangrel antitribu:2
-1x Hartmut Stover   10  dom for CEL OBF PRO           archbishop     Gangrel antitribu:3
-1x Mark Decker       8  ani for obf pot CEL PRO       prince         Gangrel:3
+3x Ingrid Rossler    9  ANI FOR PRO dom               prince         Gangrel:2
+2x Xaviar (ADV)     10  ABO ANI FOR PRO aus cel pot   justicar       Gangrel:3
+1x Genevieve        10  ANI FOR PRO aus dom           priscus        Gangrel antitribu:2
+1x Hartmut Stover   10  CEL OBF PRO dom for           archbishop     Gangrel antitribu:3
+1x Mark Decker       8  CEL PRO ani for obf pot       prince         Gangrel:3
 
 Library (89 cards)
-Master (21)
+Master (21; 8 trifle)
 1x Archon Investigation
 1x Backways
 2x Dreams of the Sphinx

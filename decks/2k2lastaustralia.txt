@@ -8,17 +8,18 @@ Anthony Barker
 
 -- Unknown
 
-Gratiano's Egg Basket
+Deck Name: Gratiano's Egg Basket
 
+Description:
 Lasombra bleed with some combat and votes. Some blood gain to fill
 up the big bleeder. Festivo dello Estinto and Disarm weren't very helpful.
 DI was a lifesaver.
 
 Crypt (12 cards, min=9 max=34 avg=5.25)
 ---------------------------------------
-3x Gratiano                          8  obf pot DOM OBT   priscus      Lasombra:2
-1x Alvaro, The Scion of Angelica     9  dom pre OBT POT   archbishop   Lasombra:2
-1x Antonio Delgado                   9  tha DOM OBT POT   archbishop   Lasombra:2
+3x Gratiano                          8  DOM OBT obf pot   priscus      Lasombra:2
+1x Alvaro, The Scion of Angelica     9  OBT POT dom pre   archbishop   Lasombra:2
+1x Antonio Delgado                   9  DOM OBT POT tha   archbishop   Lasombra:2
 1x Chas Giovanni Tello               4  DOM POT                        Giovanni:2
 1x Ignacio, The Black Priest         4  dom obt pot                    Lasombra:2
 1x Ramiro                            4  dom obt vic                    Lasombra:2

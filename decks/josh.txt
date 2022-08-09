@@ -8,8 +8,7 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/PZWJcpGKjoI/m/2bfSNe
 
 -- Unknown
 
-Unknown
-
+Description:
 ...Which reminds me that despite your inveigling I never did post my
 UBCon Tourney-winning deck, which was also a combat deck, though not so very
 involved as the four-discipline Marty deck. So here's the listing:
@@ -42,12 +41,12 @@ Monocle, and I think that was about it.)
 
 Crypt (13 cards, min=10 max=24 avg=4.23)
 ----------------------------------------
-2x Anvil                          6  dom pre tha CEL POT   primogen   Brujah:1
-2x Volker, The Puppet Prince      5  pot CEL               prince     Brujah:2
+2x Anvil                          6  CEL POT dom pre tha   primogen   Brujah:1
+2x Volker, The Puppet Prince      5  CEL pot               prince     Brujah:2
 2x Dre, Leader of the Cold Dawn   3  cel pot                          Brujah:1
-1x Bianca                         6  pot pre CEL                      Brujah:1
-1x Rake                           6  aus cel pot PRE       prince     Brujah:1
-1x Jimmy Dunn                     4  for CEL POT                      Pander:2
+1x Bianca                         6  CEL pot pre                      Brujah:1
+1x Rake                           6  PRE aus cel pot       prince     Brujah:1
+1x Jimmy Dunn                     4  CEL POT for                      Pander:2
 1x Yuri, The Talon                4  cel pot pre                      Brujah:1
 1x Jacob Bragg                    3  cel pot                          Brujah antitribu:2
 1x KoKo                           2  pot                              Nosferatu:1

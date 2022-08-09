@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9345
 
 -- 1gw6 + 3vp in the final
 
-Swedish Legionnaires
+Deck Name: Swedish Legionnaires
 
+Description:
 This deck is based on a deck by Erik Mossberg (SWE). Made some changes, not all
 for the better, nevertheless the deck worked like a charme, especially in the
 finals. Score was gw 3 vp/1.5 vp/1.5 vp, entering the finals 3rd rank (2nd rank
@@ -23,14 +24,14 @@ Meurer (new Prince of Freiburg) and the owners of the awesome shop "Kainskind"
 Crypt (12 cards, min=12 max=40 avg=6.92)
 ----------------------------------------
 5x Erlik             10  AUS CEL FOR NEC THN      Harbinger of Skulls:3
-2x Babalawo Alafin    7  ani AUS FOR NEC          Harbinger of Skulls:4
+2x Babalawo Alafin    7  AUS FOR NEC ani          Harbinger of Skulls:4
 2x Anarch Convert     1                           Caitiff:ANY
-1x Erebus             7  dem AUS FOR NEC          Harbinger of Skulls:3
+1x Erebus             7  AUS FOR NEC dem          Harbinger of Skulls:3
 1x Nicomedes          5  aus for nec vic          Harbinger of Skulls:4
-1x Solomon Batanea    5  nec AUS FOR              Harbinger of Skulls:4
+1x Solomon Batanea    5  AUS FOR nec              Harbinger of Skulls:4
 
 Library (90 cards)
-Master (20)
+Master (20; 2 trifle)
 2x Direct Intervention
 2x Dreams of the Sphinx
 1x Giant's Blood

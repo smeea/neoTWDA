@@ -8,25 +8,26 @@ Aaron Clark
 
 -- 3vp in the final
 
-Watch Your Back
+Deck Name: Watch Your Back
 
+Description:
 Potence rush with Obfuscate support
 
 Crypt (12 cards, min=8 max=22 avg=4.0)
 --------------------------------------
-2x Olivia                        5  vic OBF POT       bishop   Nosferatu antitribu:2
-2x Agatha                        4  obf POT                    Nosferatu antitribu:2
-1x Gerard Rafin                  6  ani for OBF POT            Nosferatu:3
+2x Olivia                        5  OBF POT vic       bishop   Nosferatu antitribu:2
+2x Agatha                        4  POT obf                    Nosferatu antitribu:2
+1x Gerard Rafin                  6  OBF POT ani for            Nosferatu:3
 1x Ox, Viceroy of the Hollows    6  ANI OBF POT                Nosferatu antitribu:2
-1x Amelia, The Blood Red Tears   5  ani obf POT                Nosferatu:3
-1x Nigel the Shunned             5  obf ANI POT                Nosferatu antitribu:2
+1x Amelia, The Blood Red Tears   5  POT ani obf                Nosferatu:3
+1x Nigel the Shunned             5  ANI POT obf                Nosferatu antitribu:2
 1x Arnold Simpson                2  pot                        Brujah:3
 1x Hanna Redmonds                2  obf tha                    Caitiff:3
 1x Krid                          2  obf                        Nosferatu:3
 1x Paul DiCarlo, The Alpha       2  pot                        Giovanni:2
 
 Library (88 cards)
-Master (12)
+Master (12; 2 trifle)
 1x Archon Investigation
 4x Blood Doll
 1x Bravo

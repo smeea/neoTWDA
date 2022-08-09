@@ -8,8 +8,9 @@ Michel-Étienne Fortin
 
 -- Unknown
 
-It's the end of the world as we know it, and I feel fine.
+Deck Name: It's the end of the world as we know it, and I feel fine.
 
+Description:
 A very fun and challenging deck to play. Expect to have
 the whole table turn against you once you've dropped down a couple
 Gehenna cards. Wins by painfully slow attrition. In the mid-game,

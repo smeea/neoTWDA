@@ -8,22 +8,20 @@ Peter Walter
 
 -- 4vp in the final
 
-The Dark God True Love
-
-Unknown
+Deck Name: The Dark God True Love
 
 Crypt (12 cards, min=38 max=42 avg=10.0)
 ----------------------------------------
-2x Sutekh, The Dark God                        11  cel pot NEC OBF PRE SER   2 votes   Ministry:2
-2x Kemintiri                                   10  aus dom OBF PRE SER THA             Ministry:2
-2x Kemintiri (ADV)                             10  aus dom OBF PRE SER THA             Ministry:2
-2x Nefertiti                                   10  cel pot DOM OBF PRE SER             Ministry:2
-2x Nehsi                                       10  aus for OBF PRE PRO SER   2 votes   Ministry:2
-1x Khay'tall, Snake of Eden                     9  aus DOM OBF PRE SER                 Ministry:2
-1x Saqqaf, Keeper of the Grand Temple of Set    9  cel for OBF PRE SER                 Ministry:2
+2x Sutekh, The Dark God                        11  NEC OBF PRE SER cel pot   2 votes   Ministry:2
+2x Kemintiri                                   10  OBF PRE SER THA aus dom             Ministry:2
+2x Kemintiri (ADV)                             10  OBF PRE SER THA aus dom             Ministry:2
+2x Nefertiti                                   10  DOM OBF PRE SER cel pot             Ministry:2
+2x Nehsi                                       10  OBF PRE PRO SER aus for   2 votes   Ministry:2
+1x Khay'tall, Snake of Eden                     9  DOM OBF PRE SER aus                 Ministry:2
+1x Saqqaf, Keeper of the Grand Temple of Set    9  OBF PRE SER cel for                 Ministry:2
 
 Library (76 cards)
-Master (21)
+Master (21; 7 trifle)
 1x Dreams of the Sphinx
 8x Eternals of Sirius, The
 1x Ferraille

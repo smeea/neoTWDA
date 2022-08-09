@@ -8,20 +8,21 @@ Oscar Murillo
 
 -- Unknown
 
-Tremere anti vote
+Deck Name: Tremere anti vote
 
+Description:
 THA PRE DOM
 
 Crypt (12 cards, min=26 max=36 avg=8.0)
 ---------------------------------------
-3x Malgorzata             9  pre AUS DOM THA VIC   priscus   Tremere antitribu:4
-3x Orlando Oriundus       9  obf AUS DOM THA       bishop    Tremere antitribu:4
-2x Paul Cordwood          8  obf pre AUS DOM THA   bishop    Tremere antitribu:4
-2x Alfred Benezri (ADV)   7  aus dom PRE THA       bishop    Pander:3
-2x Alfred Benezri         6  aus dom PRE THA       bishop    Pander:3
+3x Malgorzata             9  AUS DOM THA VIC pre   priscus   Tremere antitribu:4
+3x Orlando Oriundus       9  AUS DOM THA obf       bishop    Tremere antitribu:4
+2x Paul Cordwood          8  AUS DOM THA obf pre   bishop    Tremere antitribu:4
+2x Alfred Benezri (ADV)   7  PRE THA aus dom       bishop    Pander:3
+2x Alfred Benezri         6  PRE THA aus dom       bishop    Pander:3
 
 Library (90 cards)
-Master (20)
+Master (20; 6 trifle)
 1x Archon Investigation
 1x Creepshow Casino
 2x Direct Intervention

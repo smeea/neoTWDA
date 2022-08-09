@@ -8,8 +8,9 @@ Pedro Paulo de Sousa Mendes
 
 -- Unknown
 
-Imbued at Last
+Deck Name: Imbued at Last
 
+Description:
 The deck's goal is to setup as fast as you can by
 depleting your library and to use Unity/Anthelios to cycle back
 whatever master you need the most at the time.
@@ -37,17 +38,17 @@ Master (25; 1 trifle)
 2x Angel of Berlin
 1x Barrens, The
 1x Church of Vindicated Faith, The
-1x Direct Intervention -- saved me a lot of times, unfortunately I couldn't pack more than one.
+1x Direct Intervention
 1x Fortschritt Library
 6x Memories of Mortality
-1x Millicent Smith, Puritan Vampire Hunter -- no comments needed.
+1x Millicent Smith, Puritan Vampire Hunter
 3x Parthenon, The
 1x Rötschreck
-4x Slaughterhouse, The -- useful either to speed deck depletion or to trade for something useful under Anthelios.
-1x Smiling Jack, The Anarch -- crucial contest in the final table.
+4x Slaughterhouse, The
+1x Smiling Jack, The Anarch
 1x Tension in the Ranks
 1x Unity
-1x Wash -- not as effective as I expected, but also not a hassle because it's trifle.
+1x Wash
 
 Conviction (14)
 4x React with Conviction
@@ -71,7 +72,7 @@ Power (8)
 2x Champion
 2x Discern
 1x Rejuvenate
-3x Vigilance -- I started to win a game when I had those three in play.
+3x Vigilance
 
 Reaction (3)
 3x Determine

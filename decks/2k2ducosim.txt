@@ -8,18 +8,14 @@ Jochem van Dijk
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=8 max=25 avg=3.92)
 ---------------------------------------
-2x Bryan Van Duesen     7  aus pre DOM THA            Tremere antitribu:2
-1x Reverend Blackwood   6  obf DOM THA       bishop   Tremere antitribu:2
-1x Kurt Strauss         5  aus tha DOM                Tremere antitribu:2
-1x Gloria Giovanni      4  nec DOM                    Giovanni:2
-1x Ingrid Russo         4  for DOM                    Ventrue antitribu:2
-1x Blythe Candeleria    3  aus THA                    Tremere:2
+2x Bryan Van Duesen     7  DOM THA aus pre            Tremere antitribu:2
+1x Reverend Blackwood   6  DOM THA obf       bishop   Tremere antitribu:2
+1x Kurt Strauss         5  DOM aus tha                Tremere antitribu:2
+1x Gloria Giovanni      4  DOM nec                    Giovanni:2
+1x Ingrid Russo         4  DOM for                    Ventrue antitribu:2
+1x Blythe Candeleria    3  THA aus                    Tremere:2
 1x Brooke               3  dom tha                    Tremere antitribu:2
 1x Jing Wei             3  dom tha                    Tremere:1
 1x Heinrick Schlempt    2  tha                        Tremere antitribu:2

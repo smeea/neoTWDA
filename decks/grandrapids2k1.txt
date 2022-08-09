@@ -8,8 +8,9 @@ Aaron Steele
 
 -- Unknown
 
-'What I learned at the National Championship'...
+Deck Name: 'What I learned at the National Championship'...
 
+Description:
 or 'Yes I can block every action'
 
 Play anarch revolt. Block all actions that damage anyone, you want to
@@ -27,10 +28,10 @@ quickly.
 
 Crypt (12 cards, min=38 max=40 avg=9.83)
 ----------------------------------------
-6x Anneke                   10  dom AUS CEL PRE           justicar   Toreador:1
-4x Ulugh Beg, The Watcher   10  cel for pot AUS DOM THA   justicar   Tremere:1
-1x Lucian                   10  cel tha AUS DOM OBF       justicar   Malkavian:1
-1x Anson                     8  aus dom CEL PRE           prince     Toreador:1
+6x Anneke                   10  AUS CEL PRE dom           justicar   Toreador:1
+4x Ulugh Beg, The Watcher   10  AUS DOM THA cel for pot   justicar   Tremere:1
+1x Lucian                   10  AUS DOM OBF cel tha       justicar   Malkavian:1
+1x Anson                     8  CEL PRE aus dom           prince     Toreador:1
 
 Library (90 cards)
 Master (20)

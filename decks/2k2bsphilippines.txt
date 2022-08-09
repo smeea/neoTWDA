@@ -8,17 +8,15 @@ http://calendar.yahoo.com/YYY,14638/srt,0/vtesrep?v=4&t=1033203600&i=1338&pv=2
 
 -- Unknown
 
-Turd Too
-
-Unknown
+Deck Name: Turd Too
 
 Crypt (13 cards, min=34 max=44 avg=10.0)
 ----------------------------------------
-4x Anneke      10  dom AUS CEL PRE           justicar       Toreador:1
-3x Leandro     11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-3x Anson        8  aus dom CEL PRE           prince         Toreador:1
-2x Arika       11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Alexandra   11  dom ANI AUS CEL PRE       inner circle   Toreador:2
+4x Anneke      10  AUS CEL PRE dom           justicar       Toreador:1
+3x Leandro     11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+3x Anson        8  CEL PRE aus dom           prince         Toreador:1
+2x Arika       11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Alexandra   11  ANI AUS CEL PRE dom       inner circle   Toreador:2
 
 Library (83 cards)
 Master (25)

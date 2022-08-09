@@ -8,16 +8,12 @@ Chris Arthur
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=13 max=22 avg=4.25)
 ----------------------------------------
-3x Tansu Bekir     4  cel OBF              Banu Haqim:2
+3x Tansu Bekir     4  OBF cel              Banu Haqim:2
 3x Ali Kar         3  obf qui              Banu Haqim:3
-2x Kalinda         6  tha CEL OBF          Banu Haqim:2
-2x Badr al-Budur   5  cel dom qui OBF      Banu Haqim:2
+2x Kalinda         6  CEL OBF tha          Banu Haqim:2
+2x Badr al-Budur   5  OBF cel dom qui      Banu Haqim:2
 2x Anwar           4  cel obf qui          Banu Haqim:2
 
 Library (66 cards)

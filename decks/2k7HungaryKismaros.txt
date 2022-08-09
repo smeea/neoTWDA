@@ -8,8 +8,9 @@ Gyula Erdõs
 
 -- Unknown
 
-Imbued are Broken
+Deck Name: Imbued are Broken
 
+Description:
 4gw
 
 Crypt (12 cards, min=13 max=21 avg=4.17)

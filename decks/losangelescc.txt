@@ -8,8 +8,7 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/nwb5PK_0Nsw
 
 -- Unknown
 
-Unknown
-
+Description:
 https://groups.google.com/g/rec.games.trading-cards.jyhad/c/CsLPNvbRRaY
 
 Concept: Get Cardano or Ulugh out with a couple of supporting cast. Magic
@@ -19,12 +18,12 @@ Mostly defense that can function as offense.
 
 Crypt (13 cards, min=8 max=37 avg=5.62)
 ---------------------------------------
-4x Cardano                        9  ani aus cel DOM FOR THA   prince     Tremere:1
-1x Ulugh Beg, The Watcher        10  cel for pot AUS DOM THA   justicar   Tremere:1
-1x Muaziz, Archon of Ulugh Beg    7  aus dom for THA                      Tremere:2
+4x Cardano                        9  DOM FOR THA ani aus cel   prince     Tremere:1
+1x Ulugh Beg, The Watcher        10  AUS DOM THA cel for pot   justicar   Tremere:1
+1x Muaziz, Archon of Ulugh Beg    7  THA aus dom for                      Tremere:2
 1x Courtland Leighton             4  dom for pre                          Ventrue:1
-1x Ingrid Russo                   4  for DOM                              Ventrue antitribu:2
-1x Sarah Cobbler                  4  dom THA                              Tremere:1
+1x Ingrid Russo                   4  DOM for                              Ventrue antitribu:2
+1x Sarah Cobbler                  4  THA dom                              Tremere:1
 1x Jing Wei                       3  dom tha                              Tremere:1
 1x Mustafa Rahman                 2  dom                                  Tremere:2
 1x Roreca Quaid                   2  tha                                  Tremere:1

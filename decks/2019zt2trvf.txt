@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9079
 
 -- 1gw5 + 4vp in the final
 
-Die By The Blade
+Deck Name: Die By The Blade
 
+Description:
 My latest iteration of !Salubri. I had never even tried !Salubris before the
 release of Castiel, which is the main vampire I want in this deck. Combat
 grinder, flaming blades of Bellona and you can be sure that your cause is
@@ -18,14 +19,14 @@ Righteous. Ps. Deck name comes from the new song from Beast in Black.
 Crypt (12 cards, min=4 max=30 avg=4.58)
 ---------------------------------------
 4x Anarch Convert   1                                 Caitiff:ANY
-3x Castiel          6  for AUS VAL                    Salubri antitribu:3
-2x Dela Eden        8  cel dom AUS FOR VAL            Salubri antitribu:3
-1x Uriel            8  ani obe AUS FOR VAL   bishop   Salubri antitribu:4
-1x Aredhel          5  aus FOR VAL                    Salubri antitribu:4
+3x Castiel          6  AUS VAL for                    Salubri antitribu:3
+2x Dela Eden        8  AUS FOR VAL cel dom            Salubri antitribu:3
+1x Uriel            8  AUS FOR VAL ani obe   bishop   Salubri antitribu:4
+1x Aredhel          5  FOR VAL aus                    Salubri antitribu:4
 1x Nkechi           4  aus for val                    Salubri antitribu:4
 
 Library (89 cards)
-Master (21)
+Master (21; 4 trifle)
 1x Anarch Free Press, The
 3x Anarch Revolt
 3x Blood Doll

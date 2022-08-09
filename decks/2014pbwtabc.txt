@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/7755
 
 -- Unknown
 
-Chapel Hard By
+Deck Name: Chapel Hard By
 
+Description:
 Not a designated tournament deck. Unlike my designated tournament decks,
 actually takes actions. For a tournament, would have junked it up with
 good cards, like six Conceals. There is a required local name for this
@@ -22,11 +23,11 @@ though, accomplishes nothing. Health comes from drinking.
 
 Crypt (12 cards, min=16 max=30 avg=6.17)
 ----------------------------------------
-2x Lukas            8  pre ser ANI OBF POT   archbishop   Nosferatu antitribu:4
-2x Greensleeves     7  for pot ANI OBF       priscus      Nosferatu antitribu:4
-2x Marie Faucigny   7  dem tha AUS OBF       archbishop   Malkavian antitribu:3
-2x Stavros          7  dem AUS OBF PRE       priscus      Malkavian antitribu:4
-2x Xendil Charmer   7  obf CEL PRO SER       priscus      Gangrel antitribu:4
+2x Lukas            8  ANI OBF POT pre ser   archbishop   Nosferatu antitribu:4
+2x Greensleeves     7  ANI OBF for pot       priscus      Nosferatu antitribu:4
+2x Marie Faucigny   7  AUS OBF dem tha       archbishop   Malkavian antitribu:3
+2x Stavros          7  AUS OBF PRE dem       priscus      Malkavian antitribu:4
+2x Xendil Charmer   7  CEL PRO SER obf       priscus      Gangrel antitribu:4
 2x Tupdog           1  POT VIS                            Gargoyle:3
 
 Library (70 cards)

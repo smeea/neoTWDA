@@ -8,8 +8,9 @@ Robert Scythe
 
 -- Unknown
 
-Trust in the Public
+Deck Name: Trust in the Public
 
+Description:
 I would like it known that I had forgotten my tin of
 shared cards between decks and did not even mean to play this deck at
 all but it was pretty much complete. A variation of my Superior Presents
@@ -20,21 +21,21 @@ They were.
 
 Crypt (12 cards, min=13 max=20 avg=4.08)
 ----------------------------------------
-1x Hezekiah Rutledge   5  ani cel pot PRE              Brujah:4
-1x Renenet             5  ser OBF PRE                  Ministry:4
-1x Shasa Abu Badr      5  cel for PRE                  Ishtarri:4
-1x Victor Pelletier    5  cel dom for PRE              Ventrue:4
-1x Antoinette Dubois   4  for mel PRE                  Daughter of Cacophony:4
-1x Bethany Ray         4  aus PRE                      Toreador:5
-1x Loonar              4  cel PRE                      Toreador antitribu:4
-1x Lumumba             4  ani PRE                      Guruhi:4
-1x Marla Kenyon        4  ser PRE                      Ministry:4
+1x Hezekiah Rutledge   5  PRE ani cel pot              Brujah:4
+1x Renenet             5  OBF PRE ser                  Ministry:4
+1x Shasa Abu Badr      5  PRE cel for                  Ishtarri:4
+1x Victor Pelletier    5  PRE cel dom for              Ventrue:4
+1x Antoinette Dubois   4  PRE for mel                  Daughter of Cacophony:4
+1x Bethany Ray         4  PRE aus                      Toreador:5
+1x Loonar              4  PRE cel                      Toreador antitribu:4
+1x Lumumba             4  PRE ani                      Guruhi:4
+1x Marla Kenyon        4  PRE ser                      Ministry:4
 1x Reginald Moore      4  PRE               primogen   Brujah:4
-1x Reverend Adams      3  aus PRE                      Caitiff:4
+1x Reverend Adams      3  PRE aus                      Caitiff:4
 1x Jayne Jonestown     2  PRE                          Brujah antitribu:4
 
 Library (86 cards)
-Master (21)
+Master (21; 12 trifle)
 3x Anarch Troublemaker
 2x Dreams of the Sphinx
 12x Life in the City

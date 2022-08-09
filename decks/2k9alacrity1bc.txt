@@ -8,8 +8,9 @@ Ira Fay
 
 -- Unknown
 
-Team Africa
+Deck Name: Team Africa
 
+Description:
 Try to build up without looking like a huge threat, which
 is tricky. Decrypt even while you have unique vampires in the
 uncontrolled region, especially if you don't have Lumumba or all 4
@@ -21,9 +22,9 @@ of getting Lumumba.)
 
 Crypt (12 cards, min=10 max=16 avg=3.42)
 ----------------------------------------
-2x Lumumba             4  ani PRE          Guruhi:4
-1x Hasani              4  for ABO          Akunanse:4
-1x Idrissa             4  aus CEL          Osebo:4
+2x Lumumba             4  PRE ani          Guruhi:4
+1x Hasani              4  ABO for          Akunanse:4
+1x Idrissa             4  CEL aus          Osebo:4
 1x Kenyatta            4  cel for pre      Ishtarri:4
 1x Urenna Bunu         4  ani pot pre      Guruhi:4
 1x Zhara               4  ani for pre      Ishtarri:3
@@ -34,7 +35,7 @@ Crypt (12 cards, min=10 max=16 avg=3.42)
 1x Misrak              2  pot              Osebo:4
 
 Library (65 cards)
-Master (17)
+Master (17; 6 trifle)
 5x Abombwe
 1x Ancestor Spirit
 1x Heidelberg Castle, Germany

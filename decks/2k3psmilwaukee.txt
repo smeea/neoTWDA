@@ -8,8 +8,7 @@ Cameron Domer
 
 -- Unknown
 
-Unknown
-
+Description:
 MOTTO: Coming soon to a school board near you.
 
 Notes:
@@ -39,11 +38,11 @@ orcaorcinus@hotmail.com
 
 Crypt (12 cards, min=40 max=44 avg=10.42)
 -----------------------------------------
-3x Arika              11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
+3x Arika              11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
 3x Marcus Vitel       10  DOM FOR OBF OBT PRE       prince         Ventrue:3
-2x Leandro            11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-2x Lucinde, Alastor   10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
-2x Queen Anne         10  aus obf DOM FOR PRE       prince         Ventrue:2
+2x Leandro            11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+2x Lucinde, Alastor   10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
+2x Queen Anne         10  DOM FOR PRE aus obf       prince         Ventrue:2
 
 Library (90 cards)
 Master (16)

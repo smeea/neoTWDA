@@ -8,8 +8,9 @@ Kevin Mullen
 
 -- 5vp in the final
 
-All You Need Is Oust
+Deck Name: All You Need Is Oust
 
+Description:
 The deck is straight forward offense. The only action in the deck that
 doesn't have any offensive potential is Carlton Van Wyck which I threw
 in last minute. Get out 2 vampires and try to bleed, vote and recruit
@@ -24,15 +25,15 @@ to push your actions through.
 
 Crypt (12 cards, min=20 max=35 avg=6.83)
 ----------------------------------------
-2x Falhu Shibaba        8  ani CEL CHI FOR PRE       magaji   Ishtarri:3
-2x Ubende               7  for obf qui CEL PRE       magaji   Ishtarri:4
-1x Ayo Igoli           10  obf tha AUS CEL FOR PRE            Ishtarri:4
-1x Jibade el-Bahrawi    9  aus CEL DEM FOR PRE                Ishtarri:4
-1x Ganhuru              7  cel pro FOR PRE                    Ishtarri:4
-1x Agru Kabera          6  cel nec pre FOR                    Ishtarri:4
-1x Honorine Ateba       6  cel nec FOR PRE                    Ishtarri:4
-1x Elizabeth Conde      5  pre CEL FOR                        Ishtarri:4
-1x Shasa Abu Badr       5  cel for PRE                        Ishtarri:4
+2x Falhu Shibaba        8  CEL CHI FOR PRE ani       magaji   Ishtarri:3
+2x Ubende               7  CEL PRE for obf qui       magaji   Ishtarri:4
+1x Ayo Igoli           10  AUS CEL FOR PRE obf tha            Ishtarri:4
+1x Jibade el-Bahrawi    9  CEL DEM FOR PRE aus                Ishtarri:4
+1x Ganhuru              7  FOR PRE cel pro                    Ishtarri:4
+1x Agru Kabera          6  FOR cel nec pre                    Ishtarri:4
+1x Honorine Ateba       6  FOR PRE cel nec                    Ishtarri:4
+1x Elizabeth Conde      5  CEL FOR pre                        Ishtarri:4
+1x Shasa Abu Badr       5  PRE cel for                        Ishtarri:4
 1x Kenyatta             4  cel for pre                        Ishtarri:4
 
 Library (90 cards)

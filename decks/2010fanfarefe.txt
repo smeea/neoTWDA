@@ -8,24 +8,22 @@ Gonzalo García
 
 -- Unknown
 
-Viking Invasion
-
-Unknown
+Deck Name: Viking Invasion
 
 Crypt (12 cards, min=16 max=37 avg=6.92)
 ----------------------------------------
-4x Torvus Bloodbeard    9  pot ANI FOR OBF PRO                 Gangrel:3
-1x Xaviar              10  aus cel pot ANI FOR PRO   2 votes   Gangrel:3
-1x Brunhilde            8  pre ANI FOR PRO                     Gangrel:3
-1x Danielle Diron       7  chi for ANI PRO           1 vote    Gangrel:3
-1x Sophia Watson        6  obf pro ANI FOR                     Gangrel:3
-1x Lord Ashton          5  for pro ANI                         Gangrel:3
-1x Bobby Lemon          4  pro ANI                             Gangrel:3
+4x Torvus Bloodbeard    9  ANI FOR OBF PRO pot                 Gangrel:3
+1x Xaviar              10  ANI FOR PRO aus cel pot   2 votes   Gangrel:3
+1x Brunhilde            8  ANI FOR PRO pre                     Gangrel:3
+1x Danielle Diron       7  ANI PRO chi for           1 vote    Gangrel:3
+1x Sophia Watson        6  ANI FOR obf pro                     Gangrel:3
+1x Lord Ashton          5  ANI for pro                         Gangrel:3
+1x Bobby Lemon          4  ANI pro                             Gangrel:3
 1x Ramona               4  for pro                             Gangrel:2
 1x Bothwell             3  ani for                             Gangrel:3
 
 Library (90 cards)
-Master (18)
+Master (18; 8 trifle)
 2x Dreams of the Sphinx
 1x Ecoterrorists
 1x Gangrel Revel

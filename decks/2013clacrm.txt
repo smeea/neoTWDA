@@ -8,8 +8,9 @@ Matthew Morgan
 
 -- Unknown
 
-Bad Medicine
+Deck Name: Bad Medicine
 
+Description:
 It's bad medicine because leeches and Molotov cocktails
 are bad for you and will not make you well.
 
@@ -31,7 +32,7 @@ Delaying Tactics needed!
 
 Crypt (12 cards, min=12 max=20 avg=4.17)
 ----------------------------------------
-6x Antonio d'Erlette   5  dom for pot THA      Tremere antitribu:4
+6x Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4
 2x Keith Moody         3  DOM                  Tremere antitribu:4
 1x Janine              4  aus dom tha          Tremere antitribu:4
 1x Mosfair             4  cel dom tha          Tremere antitribu:4

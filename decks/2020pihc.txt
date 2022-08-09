@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9566
 
 -- 0gw2.5 + 1.5vp in the final
 
-Sauce or GTFO
+Deck Name: Sauce or GTFO
 
+Description:
 Final round recap written by Darby Keeney:
 
 Jay (3rd seed, Matasuntha multiaction) --> Karl (2nd seed, Palla Grande Undue Influence)
@@ -73,7 +74,7 @@ Crypt (12 cards, min=10 max=40 avg=6.33)
 1x Robert Price        2  pro                      Gangrel:4
 
 Library (60 cards)
-Master (7)
+Master (7; 3 trifle)
 1x Abombwe
 1x Ecoterrorists
 1x Fame

@@ -8,9 +8,7 @@ David Lusven
 
 -- 5vp in the final
 
-Pokemon Rock Cats
-
-Unknown
+Deck Name: Pokemon Rock Cats
 
 Crypt (12 cards, min=4 max=12 avg=1.92)
 ---------------------------------------

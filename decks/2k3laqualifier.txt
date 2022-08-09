@@ -8,17 +8,15 @@ Ira Fay
 
 -- Unknown
 
-Brujah with Dominate
-
-Unknown
+Deck Name: Brujah with Dominate
 
 Crypt (12 cards, min=16 max=32 avg=6.42)
 ----------------------------------------
 3x Constanza Vinti                   8  CEL DOM POT           prince     Brujah:2
 3x Dónal O'Connor                    8  CEL DOM POT           prince     Brujah:2
-2x Anvil                             6  dom pre tha CEL POT   primogen   Brujah:1
-1x Theo Bell                         7  cel dom pre POT                  Brujah:2
-1x Volker, The Puppet Prince         5  pot CEL               prince     Brujah:2
+2x Anvil                             6  CEL POT dom pre tha   primogen   Brujah:1
+1x Theo Bell                         7  POT cel dom pre                  Brujah:2
+1x Volker, The Puppet Prince         5  CEL pot               prince     Brujah:2
 1x Cameron                           3  dom pot                          Lasombra:2
 1x Marciana Giovanni, Investigator   2  dom                              Giovanni:2
 

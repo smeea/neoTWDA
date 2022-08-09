@@ -8,8 +8,9 @@ Michael Heyder
 
 -- Unknown
 
-Demented Midgets
+Deck Name: Demented Midgets
 
+Description:
 'Inspired' by a deck played by Erol Hammer at the German
 Championship 2007. Nothing new or fancy. 'Wrong and Crosswise' was
 huge, as was 'Kaymakli Fragment + Midget'. If your sitting next to a
@@ -18,15 +19,15 @@ increased.
 
 Crypt (12 cards, min=16 max=30 avg=5.83)
 ----------------------------------------
-2x Rodolfo                        8  pro AUS DEM OBF       bishop    Malkavian antitribu:3
+2x Rodolfo                        8  AUS DEM OBF pro       bishop    Malkavian antitribu:3
 2x Dolphin Black                  6  AUS DEM OBF                     Malkavian antitribu:2
-2x Midget                         3  obf pre DEM                     Malkavian antitribu:3
-1x Kite                           7  obf pre AUS DEM       bishop    Malkavian antitribu:2
-1x Korah                          7  ani AUS DEM OBF       priscus   Malkavian antitribu:2
-1x Artemis                        6  aus cel for DEM OBF             Malkavian antitribu:2
-1x Tony                           6  dom obf AUS DEM                 Malkavian:3
-1x Persia, The Beautiful Statue   5  aus obf DEM                     Malkavian:3
-1x Uncle George                   5  aus dom obf DEM                 Malkavian antitribu:3
+2x Midget                         3  DEM obf pre                     Malkavian antitribu:3
+1x Kite                           7  AUS DEM obf pre       bishop    Malkavian antitribu:2
+1x Korah                          7  AUS DEM OBF ani       priscus   Malkavian antitribu:2
+1x Artemis                        6  DEM OBF aus cel for             Malkavian antitribu:2
+1x Tony                           6  AUS DEM dom obf                 Malkavian:3
+1x Persia, The Beautiful Statue   5  DEM aus obf                     Malkavian:3
+1x Uncle George                   5  DEM aus dom obf                 Malkavian antitribu:3
 
 Library (90 cards)
 Master (12)

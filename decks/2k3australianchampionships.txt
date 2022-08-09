@@ -8,9 +8,7 @@ Dominic Catanzariti
 
 -- Unknown
 
-Cheesy Cheese
-
-Unknown
+Deck Name: Cheesy Cheese
 
 Crypt (12 cards, min=4 max=7 avg=1.25)
 --------------------------------------

@@ -8,8 +8,9 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/q097gtvVyJo/m/jA3cfE
 
 -- Unknown
 
-Legacy of Pander
+Deck Name: Legacy of Pander
 
+Description:
 https://groups.google.com/g/rec.games.trading-cards.jyhad/c/yXMq-iSTTx8
 
 The deck is still frighteningly effective, even after people have had
@@ -19,7 +20,7 @@ A, slightly rushed, deck list managed to get:
 
 Crypt (12 cards, min=4 max=13 avg=1.92)
 ---------------------------------------
-1x Jost Werner                6  ani AUS PRE      Toreador antitribu:2
+1x Jost Werner                6  AUS PRE ani      Toreador antitribu:2
 1x Lena Rowe                  3  aus obf pre      Pander:2
 1x Christine Boscacci         2  dom vic          Pander:2
 1x Frederick the Weak         2  pre              Brujah antitribu:2

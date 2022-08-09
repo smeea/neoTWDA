@@ -8,22 +8,20 @@ Edd Phipps
 
 -- 2.5vp in the final
 
-Would you like Haggis with that conditioning sir?
-
-Unknown
+Deck Name: Would you like Haggis with that conditioning sir?
 
 Crypt (12 cards, min=15 max=27 avg=5.5)
 ---------------------------------------
-3x Iliana                7  tha DOM FOR PRO                Gangrel:2
-2x Caitlin               6  aus dom ANI PRO       bishop   Gangrel antitribu:2
-2x Lisette Vizquel       6  pro DOM POT           bishop   Lasombra:2
+3x Iliana                7  DOM FOR PRO tha                Gangrel:2
+2x Caitlin               6  ANI PRO aus dom       bishop   Gangrel antitribu:2
+2x Lisette Vizquel       6  DOM POT pro           bishop   Lasombra:2
 2x Chandler Hungerford   3  PRO                            Gangrel:2
 1x Dylan                 6  aus cel dom for pro            Ventrue antitribu:2
-1x Zebulon               5  aus dom pro OBF                Malkavian:1
-1x Daliyah               4  obf PRO                        Nosferatu:2
+1x Zebulon               5  OBF aus dom pro                Malkavian:1
+1x Daliyah               4  PRO obf                        Nosferatu:2
 
 Library (90 cards)
-Master (18)
+Master (18; 5 trifle)
 1x Anarch Troublemaker
 1x Channel 10
 1x Coven, The

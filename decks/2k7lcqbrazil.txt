@@ -8,14 +8,13 @@ Danilo Fernandes
 
 -- Unknown
 
-Unknown
-
+Description:
 Danilo Fernandes, the defending Brazilian champion, started the
 weekend well and won the tournament.
 
 Crypt (13 cards, min=8 max=15 avg=2.92)
 ---------------------------------------
-1x Agatha                             4  obf POT          Nosferatu antitribu:2
+1x Agatha                             4  POT obf          Nosferatu antitribu:2
 1x Claven                             4  aus dem obf      Malkavian antitribu:2
 1x Wren                               4  cel obf pro      Gangrel antitribu:2
 1x Duck                               3  obf pot          Nosferatu:1

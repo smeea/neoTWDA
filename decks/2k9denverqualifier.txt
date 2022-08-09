@@ -8,26 +8,22 @@ Jon Sushinsky
 
 -- 3vp in the final
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=7 max=24 avg=4.0)
 --------------------------------------
 2x Toby                      5  ani obf pre          Nosferatu:4
 1x Muricia                   7  ANI PRE SPI          Ahrimane:4
-1x Batsheva (ADV)            6  obt pot ANI PRE      Guruhi:4
-1x Gentha Shale              6  pot spi ANI PRE      Ahrimane:4
-1x Fish                      5  pre ANI POT          Guruhi:4
-1x Lumumba                   4  ani PRE              Guruhi:4
-1x Reverend Adams            3  aus PRE              Caitiff:4
+1x Batsheva (ADV)            6  ANI PRE obt pot      Guruhi:4
+1x Gentha Shale              6  ANI PRE pot spi      Ahrimane:4
+1x Fish                      5  ANI POT pre          Guruhi:4
+1x Lumumba                   4  PRE ani              Guruhi:4
+1x Reverend Adams            3  PRE aus              Caitiff:4
 1x Aimee Laroux              2  for pre              Daughter of Cacophony:4
 1x Emerson Wilkershire III   2  pre                  Toreador:3
 1x Justine Chen, Innocent    2  pre                  Toreador antitribu:4
 1x Dirk                      1  pre                  Caitiff:4
 
 Library (90 cards)
-Master (19)
+Master (19; 4 trifle)
 1x Anarch Free Press, The
 1x Anarch Railroad
 2x Archon Investigation

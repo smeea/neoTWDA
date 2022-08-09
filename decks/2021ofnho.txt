@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9809
 
 -- 1gw5 + 2vp in the final
 
-Dirty Nights
+Deck Name: Dirty Nights
 
+Description:
 Night Moves + Inside Dirt
 
 A fun day with a little luck thrown in.
@@ -41,11 +42,11 @@ I have two cards left in my library. I concede my VP to Jay winning the 2-2-1 sp
 Crypt (12 cards, min=8 max=18 avg=3.25)
 ---------------------------------------
 2x Lubomira Hradok   3  OBF                  Nosferatu antitribu:5
-1x Frank Litzpar     5  ani for pot OBF      Nosferatu antitribu:4
-1x Skidmark          5  aus pot FOR OBF      Nosferatu antitribu:4
+1x Frank Litzpar     5  OBF ani for pot      Nosferatu antitribu:4
+1x Skidmark          5  FOR OBF aus pot      Nosferatu antitribu:4
 1x Aaron Bathurst    4  for obf pot          Nosferatu antitribu:4
-1x Jeffrey Mullins   4  cel OBF              Gangrel antitribu:4
-1x Skulk             4  ani OBF              Nosferatu antitribu:5
+1x Jeffrey Mullins   4  OBF cel              Gangrel antitribu:4
+1x Skulk             4  OBF ani              Nosferatu antitribu:5
 1x Blister           3  obf pot              Nosferatu antitribu:4
 1x Alu               2  obf                  Banu Haqim:5
 1x Bloodfeud         2  obf                  Malkavian antitribu:4
@@ -53,7 +54,7 @@ Crypt (12 cards, min=8 max=18 avg=3.25)
 1x Old Neddacka      2  obf                  Nosferatu antitribu:4
 
 Library (69 cards)
-Master (13)
+Master (13; 6 trifle)
 2x Archon Investigation
 3x Dreams of the Sphinx
 1x Millicent Smith, Puritan Vampire Hunter

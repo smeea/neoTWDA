@@ -8,8 +8,9 @@ Colin McGuigan
 
 -- Unknown
 
-Dangerously Cheesy
+Deck Name: Dangerously Cheesy
 
+Description:
 Weenies seize Praxis and call damaging votes. Hilarity ensues.
 
 The deck could be 60 cards, but I was worried about Nightmare Upon
@@ -35,7 +36,7 @@ Crypt (14 cards, min=4 max=8 avg=1.43)
 1x Smudge the Ignored                  1               Caitiff:1
 
 Library (86 cards)
-Master (16)
+Master (16; 5 trifle)
 1x Bleeding the Vine
 2x Dreams of the Sphinx
 5x Effective Management

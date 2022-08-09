@@ -8,8 +8,9 @@ John McGlynn
 
 -- 0.5vp in the final
 
-Northwest Qualifier 2016: Woke
+Deck Name: Northwest Qualifier 2016: Woke
 
+Description:
 Weenie animalism wall with a splash of deflection and conditioning for the oust.
 
 Final table: Kelly (baali,striga, mmpa) > John (weenie animalism wall) > Kevin (brandywine madness network) > Darby (reply value: large cap vote and bleed) > Brian (large cap lasombra vote and bleed).
@@ -24,9 +25,9 @@ Thank you to everyone that came out for this and especially to those that travel
 
 Crypt (12 cards, min=7 max=23 avg=3.5)
 --------------------------------------
-1x Natalia                        7  chi dom for ANI            Ravnos:2
-1x Caitlin                        6  aus dom ANI PRO   bishop   Gangrel antitribu:2
-1x Sarisha Veliku                 6  chi dom ANI FOR            Ravnos:2
+1x Natalia                        7  ANI chi dom for            Ravnos:2
+1x Caitlin                        6  ANI PRO aus dom   bishop   Gangrel antitribu:2
+1x Sarisha Veliku                 6  ANI FOR chi dom            Ravnos:2
 1x Laurent de Valois              4  ani dom obf                Nosferatu:2
 1x Shane Grimald                  4  ani dom pot                Gangrel antitribu:2
 1x Panagos Levidis                3  ani obf                    Gangrel:2

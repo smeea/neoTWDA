@@ -8,8 +8,9 @@ Hugh Angseesing
 
 -- 4vp in the final
 
-Americano Mafiaoso
+Deck Name: Americano Mafiaoso
 
+Description:
 Generally pretty strong - doesn't like too much
 combat (lost 5 Nephandus in one game to theft
 and guns combo). Simple plan, get out Antonio
@@ -19,12 +20,12 @@ strong especially when Narrow Minds hits the table.
 
 Crypt (12 cards, min=20 max=28 avg=5.92)
 ----------------------------------------
-5x Antonio d'Erlette           5  dom for pot THA              Tremere antitribu:4
+5x Antonio d'Erlette           5  THA dom for pot              Tremere antitribu:4
 4x Carna, The Princess Witch   7  AUS DOM THA       primogen   Tremere:3
-3x Muhsin Samir                6  aus pot DOM THA              Tremere:4
+3x Muhsin Samir                6  DOM THA aus pot              Tremere:4
 
 Library (80 cards)
-Master (18)
+Master (18; 4 trifle)
 1x Academic Hunting Ground
 2x Anarch Troublemaker
 1x Arcane Library

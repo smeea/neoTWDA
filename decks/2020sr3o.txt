@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9654
 
 -- Unknown
 
-Gotsdam Maris Eurayle
+Deck Name: Gotsdam Maris Eurayle
 
+Description:
 1GW4
 
 
@@ -23,12 +24,12 @@ but I really liked always being able to deflect no matter who is bleeding.
 Crypt (12 cards, min=4 max=36 avg=5.58)
 ---------------------------------------
 4x Anarch Convert               1                                   Caitiff:ANY
-3x Gotsdam, The Tired Warrior   9  ani AUS DOM FOR PRE              Ventrue:4
-3x Eurayle Gelasia Mylonas      6  for pre AUS OBE                  Salubri:4
-2x Maris Streck                 9  ani dem dom AUS OBF   justicar   Malkavian:3
+3x Gotsdam, The Tired Warrior   9  AUS DOM FOR PRE ani              Ventrue:4
+3x Eurayle Gelasia Mylonas      6  AUS OBE for pre                  Salubri:4
+2x Maris Streck                 9  AUS OBF ani dem dom   justicar   Malkavian:3
 
 Library (87 cards)
-Master (13)
+Master (13; 7 trifle)
 1x Barrens, The
 1x Creepshow Casino
 1x Dreams of the Sphinx

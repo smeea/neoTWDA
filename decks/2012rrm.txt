@@ -8,8 +8,9 @@ Matthew Morgan
 
 -- 3gw10 + 1.5vp in the final
 
-Torelando
+Deck Name: Torelando
 
+Description:
 Won DC qualifier September 22, 2012.
 
 Never saw the Ventrue at all in four rounds but otherwise
@@ -43,18 +44,18 @@ but unplayable by Orlando.
 
 Crypt (13 cards, min=21 max=39 avg=7.85)
 ----------------------------------------
-5x Orlando Oriundus     9  obf AUS DOM THA       bishop         Tremere antitribu:4
+5x Orlando Oriundus     9  AUS DOM THA obf       bishop         Tremere antitribu:4
 1x Rafael de Corazon   11  AUS CEL DOM OBF PRE   inner circle   Toreador:4
-1x Montecalme          10  obt AUS CEL DOM PRE   justicar       Toreador:5
-1x Epikasta Rigatos     8  cel AUS DOM PRE       prince         Toreador:4
+1x Montecalme          10  AUS CEL DOM PRE obt   justicar       Toreador:5
+1x Epikasta Rigatos     8  AUS DOM PRE cel       prince         Toreador:4
 1x Kateline Nadasdy     7  AUS CEL PRE                          Toreador:4
-1x Mustafa, The Heir    6  cel dom FOR PRE       prince         Ventrue:4
-1x Vasily               6  aus pre ser CEL       prince         Toreador:5
-1x Victor Pelletier     5  cel dom for PRE                      Ventrue:4
+1x Mustafa, The Heir    6  FOR PRE cel dom       prince         Ventrue:4
+1x Vasily               6  CEL aus pre ser       prince         Toreador:5
+1x Victor Pelletier     5  PRE cel dom for                      Ventrue:4
 1x Sheva Carr           4  aus cel dom                          Toreador:5
 
 Library (81 cards)
-Master (20)
+Master (20; 9 trifle)
 2x Anarch Troublemaker
 1x Dreams of the Sphinx
 1x Giant's Blood

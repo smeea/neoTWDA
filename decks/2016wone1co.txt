@@ -6,12 +6,11 @@ June 12th 2016
 Darby Keeney
 https://www.vekn.net/event-calendar/event/8384
 
--- Unknown
+-- 1 + 2 + 4VP in final
 
-The Crypt That Should Not Be
+Deck Name: The Crypt That Should Not Be
 
-1 + 2 + 4VP in final
-
+Description:
 Little bit of this, little bit of that leveraging a crypt that I've previously suggested might be reasonably strong. A good case could be made for running Gustaphe as the sole lead, but I wanted one minion with both +1 bleed and [OBF].
 
 This version is vulnerable against political decks, but fairly well rounded otherwise. It is entirely coincidence that the number of actions, modifiers, masters and combat cards are pretty much equivalent. These ratios just seemed to flow correctly in casual playtesting.
@@ -22,11 +21,11 @@ A light combat package that remains just effective enough with prevalent Villein
 
 Crypt (12 cards, min=15 max=38 avg=6.75)
 ----------------------------------------
-3x Alonso Petrodon      10  for tha ANI DOM OBF POT   justicar   Nosferatu:5
-3x Gustaphe Brunnelle    8  obf ANI DOM POT           primogen   Nosferatu:4
-1x Accorri Giovanni      6  ani nec DOM POT                      Giovanni:5
-1x Harold Tanner         6  ani dom obf POT                      Nosferatu:4
-1x Joseph Cambridge      6  ani dom obf POT           bishop     Nosferatu antitribu:4
+3x Alonso Petrodon      10  ANI DOM OBF POT for tha   justicar   Nosferatu:5
+3x Gustaphe Brunnelle    8  ANI DOM POT obf           primogen   Nosferatu:4
+1x Accorri Giovanni      6  DOM POT ani nec                      Giovanni:5
+1x Harold Tanner         6  POT ani dom obf                      Nosferatu:4
+1x Joseph Cambridge      6  POT ani dom obf           bishop     Nosferatu antitribu:4
 1x Paulo de Castille     4  ani dom pot                          Lasombra:4
 1x Almodo Giovanni       3  dom pot                              Giovanni:4
 1x Jackson Asher         2  dom                                  Ventrue:4
@@ -36,26 +35,26 @@ Master (16; 5 trifle)
 2x Blood Doll
 2x Information Highway
 1x Labyrinth, The
-1x Perfectionist -- Marginal, but useful enough to keep only because of Warsaw Station hunting.
+1x Perfectionist
 1x Slum Hunting Ground
 4x Villein
-2x Warsaw Station -- Could go to 3 copies as this is the only multi-action option in the deck.
+2x Warsaw Station
 1x Wider View
 2x Zillah's Valley
 
 Action (15)
 2x Deep Song
 8x Govern the Unaligned
-1x Graverobbing -- Last minute add (replacing Temptation of Greater Power), not used.
-1x Heroic Might -- Only for Gustaphe, primarily to destroy equipment.
-1x SchreckNET -- Never used when in play, unsure of true value.
+1x Graverobbing
+1x Heroic Might
+1x SchreckNET
 2x Scouting Mission
 
 Ally (1)
-1x Underbridge Stray -- Underappreciated ally
+1x Underbridge Stray
 
 Political Action (1)
-1x Parity Shift -- Because it has to be there if it can reasonably be played.
+1x Parity Shift
 
 Action Modifier (11)
 2x Cloak the Gathering

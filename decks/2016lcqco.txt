@@ -8,18 +8,16 @@ Randal Rudstam
 
 -- Unknown
 
-Reflections on life and death
-
-Unknown
+Deck Name: Reflections on life and death
 
 Crypt (12 cards, min=40 max=44 avg=10.33)
 -----------------------------------------
-4x Josef von Bauren   11  cel ANI DEM OBF POT       inner circle   Nosferatu:4
-4x Thucimia           10  for pro CEL DEM OBF QUI   1 vote         Banu Haqim:4
-4x Unmada             10  cel for AUS DEM OBF VIC   justicar       Malkavian:5
+4x Josef von Bauren   11  ANI DEM OBF POT cel       inner circle   Nosferatu:4
+4x Thucimia           10  CEL DEM OBF QUI for pro   1 vote         Banu Haqim:4
+4x Unmada             10  AUS DEM OBF VIC cel for   justicar       Malkavian:5
 
 Library (69 cards)
-Master (22)
+Master (22; 5 trifle)
 1x Direct Intervention
 1x Giant's Blood
 2x Information Highway

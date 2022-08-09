@@ -8,8 +8,9 @@ Thomas Gschwandtner
 
 -- Unknown
 
-Remembering Heidelberg
+Deck Name: Remembering Heidelberg
 
+Description:
 Animalism Weeni Combat/Intercept. 1st seen it played by
 Monica Martins looooooong time ago. Changed by me several
 times over the years (Including Tzimisce, Auspex Module,
@@ -18,9 +19,9 @@ War Ghouls, Vessels, etc.).
 Crypt (12 cards, min=9 max=22 avg=3.83)
 ---------------------------------------
 2x Caliban                6  ANI AUS VIC            Tzimisce:2
-2x Devin Bisley           5  vic ANI AUS            Tzimisce:2
-1x Calebros, The Martyr   5  obf pot ANI   prince   Nosferatu:2
-1x Bobby Lemon            4  pro ANI                Gangrel:3
+2x Devin Bisley           5  ANI AUS vic            Tzimisce:2
+1x Calebros, The Martyr   5  ANI obf pot   prince   Nosferatu:2
+1x Bobby Lemon            4  ANI pro                Gangrel:3
 1x Clarissa Steinburgen   3  ani obf                Nosferatu:3
 1x Darva Felispa          3  ani pot                Nosferatu:3
 1x Wendy Wade             3  ani aus                Tzimisce:2
@@ -29,7 +30,7 @@ Crypt (12 cards, min=9 max=22 avg=3.83)
 1x Mouse                  2  ani                    Nosferatu:3
 
 Library (90 cards)
-Master (20)
+Master (20; 4 trifle)
 3x Animalism
 3x Blood Doll
 2x Direct Intervention

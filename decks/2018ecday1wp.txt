@@ -8,20 +8,21 @@ https://www.vekn.net/event-calendar/event/8902
 
 -- 2gw7.5 + 1.5vp in the final
 
-MMA.MPA (EC 2018)
+Deck Name: MMA.MPA (EC 2018)
 
+Description:
 many thanks to Martin Schumacher for continuing collaboration
 
 Crypt (12 cards, min=26 max=40 avg=8.67)
 ----------------------------------------
 4x Cybele           10  ANI DAI OBF PRE SER THA      Baali:4
-3x Aksinya Daclau    9  cel tha ANI FOR PRE PRO      Gangrel antitribu:4
+3x Aksinya Daclau    9  ANI FOR PRE PRO cel tha      Gangrel antitribu:4
 2x Nakhthorheb      10  OBF PRE SER                  Ministry:4
 2x Nana Buruku       8  ANI POT PRE                  Guruhi:4
 1x Anarch Convert    1                               Caitiff:ANY
 
 Library (90 cards)
-Master (50)
+Master (50; 7 trifle)
 1x Archon Investigation
 21x Ashur Tablets
 1x Barrens, The

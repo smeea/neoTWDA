@@ -8,8 +8,9 @@ Robert Dudock
 
 -- Unknown
 
-Beautiful Filth
+Deck Name: Beautiful Filth
 
+Description:
 Unsubtle Stealth Bleed. Here is my deck list,
 including the two proxies that never got taken out
 (Neighborhood Watch Commander was supposed to be Carlton van Wick
@@ -17,14 +18,14 @@ and Presence was supposed to be Perfectionist).
 
 Crypt (12 cards, min=20 max=26 avg=5.5)
 ---------------------------------------
-3x Herbert Westin     5  pot OBF PRE              Brujah:4
-3x Raphael Catarari   5  aus pot tha OBF PRE      Nosferatu antitribu:4
-2x Isouda de Blaise   7  aus CEL OBF PRE          Toreador antitribu:4
-2x Ankh-sen-Sutekh    6  obf PRE SER              Ministry:4
-2x Renenet            5  ser OBF PRE              Ministry:4
+3x Herbert Westin     5  OBF PRE pot              Brujah:4
+3x Raphael Catarari   5  OBF PRE aus pot tha      Nosferatu antitribu:4
+2x Isouda de Blaise   7  CEL OBF PRE aus          Toreador antitribu:4
+2x Ankh-sen-Sutekh    6  PRE SER obf              Ministry:4
+2x Renenet            5  OBF PRE ser              Ministry:4
 
 Library (90 cards)
-Master (14)
+Master (14; 4 trifle)
 2x Archon Investigation
 1x Dreams of the Sphinx
 2x Dummy Corporation

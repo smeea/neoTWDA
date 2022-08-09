@@ -8,8 +8,7 @@ Steve Holmer
 
 -- Unknown
 
-Unknown
-
+Description:
 Steve's Inner Circle Deck
 He used dirty dirty PTO to blow
 up his initial prey's Persephone Tar-Annis before she got to take
@@ -24,18 +23,18 @@ decks and decks where the prey has both lots of intercept and combat
 
 Crypt (12 cards, min=8 max=44 avg=6.67)
 ---------------------------------------
-2x Arika           11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-2x Etrius          11  pro AUS DOM OBF THA       inner circle   Tremere:2
-2x Leandro         11  cel dom AUS OBF PRE       inner circle   Malkavian:2
+2x Arika           11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+2x Etrius          11  AUS DOM OBF THA pro       inner circle   Tremere:2
+2x Leandro         11  AUS OBF PRE cel dom       inner circle   Malkavian:2
 1x Ember Wright     3  aus dom                                  Tremere antitribu:3
 1x Lena Rowe        3  aus obf pre                              Pander:2
 1x Sister Evelyn    3  aus dom                                  Ventrue antitribu:3
-1x Zöe              3  cel obf AUS                              Malkavian:2
+1x Zöe              3  AUS cel obf                              Malkavian:2
 1x Basil            1  obf                                      Pander:2
 1x Royce            1  dom                                      Pander:2
 
 Library (90 cards)
-Master (21)
+Master (21; 1 trifle)
 3x Blood Doll
 1x Creepshow Casino
 1x From a Sinking Ship

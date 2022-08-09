@@ -8,8 +8,9 @@ Erik Torstensson
 
 -- Unknown
 
-Saulot and Nergal dating
+Deck Name: Saulot and Nergal dating
 
+Description:
 This deck is based on a deck constructed by Marko Lindroos.
 Marko plays his deck with Possesion and Sargon fragment to
 get Nergal back after Call the Great Beast. The really brilliant
@@ -27,13 +28,13 @@ every turn is essential. Enkil Cog should go on Saulot.
 
 Crypt (12 cards, min=22 max=44 avg=8.83)
 ----------------------------------------
-4x Saulot, The Wanderer      11  dai AUS FOR OBE THA VAL      Salubri:4
+4x Saulot, The Wanderer      11  AUS FOR OBE THA VAL dai      Salubri:4
 4x Nergal                    10  AUS DAI FOR OBF PRE THA      Baali:5
-2x Eurayle Gelasia Mylonas    6  for pre AUS OBE              Salubri:4
+2x Eurayle Gelasia Mylonas    6  AUS OBE for pre              Salubri:4
 2x Nicomedes                  5  aus for nec vic              Harbinger of Skulls:4
 
 Library (78 cards)
-Master (22)
+Master (22; 7 trifle)
 1x Anarch Troublemaker
 1x Coven, The
 1x Direct Intervention

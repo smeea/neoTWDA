@@ -8,8 +8,9 @@ Hernán Rodríguez
 
 -- Unknown
 
-Enkidu & Friends
+Deck Name: Enkidu & Friends
 
+Description:
 A deck that enter in combat with Enkidu or another
 vampire support like Karsh and Hrothulf, and bleed or use Dominate
 with the rest of vampire. Very nice deck in a metagame with a lot
@@ -17,17 +18,17 @@ of combat.
 
 Crypt (12 cards, min=14 max=43 avg=7.33)
 ----------------------------------------
-3x Enkidu, The Noah   11  for ANI CEL OBF POT PRO      Gangrel antitribu:4
+3x Enkidu, The Noah   11  ANI CEL OBF POT PRO for      Gangrel antitribu:4
 2x Karsh              10  ANI CEL FOR POT PRO          Gangrel:3
-2x Hrothulf            8  dom pot pro CEL FOR PRE      Ventrue:3
-1x Banjoko             5  obt pot DOM                  Lasombra:3
-1x Jephta Hester       5  aus DOM FOR                  Ventrue antitribu:4
+2x Hrothulf            8  CEL FOR PRE dom pot pro      Ventrue:3
+1x Banjoko             5  DOM obt pot                  Lasombra:3
+1x Jephta Hester       5  DOM FOR aus                  Ventrue antitribu:4
 1x Almodo Giovanni     3  dom pot                      Giovanni:4
 1x Keith Moody         3  DOM                          Tremere antitribu:4
 1x Lia Milliner        3  dom nec                      Giovanni:3
 
 Library (90 cards)
-Master (16)
+Master (16; 2 trifle)
 3x Blood Doll
 1x Depravity
 3x Dreams of the Sphinx

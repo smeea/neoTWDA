@@ -8,8 +8,9 @@ Jelmer Wedholm
 
 -- 3vp in the final
 
-Gio ft. Anu bleed
+Deck Name: Gio ft. Anu bleed
 
+Description:
 Note: I forgot to put 2 Archon Investigation back in, so I could only
 threaten to burn vamps bleeding for 3. Late additions like Pentex,
 Sudario, Obedience were jamming most of the time. I was always happy
@@ -17,14 +18,14 @@ to see Far Mastery.
 
 Crypt (12 cards, min=21 max=31 avg=6.58)
 ----------------------------------------
-4x Anu Diptinatpa         7  aus vic DOM NEC      Nagaraja:6
+4x Anu Diptinatpa         7  DOM NEC aus vic      Nagaraja:6
 3x Giovanni del Georgio   8  DOM NEC POT PRO      Giovanni:5
-3x Accorri Giovanni       6  ani nec DOM POT      Giovanni:5
-1x Claus Wegener          5  aus for tha DOM      Tremere:5
+3x Accorri Giovanni       6  DOM POT ani nec      Giovanni:5
+1x Claus Wegener          5  DOM aus for tha      Tremere:5
 1x Kay Polerno            4  dom nec pro          Giovanni:5
 
 Library (74 cards)
-Master (13)
+Master (13; 3 trifle)
 1x Barrens, The
 2x Blood Doll
 1x Coven, The

@@ -8,21 +8,19 @@ Riccardo Fabiani
 
 -- 5vp in the final
 
-Malgorzata's Little Shop of Horror
-
-Unknown
+Deck Name: Malgorzata's Little Shop of Horror
 
 Crypt (13 cards, min=20 max=36 avg=7.31)
 ----------------------------------------
-5x Malgorzata     9  pre AUS DOM THA VIC   priscus   Tremere antitribu:4
-3x Ash Harrison   7  cel dom AUS THA                 Tremere antitribu:5
-2x Uta Kovacs     8  ser AUS DOM THA                 Tremere antitribu:4
-1x Carmen         5  aus dom THA                     Tremere antitribu:5
-1x Frondator      5  dom tha AUS           bishop    Tremere antitribu:4
+5x Malgorzata     9  AUS DOM THA VIC pre   priscus   Tremere antitribu:4
+3x Ash Harrison   7  AUS THA cel dom                 Tremere antitribu:5
+2x Uta Kovacs     8  AUS DOM THA ser                 Tremere antitribu:4
+1x Carmen         5  THA aus dom                     Tremere antitribu:5
+1x Frondator      5  AUS dom tha           bishop    Tremere antitribu:4
 1x Keith Moody    3  DOM                             Tremere antitribu:4
 
 Library (88 cards)
-Master (11)
+Master (11; 4 trifle)
 1x Direct Intervention
 1x Dreams of the Sphinx
 1x Guardian Angel

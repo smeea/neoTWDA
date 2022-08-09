@@ -8,23 +8,24 @@ https://www.vekn.net/event-calendar/event/7460
 
 -- 4vp in the final
 
-Enchanting Truth
+Deck Name: Enchanting Truth
 
+Description:
 Al-Muntathir and friends with Obfuscate and Presence enchant the world.
 
 Crypt (12 cards, min=19 max=32 avg=6.5)
 ---------------------------------------
-4x Al-Muntathir, God's Witness   8  obf qui AUS FOR PRE TEM             True Brujah:5
-2x Stavros                       7  dem AUS OBF PRE           priscus   Malkavian antitribu:4
-1x Isouda de Blaise              7  aus CEL OBF PRE                     Toreador antitribu:4
-1x Ankh-sen-Sutekh               6  obf PRE SER                         Ministry:4
-1x Herbert Westin                5  pot OBF PRE                         Brujah:4
-1x Raphael Catarari              5  aus pot tha OBF PRE                 Nosferatu antitribu:4
-1x Renenet                       5  ser OBF PRE                         Ministry:4
-1x Tyler McGill                  4  pre AUS                             Toreador:5
+4x Al-Muntathir, God's Witness   8  AUS FOR PRE TEM obf qui             True Brujah:5
+2x Stavros                       7  AUS OBF PRE dem           priscus   Malkavian antitribu:4
+1x Isouda de Blaise              7  CEL OBF PRE aus                     Toreador antitribu:4
+1x Ankh-sen-Sutekh               6  PRE SER obf                         Ministry:4
+1x Herbert Westin                5  OBF PRE pot                         Brujah:4
+1x Raphael Catarari              5  OBF PRE aus pot tha                 Nosferatu antitribu:4
+1x Renenet                       5  OBF PRE ser                         Ministry:4
+1x Tyler McGill                  4  AUS pre                             Toreador:5
 
 Library (90 cards)
-Master (14)
+Master (14; 4 trifle)
 1x Barrens, The
 2x Blood Doll
 2x Danse Macabre

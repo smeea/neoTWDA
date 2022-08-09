@@ -8,14 +8,12 @@ Pierre-Denis Brouillet
 
 -- Unknown
 
-Brujah Debate
-
-Unknown
+Deck Name: Brujah Debate
 
 Crypt (12 cards, min=8 max=22 avg=3.67)
 ---------------------------------------
-3x Volker, The Puppet Prince           5  pot CEL           prince   Brujah:2
-2x Rake                                6  aus cel pot PRE   prince   Brujah:1
+3x Volker, The Puppet Prince           5  CEL pot           prince   Brujah:2
+2x Rake                                6  PRE aus cel pot   prince   Brujah:1
 2x Angel                               2  cel                        Brujah:1
 1x Dre, Leader of the Cold Dawn        3  cel pot                    Brujah:1
 1x Raziya Samater                      3  ani pot                    Brujah:2
@@ -24,7 +22,7 @@ Crypt (12 cards, min=8 max=22 avg=3.67)
 1x Vasilis, The Traitor of Don Cruez   2  pre                        Brujah:2
 
 Library (60 cards)
-Master (15)
+Master (15; 2 trifle)
 6x Brujah Debate
 1x Carthage Remembered
 1x Coven, The

@@ -8,18 +8,16 @@ Lucas Bonroy
 
 -- Unknown
 
-Lasombra presence slim fast
-
-Unknown
+Deck Name: Lasombra presence slim fast
 
 Crypt (12 cards, min=27 max=39 avg=8.42)
 ----------------------------------------
-3x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal     Lasombra:2
-3x Francisco Domingo de Polonia              9  pro DOM OBT POT PRE       archbishop   Lasombra:2
+3x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2
+3x Francisco Domingo de Polonia              9  DOM OBT POT PRE pro       archbishop   Lasombra:2
 2x Jessica (ADV)                             8  AUS CEL OBT PRE           bishop       Toreador antitribu:2
-1x Alvaro, The Scion of Angelica             9  dom pre OBT POT           archbishop   Lasombra:2
-1x Gratiano                                  8  obf pot DOM OBT           priscus      Lasombra:2
-1x Sela (ADV)                                7  cel obt POT PRE           archbishop   Brujah antitribu:2
+1x Alvaro, The Scion of Angelica             9  OBT POT dom pre           archbishop   Lasombra:2
+1x Gratiano                                  8  DOM OBT obf pot           priscus      Lasombra:2
+1x Sela (ADV)                                7  POT PRE cel obt           archbishop   Brujah antitribu:2
 1x Michael Luther                            4  aus pre                                Toreador:3
 
 Library (74 cards)

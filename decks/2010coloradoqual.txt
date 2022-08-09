@@ -8,21 +8,17 @@ Kelly Schultz
 
 -- 5vp in the final
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=4 max=20 avg=2.42)
 ---------------------------------------
 7x Tupdog                   1  POT VIS                              Gargoyle:3
-1x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE   inner circle   Malkavian:4
-1x Lumumba                  4  ani PRE                              Guruhi:4
+1x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot   inner circle   Malkavian:4
+1x Lumumba                  4  PRE ani                              Guruhi:4
 1x Panya, The Wicked        3  cel pre                              Ishtarri:4
 1x Meno Ngari               2  abo                                  Akunanse:4
 1x Misrak                   2  pot                                  Osebo:4
 
 Library (60 cards)
-Master (15)
+Master (15; 4 trifle)
 4x Agent of Power
 6x Ashur Tablets
 3x Dreams of the Sphinx

@@ -8,8 +8,9 @@ Kevin J. Wiebe
 
 -- Unknown
 
-Anarch Revolt (Mixed Clans)
+Deck Name: Anarch Revolt (Mixed Clans)
 
+Description:
 This Anarch Revolt deck is extremely nasty and
 aggressive. The key to its success is to get The Parthenon, Anson,
 and Rumors of Gehenna into play as soon as possible. With them in
@@ -22,11 +23,11 @@ to be ousted.
 
 Crypt (12 cards, min=7 max=29 avg=4.25)
 ---------------------------------------
-3x Anson                             8  aus dom CEL PRE   prince   Toreador:1
-1x Kurt Strauss                      5  aus tha DOM                Tremere antitribu:2
-1x Ranjan Rishi, Camarilla Scholar   5  for DOM PRE                Ventrue:2
-1x Gloria Giovanni                   4  nec DOM                    Giovanni:2
-1x Ingrid Russo                      4  for DOM                    Ventrue antitribu:2
+3x Anson                             8  CEL PRE aus dom   prince   Toreador:1
+1x Kurt Strauss                      5  DOM aus tha                Tremere antitribu:2
+1x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for                Ventrue:2
+1x Gloria Giovanni                   4  DOM nec                    Giovanni:2
+1x Ingrid Russo                      4  DOM for                    Ventrue antitribu:2
 1x Christine Boscacci                2  dom vic                    Pander:2
 1x Mustafa Rahman                    2  dom                        Tremere:2
 1x Ohanna                            2  dom                        Malkavian:2

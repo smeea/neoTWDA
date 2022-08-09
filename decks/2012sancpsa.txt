@@ -8,20 +8,18 @@ Richard Auckland
 
 -- 0vp in the final
 
-The Shambling Hordes
-
-Unknown
+Deck Name: The Shambling Hordes
 
 Crypt (12 cards, min=20 max=36 avg=6.67)
 ----------------------------------------
-4x Guillaume Giovanni   9  obt CEL DOM NEC POT      Giovanni:4
-4x Mina Grotius         6  cel FOR NEC              Harbinger of Skulls:3
-2x Thomasso Ghiberti    4  pot NEC                  Giovanni:4
-1x Raphaela Giovanni    6  pot pre DOM NEC          Giovanni:4
-1x Zygodat              6  pot AUS NEC              Harbinger of Skulls:4
+4x Guillaume Giovanni   9  CEL DOM NEC POT obt      Giovanni:4
+4x Mina Grotius         6  FOR NEC cel              Harbinger of Skulls:3
+2x Thomasso Ghiberti    4  NEC pot                  Giovanni:4
+1x Raphaela Giovanni    6  DOM NEC pot pre          Giovanni:4
+1x Zygodat              6  AUS NEC pot              Harbinger of Skulls:4
 
 Library (90 cards)
-Master (34)
+Master (34; 3 trifle)
 2x Barrens, The
 1x Charisma
 1x Creepshow Casino

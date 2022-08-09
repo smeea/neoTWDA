@@ -8,8 +8,9 @@ Andy Kempton
 
 -- Unknown
 
-Settite Legal V4.0
+Deck Name: Settite Legal V4.0
 
+Description:
 3 Game wins and 12VP.
 When I went in to the tourney, I was looking for something that would
 take advantage of the Boston metagame. I borrowed a deck idea from
@@ -27,13 +28,13 @@ self to hunt and gain the blood back. Or Tempt opponent's vampires
 
 Crypt (12 cards, min=20 max=29 avg=6.25)
 ----------------------------------------
-2x Qufur am-Heru               7  cel tha OBF PRE SER      Ministry:2
-2x Sarrasine                   7  aus nec ser OBF PRE      Ministry:2
-2x Ezekiel, Lord of Montreal   6  obf pot PRE SER          Ministry:3
-2x Count Ormonde               5  dom pre ser OBF          Ministry:2
-2x Sir Marriot D'Urban         5  aus obf ser PRE          Ministry:2
-1x Intisar                     8  cel pot OBF PRE SER      Ministry:2
-1x Danny Larkshill             7  obf obt pot PRE SER      Ministry:2
+2x Qufur am-Heru               7  OBF PRE SER cel tha      Ministry:2
+2x Sarrasine                   7  OBF PRE aus nec ser      Ministry:2
+2x Ezekiel, Lord of Montreal   6  PRE SER obf pot          Ministry:3
+2x Count Ormonde               5  OBF dom pre ser          Ministry:2
+2x Sir Marriot D'Urban         5  PRE aus obf ser          Ministry:2
+1x Intisar                     8  OBF PRE SER cel pot      Ministry:2
+1x Danny Larkshill             7  PRE SER obf obt pot      Ministry:2
 
 Library (91 cards)
 Master (13)

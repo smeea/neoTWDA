@@ -8,18 +8,14 @@ Ferenc Vasadi
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=11 max=40 avg=5.92)
 ----------------------------------------
 4x Nergal                    10  AUS DAI FOR OBF PRE THA      Baali:5
-1x Eurayle Gelasia Mylonas    6  for pre AUS OBE              Salubri:4
-1x Solomon Batanea            5  nec AUS FOR                  Harbinger of Skulls:4
-1x Zhenga                     5  obf pre SER                  Ministry:4
-1x Antoinette Dubois          4  for mel PRE                  Daughter of Cacophony:4
-1x Lumumba                    4  ani PRE                      Guruhi:4
+1x Eurayle Gelasia Mylonas    6  AUS OBE for pre              Salubri:4
+1x Solomon Batanea            5  AUS FOR nec                  Harbinger of Skulls:4
+1x Zhenga                     5  SER obf pre                  Ministry:4
+1x Antoinette Dubois          4  PRE for mel                  Daughter of Cacophony:4
+1x Lumumba                    4  PRE ani                      Guruhi:4
 1x Panya, The Wicked          3  cel pre                      Ishtarri:4
 1x Aimee Laroux               2  for pre                      Daughter of Cacophony:4
 1x Jayne Jonestown            2  PRE                          Brujah antitribu:4

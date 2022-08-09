@@ -8,8 +8,9 @@ Dennis Lien
 
 -- Unknown
 
-The 7th Tradition: Parity Shift
+Deck Name: The 7th Tradition: Parity Shift
 
+Description:
 This was one hairy final. I was down to 1 pool like 3 times.
 I ended up killing my prey with a shift and finished off my grand
 prey by Justicar Retributioning his main vamp. If I ran this
@@ -20,16 +21,16 @@ Dennis E. Lien
 
 Crypt (12 cards, min=15 max=32 avg=5.75)
 ----------------------------------------
-4x Anson                               8  aus dom CEL PRE   prince   Toreador:1
-2x Rake                                6  aus cel pot PRE   prince   Brujah:1
-2x Volker, The Puppet Prince           5  pot CEL           prince   Brujah:2
-1x Black Cat                           5  pot pre CEL                Brujah:1
-1x Brachah                             5  for CEL PRE                Brujah:2
+4x Anson                               8  CEL PRE aus dom   prince   Toreador:1
+2x Rake                                6  PRE aus cel pot   prince   Brujah:1
+2x Volker, The Puppet Prince           5  CEL pot           prince   Brujah:2
+1x Black Cat                           5  CEL pot pre                Brujah:1
+1x Brachah                             5  CEL PRE for                Brujah:2
 1x Uma Hatch                           3  cel pre                    Brujah:1
 1x Vasilis, The Traitor of Don Cruez   2  pre                        Brujah:2
 
 Library (90 cards)
-Master (20)
+Master (20; 2 trifle)
 1x Archon Investigation
 2x Carthage Remembered
 1x Celerity

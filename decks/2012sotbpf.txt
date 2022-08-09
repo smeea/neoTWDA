@@ -8,10 +8,6 @@ Mehdi Mazni
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=4 max=40 avg=5.67)
 ---------------------------------------
 6x Shalmath         10  POT PRE TEM      True Brujah:6
@@ -23,7 +19,7 @@ Crypt (12 cards, min=4 max=40 avg=5.67)
 1x Walker Grimes     1  ani              Caitiff:5
 
 Library (81 cards)
-Master (13)
+Master (13; 2 trifle)
 1x Dark Influences
 2x Giant's Blood
 2x Pentex(TM) Subversion

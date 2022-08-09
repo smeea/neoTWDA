@@ -8,22 +8,23 @@ https://www.vekn.net/event-calendar/event/8547
 
 -- 3vp in the final
 
-The Year of the Snake
+Deck Name: The Year of the Snake
 
+Description:
 designed and played by Jay Kristoff
 Concept: Temptation is good in a meta where large vamps are quickly influenced and then nearly emptied with Minion Tap and Villein. The mega-political actions should be called while borrowing your neighbor's biggest vampire.
 
 Crypt (12 cards, min=30 max=42 avg=8.92)
 ----------------------------------------
-3x Saqqaf, Keeper of the Grand Temple of Set    9  cel for OBF PRE SER                 Ministry:2
-2x Sutekh, The Dark God                        11  cel pot NEC OBF PRE SER   2 votes   Ministry:2
-2x Nehsi                                       10  aus for OBF PRE PRO SER   2 votes   Ministry:2
-2x Amisa                                        8  pre pro OBF SER           2 votes   Ministry:2
-2x Kephamos, High Priest of Marrakech           8  dom obf pre SER           2 votes   Ministry:2
-1x Hesha Ruhadze                                6  ani obf pre SER                     Ministry:2
+3x Saqqaf, Keeper of the Grand Temple of Set    9  OBF PRE SER cel for                 Ministry:2
+2x Sutekh, The Dark God                        11  NEC OBF PRE SER cel pot   2 votes   Ministry:2
+2x Nehsi                                       10  OBF PRE PRO SER aus for   2 votes   Ministry:2
+2x Amisa                                        8  OBF SER pre pro           2 votes   Ministry:2
+2x Kephamos, High Priest of Marrakech           8  SER dom obf pre           2 votes   Ministry:2
+1x Hesha Ruhadze                                6  SER ani obf pre                     Ministry:2
 
 Library (60 cards)
-Master (22)
+Master (22; 8 trifle)
 1x Archon Investigation
 4x Eternals of Sirius, The
 1x Giant's Blood

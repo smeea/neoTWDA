@@ -8,24 +8,23 @@ Guido Canciani
 
 -- 3vp in the final
 
-Unknown
-
+Description:
 Action oriented Ventrue g4-g5
 
 Crypt (12 cards, min=19 max=27 avg=5.75)
 ----------------------------------------
-3x Victor Pelletier     5  cel dom for PRE                  Ventrue:4
-2x Victor Donaldson     6  for pre DOM           prince     Ventrue:5
-1x Lodin (Olaf Holte)   8  aus pro DOM FOR PRE   prince     Ventrue:5
-1x Graham Gottesman     7  obf pre tha DOM FOR   prince     Ventrue:5
-1x Mustafa, The Heir    6  cel dom FOR PRE       prince     Ventrue:4
-1x Tara                 6  cel POT PRE           prince     Brujah:5
-1x Vasily               6  aus pre ser CEL       prince     Toreador:5
-1x Emily Carson         5  for pre DOM           primogen   Ventrue:5
+3x Victor Pelletier     5  PRE cel dom for                  Ventrue:4
+2x Victor Donaldson     6  DOM for pre           prince     Ventrue:5
+1x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro   prince     Ventrue:5
+1x Graham Gottesman     7  DOM FOR obf pre tha   prince     Ventrue:5
+1x Mustafa, The Heir    6  FOR PRE cel dom       prince     Ventrue:4
+1x Tara                 6  POT PRE cel           prince     Brujah:5
+1x Vasily               6  CEL aus pre ser       prince     Toreador:5
+1x Emily Carson         5  DOM for pre           primogen   Ventrue:5
 1x Reginald Moore       4  PRE                   primogen   Brujah:4
 
 Library (70 cards)
-Master (17)
+Master (17; 1 trifle)
 1x Anarch Troublemaker
 6x Ashur Tablets
 1x Coven, The

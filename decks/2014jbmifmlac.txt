@@ -8,22 +8,23 @@ Matt Wedge
 
 -- Unknown
 
-Big strong man like you...
+Deck Name: Big strong man like you...
 
+Description:
 ...shouldn't be afraid of a little boom-boom.
 Mono Valeren
 
 Crypt (12 cards, min=14 max=32 avg=5.5)
 ---------------------------------------
-2x Dela Eden   8  cel dom AUS FOR VAL            Salubri antitribu:3
-2x Uriel       8  ani obe AUS FOR VAL   bishop   Salubri antitribu:4
-2x Aredhel     5  aus FOR VAL                    Salubri antitribu:4
-2x Langa       5  for VAL                        Salubri antitribu:4
+2x Dela Eden   8  AUS FOR VAL cel dom            Salubri antitribu:3
+2x Uriel       8  AUS FOR VAL ani obe   bishop   Salubri antitribu:4
+2x Aredhel     5  FOR VAL aus                    Salubri antitribu:4
+2x Langa       5  VAL for                        Salubri antitribu:4
 2x Nkechi      4  aus for val                    Salubri antitribu:4
 2x Rashiel     3  for val                        Salubri antitribu:4
 
 Library (88 cards)
-Master (14)
+Master (14; 2 trifle)
 4x Blood Doll
 2x Blooding by the Code
 1x Code of Samiel

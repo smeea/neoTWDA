@@ -8,17 +8,15 @@ Miguel Hernández Padilla
 
 -- Unknown
 
-Mejor no entres en la reunión
-
-Unknown
+Deck Name: Mejor no entres en la reunión
 
 Crypt (13 cards, min=10 max=22 avg=4.08)
 ----------------------------------------
-2x Rake                           6  aus cel pot PRE   prince   Brujah:1
-2x Volker, The Puppet Prince      5  pot CEL           prince   Brujah:2
-1x Black Cat                      5  pot pre CEL                Brujah:1
-1x Brachah                        5  for CEL PRE                Brujah:2
-1x Hector Sosa                    4  pre POT                    Brujah:1
+2x Rake                           6  PRE aus cel pot   prince   Brujah:1
+2x Volker, The Puppet Prince      5  CEL pot           prince   Brujah:2
+1x Black Cat                      5  CEL pot pre                Brujah:1
+1x Brachah                        5  CEL PRE for                Brujah:2
+1x Hector Sosa                    4  POT pre                    Brujah:1
 1x Yuri, The Talon                4  cel pot pre                Brujah:1
 1x Dre, Leader of the Cold Dawn   3  cel pot                    Brujah:1
 1x Raziya Samater                 3  ani pot                    Brujah:2

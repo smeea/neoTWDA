@@ -8,17 +8,13 @@ Iñaki Jimenez
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=11 max=32 avg=5.75)
 ----------------------------------------
-5x Anson             8  aus dom CEL PRE   prince     Toreador:1
-1x Tatiana Romanov   7  cel pre AUS       prince     Toreador:1
-1x Victoria Ash      6  aus cel dom PRE   primogen   Toreador:2
-1x Ramiel DuPre      5  aus cel dom PRE              Toreador:1
-1x Mariana Gilbert   4  cel PRE                      Toreador:1
+5x Anson             8  CEL PRE aus dom   prince     Toreador:1
+1x Tatiana Romanov   7  AUS cel pre       prince     Toreador:1
+1x Victoria Ash      6  PRE aus cel dom   primogen   Toreador:2
+1x Ramiel DuPre      5  PRE aus cel dom              Toreador:1
+1x Mariana Gilbert   4  PRE cel                      Toreador:1
 1x Isabel de Leon    3  AUS                          Toreador:2
 1x Delilah Easton    2  pre                          Toreador:1
 1x Dieter Kleist     2  aus                          Toreador:1

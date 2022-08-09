@@ -8,22 +8,20 @@ Jackson Iribarren
 
 -- Unknown
 
-!Ventrue
-
-Unknown
+Deck Name: !Ventrue
 
 Crypt (14 cards, min=22 max=39 avg=7.57)
 ----------------------------------------
-3x Lazverinus, Thrall of Lambach   10  pro AUS DOM FOR POT   archbishop   Ventrue antitribu:2
-3x Owain Evans, The Wanderer        8  cel pre AUS DOM FOR                Ventrue antitribu:3
+3x Lazverinus, Thrall of Lambach   10  AUS DOM FOR POT pro   archbishop   Ventrue antitribu:2
+3x Owain Evans, The Wanderer        8  AUS DOM FOR cel pre                Ventrue antitribu:3
 3x Dylan                            6  aus cel dom for pro                Ventrue antitribu:2
 2x Blackhorse Tanner                7  AUS DOM FOR                        Ventrue antitribu:3
-1x Quentin                          9  cel obt AUS DOM FOR   bishop       Ventrue antitribu:2
-1x Edward Neally                    7  aus pre DOM FOR                    Ventrue antitribu:3
-1x Ingrid Russo                     4  for DOM                            Ventrue antitribu:2
+1x Quentin                          9  AUS DOM FOR cel obt   bishop       Ventrue antitribu:2
+1x Edward Neally                    7  DOM FOR aus pre                    Ventrue antitribu:3
+1x Ingrid Russo                     4  DOM for                            Ventrue antitribu:2
 
 Library (82 cards)
-Master (17)
+Master (17; 4 trifle)
 1x Corporate Hunting Ground
 1x Direct Intervention
 2x Dreams of the Sphinx

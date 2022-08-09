@@ -8,8 +8,7 @@ Andrew Kashpar
 
 -- Unknown
 
-Unknown
-
+Description:
 Cybelotron
 
 Crypt (12 cards, min=40 max=40 avg=10.0)

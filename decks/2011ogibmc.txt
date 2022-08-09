@@ -8,17 +8,18 @@ Christian Chénard
 
 -- 5vp in the final
 
-Girls will scream at high pitch
+Deck Name: Girls will scream at high pitch
 
+Description:
 Homebrew library used during the latest storyline but with
 a now "switched to legal" gr2/3 crypt.
 
 Crypt (12 cards, min=17 max=24 avg=5.25)
 ----------------------------------------
 4x Yseult           6  FOR MEL PRE          Daughter of Cacophony:3
-3x Angela Preston   5  for MEL PRE          Daughter of Cacophony:2
-3x Delilah Monroe   4  for pre MEL          Daughter of Cacophony:2
-2x Gaël Pilet       6  chi pre FOR MEL      Daughter of Cacophony:2
+3x Angela Preston   5  MEL PRE for          Daughter of Cacophony:2
+3x Delilah Monroe   4  MEL for pre          Daughter of Cacophony:2
+2x Gaël Pilet       6  FOR MEL chi pre      Daughter of Cacophony:2
 
 Library (79 cards)
 Master (13)

@@ -8,8 +8,9 @@ Ben Peal
 
 -- 3vp in the final
 
-Humanoids From the Deep
+Deck Name: Humanoids From the Deep
 
+Description:
 Humo or Gemini crank out Nocturns and Underbridge Strays. Hannah
 Montana and "We Like the Moon" Guedado get War Ghouls. Use Agent of
 Power to bump up disciplines (especially for getting superior Strays)
@@ -20,13 +21,13 @@ Construction for lockdown.
 
 Crypt (12 cards, min=17 max=23 avg=5.0)
 ---------------------------------------
-3x Humo               6  obf obt ANI POT      Nosferatu antitribu:4
-3x Ana Rita Montaña   5  aus dom obf VIC      Tzimisce:3
-3x Gemini             5  ani obt pot OBF      Nosferatu:3
+3x Humo               6  ANI POT obf obt      Nosferatu antitribu:4
+3x Ana Rita Montaña   5  VIC aus dom obf      Tzimisce:3
+3x Gemini             5  OBF ani obt pot      Nosferatu:3
 3x Guedado            4  aus obf vic          Tzimisce:4
 
 Library (90 cards)
-Master (19)
+Master (19; 4 trifle)
 4x Agent of Power
 2x Archon Investigation
 1x Barrens, The

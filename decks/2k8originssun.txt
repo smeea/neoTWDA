@@ -8,8 +8,9 @@ Matthew Morgan
 
 -- 2.5vp in the final
 
-DoC bleed
+Deck Name: DoC bleed
 
+Description:
 The challenge I gave myself was to create a good
 Daughters of Cacophony deck that wasn't a copy of
 Ben Peal's NAC winning deck. This one is mostly
@@ -58,14 +59,14 @@ worthwhile, which is mostly what I did with them.
 
 Crypt (12 cards, min=15 max=24 avg=5.08)
 ----------------------------------------
-2x Jost Werner                      6  ani AUS PRE          Toreador antitribu:2
-2x Sheila Mezarin                   6  cel for AUS PRE      Toreador antitribu:2
-2x Angela Preston                   5  for MEL PRE          Daughter of Cacophony:2
-1x Gaël Pilet                       6  chi pre FOR MEL      Daughter of Cacophony:2
+2x Jost Werner                      6  AUS PRE ani          Toreador antitribu:2
+2x Sheila Mezarin                   6  AUS PRE cel for      Toreador antitribu:2
+2x Angela Preston                   5  MEL PRE for          Daughter of Cacophony:2
+1x Gaël Pilet                       6  FOR MEL chi pre      Daughter of Cacophony:2
 1x Yseult                           6  FOR MEL PRE          Daughter of Cacophony:3
-1x Delilah Monroe                   4  for pre MEL          Daughter of Cacophony:2
-1x Maldavis                         4  for pre AUS          Caitiff:3
-1x Remilliard, Devout Crusader      4  pre AUS              Toreador antitribu:2
+1x Delilah Monroe                   4  MEL for pre          Daughter of Cacophony:2
+1x Maldavis                         4  AUS for pre          Caitiff:3
+1x Remilliard, Devout Crusader      4  AUS pre              Toreador antitribu:2
 1x Céleste, The Voice of a Secret   3  mel pre              Daughter of Cacophony:2
 
 Library (90 cards)

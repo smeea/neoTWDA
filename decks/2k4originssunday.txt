@@ -8,8 +8,9 @@ Ben Peal
 
 -- Unknown
 
-The Blockinator
+Deck Name: The Blockinator
 
+Description:
 Group 1-2 AUS-CEL Toreador Princes with Concealed
 .44's and a big pile of intercept, untap, and Celerity cards.
 All the Princes (save for Volker) have +1 bleed, so there's
@@ -19,14 +20,14 @@ Blood Dolls provide a solid pool-gaining infrastructure.
 
 Crypt (12 cards, min=17 max=40 avg=7.17)
 ----------------------------------------
-3x Anneke                      10  dom AUS CEL PRE           justicar   Toreador:1
-2x Marcellus                    8  pro AUS CEL               prince     Toreador:2
-1x François Villon             10  chi obf pot AUS CEL PRE   prince     Toreador:2
-1x Tatiana Romanov              7  cel pre AUS               prince     Toreador:1
-1x Kallista, Master Sculptor    6  pre pro AUS CEL                      Toreador:1
-1x Felicia Mostrom              5  pre AUS CEL                          Toreador:1
-1x Volker, The Puppet Prince    5  pot CEL                   prince     Brujah:2
-1x Dorian Strack                4  cel AUS                              Toreador:1
+3x Anneke                      10  AUS CEL PRE dom           justicar   Toreador:1
+2x Marcellus                    8  AUS CEL pro               prince     Toreador:2
+1x François Villon             10  AUS CEL PRE chi obf pot   prince     Toreador:2
+1x Tatiana Romanov              7  AUS cel pre               prince     Toreador:1
+1x Kallista, Master Sculptor    6  AUS CEL pre pro                      Toreador:1
+1x Felicia Mostrom              5  AUS CEL pre                          Toreador:1
+1x Volker, The Puppet Prince    5  CEL pot                   prince     Brujah:2
+1x Dorian Strack                4  AUS cel                              Toreador:1
 1x Colin Flynn                  3  aus cel                              Toreador:1
 
 Library (89 cards)

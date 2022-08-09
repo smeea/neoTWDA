@@ -8,23 +8,24 @@ Alberto Muñoz
 
 -- Unknown
 
-Burst of Rotschreck
+Deck Name: Burst of Rotschreck
 
+Description:
 Burst + Rotschreck..
 nephandus and graverobbing do the dirty job.
 
 Crypt (19 cards, min=22 max=39 avg=8.0)
 ---------------------------------------
-5x Malgorzata           9  pre AUS DOM THA VIC       priscus    Tremere antitribu:4
-3x Lernean             10  for pro AUS CEL DOM THA   cardinal   Tremere antitribu:4
-3x Paul Cordwood        8  obf pre AUS DOM THA       bishop     Tremere antitribu:4
-3x Uta Kovacs           8  ser AUS DOM THA                      Tremere antitribu:4
-2x Ash Harrison         7  cel dom AUS THA                      Tremere antitribu:5
-2x Carmen               5  aus dom THA                          Tremere antitribu:5
-1x Antonio d'Erlette    5  dom for pot THA                      Tremere antitribu:4
+5x Malgorzata           9  AUS DOM THA VIC pre       priscus    Tremere antitribu:4
+3x Lernean             10  AUS CEL DOM THA for pro   cardinal   Tremere antitribu:4
+3x Paul Cordwood        8  AUS DOM THA obf pre       bishop     Tremere antitribu:4
+3x Uta Kovacs           8  AUS DOM THA ser                      Tremere antitribu:4
+2x Ash Harrison         7  AUS THA cel dom                      Tremere antitribu:5
+2x Carmen               5  THA aus dom                          Tremere antitribu:5
+1x Antonio d'Erlette    5  THA dom for pot                      Tremere antitribu:4
 
 Library (90 cards)
-Master (20)
+Master (20; 2 trifle)
 2x Blood Doll
 3x Effective Management
 1x Powerbase: Montreal

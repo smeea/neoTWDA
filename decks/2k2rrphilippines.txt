@@ -8,16 +8,14 @@ http://calendar.yahoo.com/YYY,14227/srt,0/vtesrep?v=4&t=1026550800&i=915&pv=2
 
 -- Unknown
 
-Blue Cheese
-
-Unknown
+Deck Name: Blue Cheese
 
 Crypt (12 cards, min=10 max=22 avg=4.0)
 ---------------------------------------
 2x Dolphin Black                    6  AUS DEM OBF      Malkavian antitribu:2
-2x Muriel Foucade                   5  aus DEM          Malkavian antitribu:2
+2x Muriel Foucade                   5  DEM aus          Malkavian antitribu:2
 2x Claven                           4  aus dem obf      Malkavian antitribu:2
-2x Idalia, Prophet of Guadalajara   4  dem AUS          Malkavian antitribu:2
+2x Idalia, Prophet of Guadalajara   4  AUS dem          Malkavian antitribu:2
 2x Yorik                            3  dem obf          Malkavian antitribu:2
 2x Boy Toy                          2  dem              Malkavian antitribu:2
 

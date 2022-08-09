@@ -8,30 +8,28 @@ https://www.vekn.net/event-calendar/event/8235
 
 -- 5vp in the final
 
-Mumm-Ra LIFE !
-
-Unknown
+Deck Name: Mumm-Ra LIFE !
 
 Crypt (15 cards, min=15 max=38 avg=7.07)
 ----------------------------------------
 1x Nakhthorheb                   10  OBF PRE SER                         Ministry:4
 1x Seterpenre                    10  AUS NEC OBF PRE SER                 Ministry:5
-1x Neferu                         9  dom nec OBF PRE SER THA   2 votes   Ministry:4
-1x Pentweret                      9  aus for obe OBF PRE SER             Ministry:5
-1x Porphyrion                     9  for CHI OBF PRE SER                 Ministry:5
-1x Shemti                         9  vic OBF POT PRE SER       1 vote    Ministry:5
-1x Arnulf Jormungandrsson         8  aus cel OBF PRE SER                 Ministry:5
-1x Cagliostro, The Grand Copht    8  nec pot OBF PRE SER                 Ministry:4
-1x Ogwon                          7  for OBF PRE SER                     Ministry:5
-1x Ankh-sen-Sutekh                6  obf PRE SER                         Ministry:4
-1x Halim Bey                      6  obf tha DOM SER                     Ministry:4
-1x Renenet                        5  ser OBF PRE                         Ministry:4
-1x Zhenga                         5  obf pre SER                         Ministry:4
+1x Neferu                         9  OBF PRE SER THA dom nec   2 votes   Ministry:4
+1x Pentweret                      9  OBF PRE SER aus for obe             Ministry:5
+1x Porphyrion                     9  CHI OBF PRE SER for                 Ministry:5
+1x Shemti                         9  OBF POT PRE SER vic       1 vote    Ministry:5
+1x Arnulf Jormungandrsson         8  OBF PRE SER aus cel                 Ministry:5
+1x Cagliostro, The Grand Copht    8  OBF PRE SER nec pot                 Ministry:4
+1x Ogwon                          7  OBF PRE SER for                     Ministry:5
+1x Ankh-sen-Sutekh                6  PRE SER obf                         Ministry:4
+1x Halim Bey                      6  DOM SER obf tha                     Ministry:4
+1x Renenet                        5  OBF PRE ser                         Ministry:4
+1x Zhenga                         5  SER obf pre                         Ministry:4
 1x Ahmose Chambers                3  obf ser                             Ministry:5
 1x Belle Equitone                 2  ser                                 Ministry:4
 
 Library (89 cards)
-Master (18)
+Master (18; 5 trifle)
 1x Archon Investigation
 1x Charisma
 3x Effective Management

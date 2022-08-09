@@ -8,22 +8,20 @@ https://www.vekn.net/event-calendar/event/8736
 
 -- 3vp in the final
 
-Sempre Alerta
-
-Unknown
+Deck Name: Sempre Alerta
 
 Crypt (12 cards, min=10 max=40 avg=7.0)
 ---------------------------------------
 4x Masika           10  AUS CEL PRE   primogen   Toreador:1
 3x Masika (ADV)     10  AUS CEL PRE   primogen   Toreador:1
-1x Dorian Strack     4  cel AUS                  Toreador:1
+1x Dorian Strack     4  AUS cel                  Toreador:1
 1x Colin Flynn       3  aus cel                  Toreador:1
 1x Isabel de Leon    3  AUS                      Toreador:2
 1x Delilah Easton    2  pre                      Toreador:1
 1x Dieter Kleist     2  aus                      Toreador:1
 
 Library (90 cards)
-Master (17)
+Master (17; 5 trifle)
 1x Art Museum
 1x Carver's Meat Packing and Storage
 1x Gift of Experience

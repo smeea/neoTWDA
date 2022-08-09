@@ -8,27 +8,25 @@ Michal Faldyna
 
 -- Unknown
 
-Tremere "Last minute" toolbox
-
-Unknown
+Deck Name: Tremere "Last minute" toolbox
 
 Crypt (12 cards, min=12 max=38 avg=6.5)
 ---------------------------------------
-1x Cassandra, Magus Prime             10  cel pre AUS DOM THA       primogen   Tremere:1
-1x Ulugh Beg, The Watcher             10  cel for pot AUS DOM THA   justicar   Tremere:1
-1x Cardano                             9  ani aus cel DOM FOR THA   prince     Tremere:1
-1x Javier Montoya                      9  ani cel pre AUS THA       prince     Tremere:2
-1x Justine, Elder of Dallas            8  obf AUS DOM THA           primogen   Tremere:1
-1x Rebekka, Chantry Elder of Munich    8  pot AUS PRE THA                      Tremere:2
-1x Muaziz, Archon of Ulugh Beg         7  aus dom for THA                      Tremere:2
-1x Aisling Sturbridge                  5  dom AUS THA                          Tremere:2
-1x Sarah Cobbler                       4  dom THA                              Tremere:1
-1x Blythe Candeleria                   3  aus THA                              Tremere:2
+1x Cassandra, Magus Prime             10  AUS DOM THA cel pre       primogen   Tremere:1
+1x Ulugh Beg, The Watcher             10  AUS DOM THA cel for pot   justicar   Tremere:1
+1x Cardano                             9  DOM FOR THA ani aus cel   prince     Tremere:1
+1x Javier Montoya                      9  AUS THA ani cel pre       prince     Tremere:2
+1x Justine, Elder of Dallas            8  AUS DOM THA obf           primogen   Tremere:1
+1x Rebekka, Chantry Elder of Munich    8  AUS PRE THA pot                      Tremere:2
+1x Muaziz, Archon of Ulugh Beg         7  THA aus dom for                      Tremere:2
+1x Aisling Sturbridge                  5  AUS THA dom                          Tremere:2
+1x Sarah Cobbler                       4  THA dom                              Tremere:1
+1x Blythe Candeleria                   3  THA aus                              Tremere:2
 1x Jing Wei                            3  dom tha                              Tremere:1
 1x Mustafa Rahman                      2  dom                                  Tremere:2
 
 Library (80 cards)
-Master (9)
+Master (9; 8 trifle)
 1x Lilith's Blessing
 3x Vessel
 5x Villein

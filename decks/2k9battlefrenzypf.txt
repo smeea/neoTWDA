@@ -8,8 +8,9 @@ Orian Gissler
 
 -- 2.5vp in the final
 
-saveurs et arômates de France
+Deck Name: saveurs et arômates de France
 
+Description:
 better but still not the one I was going to play at the EC
 
 Crypt (13 cards, min=4 max=11 avg=1.77)
@@ -17,7 +18,7 @@ Crypt (13 cards, min=4 max=11 avg=1.77)
 2x Normal               2  obf              Malkavian:1
 1x Dollface             3  aus obf          Malkavian:1
 1x Watenda              3  obf              Malkavian:2
-1x Zöe                  3  cel obf AUS      Malkavian:2
+1x Zöe                  3  AUS cel obf      Malkavian:2
 1x Brazil               2  aus              Malkavian:1
 1x Ohanna               2  dom              Malkavian:2
 1x Anarch Convert       1                   Caitiff:ANY
@@ -28,7 +29,7 @@ Crypt (13 cards, min=4 max=11 avg=1.77)
 1x Smudge the Ignored   1                   Caitiff:1
 
 Library (60 cards)
-Master (39)
+Master (39; 1 trifle)
 3x Ashur Tablets
 7x Brainwash
 2x Dreams of the Sphinx

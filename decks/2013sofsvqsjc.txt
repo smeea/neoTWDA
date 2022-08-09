@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/7403
 
 -- Unknown
 
-Khazar's Diary deck ripped from TWDA
+Deck Name: Khazar's Diary deck ripped from TWDA
 
+Description:
 Played at the San Jose Qualifier Dec 28, 2013.
 I discarded Sudario without ever playing it. For my playstyle, I couldn't
 ever see discarding 3 cards from my hand at random...
@@ -27,9 +28,9 @@ later. That gave me the only VP at the table...
 Crypt (12 cards, min=5 max=16 avg=2.67)
 ---------------------------------------
 3x Anarch Convert                    1                   Caitiff:ANY
-1x Isabel Giovanni                   5  pot DOM NEC      Giovanni:2
+1x Isabel Giovanni                   5  DOM NEC pot      Giovanni:2
 1x Francesca Giovanni                4  dom nec pot      Giovanni:2
-1x Gloria Giovanni                   4  nec DOM          Giovanni:2
+1x Gloria Giovanni                   4  DOM nec          Giovanni:2
 1x Cristofero Giovanni               3  nec pot          Giovanni:2
 1x Lia Milliner                      3  dom nec          Giovanni:3
 1x Mario Giovanni                    3  nec pot          Giovanni:2
@@ -38,7 +39,7 @@ Crypt (12 cards, min=5 max=16 avg=2.67)
 1x Paul DiCarlo, The Alpha           2  pot              Giovanni:2
 
 Library (71 cards)
-Master (24)
+Master (24; 2 trifle)
 4x Acquired Ventrue Assets
 2x Archon Investigation
 4x Blood Doll

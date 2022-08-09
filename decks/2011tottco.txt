@@ -8,8 +8,9 @@ David Wilson
 
 -- Unknown
 
-Homeland Recurred
+Deck Name: Homeland Recurred
 
+Description:
 The deck was a lot of fun, but it really needed
 a lot of cycling. The Recure the Homeland was the all start
 with Burst of Sunlight and Target Vitals, it really did lots
@@ -37,15 +38,15 @@ showing from Columbus and to the Newark crew for making it out!
 
 Crypt (12 cards, min=20 max=26 avg=5.83)
 ----------------------------------------
-2x Terrell Harding         7  cel dom obf AUS THA      Tremere antitribu:3
-2x Elena Mendoza Vasquez   6  dom obt AUS THA          Tremere antitribu:3
+2x Terrell Harding         7  AUS THA cel dom obf      Tremere antitribu:3
+2x Elena Mendoza Vasquez   6  AUS THA dom obt          Tremere antitribu:3
 2x Selena                  6  AUS DOM THA              Tremere antitribu:3
-2x Yasmin the Black        6  dom pre AUS THA          Tremere antitribu:3
+2x Yasmin the Black        6  AUS THA dom pre          Tremere antitribu:3
 2x Alejandro Aguirre       5  ani aus dom tha          Tremere antitribu:3
-2x Hannigan                5  dom AUS THA              Tremere antitribu:2
+2x Hannigan                5  AUS THA dom              Tremere antitribu:2
 
 Library (90 cards)
-Master (21)
+Master (21; 6 trifle)
 4x Blood Doll
 2x Corporal Reservoir
 2x Giant's Blood

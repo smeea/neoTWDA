@@ -8,8 +8,9 @@ Alexander Båskman
 
 -- 1.5vp in the final
 
-Cybele on speedhack
+Deck Name: Cybele on speedhack
 
+Description:
 Based on the Cybelotron deck by Johannes Walch & Ben
 Peal.
 
@@ -19,7 +20,7 @@ Crypt (12 cards, min=40 max=40 avg=10.0)
 1x  Nergal   10  AUS DAI FOR OBF PRE THA      Baali:5
 
 Library (64 cards)
-Master (33)
+Master (33; 5 trifle)
 1x Antediluvian Awakening
 6x Ashur Tablets
 6x Celerity

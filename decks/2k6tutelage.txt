@@ -8,16 +8,17 @@ Charles Lechasseur
 
 -- Unknown
 
-Henry: The Gathering
+Deck Name: Henry: The Gathering
 
+Description:
 A deck inspired by Ben Peal's Henry Twister deck. Tool up
 Henry with Anima Gathering and others, drop lots of permanents and
 protect the Smiling Jack with infinite Earth Melds.
 
 Crypt (12 cards, min=7 max=24 avg=4.0)
 --------------------------------------
-5x Henry Taylor                6  cel pre pro POT      Brujah antitribu:3
-1x Jane Sims                   4  ani aus pro VIC      Tzimisce:4
+5x Henry Taylor                6  POT cel pre pro      Brujah antitribu:3
+1x Jane Sims                   4  VIC ani aus pro      Tzimisce:4
 1x L'Épuisette                 4  aus cel pro          Toreador antitribu:4
 1x David Morgan, The Scourge   3  aus pot              Malkavian:3
 1x Almiro Suarez               2  aus                  Tremere:3
@@ -26,7 +27,7 @@ Crypt (12 cards, min=7 max=24 avg=4.0)
 1x Feo Ramos                   1  aus                  Pander:3
 
 Library (60 cards)
-Master (27)
+Master (27; 2 trifle)
 1x Amusement Park Hunting Ground
 1x Anarch Free Press, The
 2x Blood Doll

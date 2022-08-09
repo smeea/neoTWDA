@@ -8,8 +8,9 @@ Marko Saari
 
 -- Unknown
 
-LOLcats
+Deck Name: LOLcats
 
+Description:
 Get quickly some Rock Cats and other allies.
 Rush everything that moves. Steal key minions from torpor
 like Lutz who can also use Glancing Blow + Disarm for surprise
@@ -25,7 +26,7 @@ Crypt (12 cards, min=4 max=14 avg=2.17)
 1x Royce                       1  dom              Pander:2
 
 Library (72 cards)
-Master (12)
+Master (12; 4 trifle)
 1x Direct Intervention
 2x Dominate
 2x Dreams of the Sphinx

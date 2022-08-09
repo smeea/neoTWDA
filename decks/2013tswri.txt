@@ -8,8 +8,9 @@ Kym Alishahi
 
 -- Unknown
 
-Cock Robin Espionage Network
+Deck Name: Cock Robin Espionage Network
 
+Description:
 (Special thanks to Drace Zhan for introducing me to Alonzo
 Guillen as an addition to the crypt)
 The purpose of this Cock Robin/Deep Song/Enkil Cog iteration is
@@ -23,13 +24,13 @@ It can be played in a variety of ways depending on the table.
 
 Crypt (12 cards, min=18 max=40 avg=7.08)
 ----------------------------------------
-4x Cock Robin       10  aus for ANI OBF POT   justicar   Nosferatu:3
-3x Shahid            7  ani for pro OBF POT              Nosferatu:4
-3x Alonzo Guillen    6  ani for pot OBF                  Nosferatu:3
+4x Cock Robin       10  ANI OBF POT aus for   justicar   Nosferatu:3
+3x Shahid            7  OBF POT ani for pro              Nosferatu:4
+3x Alonzo Guillen    6  OBF ani for pot                  Nosferatu:3
 2x Darva Felispa     3  ani pot                          Nosferatu:3
 
 Library (90 cards)
-Master (21)
+Master (21; 7 trifle)
 1x Animalism
 2x Direct Intervention
 1x Fame

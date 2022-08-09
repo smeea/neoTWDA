@@ -8,9 +8,7 @@ https://www.vekn.net/event-calendar/event/8518
 
 -- 4vp in the final
 
-Tupdog
-
-Unknown
+Deck Name: Tupdog
 
 Crypt (29 cards, min=4 max=14 avg=1.48)
 ---------------------------------------

@@ -8,20 +8,21 @@ Tiago Honorato de Castro Ramos
 
 -- 4vp in the final
 
-When I was young, it seemed that life was so wonderful, a miracle, oh it was beautiful, magical...
+Deck Name: When I was young, it seemed that life was so wonderful, a miracle, oh it was beautiful, magical...
 
+Description:
 A Classic Spell of Life Deck
 
 Crypt (13 cards, min=15 max=38 avg=6.92)
 ----------------------------------------
-3x Halim Bey          6  obf tha DOM SER                      Ministry:4
+3x Halim Bey          6  DOM SER obf tha                      Ministry:4
 1x Nakhthorheb       10  OBF PRE SER                          Ministry:4
 1x Seterpenre        10  AUS NEC OBF PRE SER                  Ministry:5
-1x Neferu             9  dom nec OBF PRE SER THA   2 votes    Ministry:4
-1x Pentweret          9  aus for obe OBF PRE SER              Ministry:5
-1x Porphyrion         9  for CHI OBF PRE SER                  Ministry:5
-1x Shemti             9  vic OBF POT PRE SER       1 vote     Ministry:5
-1x Amenophobis        7  dom pre OBF SER           primogen   Ministry:4
+1x Neferu             9  OBF PRE SER THA dom nec   2 votes    Ministry:4
+1x Pentweret          9  OBF PRE SER aus for obe              Ministry:5
+1x Porphyrion         9  CHI OBF PRE SER for                  Ministry:5
+1x Shemti             9  OBF POT PRE SER vic       1 vote     Ministry:5
+1x Amenophobis        7  OBF SER dom pre           primogen   Ministry:4
 1x Sisocharis         4  cel obf pre                          Ministry:5
 1x Ahmose Chambers    3  obf ser                              Ministry:5
 1x Belle Equitone     2  ser                                  Ministry:4

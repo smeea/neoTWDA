@@ -8,19 +8,17 @@ Luciano Mariucci
 
 -- 4vp in the final
 
-Celeritous Ventrue
-
-Unknown
+Deck Name: Celeritous Ventrue
 
 Crypt (12 cards, min=25 max=42 avg=8.58)
 ----------------------------------------
-2x Arika              11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-2x Democritus         10  aus cel for DOM PRE       justicar       Ventrue:1
-2x Wilhelm Waldburg    9  aus cel DOM FOR PRE       prince         Ventrue:2
+2x Arika              11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+2x Democritus         10  DOM PRE aus cel for       justicar       Ventrue:1
+2x Wilhelm Waldburg    9  DOM FOR PRE aus cel       prince         Ventrue:2
 2x Melissa Barton      5  cel dom for pre                          Ventrue:1
-1x Helena Casimir      9  cel for DOM POT PRE       primogen       Ventrue:1
-1x Natasha Volfchek    9  cel dom pot FOR PRE       primogen       Ventrue:1
-1x Emerson Bridges     8  pot DOM FOR PRE           prince         Ventrue:1
+1x Helena Casimir      9  DOM POT PRE cel for       primogen       Ventrue:1
+1x Natasha Volfchek    9  FOR PRE cel dom pot       primogen       Ventrue:1
+1x Emerson Bridges     8  DOM FOR PRE pot           prince         Ventrue:1
 1x Sir Walter Nash     7  DOM FOR PRE               prince         Ventrue:1
 
 Library (80 cards)

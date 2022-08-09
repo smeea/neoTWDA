@@ -8,14 +8,12 @@ Radoslaw Staszewski
 
 -- Unknown
 
-Gangrel Assault ver.3.1.
-
-Unknown
+Deck Name: Gangrel Assault ver.3.1.
 
 Crypt (12 cards, min=8 max=18 avg=3.17)
 ---------------------------------------
-2x Jacob Fermor       5  ani tha PRO      Gangrel:4
-2x Gunnar             4  for PRO          Gangrel:4
+2x Jacob Fermor       5  PRO ani tha      Gangrel:4
+2x Gunnar             4  PRO for          Gangrel:4
 2x Fergus Alexander   3  pot pro          Gangrel:5
 2x Lillian            3  ani pro          Gangrel:5
 2x Robert Price       2  pro              Gangrel:4
@@ -23,7 +21,7 @@ Crypt (12 cards, min=8 max=18 avg=3.17)
 1x Iris Bennett       1  pro              Caitiff:5
 
 Library (60 cards)
-Master (16)
+Master (16; 3 trifle)
 2x Direct Intervention
 2x Dreams of the Sphinx
 2x Ecoterrorists

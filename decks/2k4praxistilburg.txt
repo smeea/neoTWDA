@@ -8,19 +8,17 @@ Daan Broekhof
 
 -- Unknown
 
-Tempting Ranters
-
-Unknown
+Deck Name: Tempting Ranters
 
 Crypt (13 cards, min=25 max=40 avg=8.38)
 ----------------------------------------
-2x Aziz, Dammar of Istanbul             10  ser CEL OBF PRE QUI       2 votes   Banu Haqim:2
-2x Nefertiti                            10  cel pot DOM OBF PRE SER             Ministry:2
-2x Khay'tall, Snake of Eden              9  aus DOM OBF PRE SER                 Ministry:2
-2x Amisa                                 8  pre pro OBF SER           2 votes   Ministry:2
-2x Kephamos, High Priest of Marrakech    8  dom obf pre SER           2 votes   Ministry:2
-1x Nehsi                                10  aus for OBF PRE PRO SER   2 votes   Ministry:2
-1x Count Ormonde                         5  dom pre ser OBF                     Ministry:2
+2x Aziz, Dammar of Istanbul             10  CEL OBF PRE QUI ser       2 votes   Banu Haqim:2
+2x Nefertiti                            10  DOM OBF PRE SER cel pot             Ministry:2
+2x Khay'tall, Snake of Eden              9  DOM OBF PRE SER aus                 Ministry:2
+2x Amisa                                 8  OBF SER pre pro           2 votes   Ministry:2
+2x Kephamos, High Priest of Marrakech    8  SER dom obf pre           2 votes   Ministry:2
+1x Nehsi                                10  OBF PRE PRO SER aus for   2 votes   Ministry:2
+1x Count Ormonde                         5  OBF dom pre ser                     Ministry:2
 1x Nepata                                4  obf pre ser                         Ministry:2
 
 Library (90 cards)

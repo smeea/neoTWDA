@@ -8,21 +8,19 @@ Eliseu Ângelo
 
 -- Unknown
 
-Lisboa Palace Hotel
-
-Unknown
+Deck Name: Lisboa Palace Hotel
 
 Crypt (12 cards, min=18 max=36 avg=6.92)
 ----------------------------------------
-5x Guillaume Giovanni   9  obt CEL DOM NEC POT      Giovanni:4
-2x Gualtiero Ghiberti   7  cel pot tha DOM NEC      Giovanni:4
-2x Raphaela Giovanni    6  pot pre DOM NEC          Giovanni:4
+5x Guillaume Giovanni   9  CEL DOM NEC POT obt      Giovanni:4
+2x Gualtiero Ghiberti   7  DOM NEC cel pot tha      Giovanni:4
+2x Raphaela Giovanni    6  DOM NEC pot pre          Giovanni:4
 1x Kay Polerno          4  dom nec pro              Giovanni:5
 1x Primo Giovanni       4  dom nec pot              Giovanni:4
-1x Thomasso Ghiberti    4  pot NEC                  Giovanni:4
+1x Thomasso Ghiberti    4  NEC pot                  Giovanni:4
 
 Library (90 cards)
-Master (27)
+Master (27; 5 trifle)
 2x Acquired Ventrue Assets
 1x Barrens, The
 1x Elder Library

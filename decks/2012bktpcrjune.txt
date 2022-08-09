@@ -8,22 +8,20 @@ Tomáš Kubec
 
 -- Unknown
 
-Stanislava
-
-Unknown
+Deck Name: Stanislava
 
 Crypt (13 cards, min=16 max=44 avg=8.23)
 ----------------------------------------
 4x Stanislava            11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2
-3x Ingrid Rossler         9  dom ANI FOR PRO       prince         Gangrel:2
-2x Genevieve             10  aus dom ANI FOR PRO   priscus        Gangrel antitribu:2
-1x Caitlin                6  aus dom ANI PRO       bishop         Gangrel antitribu:2
+3x Ingrid Rossler         9  ANI FOR PRO dom       prince         Gangrel:2
+2x Genevieve             10  ANI FOR PRO aus dom   priscus        Gangrel antitribu:2
+1x Caitlin                6  ANI PRO aus dom       bishop         Gangrel antitribu:2
 1x Ramona (ADV)           4  for pro                              Gangrel:2
 1x Chandler Hungerford    3  PRO                                  Gangrel:2
 1x Ricki Van Demsi        3  for pro                              Gangrel:1
 
 Library (90 cards)
-Master (21)
+Master (21; 9 trifle)
 1x Coven, The
 2x Dominate
 1x Dreams of the Sphinx

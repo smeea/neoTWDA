@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8596
 
 -- 3vp in the final
 
-Big Gangrel
+Deck Name: Big Gangrel
 
+Description:
 My Gangrel IC deck has been a staple for a long time. My recent update was
 influenced by Martin Weinmayer's NAC deck. Your kill combo is Parity Shift +
 Govern the Unaligned + Conditioning. Several fun tricks in the deck. First game
@@ -38,15 +39,15 @@ Notes:
 Crypt (12 cards, min=36 max=44 avg=10.0)
 ----------------------------------------
 4x Stanislava          11  ANI CEL DOM FOR PRO           inner circle   Gangrel:2
-2x Xaviar (ADV)        10  aus cel pot ABO ANI FOR PRO   justicar       Gangrel:3
-2x Ingrid Rossler       9  dom ANI FOR PRO               prince         Gangrel:2
-1x Genevieve           10  aus dom ANI FOR PRO           priscus        Gangrel antitribu:2
-1x Hartmut Stover      10  dom for CEL OBF PRO           archbishop     Gangrel antitribu:3
-1x Rachel Brandywine   10  ani AUS DEM OBF PRO           prince         Malkavian:3
-1x Mark Decker          8  ani for obf pot CEL PRO       prince         Gangrel:3
+2x Xaviar (ADV)        10  ABO ANI FOR PRO aus cel pot   justicar       Gangrel:3
+2x Ingrid Rossler       9  ANI FOR PRO dom               prince         Gangrel:2
+1x Genevieve           10  ANI FOR PRO aus dom           priscus        Gangrel antitribu:2
+1x Hartmut Stover      10  CEL OBF PRO dom for           archbishop     Gangrel antitribu:3
+1x Rachel Brandywine   10  AUS DEM OBF PRO ani           prince         Malkavian:3
+1x Mark Decker          8  CEL PRO ani for obf pot       prince         Gangrel:3
 
 Library (90 cards)
-Master (24)
+Master (24; 8 trifle)
 1x Backways
 4x Dreams of the Sphinx
 1x Ennoia's Theater

@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/2745
 
 -- 4vp in the final
 
-Descent into Bleeds
+Deck Name: Descent into Bleeds
 
+Description:
 Influence Appius. Put all Corporal Reservoirs you can on him
 Master Phase: Minion Tap to Appius (with previos Corporal if you have one)
 Minion Phase: Appius Descent into Darkness, with all the corporal reservoir,
@@ -19,15 +20,15 @@ In other minion phase: Apppius bleed with Enkil Cog.
 
 Crypt (12 cards, min=18 max=40 avg=7.33)
 ----------------------------------------
-4x Appius Claudius Corvus   10  cel nec DOM OBT POT      Lasombra:5
+4x Appius Claudius Corvus   10  DOM OBT POT cel nec      Lasombra:5
 3x Saul Meira                8  CHI DOM OBT POT          Lasombra:5
-2x Ermenegildo, The Rake     5  pot DOM OBT              Lasombra:4
-1x Onaedo                    6  aus pot DOM OBT          Lasombra:4
-1x Dame Hollerton            5  myt DOM OBT              Kiasyd:4
+2x Ermenegildo, The Rake     5  DOM OBT pot              Lasombra:4
+1x Onaedo                    6  DOM OBT aus pot          Lasombra:4
+1x Dame Hollerton            5  DOM OBT myt              Kiasyd:4
 1x Lucy Markowitz            3  dom obt                  Lasombra:4
 
 Library (90 cards)
-Master (24)
+Master (24; 12 trifle)
 12x Corporal Reservoir
 1x Dreams of the Sphinx
 1x Elysian Fields

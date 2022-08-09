@@ -6,12 +6,11 @@ December 15th 2007
 John Newquist
 
 
--- Unknown
+-- 1GW4 (2nd seed) + 4VP in final
 
-Champion is Weak
+Deck Name: Champion is Weak
 
-1GW4 (2nd seed) + 4VP in final
-
+Description:
 Daneel is correct - if a card is weak, I should stop playing it.
 There should be one additional Flash Grenade in the deck - it's
 entirely possible someone else from the event has it.
@@ -28,7 +27,7 @@ Crypt (12 cards, min=13 max=22 avg=4.5)
 1x Liz "Ticket312" Thornton      2  inn red          Innocent:4
 
 Library (89 cards)
-Master (17)
+Master (17; 2 trifle)
 4x Angel of Berlin
 1x Channel 10
 2x Church of Vindicated Faith, The

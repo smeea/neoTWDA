@@ -8,15 +8,13 @@ Dennis Lien
 
 -- Unknown
 
-When Sonja gets Blue
-
-Unknown
+Deck Name: When Sonja gets Blue
 
 Crypt (12 cards, min=20 max=23 avg=5.25)
 ----------------------------------------
-5x Sonja Blue          5  dom pot CEL FOR PRE            Ventrue:4
-4x Victor Pelletier    5  cel dom for PRE                Ventrue:4
-3x Mustafa, The Heir   6  cel dom FOR PRE       prince   Ventrue:4
+5x Sonja Blue          5  CEL FOR PRE dom pot            Ventrue:4
+4x Victor Pelletier    5  PRE cel dom for                Ventrue:4
+3x Mustafa, The Heir   6  FOR PRE cel dom       prince   Ventrue:4
 
 Library (90 cards)
 Master (18)

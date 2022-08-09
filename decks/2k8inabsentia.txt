@@ -8,14 +8,12 @@ Arild Mehn Andersen
 
 -- Unknown
 
-Zero Possibility
-
-Unknown
+Deck Name: Zero Possibility
 
 Crypt (12 cards, min=17 max=34 avg=6.42)
 ----------------------------------------
-3x Massassi          9  obf AUS CEL POT QUI      Osebo:4
-3x Khalu             7  ani pro AUS CEL POT      Osebo:3
+3x Massassi          9  AUS CEL POT QUI obf      Osebo:4
+3x Khalu             7  AUS CEL POT ani pro      Osebo:3
 3x Homa              6  AUS CEL POT              Osebo:4
 1x Ismitta           4  aus cel pot              Osebo:4
 1x Mariano Pomposo   4  aus cel pot              Brujah antitribu:3

@@ -8,21 +8,17 @@ https://www.vekn.net/event-calendar/event/8344
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=22 max=44 avg=8.67)
 ----------------------------------------
 4x Montano                                  11  ANI DOM FOR OBT POT       2 votes    Lasombra:3
-3x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal   Lasombra:2
-2x Lucita                                    8  cel pot DOM FOR OBT                  Lasombra:2
-1x Aurora Van Brande, Paladin                6  dom for pot OBT                      Lasombra:2
+3x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal   Lasombra:2
+2x Lucita                                    8  DOM FOR OBT cel pot                  Lasombra:2
+1x Aurora Van Brande, Paladin                6  OBT dom for pot                      Lasombra:2
 1x Ignacio, The Black Priest                 4  dom obt pot                          Lasombra:2
 1x Ramiro                                    4  dom obt vic                          Lasombra:2
 
 Library (90 cards)
-Master (17)
+Master (17; 7 trifle)
 1x Anarch Troublemaker
 1x Coven, The
 2x Dreams of the Sphinx

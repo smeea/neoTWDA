@@ -8,23 +8,21 @@ Leonardo Villela
 
 -- 3vp in the final
 
-Snake
-
-Unknown
+Deck Name: Snake
 
 Crypt (12 cards, min=14 max=27 avg=5.25)
 ----------------------------------------
-3x Bupe Kuila                7  pre OBF POT SER      Ministry:4
-3x Clea Auguste d'Holford    6  pre ser OBF POT      Ministry:5
+3x Bupe Kuila                7  OBF POT SER pre      Ministry:4
+3x Clea Auguste d'Holford    6  OBF POT pre ser      Ministry:5
 1x Jeremy "Wix" Wyzchovsky   5  ani obf pot          Nosferatu:4
-1x Nails                     5  ani obf pro POT      Nosferatu antitribu:4
-1x Patrick                   4  pre POT              Brujah antitribu:4
-1x Volo                      4  pro san POT          Blood Brother:5
+1x Nails                     5  POT ani obf pro      Nosferatu antitribu:4
+1x Patrick                   4  POT pre              Brujah antitribu:4
+1x Volo                      4  POT pro san          Blood Brother:5
 1x Ahmose Chambers           3  obf ser              Ministry:5
 1x Arriette Sylla            3  POT                  Osebo:4
 
 Library (90 cards)
-Master (15)
+Master (15; 4 trifle)
 1x Archon Investigation
 1x Creepshow Casino
 1x Crocodile Temple, The

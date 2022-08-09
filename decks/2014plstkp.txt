@@ -8,8 +8,9 @@ Radoslaw Staszewski
 
 -- Unknown
 
-Cybele with Cats!
+Deck Name: Cybele with Cats!
 
+Description:
 Be nice and try to kill someone
 
 Crypt (15 cards, min=4 max=40 avg=4.0)
@@ -19,7 +20,7 @@ Crypt (15 cards, min=4 max=40 avg=4.0)
 2x Anarch Convert    1                               Caitiff:ANY
 
 Library (86 cards)
-Master (30)
+Master (30; 2 trifle)
 2x Anarch Revolt
 9x Ashur Tablets
 1x Dark Influences

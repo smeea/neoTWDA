@@ -8,8 +8,9 @@ Caroline Hyll
 
 -- Unknown
 
-I want to build a block deck, too
+Deck Name: I want to build a block deck, too
 
+Description:
 AUS ANI FOR block deck.
 
 If I play the deck again I'll remove Carlton (which didn't really see
@@ -20,23 +21,23 @@ Crypt (12 cards, min=8 max=33 avg=5.5)
 --------------------------------------
 3x Anarch Convert       1                                 Caitiff:ANY
 2x Randall              8  ANI AUS FOR PRO       1 vote   Gangrel:4
-1x Konrad Fleischer     9  tha ANI AUS DOM FOR            Ventrue antitribu:4
+1x Konrad Fleischer     9  ANI AUS DOM FOR tha            Ventrue antitribu:4
 1x Mordechai Ben-Nun    8  ANI AUS FOR NEC                Harbinger of Skulls:5
-1x Uriel                8  ani obe AUS FOR VAL   bishop   Salubri antitribu:4
-1x Babalawo Alafin      7  ani AUS FOR NEC                Harbinger of Skulls:4
-1x Anjalika Underwood   5  aus chi for ANI                Ravnos:5
-1x Solomon Batanea      5  nec AUS FOR                    Harbinger of Skulls:4
-1x Yuri Kerezenski      5  aus for vic ANI       bishop   Tzimisce:4
+1x Uriel                8  AUS FOR VAL ani obe   bishop   Salubri antitribu:4
+1x Babalawo Alafin      7  AUS FOR NEC ani                Harbinger of Skulls:4
+1x Anjalika Underwood   5  ANI aus chi for                Ravnos:5
+1x Solomon Batanea      5  AUS FOR nec                    Harbinger of Skulls:4
+1x Yuri Kerezenski      5  ANI aus for vic       bishop   Tzimisce:4
 
 Library (89 cards)
 Master (17; 4 trifle)
 1x Animalism
 2x Blood Doll
-1x Carver's Meat Packing and Storage -- was not worthwhile; remove
+1x Carver's Meat Packing and Storage
 1x Erciyes Fragments, The
 1x Giant's Blood
 2x Guardian Angel
-1x Pentex(TM) Subversion -- might want to add one more, to contest
+1x Pentex(TM) Subversion
 1x Powerbase: Montreal
 1x Rack, The
 2x Smiling Jack, The Anarch
@@ -52,7 +53,7 @@ Ally (1)
 
 Equipment (3)
 1x .44 Magnum
-1x Banshee Ironwail -- very strong
+1x Banshee Ironwail
 1x Bowl of Convergence
 
 Reaction (28)

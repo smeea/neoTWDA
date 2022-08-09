@@ -8,22 +8,21 @@ Piotr Jaworski
 
 -- 5vp in the final
 
-Unknown
-
+Description:
 To rape, or not to rape...
 
 Crypt (12 cards, min=40 max=43 avg=10.25)
 -----------------------------------------
-3x Arika              11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-3x Lucinde, Alastor   10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
+3x Arika              11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+3x Lucinde, Alastor   10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
 3x Marcus Vitel       10  DOM FOR OBF OBT PRE       prince         Ventrue:3
-3x Queen Anne         10  aus obf DOM FOR PRE       prince         Ventrue:2
+3x Queen Anne         10  DOM FOR PRE aus obf       prince         Ventrue:2
 
 Library (90 cards)
 Master (20; 6 trifle)
 1x Creepshow Casino
 1x Giant's Blood
-2x Golconda: Inner Peace -- Inner Peace
+2x Golconda: Inner Peace
 3x Heidelberg Castle, Germany
 4x Information Highway
 1x Monastery of Shadows

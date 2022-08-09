@@ -8,20 +8,19 @@ Márcio Pinheiro
 
 -- Unknown
 
-Unknown
-
+Description:
 Procurer's Blood
 
 Crypt (12 cards, min=27 max=37 avg=8.17)
 ----------------------------------------
-4x Jibade el-Bahrawi    9  aus CEL DEM FOR PRE                Ishtarri:4
-2x Falhu Shibaba        8  ani CEL CHI FOR PRE       magaji   Ishtarri:3
-1x Ayo Igoli           10  obf tha AUS CEL FOR PRE            Ishtarri:4
+4x Jibade el-Bahrawi    9  CEL DEM FOR PRE aus                Ishtarri:4
+2x Falhu Shibaba        8  CEL CHI FOR PRE ani       magaji   Ishtarri:3
+1x Ayo Igoli           10  AUS CEL FOR PRE obf tha            Ishtarri:4
 1x Maxwell              9  CEL FOR POT PRE PRO                Brujah:3
-1x Count Germaine       8  obf CEL FOR POT PRE                Brujah:4
-1x Ganhuru              7  cel pro FOR PRE                    Ishtarri:4
-1x Ubende               7  for obf qui CEL PRE       magaji   Ishtarri:4
-1x Shasa Abu Badr       5  cel for PRE                        Ishtarri:4
+1x Count Germaine       8  CEL FOR POT PRE obf                Brujah:4
+1x Ganhuru              7  FOR PRE cel pro                    Ishtarri:4
+1x Ubende               7  CEL PRE for obf qui       magaji   Ishtarri:4
+1x Shasa Abu Badr       5  PRE cel for                        Ishtarri:4
 
 Library (90 cards)
 Master (19)

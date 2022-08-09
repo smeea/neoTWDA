@@ -8,9 +8,7 @@ Dominic Catanzariti
 
 -- Unknown
 
-The Montreal Chant
-
-Unknown
+Deck Name: The Montreal Chant
 
 Crypt (12 cards, min=6 max=12 avg=2.33)
 ---------------------------------------
@@ -27,7 +25,7 @@ Crypt (12 cards, min=6 max=12 avg=2.33)
 1x Samson               2  dom          Ventrue antitribu:2
 
 Library (90 cards)
-Master (34)
+Master (34; 6 trifle)
 5x Anarch Revolt
 1x Blood Doll
 10x Dominate

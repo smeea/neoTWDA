@@ -8,8 +8,9 @@ Jens Johansson
 
 -- Unknown
 
-It's a friendly deck, don't trust the setites
+Deck Name: It's a friendly deck, don't trust the setites
 
+Description:
 When the Unaligned set was release I was very interested in some of the new FoS cards, I wanted to play reckless and parity shift in the same deck.
 After some time and much work on the deck, me and my good friend Stefan Karlsson, who also was working on a similar deck, built this deck, minor differences,
 this became me latest version. Some changes are about to happen.
@@ -18,14 +19,14 @@ Also in the heads up with the same deck the so called "venture Justicar" used th
 
 Crypt (13 cards, min=28 max=40 avg=8.69)
 ----------------------------------------
-4x Kemintiri                  10  aus dom OBF PRE SER THA            Ministry:2
-4x Sarrasine                   7  aus nec ser OBF PRE                Ministry:2
-3x Khay'tall, Snake of Eden    9  aus DOM OBF PRE SER                Ministry:2
-1x Kemintiri (ADV)            10  aus dom OBF PRE SER THA            Ministry:2
-1x Sarrasine (ADV)             8  aus nec OBF PRE SER       prince   Ministry:2
+4x Kemintiri                  10  OBF PRE SER THA aus dom            Ministry:2
+4x Sarrasine                   7  OBF PRE aus nec ser                Ministry:2
+3x Khay'tall, Snake of Eden    9  DOM OBF PRE SER aus                Ministry:2
+1x Kemintiri (ADV)            10  OBF PRE SER THA aus dom            Ministry:2
+1x Sarrasine (ADV)             8  OBF PRE SER aus nec       prince   Ministry:2
 
 Library (73 cards)
-Master (25)
+Master (25; 6 trifle)
 1x Cave of Apples
 10x Eternals of Sirius, The
 1x Ferraille

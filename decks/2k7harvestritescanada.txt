@@ -8,16 +8,14 @@ Marc Desaulniers
 
 -- Unknown
 
-Serial Mind Rapists
-
-Unknown
+Deck Name: Serial Mind Rapists
 
 Crypt (12 cards, min=13 max=40 avg=7.25)
 ----------------------------------------
-4x Nefertiti                            10  cel pot DOM OBF PRE SER             Ministry:2
-2x Khay'tall, Snake of Eden              9  aus DOM OBF PRE SER                 Ministry:2
-2x Kephamos, High Priest of Marrakech    8  dom obf pre SER           2 votes   Ministry:2
-2x Count Ormonde                         5  dom pre ser OBF                     Ministry:2
+4x Nefertiti                            10  DOM OBF PRE SER cel pot             Ministry:2
+2x Khay'tall, Snake of Eden              9  DOM OBF PRE SER aus                 Ministry:2
+2x Kephamos, High Priest of Marrakech    8  SER dom obf pre           2 votes   Ministry:2
+2x Count Ormonde                         5  OBF dom pre ser                     Ministry:2
 1x Samson                                2  dom                                 Ventrue antitribu:2
 1x Royce                                 1  dom                                 Pander:2
 

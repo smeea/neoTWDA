@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/7968
 
 -- Unknown
 
-Locksmith
+Deck Name: Locksmith
 
+Description:
 I wanted to make theme deck themed around locksmithing because I started
 a job as a locksmith earlier this year. As there is card named Lock for Imbued, I had
 to do it with Imbued. Sorry Tom.
@@ -24,7 +25,7 @@ Crypt (12 cards, min=14 max=20 avg=4.33)
 1x Xian "DziDzat155" Quan         4  def inn          Defender:4
 
 Library (77 cards)
-Master (13)
+Master (13; 2 trifle)
 4x Angel of Berlin
 1x Church of Vindicated Faith, The
 1x Failsafe

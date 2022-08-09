@@ -8,8 +8,9 @@ Pawel Kukielczynski
 
 -- 3gw9.5 + 1.5vp in the final
 
-Nephandi in Drop Pods
+Deck Name: Nephandi in Drop Pods
 
+Description:
 Designed by: Pawel Kukielczynski & Tomasz Pietkiewicz
 
 Deck scored 3GW9.5 + 1.5VP in final, splitting it with Piper Ghouls and
@@ -20,7 +21,7 @@ and last to the timeout.
 
 Crypt (12 cards, min=12 max=20 avg=4.0)
 ---------------------------------------
-6x Antonio d'Erlette   5  dom for pot THA      Tremere antitribu:4
+6x Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4
 2x Ember Wright        3  aus dom              Tremere antitribu:3
 2x Keith Moody         3  DOM                  Tremere antitribu:4
 2x Saiz                3  aus dom              Tremere antitribu:3

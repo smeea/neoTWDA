@@ -8,20 +8,21 @@ https://www.vekn.net/event-calendar/event/9086
 
 -- 1gw5 + 3vp in the final
 
-toreador grand ball
+Deck Name: toreador grand ball
 
+Description:
 AAA
 
 Crypt (15 cards, min=17 max=43 avg=8.27)
 ----------------------------------------
-4x Anneke            10  dom AUS CEL PRE           justicar       Toreador:1
-4x Anson              8  aus dom CEL PRE           prince         Toreador:1
-3x Alexandra         11  dom ANI AUS CEL PRE       inner circle   Toreador:2
+4x Anneke            10  AUS CEL PRE dom           justicar       Toreador:1
+4x Anson              8  CEL PRE aus dom           prince         Toreador:1
+3x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2
 3x Isabel de Leon     3  AUS                                      Toreador:2
-1x François Villon   10  chi obf pot AUS CEL PRE   prince         Toreador:2
+1x François Villon   10  AUS CEL PRE chi obf pot   prince         Toreador:2
 
 Library (90 cards)
-Master (25)
+Master (25; 6 trifle)
 2x Dreams of the Sphinx
 2x Information Highway
 1x Marrakesh Codex, The

@@ -8,22 +8,20 @@ James Messer
 
 -- 3vp in the final
 
-If You Can't Beat Ashur, Play Them
-
-Unknown
+Deck Name: If You Can't Beat Ashur, Play Them
 
 Crypt (13 cards, min=32 max=40 avg=9.08)
 ----------------------------------------
-4x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal     Lasombra:2
-3x Francisco Domingo de Polonia              9  pro DOM OBT POT PRE       archbishop   Lasombra:2
-2x Gratiano                                  8  obf pot DOM OBT           priscus      Lasombra:2
-1x Angelica, The Canonicus                  10  cel obf DOM OBT POT       cardinal     Lasombra:2
-1x Alvaro, The Scion of Angelica             9  dom pre OBT POT           archbishop   Lasombra:2
-1x Antonio Delgado                           9  tha DOM OBT POT           archbishop   Lasombra:2
-1x Sela (ADV)                                7  cel obt POT PRE           archbishop   Brujah antitribu:2
+4x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2
+3x Francisco Domingo de Polonia              9  DOM OBT POT PRE pro       archbishop   Lasombra:2
+2x Gratiano                                  8  DOM OBT obf pot           priscus      Lasombra:2
+1x Angelica, The Canonicus                  10  DOM OBT POT cel obf       cardinal     Lasombra:2
+1x Alvaro, The Scion of Angelica             9  OBT POT dom pre           archbishop   Lasombra:2
+1x Antonio Delgado                           9  DOM OBT POT tha           archbishop   Lasombra:2
+1x Sela (ADV)                                7  POT PRE cel obt           archbishop   Brujah antitribu:2
 
 Library (76 cards)
-Master (26)
+Master (26; 7 trifle)
 7x Ashur Tablets
 1x Black Forest Base
 1x Direct Intervention

@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8651
 
 -- Unknown
 
-Stansilava goes for a bloody donat
+Deck Name: Stansilava goes for a bloody donat
 
+Description:
 I usually play this Deck with 80 Cards, but i did some metagame changes because
 I expected less combat and more bleed. Changes were
 +2 forced march +4 Sense the Savage Way +2 murmur +1 villein -1 scourge
@@ -19,16 +20,16 @@ People i was blessed to meet there!
 Crypt (12 cards, min=36 max=44 avg=10.08)
 -----------------------------------------
 4x Stanislava          11  ANI CEL DOM FOR PRO       inner circle   Gangrel:2
-2x Ingrid Rossler       9  dom ANI FOR PRO           prince         Gangrel:2
-1x Etrius              11  pro AUS DOM OBF THA       inner circle   Tremere:2
-1x Genevieve           10  aus dom ANI FOR PRO       priscus        Gangrel antitribu:2
-1x Hartmut Stover      10  dom for CEL OBF PRO       archbishop     Gangrel antitribu:3
-1x Rachel Brandywine   10  ani AUS DEM OBF PRO       prince         Malkavian:3
-1x Xaviar              10  aus cel pot ANI FOR PRO   2 votes        Gangrel:3
-1x Mark Decker          8  ani for obf pot CEL PRO   prince         Gangrel:3
+2x Ingrid Rossler       9  ANI FOR PRO dom           prince         Gangrel:2
+1x Etrius              11  AUS DOM OBF THA pro       inner circle   Tremere:2
+1x Genevieve           10  ANI FOR PRO aus dom       priscus        Gangrel antitribu:2
+1x Hartmut Stover      10  CEL OBF PRO dom for       archbishop     Gangrel antitribu:3
+1x Rachel Brandywine   10  AUS DEM OBF PRO ani       prince         Malkavian:3
+1x Xaviar              10  ANI FOR PRO aus cel pot   2 votes        Gangrel:3
+1x Mark Decker          8  CEL PRO ani for obf pot   prince         Gangrel:3
 
 Library (88 cards)
-Master (22)
+Master (22; 7 trifle)
 1x Backways
 4x Dreams of the Sphinx
 1x Ennoia's Theater

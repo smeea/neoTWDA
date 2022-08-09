@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9064
 
 -- 1gw6.5 + 1.5vp in the final
 
-the Hoody Gang
+Deck Name: the Hoody Gang
 
+Description:
 Basically every game is like being in a tunnel with the light at the very end.
 Survive and let others die while u build up permacept and try to influence your
 second puncher; let them underestimate the blocking capacities of the deck
@@ -21,12 +22,12 @@ bleeding on a prey with 12 pool and 6 minions in torpor is kinda annoying slow.
 Crypt (12 cards, min=4 max=43 avg=6.33)
 ---------------------------------------
 5x Anarch Convert      1                               Caitiff:ANY
-3x Enkidu, The Noah   11  for ANI CEL OBF POT PRO      Gangrel antitribu:4
+3x Enkidu, The Noah   11  ANI CEL OBF POT PRO for      Gangrel antitribu:4
 2x Matasuntha         10  ANI AUS CEL FOR PRO          Gangrel:5
-2x Aksinya Daclau      9  cel tha ANI FOR PRE PRO      Gangrel antitribu:4
+2x Aksinya Daclau      9  ANI FOR PRE PRO cel tha      Gangrel antitribu:4
 
 Library (90 cards)
-Master (29)
+Master (29; 7 trifle)
 12x Ashur Tablets
 1x Direct Intervention
 2x Dreams of the Sphinx

@@ -8,8 +8,9 @@ Kevin J. Wiebe
 
 -- Unknown
 
-Pulse of the Canaille (!Malkavian)
+Deck Name: Pulse of the Canaille (!Malkavian)
 
+Description:
 They lurk in the darkness. They are the shadow
 that chills the heart. They are fear and loathing. They know
 not pity nor remorse. They are the kindred rabble that will
@@ -17,18 +18,18 @@ bring you down.
 
 Crypt (12 cards, min=20 max=35 avg=7.0)
 ---------------------------------------
-1x Hannibal                 10  cel dom AUS DEM OBF   cardinal   Malkavian antitribu:2
-1x Vasantasena               9  dom pot AUS DEM OBF              Malkavian antitribu:2
-1x Cornelius Ottavio         8  pre qui AUS OBF                  Malkavian:2
-1x Sylvester Simms           8  ani dom pre AUS OBF   primogen   Malkavian:1
-1x Virgil                    8  cel AUS DEM OBF       bishop     Malkavian antitribu:2
+1x Hannibal                 10  AUS DEM OBF cel dom   cardinal   Malkavian antitribu:2
+1x Vasantasena               9  AUS DEM OBF dom pot              Malkavian antitribu:2
+1x Cornelius Ottavio         8  AUS OBF pre qui                  Malkavian:2
+1x Sylvester Simms           8  AUS OBF ani dom pre   primogen   Malkavian:1
+1x Virgil                    8  AUS DEM OBF cel       bishop     Malkavian antitribu:2
 1x Gilbert Duane             7  AUS DOM OBF           prince     Malkavian:1
-1x Greger Anderssen          7  dom pro AUS OBF       prince     Malkavian:2
-1x Korah                     7  ani AUS DEM OBF       priscus    Malkavian antitribu:2
+1x Greger Anderssen          7  AUS OBF dom pro       prince     Malkavian:2
+1x Korah                     7  AUS DEM OBF ani       priscus    Malkavian antitribu:2
 1x Dolphin Black             6  AUS DEM OBF                      Malkavian antitribu:2
-1x Quira, The Bitch Queen    6  obt tha AUS OBF                  Malkavian antitribu:2
-1x Agrippina                 4  pot OBF                          Nosferatu:1
-1x Tansu Bekir               4  cel OBF                          Banu Haqim:2
+1x Quira, The Bitch Queen    6  AUS OBF obt tha                  Malkavian antitribu:2
+1x Agrippina                 4  OBF pot                          Nosferatu:1
+1x Tansu Bekir               4  OBF cel                          Banu Haqim:2
 
 Library (90 cards)
 Master (30)

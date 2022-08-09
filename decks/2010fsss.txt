@@ -8,24 +8,25 @@ Tomas Wallmur
 
 -- Unknown
 
-Henry's Influence
+Deck Name: Henry's Influence
 
+Description:
 A light bleed/block deck with free vampires and Henry and Aksinya for
 defense.
 
 Crypt (12 cards, min=18 max=30 avg=5.92)
 ----------------------------------------
-4x Henry Taylor           6  cel pre pro POT              Brujah antitribu:3
-2x Aksinya Daclau         9  cel tha ANI FOR PRE PRO      Gangrel antitribu:4
-1x Redbone McCray         6  cel pro AUS PRE              Toreador antitribu:4
+4x Henry Taylor           6  POT cel pre pro              Brujah antitribu:3
+2x Aksinya Daclau         9  ANI FOR PRE PRO cel tha      Gangrel antitribu:4
+1x Redbone McCray         6  AUS PRE cel pro              Toreador antitribu:4
 1x Bernard, the Scourge   5  ani for pre pro              Gangrel:4
-1x Boss Callihan          5  dom for pro PRE              Ventrue:3
-1x Steve Booth            5  pot pre pro CEL              Brujah:3
+1x Boss Callihan          5  PRE dom for pro              Ventrue:3
+1x Steve Booth            5  CEL pot pre pro              Brujah:3
 1x Alessandro Garcia      4  pot pre pro                  Brujah antitribu:4
 1x L'Épuisette            4  aus cel pro                  Toreador antitribu:4
 
 Library (86 cards)
-Master (25)
+Master (25; 6 trifle)
 1x Anarch Free Press, The
 1x Anarch Railroad
 1x Gang Territory

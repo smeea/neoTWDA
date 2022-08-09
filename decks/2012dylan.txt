@@ -8,8 +8,9 @@ Manuel Segatori
 
 -- Unknown
 
-The Unnamed and the howler monkeys
+Deck Name: The Unnamed and the howler monkeys
 
+Description:
 The Unnamed leading an infernal horde
 
 Crypt (12 cards, min=12 max=40 avg=5.33)
@@ -18,7 +19,7 @@ Crypt (12 cards, min=12 max=40 avg=5.33)
 4x unnamed, The   10  CEL DAI OBF PRE PRO      Baali:6
 
 Library (90 cards)
-Master (18)
+Master (18; 1 trifle)
 2x Archon Investigation
 4x Blood Doll
 1x Giant's Blood

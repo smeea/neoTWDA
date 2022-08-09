@@ -8,8 +8,7 @@ Ben Kalb
 
 -- 3vp in the final
 
-Unknown
-
+Description:
 "Exactly the Correct Amount of Bounce"
 89 cards (I took out a borrowed Magic of the Smith
 a couple days before the tournament and forgot to
@@ -18,11 +17,11 @@ replace it with something...)
 Crypt (12 cards, min=15 max=27 avg=5.5)
 ---------------------------------------
 2x Carna, The Princess Witch   7  AUS DOM THA           primogen   Tremere:3
-2x Muhsin Samir                6  aus pot DOM THA                  Tremere:4
+2x Muhsin Samir                6  DOM THA aus pot                  Tremere:4
 2x Selena                      6  AUS DOM THA                      Tremere antitribu:3
-1x Preston Varrick             7  aus nec DOM OBF THA              Tremere:4
-1x Valois Sang, The Watcher    6  nec tha AUS DOM                  Tremere:3
-1x Cohn Rose                   5  aus dom pre THA                  Tremere:3
+1x Preston Varrick             7  DOM OBF THA aus nec              Tremere:4
+1x Valois Sang, The Watcher    6  AUS DOM nec tha                  Tremere:3
+1x Cohn Rose                   5  THA aus dom pre                  Tremere:3
 1x Mosfair                     4  cel dom tha                      Tremere antitribu:4
 1x Ehrich Weiss                3  dom tha                          Tremere:3
 1x Keith Moody                 3  DOM                              Tremere antitribu:4

@@ -8,8 +8,9 @@ Janne Hägglund
 
 -- Unknown
 
-Imbued nerds no longer worship Satan
+Deck Name: Imbued nerds no longer worship Satan
 
+Description:
 I've been playing variations of this same deck
 since my 2007 "Twist with Conviction".
 
@@ -34,7 +35,7 @@ Crypt (12 cards, min=14 max=18 avg=4.0)
 2x François "Warden" Loehr     3  def jud          Judge:4
 
 Library (90 cards)
-Master (30)
+Master (30; 1 trifle)
 4x Angel of Berlin
 1x Archon Investigation
 10x Ashur Tablets

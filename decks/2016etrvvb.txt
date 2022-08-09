@@ -8,21 +8,19 @@ https://www.vekn.net/event-calendar/event/8305
 
 -- 3vp in the final
 
-Gaia Party
-
-Unknown
+Deck Name: Gaia Party
 
 Crypt (12 cards, min=20 max=32 avg=6.83)
 ----------------------------------------
-3x Sébastien Goulet         8  cel pre pro DOM OBF          Gangrel antitribu:3
-3x Sébastien Goulet (ADV)   8  cel pre pro DOM OBF          Gangrel antitribu:3
-2x Phillipe Rigaud          7  ani aus obt DOM OBF PRO      Gangrel antitribu:4
-2x Soldat                   7  cel dom obf POT PRO          Gangrel antitribu:3
-1x Jeffrey Mullins          4  cel OBF                      Gangrel antitribu:4
+3x Sébastien Goulet         8  DOM OBF cel pre pro          Gangrel antitribu:3
+3x Sébastien Goulet (ADV)   8  DOM OBF cel pre pro          Gangrel antitribu:3
+2x Phillipe Rigaud          7  DOM OBF PRO ani aus obt      Gangrel antitribu:4
+2x Soldat                   7  POT PRO cel dom obf          Gangrel antitribu:3
+1x Jeffrey Mullins          4  OBF cel                      Gangrel antitribu:4
 1x Denette Stensen          2  obf                          Gangrel antitribu:4
 
 Library (90 cards)
-Master (16)
+Master (16; 5 trifle)
 1x Channel 10
 1x Charisma
 1x Dark Influences

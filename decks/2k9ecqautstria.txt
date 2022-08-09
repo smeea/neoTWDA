@@ -6,12 +6,11 @@ September 20th 2009
 Martin Major
 
 
--- Unknown
+-- 1GW3.5 (5th seed) + 4VP in final
 
-mINIMAL sTYLE
+Deck Name: mINIMAL sTYLE
 
-1GW3.5 (5th seed) + 4VP in final
-
+Description:
 I wanted to build this deck the moment
 I've seen Nana Buruku on the white-wolf website
 (before the release). Since I didn't have the time
@@ -31,8 +30,8 @@ cool for me. With some luck I made 1GW4VP in final
 Crypt (12 cards, min=8 max=32 avg=4.5)
 --------------------------------------
 4x Nana Buruku     8  ANI POT PRE      Guruhi:4
-1x Beetleman       4  obf ANI          Nosferatu:4
-1x Bobby Lemon     4  pro ANI          Gangrel:3
+1x Beetleman       4  ANI obf          Nosferatu:4
+1x Bobby Lemon     4  ANI pro          Gangrel:3
 1x Bothwell        3  ani for          Gangrel:3
 1x Darva Felispa   3  ani pot          Nosferatu:3
 1x Stick           3  ANI              Nosferatu antitribu:4
@@ -41,7 +40,7 @@ Crypt (12 cards, min=8 max=32 avg=4.5)
 1x Lisa Noble      1  ani              Caitiff:3
 
 Library (75 cards)
-Master (18)
+Master (18; 2 trifle)
 3x Animalism
 1x Archon Investigation
 9x Ashur Tablets

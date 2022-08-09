@@ -8,10 +8,10 @@ Marcin Szybkowski
 
 -- Unknown
 
-Unknown
+Deck Name: Ishtarri anarchs
 
-Deck: Ishtarri anarchs
-Comments: I came into the finals as the 5th person with 1GW and 4VP,
+Description:
+I came into the finals as the 5th person with 1GW and 4VP,
 and was the last man standing in the final round with 1GW and 4VP.
 Opponents in the finals were (in order): Serpentis multiaction and
 bleed (Synesios superstar), Assamite breed & bleed, Saulot + weenie
@@ -20,14 +20,14 @@ aus, Cybelle Great Beast.
 Crypt (12 cards, min=4 max=25 avg=3.92)
 ---------------------------------------
 5x Anarch Convert   1                       Caitiff:ANY
-2x Agru Kabera      6  cel nec pre FOR      Ishtarri:4
-2x Honorine Ateba   6  cel nec FOR PRE      Ishtarri:4
-1x Ganhuru          7  cel pro FOR PRE      Ishtarri:4
-1x Juniper          6  ani dom pre FOR      Ventrue:4
-1x Shasa Abu Badr   5  cel for PRE          Ishtarri:4
+2x Agru Kabera      6  FOR cel nec pre      Ishtarri:4
+2x Honorine Ateba   6  FOR PRE cel nec      Ishtarri:4
+1x Ganhuru          7  FOR PRE cel pro      Ishtarri:4
+1x Juniper          6  FOR ani dom pre      Ventrue:4
+1x Shasa Abu Badr   5  PRE cel for          Ishtarri:4
 
 Library (75 cards)
-Master (16)
+Master (16; 8 trifle)
 1x Anarch Railroad
 1x Anarch Troublemaker
 1x Coven, The

@@ -8,23 +8,24 @@ Jonatan Sjöberg
 
 -- Unknown
 
-Combine Honnete Ober Advancer Mercantiles
+Deck Name: Combine Honnete Ober Advancer Mercantiles
 
+Description:
 Don't stop, never give up.
 
 Crypt (12 cards, min=7 max=19 avg=3.25)
 ---------------------------------------
 2x Jeremy "Wix" Wyzchovsky   5  ani obf pot      Nosferatu:4
-2x Beetleman                 4  obf ANI          Nosferatu:4
+2x Beetleman                 4  ANI obf          Nosferatu:4
 2x Stick                     3  ANI              Nosferatu antitribu:4
 2x Old Neddacka              2  obf              Nosferatu antitribu:4
-1x Petra                     5  aus ANI OBF      Nosferatu:4
+1x Petra                     5  ANI OBF aus      Nosferatu:4
 1x Blister                   3  obf pot          Nosferatu antitribu:4
 1x Krid                      2  obf              Nosferatu:3
 1x Anarch Convert            1                   Caitiff:ANY
 
 Library (60 cards)
-Master (6)
+Master (6; 1 trifle)
 2x Effective Management
 1x Pentex(TM) Subversion
 2x Warsaw Station

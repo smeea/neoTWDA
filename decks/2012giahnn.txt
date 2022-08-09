@@ -6,13 +6,11 @@ December 29th 2012
 Martin Schumacher
 
 
--- Unknown
+-- 2GW8.5 (1st seed) + 1.5VP
 
-Gehenna is a Hoax: Triple B (Bleed, Bruise, Block)
+Deck Name: Gehenna is a Hoax: Triple B (Bleed, Bruise, Block)
 
-2GW8.5 (1st seed) + 1.5VP with 4 Players remaining.
-
-
+Description:
 Latest additions are Haven Uncovered, which is gold as the action to
 remove the haven is basically another rush. Finally replaced Walk of
 Flame with Flames of the Netherworld, which is also a good thing.
@@ -21,16 +19,16 @@ Magic, it will almost certainly get blocked.
 
 Crypt (12 cards, min=26 max=31 avg=7.08)
 ----------------------------------------
-3x Ardan Lane                          8  dom obf pre AUS THA       primogen     Tremere:3
+3x Ardan Lane                          8  AUS THA dom obf pre       primogen     Tremere:3
 2x Carna, The Princess Witch           7  AUS DOM THA               primogen     Tremere:3
-2x Valerius Maior, Hell's Fool         7  nec pre AUS DAI DOM THA                Tremere:4
-2x Valerius Maior, Hell's Fool (ADV)   7  nec pre AUS DAI DOM THA                Tremere antitribu:4
-1x Ladislas Toth, The Torch            7  for AUS DOM THA           archbishop   Tremere antitribu:3
+2x Valerius Maior, Hell's Fool         7  AUS DAI DOM THA nec pre                Tremere:4
+2x Valerius Maior, Hell's Fool (ADV)   7  AUS DAI DOM THA nec pre                Tremere antitribu:4
+1x Ladislas Toth, The Torch            7  AUS DOM THA for           archbishop   Tremere antitribu:3
 1x Selena                              6  AUS DOM THA                            Tremere antitribu:3
-1x Yasmin the Black                    6  dom pre AUS THA                        Tremere antitribu:3
+1x Yasmin the Black                    6  AUS THA dom pre                        Tremere antitribu:3
 
 Library (90 cards)
-Master (22)
+Master (22; 12 trifle)
 1x Chantry
 1x Direct Intervention
 1x Erciyes Fragments, The

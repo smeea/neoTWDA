@@ -8,14 +8,15 @@ Mikkel Petersen
 
 -- 4vp in the final
 
-Team Jacob
+Deck Name: Team Jacob
 
+Description:
 Get out Jacob and an Akunanse. Stay sober. Win.
 
 Crypt (12 cards, min=8 max=20 avg=3.58)
 ---------------------------------------
-4x Jacob Fermor     5  ani tha PRO      Gangrel:4
-1x Socrate Cidibe   5  ani ABO FOR      Akunanse:4
+4x Jacob Fermor     5  PRO ani tha      Gangrel:4
+1x Socrate Cidibe   5  ABO FOR ani      Akunanse:4
 1x Nestor Kaba      4  abo ani for      Akunanse:4
 1x Dolie            3  abo ani          Akunanse:4
 1x Keith Moody      3  DOM              Tremere antitribu:4
@@ -25,7 +26,7 @@ Crypt (12 cards, min=8 max=20 avg=3.58)
 1x Anarch Convert   1                   Caitiff:ANY
 
 Library (74 cards)
-Master (21)
+Master (21; 9 trifle)
 3x Charisma
 2x Dreams of the Sphinx
 1x Left for Dead

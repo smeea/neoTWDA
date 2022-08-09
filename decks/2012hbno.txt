@@ -8,8 +8,9 @@ John Bell
 
 -- Unknown
 
-The Princess and her Mistress
+Deck Name: The Princess and her Mistress
 
+Description:
 When I came back to VTES about 2 years ago, I built Mark Loughman's
 "Traditional Princess" deck www.veknfrance.com/decks/twd.htm#2k9glrqco
 and played it a few times casually. It really changed the way I looked at
@@ -23,13 +24,13 @@ Crypt (12 cards, min=16 max=40 avg=6.92)
 ----------------------------------------
 4x Carna, The Princess Witch    7  AUS DOM THA               primogen       Tremere:3
 3x Mistress Fanchon            11  AUS CEL DOM OBF THA VIC   inner circle   Tremere:4
-2x Martin Franckel              3  tha AUS                                  Tremere:3
-1x Valois Sang, The Watcher     6  nec tha AUS DOM                          Tremere:3
-1x Cohn Rose                    5  aus dom pre THA                          Tremere:3
-1x Neighbor John                5  dom for AUS                              Ventrue antitribu:4
+2x Martin Franckel              3  AUS tha                                  Tremere:3
+1x Valois Sang, The Watcher     6  AUS DOM nec tha                          Tremere:3
+1x Cohn Rose                    5  THA aus dom pre                          Tremere:3
+1x Neighbor John                5  AUS dom for                              Ventrue antitribu:4
 
 Library (80 cards)
-Master (17)
+Master (17; 5 trifle)
 1x Arcane Library
 2x Burden the Mind
 1x Chantry

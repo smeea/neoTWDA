@@ -8,22 +8,23 @@ https://www.vekn.net/event-calendar/event/7642
 
 -- 4vp in the final
 
-No...we're never gonna survive, unless...we are a little...CRAZY!!!
+Deck Name: No...we're never gonna survive, unless...we are a little...CRAZY!!!
 
+Description:
 A Classic Malkavian Kindred Spirits deck with G4-G5 group.
 
 Crypt (12 cards, min=18 max=24 avg=5.5)
 ---------------------------------------
 3x Morel               6  AUS DEM OBF                  Malkavian:4
-2x Gem Ghastly         6  aus DEM OBF       primogen   Malkavian:5
-2x Hagar Stone         6  obf AUS DEM                  Malkavian antitribu:5
-2x Arthur Denholm      5  obf AUS DEM                  Malkavian:5
-1x Drusilla Euphemia   6  dem vic AUS OBF              Malkavian antitribu:4
-1x Apache Jones        5  aus for obf DEM              Malkavian antitribu:4
-1x Bela                3  ani obf pro DEM              Malkavian:5
+2x Gem Ghastly         6  DEM OBF aus       primogen   Malkavian:5
+2x Hagar Stone         6  AUS DEM obf                  Malkavian antitribu:5
+2x Arthur Denholm      5  AUS DEM obf                  Malkavian:5
+1x Drusilla Euphemia   6  AUS OBF dem vic              Malkavian antitribu:4
+1x Apache Jones        5  DEM aus for obf              Malkavian antitribu:4
+1x Bela                3  DEM ani obf pro              Malkavian:5
 
 Library (90 cards)
-Master (10)
+Master (10; 3 trifle)
 1x Dreams of the Sphinx
 1x Elder Library
 1x Giant's Blood

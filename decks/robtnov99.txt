@@ -8,8 +8,7 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/FAQ_6tJ7RJk
 
 -- Unknown
 
-Unknown
-
+Description:
 Here's the deck that Rob Treasure won the November Portsmouth
 Tournament with, together with his comments, both on the deck
 and the tournament.
@@ -59,13 +58,13 @@ and bleed deck, too! It was also good to see Nathan's
 
 Crypt (12 cards, min=13 max=40 avg=6.33)
 ----------------------------------------
-2x Arika                             11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-2x Ranjan Rishi, Camarilla Scholar    5  for DOM PRE                              Ventrue:2
-1x Queen Anne                        10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Emerson Bridges                    8  pot DOM FOR PRE           prince         Ventrue:1
+2x Arika                             11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+2x Ranjan Rishi, Camarilla Scholar    5  DOM PRE for                              Ventrue:2
+1x Queen Anne                        10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Emerson Bridges                    8  DOM FOR PRE pot           prince         Ventrue:1
 1x Sir Walter Nash                    7  DOM FOR PRE               prince         Ventrue:1
-1x Vanessa                            6  aus pre DOM FOR                          Ventrue antitribu:2
-1x Ingrid Russo                       4  for DOM                                  Ventrue antitribu:2
+1x Vanessa                            6  DOM FOR aus pre                          Ventrue antitribu:2
+1x Ingrid Russo                       4  DOM for                                  Ventrue antitribu:2
 1x Juan Cali                          3  aus for                                  Ventrue antitribu:2
 1x Lena Rowe                          3  aus obf pre                              Pander:2
 1x Roland Loussarian                  3  for pre                                  Ventrue:1

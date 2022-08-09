@@ -8,25 +8,26 @@ Erik Torstensson
 
 -- Unknown
 
-Hotellet (Chelsea Hotel #3)
+Deck Name: Hotellet (Chelsea Hotel #3)
 
+Description:
 3gw and 10.5VP during the course of the tournament.
 
 "I'm only playing the funny location deck" - Larvo Kantarell
 
 Crypt (12 cards, min=17 max=36 avg=7.0)
 ---------------------------------------
-5x Guillaume Giovanni             9  obt CEL DOM NEC POT             Giovanni:4
-1x Baldesar Rossellini            8  aus for nec DOM POT             Giovanni:4
+5x Guillaume Giovanni             9  CEL DOM NEC POT obt             Giovanni:4
+1x Baldesar Rossellini            8  DOM POT aus for nec             Giovanni:4
 1x Don Michael Antonio Giovanni   7  DOM NEC POT           2 votes   Giovanni:4
-1x Gualtiero Ghiberti             7  cel pot tha DOM NEC             Giovanni:4
-1x Raphaela Giovanni              6  pot pre DOM NEC                 Giovanni:4
+1x Gualtiero Ghiberti             7  DOM NEC cel pot tha             Giovanni:4
+1x Raphaela Giovanni              6  DOM NEC pot pre                 Giovanni:4
 1x Prejudice                      4  aus dom nec                     Nagaraja:4
 1x Primo Giovanni                 4  dom nec pot                     Giovanni:4
 1x Lia Milliner                   3  dom nec                         Giovanni:3
 
 Library (84 cards)
-Master (36)
+Master (36; 3 trifle)
 2x Anarch Troublemaker
 1x Barrens, The
 1x Coven, The

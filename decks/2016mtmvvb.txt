@@ -8,22 +8,20 @@ https://www.vekn.net/event-calendar/event/8306
 
 -- 4vp in the final
 
-Ghoul of War - Friendzone Edition
-
-Unknown
+Deck Name: Ghoul of War - Friendzone Edition
 
 Crypt (12 cards, min=18 max=34 avg=6.67)
 ----------------------------------------
 4x Lady Zara Slatikov    8  ANI AUS OBF VIC       bishop   Tzimisce:4
-2x Laika                 7  chi obf vic ANI AUS            Tzimisce:4
+2x Laika                 7  ANI AUS chi obf vic            Tzimisce:4
 2x Guedado               4  aus obf vic                    Tzimisce:4
-1x Cyscek               10  dem ANI AUS OBF VIC            Tzimisce:4
-1x Duality               6  ani AUS VIC                    Tzimisce:4
-1x Ana Rita Montaña      5  aus dom obf VIC                Tzimisce:3
-1x Yuri Kerezenski       5  aus for vic ANI       bishop   Tzimisce:4
+1x Cyscek               10  ANI AUS OBF VIC dem            Tzimisce:4
+1x Duality               6  AUS VIC ani                    Tzimisce:4
+1x Ana Rita Montaña      5  VIC aus dom obf                Tzimisce:3
+1x Yuri Kerezenski       5  ANI aus for vic       bishop   Tzimisce:4
 
 Library (90 cards)
-Master (18)
+Master (18; 7 trifle)
 1x Channel 10
 1x Charisma
 1x Creepshow Casino

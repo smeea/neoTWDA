@@ -8,8 +8,9 @@ Chris Shorb
 
 -- Unknown
 
-Lutz All Out
+Deck Name: Lutz All Out
 
+Description:
 Lutz is a very good vampire. Vote with Lutz, or bleed for
 3 with your IC's. A sprinkling of combat and bounce. Suffers vs
 dedicated combat or walls. Should probably include a DI just for things
@@ -20,17 +21,17 @@ me the final, and probably helped me win at least one other game.
 
 Crypt (12 cards, min=26 max=44 avg=9.33)
 ----------------------------------------
-4x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE       inner circle   Malkavian:4
-2x Adana de Sforza         11  aus CEL OBF POT PRE PRO   inner circle   Brujah:4
+4x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4
+2x Adana de Sforza         11  CEL OBF POT PRE PRO aus   inner circle   Brujah:4
 1x Rafael de Corazon       11  AUS CEL DOM OBF PRE       inner circle   Toreador:4
 1x Alicia Barrows           9  AUS DEM OBF POT PRE       archbishop     Malkavian antitribu:4
-1x Neferu                   9  dom nec OBF PRE SER THA   2 votes        Ministry:4
-1x Stavros                  7  dem AUS OBF PRE           priscus        Malkavian antitribu:4
-1x Herbert Westin           5  pot OBF PRE                              Brujah:4
-1x Renenet                  5  ser OBF PRE                              Ministry:4
+1x Neferu                   9  OBF PRE SER THA dom nec   2 votes        Ministry:4
+1x Stavros                  7  AUS OBF PRE dem           priscus        Malkavian antitribu:4
+1x Herbert Westin           5  OBF PRE pot                              Brujah:4
+1x Renenet                  5  OBF PRE ser                              Ministry:4
 
 Library (70 cards)
-Master (17)
+Master (17; 2 trifle)
 6x Ashur Tablets
 2x Golconda: Inner Peace
 3x Information Highway

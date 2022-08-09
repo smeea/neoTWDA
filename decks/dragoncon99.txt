@@ -8,20 +8,16 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/M9f7z02UbzI
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=13 max=28 avg=4.92)
 ----------------------------------------
-2x Justine, Elder of Dallas   8  obf AUS DOM THA       primogen   Tremere:1
-2x Marlene, The Infernalist   6  dem for tha AUS DOM              Ventrue antitribu:2
-2x Gloria Giovanni            4  nec DOM                          Giovanni:2
+2x Justine, Elder of Dallas   8  AUS DOM THA obf       primogen   Tremere:1
+2x Marlene, The Infernalist   6  AUS DOM dem for tha              Ventrue antitribu:2
+2x Gloria Giovanni            4  DOM nec                          Giovanni:2
 2x Isabel de Leon             3  AUS                              Toreador:2
-1x Didi Meyers                5  aus cel obf DOM                  Malkavian:1
-1x Kurt Strauss               5  aus tha DOM                      Tremere antitribu:2
-1x Ingrid Russo               4  for DOM                          Ventrue antitribu:2
-1x Zöe                        3  cel obf AUS                      Malkavian:2
+1x Didi Meyers                5  DOM aus cel obf                  Malkavian:1
+1x Kurt Strauss               5  DOM aus tha                      Tremere antitribu:2
+1x Ingrid Russo               4  DOM for                          Ventrue antitribu:2
+1x Zöe                        3  AUS cel obf                      Malkavian:2
 
 Library (90 cards)
 Master (29)

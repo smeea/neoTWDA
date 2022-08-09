@@ -8,22 +8,20 @@ Djordje Sutic
 
 -- Unknown
 
-Omnipresent !Gangrel
-
-Unknown
+Deck Name: Omnipresent !Gangrel
 
 Crypt (12 cards, min=18 max=36 avg=7.5)
 ---------------------------------------
-4x Aksinya Daclau    9  cel tha ANI FOR PRE PRO                Gangrel antitribu:4
+4x Aksinya Daclau    9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
 2x Maxwell           9  CEL FOR POT PRE PRO                    Brujah:3
-2x Una               9  dem ANI FOR PRE PRO       archbishop   Gangrel antitribu:3
-1x Hrothulf          8  dom pot pro CEL FOR PRE                Ventrue:3
-1x Mowgli            5  ani cel FOR PRO                        Gangrel antitribu:4
+2x Una               9  ANI FOR PRE PRO dem       archbishop   Gangrel antitribu:3
+1x Hrothulf          8  CEL FOR PRE dom pot pro                Ventrue:3
+1x Mowgli            5  FOR PRO ani cel                        Gangrel antitribu:4
 1x Lula Burch        3  for pro                                Gangrel antitribu:4
 1x Jayne Jonestown   2  PRE                                    Brujah antitribu:4
 
 Library (90 cards)
-Master (30)
+Master (30; 2 trifle)
 3x Archon Investigation
 1x Black Forest Base
 1x Campground Hunting Ground

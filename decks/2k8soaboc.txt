@@ -8,23 +8,22 @@ James Messer
 
 -- Unknown
 
-Unknown
-
+Description:
 Rumble in the Jungle
 
 Crypt (12 cards, min=17 max=36 avg=7.17)
 ----------------------------------------
-3x Kabede Maru       9  abo pot AUS CEL OBF QUI   magaji   Banu Haqim:5
-3x Massassi          9  obf AUS CEL POT QUI                Osebo:4
-1x Bakr              8  dem pro CEL OBF QUI                Banu Haqim:5
-1x Kashan            7  obt pre CEL OBF QUI       1 vote   Banu Haqim:4
-1x Layla bint-Nadr   5  qui CEL OBF                        Banu Haqim:4
-1x Michael diCarlo   5  obf qui CEL                        Banu Haqim:4
-1x Idrissa           4  aus CEL                            Osebo:4
+3x Kabede Maru       9  AUS CEL OBF QUI abo pot   magaji   Banu Haqim:5
+3x Massassi          9  AUS CEL POT QUI obf                Osebo:4
+1x Bakr              8  CEL OBF QUI dem pro                Banu Haqim:5
+1x Kashan            7  CEL OBF QUI obt pre       1 vote   Banu Haqim:4
+1x Layla bint-Nadr   5  CEL OBF qui                        Banu Haqim:4
+1x Michael diCarlo   5  CEL obf qui                        Banu Haqim:4
+1x Idrissa           4  CEL aus                            Osebo:4
 1x Sukainah          3  aus qui                            Banu Haqim:5
 
 Library (90 cards)
-Master (18)
+Master (18; 1 trifle)
 1x Ancestor Spirit
 3x Blood Doll
 1x Channel 10

@@ -6,25 +6,23 @@ April 12th 2008
 Erik Torstensson
 
 
--- Unknown
+-- 4GW and 13VP
 
-Mouchoir de l'enfer
-
-4GW and 13VP
+Deck Name: Mouchoir de l'enfer
 
 Crypt (12 cards, min=8 max=15 avg=2.92)
 ---------------------------------------
 3x Rudolfo Giovanni                  3  NEC              Giovanni:2
 2x Marciana Giovanni, Investigator   2  dom              Giovanni:2
 2x Paul DiCarlo, The Alpha           2  pot              Giovanni:2
-1x Isabel Giovanni                   5  pot DOM NEC      Giovanni:2
-1x Gloria Giovanni                   4  nec DOM          Giovanni:2
+1x Isabel Giovanni                   5  DOM NEC pot      Giovanni:2
+1x Gloria Giovanni                   4  DOM nec          Giovanni:2
 1x Cristofero Giovanni               3  nec pot          Giovanni:2
 1x Lia Milliner                      3  dom nec          Giovanni:3
 1x Mario Giovanni                    3  nec pot          Giovanni:2
 
 Library (80 cards)
-Master (23)
+Master (23; 3 trifle)
 3x Acquired Ventrue Assets
 1x Charisma
 1x Direct Intervention

@@ -8,8 +8,9 @@ Petrus Makkonen
 
 -- 4vp in the final
 
-Goodbye Lilith's Blessings
+Deck Name: Goodbye Lilith's Blessings
 
+Description:
 Basically, I just wanted to abuse Lilith's Blessing before it
 got banned in VEKN sanctioned tournaments. Also, G2-3 Ventrue
 are really really cool and I had never played them before.
@@ -18,17 +19,17 @@ but I didn't own any.
 
 Crypt (12 cards, min=31 max=41 avg=9.33)
 ----------------------------------------
-3x Lucinde, Alastor       10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
+3x Lucinde, Alastor       10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
 3x Marcus Vitel           10  DOM FOR OBF OBT PRE       prince         Ventrue:3
-1x Arika                  11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Queen Anne             10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Suhailah                9  pot ser FOR OBF           prince         Ventrue:2
-1x Wilhelm Waldburg        9  aus cel DOM FOR PRE       prince         Ventrue:2
-1x Victorine Lafourcade    8  tha DOM FOR PRE           prince         Ventrue:3
-1x Catherine du Bois       5  for obf pre DOM                          Ventrue:3
+1x Arika                  11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Queen Anne             10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Suhailah                9  FOR OBF pot ser           prince         Ventrue:2
+1x Wilhelm Waldburg        9  DOM FOR PRE aus cel       prince         Ventrue:2
+1x Victorine Lafourcade    8  DOM FOR PRE tha           prince         Ventrue:3
+1x Catherine du Bois       5  DOM for obf pre                          Ventrue:3
 
 Library (81 cards)
-Master (23)
+Master (23; 8 trifle)
 1x Barrens, The
 1x Blood Doll
 1x Dreams of the Sphinx

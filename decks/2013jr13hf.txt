@@ -8,20 +8,18 @@ Tom Lindberg
 
 -- Unknown
 
-Ondine has hell to pay
-
-Unknown
+Deck Name: Ondine has hell to pay
 
 Crypt (12 cards, min=4 max=36 avg=4.58)
 ---------------------------------------
-4x Ondine "Boudicca" Sinclair   9  obt AUS CEL PRE PRO      Toreador antitribu:5
+4x Ondine "Boudicca" Sinclair   9  AUS CEL PRE PRO obt      Toreador antitribu:5
 4x Anarch Convert               1                           Caitiff:ANY
-2x Laecanus                     5  obt pre CEL              Toreador:4
+2x Laecanus                     5  CEL obt pre              Toreador:4
 1x Jonathan Gursel              3  aus pre                  Toreador antitribu:4
 1x Justine Chen, Innocent       2  pre                      Toreador antitribu:4
 
 Library (90 cards)
-Master (23)
+Master (23; 9 trifle)
 2x Anarch Revolt
 1x Art of Pain, The
 1x Blood Turnip

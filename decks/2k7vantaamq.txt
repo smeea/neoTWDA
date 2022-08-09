@@ -8,20 +8,21 @@ Teemu Sainomaa
 
 -- Unknown
 
-Girls will find your blind spot
+Deck Name: Girls will find your blind spot
 
+Description:
 Aksinya defends your pool with masters while Cybele and
 Beatrice bleeds. Blind Spot the guys who can redirect bleeds.
 
 Crypt (12 cards, min=11 max=40 avg=7.25)
 ----------------------------------------
 4x Cybele                          10  ANI DAI OBF PRE SER THA      Baali:4
-4x Aksinya Daclau                   9  cel tha ANI FOR PRE PRO      Gangrel antitribu:4
+4x Aksinya Daclau                   9  ANI FOR PRE PRO cel tha      Gangrel antitribu:4
 3x Béatrice "Oracle171" Tremblay    3  inn ven                      Innocent:4
 1x Denette Stensen                  2  obf                          Gangrel antitribu:4
 
 Library (90 cards)
-Master (45)
+Master (45; 3 trifle)
 2x Archon Investigation
 1x Barrens, The
 8x Blind Spot

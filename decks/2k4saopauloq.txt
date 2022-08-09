@@ -8,20 +8,16 @@ David Magri
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=15 max=25 avg=4.92)
 ----------------------------------------
-2x Gaël Pilet                         6  chi pre FOR MEL            Daughter of Cacophony:2
-2x Angela Preston                     5  for MEL PRE                Daughter of Cacophony:2
-2x Delilah Monroe                     4  for pre MEL                Daughter of Cacophony:2
+2x Gaël Pilet                         6  FOR MEL chi pre            Daughter of Cacophony:2
+2x Angela Preston                     5  MEL PRE for                Daughter of Cacophony:2
+2x Delilah Monroe                     4  MEL for pre                Daughter of Cacophony:2
 1x Sir Walter Nash                    7  DOM FOR PRE       prince   Ventrue:1
-1x Heather Florent, The Opportunist   6  dom FOR PRE                Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar    5  for DOM PRE                Ventrue:2
-1x Gloria Giovanni                    4  nec DOM                    Giovanni:2
-1x Ingrid Russo                       4  for DOM                    Ventrue antitribu:2
+1x Heather Florent, The Opportunist   6  FOR PRE dom                Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar    5  DOM PRE for                Ventrue:2
+1x Gloria Giovanni                    4  DOM nec                    Giovanni:2
+1x Ingrid Russo                       4  DOM for                    Ventrue antitribu:2
 1x Céleste, The Voice of a Secret     3  mel pre                    Daughter of Cacophony:2
 
 Library (90 cards)

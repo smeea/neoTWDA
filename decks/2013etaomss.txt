@@ -8,8 +8,9 @@ Erik Mossberg
 
 -- Unknown
 
-Assamite Toolbox
+Deck Name: Assamite Toolbox
 
+Description:
 Bakr is more important than I thought, I got him in the final
 luckily and he played a big part, so I should add 2 copies.
 I should also remove minimum two master cards (Path of Blood
@@ -17,14 +18,14 @@ and Hunting Ground).
 
 Crypt (12 cards, min=14 max=30 avg=5.58)
 ----------------------------------------
-2x Bakr                         8  dem pro CEL OBF QUI            Banu Haqim:5
-1x Joe "Boot" Hill              7  for obf CEL QUI                Banu Haqim:4
-1x Olugbenga                    7  ani cel OBF QUI       magaji   Banu Haqim:4
-1x Hafsa, The Watcher           6  aus cel OBF QUI                Banu Haqim:5
-1x Reza Fatir, The Dark Angel   6  obf pro CEL QUI                Banu Haqim:4
-1x Vardar Vardarian             6  cel pre OBF QUI                Banu Haqim:4
-1x Michael diCarlo              5  obf qui CEL                    Banu Haqim:4
-1x Kamau Jafari                 4  obf QUI                        Banu Haqim:4
+2x Bakr                         8  CEL OBF QUI dem pro            Banu Haqim:5
+1x Joe "Boot" Hill              7  CEL QUI for obf                Banu Haqim:4
+1x Olugbenga                    7  OBF QUI ani cel       magaji   Banu Haqim:4
+1x Hafsa, The Watcher           6  OBF QUI aus cel                Banu Haqim:5
+1x Reza Fatir, The Dark Angel   6  CEL QUI obf pro                Banu Haqim:4
+1x Vardar Vardarian             6  OBF QUI cel pre                Banu Haqim:4
+1x Michael diCarlo              5  CEL obf qui                    Banu Haqim:4
+1x Kamau Jafari                 4  QUI obf                        Banu Haqim:4
 1x Sajid al Misbah              4  QUI                            Banu Haqim:5
 1x Evan Rogers                  3  cel qui                        Banu Haqim:4
 1x Sukainah                     3  aus qui                        Banu Haqim:5

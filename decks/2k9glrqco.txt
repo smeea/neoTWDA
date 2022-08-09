@@ -8,8 +8,9 @@ Mark Loughman
 
 -- 3vp in the final
 
-Traditional Princess
+Deck Name: Traditional Princess
 
+Description:
 I re-tooled my Carna deck after KoT came out.
 Eyes of Argus is _SO_ efficient for this scheme that I was
 able to slide in a touch more combat (Rego Mortus). I also
@@ -19,12 +20,12 @@ to worry about a time out at the table. Ponticulus is also very cool.
 Crypt (12 cards, min=15 max=28 avg=5.33)
 ----------------------------------------
 4x Carna, The Princess Witch   7  AUS DOM THA       primogen   Tremere:3
-2x Neighbor John               5  dom for AUS                  Ventrue antitribu:4
-2x Martin Franckel             3  tha AUS                      Tremere:3
-1x Valois Sang, The Watcher    6  nec tha AUS DOM              Tremere:3
-1x Cohn Rose                   5  aus dom pre THA              Tremere:3
-1x Frondator                   5  dom tha AUS       bishop     Tremere antitribu:4
-1x Maldavis                    4  for pre AUS                  Caitiff:3
+2x Neighbor John               5  AUS dom for                  Ventrue antitribu:4
+2x Martin Franckel             3  AUS tha                      Tremere:3
+1x Valois Sang, The Watcher    6  AUS DOM nec tha              Tremere:3
+1x Cohn Rose                   5  THA aus dom pre              Tremere:3
+1x Frondator                   5  AUS dom tha       bishop     Tremere antitribu:4
+1x Maldavis                    4  AUS for pre                  Caitiff:3
 
 Library (90 cards)
 Master (14)

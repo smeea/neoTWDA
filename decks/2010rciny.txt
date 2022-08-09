@@ -8,8 +8,9 @@ Peter Bakija
 
 -- 3vp in the final
 
-Vauxhall and I
+Deck Name: Vauxhall and I
 
+Description:
 My winning deck (which I put together yesterday in a fit of madness
 and was totally unplayed before the tournament. Apparently, Dominate
 is good, and being able to hit folks is good too. Add them together,
@@ -17,20 +18,20 @@ and you can win!)
 
 Crypt (12 cards, min=17 max=25 avg=5.17)
 ----------------------------------------
-2x Virginie, Prodigy          6  obt DOM POT       bishop   Lasombra:4
+2x Virginie, Prodigy          6  DOM POT obt       bishop   Lasombra:4
 1x Lord Vauxhall              7  DOM OBT POT THA            Lasombra:4
-1x Black Wallace              6  obt tha DOM POT            Lasombra:4
-1x Banjoko                    5  obt pot DOM                Lasombra:3
-1x Donatello Giovanni         5  aus pot pre DOM            Giovanni:4
-1x Dr. Julius Sutphen         5  dom obt POT       bishop   Lasombra:3
-1x Dr. Julius Sutphen (ADV)   5  dom obt POT                Lasombra:3
-1x Ermenegildo, The Rake      5  pot DOM OBT                Lasombra:4
-1x Wah Chun-Yuen              5  cel dom pre POT            Brujah antitribu:3
+1x Black Wallace              6  DOM POT obt tha            Lasombra:4
+1x Banjoko                    5  DOM obt pot                Lasombra:3
+1x Donatello Giovanni         5  DOM aus pot pre            Giovanni:4
+1x Dr. Julius Sutphen         5  POT dom obt       bishop   Lasombra:3
+1x Dr. Julius Sutphen (ADV)   5  POT dom obt                Lasombra:3
+1x Ermenegildo, The Rake      5  DOM OBT pot                Lasombra:4
+1x Wah Chun-Yuen              5  POT cel dom pre            Brujah antitribu:3
 1x Paulo de Castille          4  ani dom pot                Lasombra:4
 1x Almodo Giovanni            3  dom pot                    Giovanni:4
 
 Library (90 cards)
-Master (11)
+Master (11; 2 trifle)
 1x Anarch Troublemaker
 1x Dreams of the Sphinx
 1x Fame

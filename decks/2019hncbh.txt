@@ -8,21 +8,19 @@ https://www.vekn.net/event-calendar/event/9403
 
 -- 2gw8 + 0.5vp in the final
 
-jacque és a haverok
-
-Unknown
+Deck Name: jacque és a haverok
 
 Crypt (12 cards, min=23 max=27 avg=6.17)
 ----------------------------------------
 4x Arishat                  6  DAI OBF PRE       1 vote       Baali:6
-4x Jacques Rouge            6  ani pot pre OBF   baron        Nosferatu:6
-1x Legba                    8  obf PRE SER THA   archbishop   Ministry:6
-1x Missy Shillingford       7  obf pre AUS SER   archbishop   Ministry:6
-1x Clea Auguste d'Holford   6  pre ser OBF POT                Ministry:5
-1x Shahara al-Rashwa        5  pre OBF SER                    Ministry:6
+4x Jacques Rouge            6  OBF ani pot pre   baron        Nosferatu:6
+1x Legba                    8  PRE SER THA obf   archbishop   Ministry:6
+1x Missy Shillingford       7  AUS SER obf pre   archbishop   Ministry:6
+1x Clea Auguste d'Holford   6  OBF POT pre ser                Ministry:5
+1x Shahara al-Rashwa        5  OBF SER pre                    Ministry:6
 
 Library (89 cards)
-Master (16)
+Master (16; 6 trifle)
 1x Anarch Railroad
 2x Archon Investigation
 1x Carfax Abbey

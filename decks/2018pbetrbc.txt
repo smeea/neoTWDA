@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8973
 
 -- 1gw4 + 1.5vp in the final
 
-Anu's Legion
+Deck Name: Anu's Legion
 
+Description:
 Final: Mark Jasper (Anu and Legionairres)
  -> Lev Jasper (Unnamed Barrenness Twister)
  -> Kenneth Davenport (Camarilla Followers of Set stealth vote)
@@ -22,15 +23,15 @@ Anu’s Legion
 
 Crypt (12 cards, min=21 max=30 avg=6.42)
 ----------------------------------------
-4x Anu Diptinatpa      7  aus vic DOM NEC      Nagaraja:6
+4x Anu Diptinatpa      7  DOM NEC aus vic      Nagaraja:6
 3x Hecate              6  AUS FOR NEC          Harbinger of Skulls:5
-2x La Viuda Blanca     6  for obf AUS NEC      Harbinger of Skulls:6
+2x La Viuda Blanca     6  AUS NEC for obf      Harbinger of Skulls:6
 1x Khurshid            8  AUS FOR NEC POT      Harbinger of Skulls:6
 1x Mordechai Ben-Nun   8  ANI AUS FOR NEC      Harbinger of Skulls:5
 1x Andre LeRoux        3  aus                  Toreador:5
 
 Library (90 cards)
-Master (20)
+Master (20; 3 trifle)
 1x Archon Investigation
 1x Creepshow Casino
 2x Dreams of the Sphinx

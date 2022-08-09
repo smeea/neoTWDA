@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9178
 
 -- 2gw8 + 1.5vp in the final
 
-Khurshid ”Dream Team”
+Deck Name: Khurshid ”Dream Team”
 
+Description:
 The final table was:
 1. Tommi Hakomaa (Tupdogs and Nephandi , 3rd seed)
 2. Matti Palomäki (Apolonia Charnecki and Malk Friends, 5th seed)
@@ -24,11 +25,11 @@ Crypt (12 cards, min=4 max=34 avg=5.0)
 5x Anarch Convert    1                           Caitiff:ANY
 3x Khurshid          8  AUS FOR NEC POT          Harbinger of Skulls:6
 2x Angelique         9  AUS FOR NEC SER THA      Harbinger of Skulls:6
-1x Anu Diptinatpa    7  aus vic DOM NEC          Nagaraja:6
-1x La Viuda Blanca   6  for obf AUS NEC          Harbinger of Skulls:6
+1x Anu Diptinatpa    7  DOM NEC aus vic          Nagaraja:6
+1x La Viuda Blanca   6  AUS NEC for obf          Harbinger of Skulls:6
 
 Library (90 cards)
-Master (21)
+Master (21; 5 trifle)
 1x Direct Intervention
 3x Dreams of the Sphinx
 2x Haven Uncovered

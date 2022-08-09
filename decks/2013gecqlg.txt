@@ -8,8 +8,9 @@ Andreas Nusser
 
 -- Unknown
 
-"Tai Chi Walking Stick Form" by Miller & his students
+Deck Name: "Tai Chi Walking Stick Form" by Miller & his students
 
+Description:
 Winner of the German ECQ 2013. So far I have played this deck for 6 games.
 3 Game Wins and some VPs in the other games. Seems pretty solid deck
 construction to me and the cards are very balanced. Miller is important
@@ -21,16 +22,16 @@ saved me a lot of times.
 
 Crypt (12 cards, min=18 max=32 avg=6.33)
 ----------------------------------------
-4x Miller Delmardigan, Teacher of Bahari   8  aus pro CEL PRE   bishop   Toreador antitribu:2
-2x Greta Kircher                           7  obf AUS CEL PRE            Toreador antitribu:2
-2x Sheila Mezarin                          6  cel for AUS PRE            Toreador antitribu:2
-1x Ian Wallingford                         6  aus CEL PRE       bishop   Toreador antitribu:2
-1x Mercy, Knight Inquisitor                5  cel dom pre AUS            Toreador antitribu:2
-1x Victor Revell, Loyalist                 5  aus dem pre CEL            Toreador antitribu:2
+4x Miller Delmardigan, Teacher of Bahari   8  CEL PRE aus pro   bishop   Toreador antitribu:2
+2x Greta Kircher                           7  AUS CEL PRE obf            Toreador antitribu:2
+2x Sheila Mezarin                          6  AUS PRE cel for            Toreador antitribu:2
+1x Ian Wallingford                         6  CEL PRE aus       bishop   Toreador antitribu:2
+1x Mercy, Knight Inquisitor                5  AUS cel dom pre            Toreador antitribu:2
+1x Victor Revell, Loyalist                 5  CEL aus dem pre            Toreador antitribu:2
 1x Carter                                  2  cel                        Toreador antitribu:2
 
 Library (90 cards)
-Master (19)
+Master (19; 3 trifle)
 1x Art of Pain, The
 2x Blood Doll
 1x Celerity

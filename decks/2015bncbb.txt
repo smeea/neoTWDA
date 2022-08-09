@@ -8,23 +8,24 @@ Martin Schumacher
 
 -- Unknown
 
-Influenza
+Deck Name: Influenza
 
+Description:
 I could not add my Enkil Cog to the deck because I forgot it at home,
 so definetly add that. Also, I only own 2 Adana, this deck should play 3,
 take out 1 Malabranca or Viktor.
 
 Crypt (12 cards, min=36 max=42 avg=9.67)
 ----------------------------------------
-3x Jamal                       10  pot CEL OBF PRE PRO QUI   2 votes        Banu Haqim:5
-3x Aksinya Daclau               9  cel tha ANI FOR PRE PRO                  Gangrel antitribu:4
-2x Adana de Sforza             11  aus CEL OBF POT PRE PRO   inner circle   Brujah:4
-2x Malabranca                   9  obf AUS CEL PRE PRO       archbishop     Toreador antitribu:4
-1x Thucimia                    10  for pro CEL DEM OBF QUI   1 vote         Banu Haqim:4
-1x Viktor, The Night General    9  obf ANI CEL PRE PRO                      Gangrel:5
+3x Jamal                       10  CEL OBF PRE PRO QUI pot   2 votes        Banu Haqim:5
+3x Aksinya Daclau               9  ANI FOR PRE PRO cel tha                  Gangrel antitribu:4
+2x Adana de Sforza             11  CEL OBF POT PRE PRO aus   inner circle   Brujah:4
+2x Malabranca                   9  AUS CEL PRE PRO obf       archbishop     Toreador antitribu:4
+1x Thucimia                    10  CEL DEM OBF QUI for pro   1 vote         Banu Haqim:4
+1x Viktor, The Night General    9  ANI CEL PRE PRO obf                      Gangrel:5
 
 Library (90 cards)
-Master (31)
+Master (31; 11 trifle)
 2x Dreams of the Sphinx
 2x Giant's Blood
 1x Golconda: Inner Peace

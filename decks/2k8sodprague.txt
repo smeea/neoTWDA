@@ -8,21 +8,19 @@ Martin Varga
 
 -- 3vp in the final
 
-Akunanse Trophy
-
-Unknown
+Deck Name: Akunanse Trophy
 
 Crypt (12 cards, min=13 max=31 avg=5.67)
 ----------------------------------------
-3x Nkule Galadima   8  ani aus pre ABO FOR   magaji   Akunanse:4
+3x Nkule Galadima   8  ABO FOR ani aus pre   magaji   Akunanse:4
 3x Uchenna          7  ABO ANI FOR           magaji   Akunanse:4
-2x Kikiyaon, The    5  abo ani FOR                    Akunanse:4
-2x Hasani           4  for ABO                        Akunanse:4
+2x Kikiyaon, The    5  FOR abo ani                    Akunanse:4
+2x Hasani           4  ABO for                        Akunanse:4
 1x Dolie            3  abo ani                        Akunanse:4
 1x Meno Ngari       2  abo                            Akunanse:4
 
 Library (90 cards)
-Master (17)
+Master (17; 3 trifle)
 2x Blood Doll
 1x Parthenon, The
 1x Trophy: Diablerie

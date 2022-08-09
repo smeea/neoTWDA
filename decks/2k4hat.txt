@@ -8,8 +8,9 @@ Trey Morita
 
 -- Unknown
 
-Moncada's Army
+Deck Name: Moncada's Army
 
+Description:
 Lasombra votey-bleedy stuff. Always get your
 biggest vampire first (yes, that's usually Moncada) and use
 superior Governs to hoist the rest of the crypt up. You can
@@ -24,10 +25,10 @@ for those cursed Protect Thine Owns.
 
 Crypt (12 cards, min=32 max=40 avg=9.0)
 ---------------------------------------
-4x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal     Lasombra:2
-4x Gratiano                                  8  obf pot DOM OBT           priscus      Lasombra:2
-2x Antonio Delgado                           9  tha DOM OBT POT           archbishop   Lasombra:2
-2x Francisco Domingo de Polonia              9  pro DOM OBT POT PRE       archbishop   Lasombra:2
+4x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2
+4x Gratiano                                  8  DOM OBT obf pot           priscus      Lasombra:2
+2x Antonio Delgado                           9  DOM OBT POT tha           archbishop   Lasombra:2
+2x Francisco Domingo de Polonia              9  DOM OBT POT PRE pro       archbishop   Lasombra:2
 
 Library (90 cards)
 Master (19)

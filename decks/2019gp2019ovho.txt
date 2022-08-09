@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9431
 
 -- 2gw8 + 4vp in the final
 
-Detect Legionnaire Authority
+Deck Name: Detect Legionnaire Authority
 
+Description:
 Babalawo Anarch Legionnaire with Crow. Use Detect Authority for general
 protection against rushes, actions to burn Maabara, attempts to steal
 Legionnaires or PB:Los Angeles, and bleeds. Highly reactive deck with swarm
@@ -25,13 +26,13 @@ do much to change this build.
 Crypt (13 cards, min=4 max=29 avg=4.15)
 ---------------------------------------
 5x Anarch Convert      1                       Caitiff:ANY
-4x Babalawo Alafin     7  ani AUS FOR NEC      Harbinger of Skulls:4
-2x Crow                5  for pro tha ANI      Gangrel:5
+4x Babalawo Alafin     7  AUS FOR NEC ani      Harbinger of Skulls:4
+2x Crow                5  ANI for pro tha      Gangrel:5
 1x Mordechai Ben-Nun   8  ANI AUS FOR NEC      Harbinger of Skulls:5
 1x Monica Chang        3  dom tha              Tremere:5
 
 Library (90 cards)
-Master (30)
+Master (30; 3 trifle)
 2x Direct Intervention
 12x Liquidation
 3x Maabara

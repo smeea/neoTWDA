@@ -8,8 +8,9 @@ Gregory Stuart Pettigrew
 
 -- Unknown
 
-Your Block Fails
+Deck Name: Your Block Fails
 
+Description:
 Notes:
 Crocodile's Tongue prevents a player from blocking, not just a minion, so the
 trick is to ensure that your Prey is forced to attempt a block with a minion
@@ -20,17 +21,17 @@ out.
 
 Crypt (12 cards, min=29 max=43 avg=8.92)
 ----------------------------------------
-3x Leandro                       11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-3x Aristotle de Laurent           9  pot AUS DEM OBF PRE                      Malkavian antitribu:3
-1x Kemintiri (ADV)               10  aus dom OBF PRE SER THA                  Ministry:2
-1x Cornelius Ottavio              8  pre qui AUS OBF                          Malkavian:2
-1x J. Oswald "Ozzy" Hyde-White    8  dom pre AUS FOR OBF       primogen       Malkavian:3
-1x Kite                           7  obf pre AUS DEM           bishop         Malkavian antitribu:2
-1x Sarrasine                      7  aus nec ser OBF PRE                      Ministry:2
-1x Suzanne Kadim                  7  aus dom obf CEL PRE                      Toreador:3
+3x Leandro                       11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+3x Aristotle de Laurent           9  AUS DEM OBF PRE pot                      Malkavian antitribu:3
+1x Kemintiri (ADV)               10  OBF PRE SER THA aus dom                  Ministry:2
+1x Cornelius Ottavio              8  AUS OBF pre qui                          Malkavian:2
+1x J. Oswald "Ozzy" Hyde-White    8  AUS FOR OBF dom pre       primogen       Malkavian:3
+1x Kite                           7  AUS DEM obf pre           bishop         Malkavian antitribu:2
+1x Sarrasine                      7  OBF PRE aus nec ser                      Ministry:2
+1x Suzanne Kadim                  7  CEL PRE aus dom obf                      Toreador:3
 
 Library (88 cards)
-Master (12)
+Master (12; 3 trifle)
 1x From a Sinking Ship
 1x Giant's Blood
 3x Life in the City

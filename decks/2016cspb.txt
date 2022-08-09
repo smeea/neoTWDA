@@ -8,23 +8,24 @@ https://www.vekn.net/event-calendar/event/8335
 
 -- 2vp in the final
 
-Henry does the Twist again
+Deck Name: Henry does the Twist again
 
+Description:
 Thanks to Fernando Marynho and Francisco Mantovanini for lending the needed cards.
 
 Crypt (12 cards, min=7 max=24 avg=3.83)
 ---------------------------------------
-5x Henry Taylor      6  cel pre pro POT      Brujah antitribu:3
+5x Henry Taylor      6  POT cel pre pro      Brujah antitribu:3
 1x Isabel de Leon    3  AUS                  Toreador:2
-1x Martin Franckel   3  tha AUS              Tremere:3
-1x Zöe               3  cel obf AUS          Malkavian:2
+1x Martin Franckel   3  AUS tha              Tremere:3
+1x Zöe               3  AUS cel obf          Malkavian:2
 1x Almiro Suarez     2  aus                  Tremere:3
 1x Nicholas Chang    2  aus                  Toreador antitribu:3
 1x Piotr Andreikov   2  aus                  Tzimisce:3
 1x Feo Ramos         1  aus                  Pander:3
 
 Library (60 cards)
-Master (23)
+Master (23; 2 trifle)
 1x Archon Investigation
 1x Club Zombie
 1x Command Performance

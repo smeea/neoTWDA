@@ -8,8 +8,9 @@ Miro Albertazzi
 
 -- Unknown
 
-Johannes' Apocalypse,13,4
+Deck Name: Johannes' Apocalypse,13,4
 
+Description:
 Cybele & The Great Beast. Nothing new, something different.
 
 Crypt (12 cards, min=40 max=40 avg=10.0)

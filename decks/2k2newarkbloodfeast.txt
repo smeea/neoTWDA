@@ -8,20 +8,21 @@ John Bell
 
 -- Unknown
 
-Break Stuff
+Deck Name: Break Stuff
 
+Description:
 Notes:
 Only pool gain in for this deck is 6 going forward; going backward is
 only a survival option to buy time to oust your prey.
 
 Crypt (14 cards, min=4 max=17 avg=2.64)
 ---------------------------------------
-2x Jimmy Dunn                 4  for CEL POT            Pander:2
+2x Jimmy Dunn                 4  CEL POT for            Pander:2
 2x Uriah Winter               1  for pot                Caitiff:1
-1x Olivia                     5  vic OBF POT   bishop   Nosferatu antitribu:2
-1x Agatha                     4  obf POT                Nosferatu antitribu:2
-1x Hector Sosa                4  pre POT                Brujah:1
-1x Hugo                       4  pre vic POT            Brujah antitribu:2
+1x Olivia                     5  OBF POT vic   bishop   Nosferatu antitribu:2
+1x Agatha                     4  POT obf                Nosferatu antitribu:2
+1x Hector Sosa                4  POT pre                Brujah:1
+1x Hugo                       4  POT pre vic            Brujah antitribu:2
 1x KoKo                       2  pot                    Nosferatu:1
 1x Lupo                       2  pot                    Brujah:1
 1x Mitchell, The Headhunter   2  obt pot                Pander:2

@@ -8,9 +8,7 @@ Otso Turunen
 
 -- Unknown
 
-Donate!
-
-Unknown
+Deck Name: Donate!
 
 Crypt (12 cards, min=16 max=24 avg=5.0)
 ---------------------------------------
@@ -24,7 +22,7 @@ Crypt (12 cards, min=16 max=24 avg=5.0)
 1x Pedro Cortez                 4  mar ven          Avenger:4
 
 Library (90 cards)
-Master (17)
+Master (17; 1 trifle)
 5x Angel of Berlin
 1x Barrens, The
 1x Channel 10

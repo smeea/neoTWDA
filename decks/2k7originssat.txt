@@ -8,8 +8,9 @@ Ben Peal
 
 -- Unknown
 
-Angellore
+Deck Name: Angellore
 
+Description:
 This is yet another breed boon deck from me, inspired by a similar deck by
 Wes Weston. You've got Bastille Opera House and Conductor to pass Con
 Boons and KRCs. Note that Conductor is still effective while the vampire
@@ -23,10 +24,10 @@ minions, and you're gaining a lot from the Con Boons.
 
 Crypt (12 cards, min=12 max=24 avg=4.5)
 ---------------------------------------
-2x Gaël Pilet                       6  chi pre FOR MEL      Daughter of Cacophony:2
+2x Gaël Pilet                       6  FOR MEL chi pre      Daughter of Cacophony:2
 2x Yseult                           6  FOR MEL PRE          Daughter of Cacophony:3
-2x Angela Preston                   5  for MEL PRE          Daughter of Cacophony:2
-2x Delilah Monroe                   4  for pre MEL          Daughter of Cacophony:2
+2x Angela Preston                   5  MEL PRE for          Daughter of Cacophony:2
+2x Delilah Monroe                   4  MEL for pre          Daughter of Cacophony:2
 2x Céleste, The Voice of a Secret   3  mel pre              Daughter of Cacophony:2
 2x Muse                             3  ani for mel          Daughter of Cacophony:2
 

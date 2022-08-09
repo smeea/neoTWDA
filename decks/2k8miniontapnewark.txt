@@ -8,20 +8,19 @@ Brad Cashdollar
 
 -- Unknown
 
-Unknown
-
+Description:
 "Ashley's Angry Dragon"
 
 Crypt (12 cards, min=26 max=39 avg=8.42)
 ----------------------------------------
-3x Nefertiti                            10  cel pot DOM OBF PRE SER             Ministry:2
-3x Khay'tall, Snake of Eden              9  aus DOM OBF PRE SER                 Ministry:2
-2x Kahina the Sorceress                  9  nec pre AUS DOM OBF SER   1 vote    Ministry:3
-2x Kephamos, High Priest of Marrakech    8  dom obf pre SER           2 votes   Ministry:2
-2x Count Ormonde                         5  dom pre ser OBF                     Ministry:2
+3x Nefertiti                            10  DOM OBF PRE SER cel pot             Ministry:2
+3x Khay'tall, Snake of Eden              9  DOM OBF PRE SER aus                 Ministry:2
+2x Kahina the Sorceress                  9  AUS DOM OBF SER nec pre   1 vote    Ministry:3
+2x Kephamos, High Priest of Marrakech    8  SER dom obf pre           2 votes   Ministry:2
+2x Count Ormonde                         5  OBF dom pre ser                     Ministry:2
 
 Library (88 cards)
-Master (15)
+Master (15; 2 trifle)
 2x Blood Doll
 1x Cave of Apples
 1x Direct Intervention

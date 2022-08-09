@@ -8,20 +8,21 @@ Jason Bell
 
 -- Unknown
 
-The Littlest Giant
+Deck Name: The Littlest Giant
 
+Description:
 Gangrel Bleed with FoM and Earth Control
 
 Crypt (14 cards, min=13 max=27 avg=5.0)
 ---------------------------------------
-4x Camille Devereux, The Raven   5  ani FOR PRO                Gangrel:1
-3x Iliana                        7  tha DOM FOR PRO            Gangrel:2
+4x Camille Devereux, The Raven   5  FOR PRO ani                Gangrel:1
+3x Iliana                        7  DOM FOR PRO tha            Gangrel:2
 3x Chandler Hungerford           3  PRO                        Gangrel:2
-2x Caitlin                       6  aus dom ANI PRO   bishop   Gangrel antitribu:2
-2x Daliyah                       4  obf PRO                    Nosferatu:2
+2x Caitlin                       6  ANI PRO aus dom   bishop   Gangrel antitribu:2
+2x Daliyah                       4  PRO obf                    Nosferatu:2
 
 Library (89 cards)
-Master (32)
+Master (32; 1 trifle)
 1x Archon Investigation
 1x Backways
 5x Blood Doll

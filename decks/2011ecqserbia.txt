@@ -8,9 +8,7 @@ Gyula Erdõs
 
 -- Unknown
 
-Imbued
-
-Unknown
+Deck Name: Imbued
 
 Crypt (12 cards, min=14 max=20 avg=4.25)
 ----------------------------------------

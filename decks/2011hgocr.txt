@@ -8,16 +8,17 @@ Jan Kacor
 
 -- Unknown
 
-Female Attack
+Deck Name: Female Attack
 
+Description:
 Daughter of Cacophony with Shattering Crescendo
 
 Crypt (12 cards, min=14 max=24 avg=5.0)
 ---------------------------------------
-3x Gaël Pilet                       6  chi pre FOR MEL      Daughter of Cacophony:2
+3x Gaël Pilet                       6  FOR MEL chi pre      Daughter of Cacophony:2
 3x Yseult                           6  FOR MEL PRE          Daughter of Cacophony:3
-2x Angela Preston                   5  for MEL PRE          Daughter of Cacophony:2
-2x Delilah Monroe                   4  for pre MEL          Daughter of Cacophony:2
+2x Angela Preston                   5  MEL PRE for          Daughter of Cacophony:2
+2x Delilah Monroe                   4  MEL for pre          Daughter of Cacophony:2
 1x Céleste, The Voice of a Secret   3  mel pre              Daughter of Cacophony:2
 1x Muse                             3  ani for mel          Daughter of Cacophony:2
 

@@ -8,15 +8,13 @@ Jesse Cross-Nickerson
 
 -- Unknown
 
-Ninja Parade
-
-Unknown
+Deck Name: Ninja Parade
 
 Crypt (12 cards, min=9 max=28 avg=4.25)
 ---------------------------------------
-4x Djuhah, The Bronze Bow   7  aus cel pre OBF QUI      Banu Haqim:5
+4x Djuhah, The Bronze Bow   7  OBF QUI aus cel pre      Banu Haqim:5
 2x Lubomira Hradok          3  OBF                      Nosferatu antitribu:5
-1x Jeffrey Mullins          4  cel OBF                  Gangrel antitribu:4
+1x Jeffrey Mullins          4  OBF cel                  Gangrel antitribu:4
 1x Rashid Stockton          4  cel obf vic              Gangrel antitribu:5
 1x Blister                  3  obf pot                  Nosferatu antitribu:4
 1x Bloodfeud                2  obf                      Malkavian antitribu:4
@@ -24,7 +22,7 @@ Crypt (12 cards, min=9 max=28 avg=4.25)
 1x Old Neddacka             2  obf                      Nosferatu antitribu:4
 
 Library (80 cards)
-Master (14)
+Master (14; 2 trifle)
 1x Admonitions, The
 4x Blood Doll
 1x Corporal Reservoir

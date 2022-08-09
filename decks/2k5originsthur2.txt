@@ -8,17 +8,13 @@ John Bell
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=8 max=18 avg=3.17)
 ---------------------------------------
 2x Bothwell                       3  ani for              Gangrel:3
 2x Leon                           3  ani for              Gangrel antitribu:2
 2x Sarah Raines                   2  for                  Gangrel:3
-1x Ghivran Dalaal, The Dead God   5  ani aus chi FOR      Ravnos:2
-1x Maria Stone                    5  cel obf pro FOR      Gangrel antitribu:3
+1x Ghivran Dalaal, The Dead God   5  FOR ani aus chi      Ravnos:2
+1x Maria Stone                    5  FOR cel obf pro      Gangrel antitribu:3
 1x Gustavo Morales                4  ani cel for          Gangrel:3
 1x Sennuwy, The Promoter          4  ani chi for          Ravnos:2
 1x Muse                           3  ani for mel          Daughter of Cacophony:2

@@ -8,8 +8,9 @@ Carlos Tomás Arán
 
 -- Unknown
 
-Las bichas bola: el fin de VTES
+Deck Name: Las bichas bola: el fin de VTES
 
+Description:
 Bring out as many Hermanas as you can, and Angelo.
 Then bloat until you are ready to crush your opponents for the
 win. when an Hermana Hambrienta Menor enters play, she burns
@@ -19,10 +20,10 @@ Blessing and give her superior Potence.
 Crypt (12 cards, min=8 max=28 avg=3.67)
 ---------------------------------------
 8x Hermana Hambrienta Menor   2  pot san                  Blood Brother:4
-4x Angelo                     7  pot vic CEL FOR SAN      Blood Brother:3
+4x Angelo                     7  CEL FOR SAN pot vic      Blood Brother:3
 
 Library (90 cards)
-Master (25)
+Master (25; 10 trifle)
 2x Fame
 2x Hungry Coyote, The
 6x Lilith's Blessing

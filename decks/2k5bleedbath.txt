@@ -8,20 +8,21 @@ Otto Kallokoski
 
 -- Unknown
 
-Flurry of bleeds
+Deck Name: Flurry of bleeds
 
+Description:
 Bleed, untap, vote/recruit
 
 Crypt (12 cards, min=19 max=31 avg=6.17)
 ----------------------------------------
-3x Yazid Tamari                 8  ani dom obf CEL QUI      Banu Haqim:3
-2x Suzanne Kadim                7  aus dom obf CEL PRE      Toreador:3
-2x Badr al-Budur                5  cel dom qui OBF          Banu Haqim:2
-1x Kalinda                      6  tha CEL OBF              Banu Haqim:2
-1x Zahir, Hand of the Silsila   6  qui tha CEL OBF          Banu Haqim:2
-1x Abd al-Rashid                5  obf CEL QUI              Banu Haqim:2
-1x Yusuf, Scribe of Alamut      5  aus obf qui CEL          Banu Haqim:2
-1x Tansu Bekir                  4  cel OBF                  Banu Haqim:2
+3x Yazid Tamari                 8  CEL QUI ani dom obf      Banu Haqim:3
+2x Suzanne Kadim                7  CEL PRE aus dom obf      Toreador:3
+2x Badr al-Budur                5  OBF cel dom qui          Banu Haqim:2
+1x Kalinda                      6  CEL OBF tha              Banu Haqim:2
+1x Zahir, Hand of the Silsila   6  CEL OBF qui tha          Banu Haqim:2
+1x Abd al-Rashid                5  CEL QUI obf              Banu Haqim:2
+1x Yusuf, Scribe of Alamut      5  CEL aus obf qui          Banu Haqim:2
+1x Tansu Bekir                  4  OBF cel                  Banu Haqim:2
 
 Library (88 cards)
 Master (18)

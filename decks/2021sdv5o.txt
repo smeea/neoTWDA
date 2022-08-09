@@ -8,20 +8,21 @@ https://www.vekn.net/event-calendar/event/9782
 
 -- 3vp in the final
 
-Turbosuntha v2
+Deck Name: Turbosuntha v2
 
+Description:
 turbo rush
 
 Crypt (13 cards, min=4 max=40 avg=5.0)
 --------------------------------------
 5x Matasuntha                      10  ANI AUS CEL FOR PRO      Gangrel:5
 5x Anarch Convert                   1                           Caitiff:ANY
-1x Lorrie Dunsirn                   4  for nec POT              Abomination:4
+1x Lorrie Dunsirn                   4  POT for nec              Abomination:4
 1x Andre LeRoux                     3  aus                      Toreador:5
 1x Béatrice "Oracle171" Tremblay    3  inn ven                  Innocent:4
 
 Library (90 cards)
-Master (12)
+Master (12; 4 trifle)
 3x Dreams of the Sphinx
 1x Fame
 1x Giant's Blood

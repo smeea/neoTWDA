@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9491
 
 -- 2gw7 + 3vp in the final
 
-"If Jose Feuerstein and Darby Keeney Had a Baby”
+Deck Name: "If Jose Feuerstein and Darby Keeney Had a Baby”
 
+Description:
 Final round seating:
 Jose (!Tremere Toolbox)
 Felipe (Imbued) - 3 VP
@@ -37,18 +38,18 @@ Master (15; 1 trifle)
 1x Millicent Smith, Puritan Vampire Hunter
 1x Short-Term Investment
 1x Smiling Jack, The Anarch
-1x Specialization -- GOLD
+1x Specialization
 1x True Faith
 1x Two Wrongs
 
 Conviction (18)
-4x React with Conviction -- always fish for it first
+4x React with Conviction
 7x Second Sight
 7x Strike with Conviction
 
 Ally (3)
 1x Carlton Van Wyk
-1x Ossian -- grrrrr
+1x Ossian
 1x Vagabond Mystic
 
 Equipment (9)

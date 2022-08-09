@@ -8,9 +8,7 @@ Robson Ribeiro de Sá
 
 -- 3vp in the final
 
-Unnamed e sua Horda
-
-Unknown
+Deck Name: Unnamed e sua Horda
 
 Crypt (12 cards, min=12 max=33 avg=4.75)
 ----------------------------------------
@@ -18,7 +16,7 @@ Crypt (12 cards, min=12 max=33 avg=4.75)
 3x unnamed, The   10  CEL DAI OBF PRE PRO      Baali:6
 
 Library (90 cards)
-Master (28)
+Master (28; 3 trifle)
 2x Fragment of the Book of Nod
 1x Giant's Blood
 1x Marrakesh Codex, The

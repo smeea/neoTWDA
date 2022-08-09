@@ -8,26 +8,24 @@ David Tatu
 
 -- Unknown
 
-Animal Magnetism
-
-Unknown
+Deck Name: Animal Magnetism
 
 Crypt (12 cards, min=26 max=38 avg=7.83)
 ----------------------------------------
-2x Sheldon, Lord of the Clog                 9  for ANI AUS OBF POT       justicar       Nosferatu:1
-1x Harrod                                   11  aus pre ANI CEL OBF POT   inner circle   Nosferatu:2
-1x Suhailah                                  9  pot ser FOR OBF           prince         Ventrue:2
-1x Emerson Bridges                           8  pot DOM FOR PRE           prince         Ventrue:1
-1x Selma the Repugnant                       8  ani for OBF POT           prince         Nosferatu:1
-1x Kendrick                                  7  aus obf ANI POT           priscus        Nosferatu antitribu:2
-1x Korah                                     7  ani AUS DEM OBF           priscus        Malkavian antitribu:2
-1x Murat                                     7  ser OBF POT               prince         Nosferatu:2
-1x Nikolaus Vermeulen                        7  ani for obf POT           prince         Nosferatu:2
-1x Christanius Lionel, The Mad Chronicler    6  pot ANI OBF                              Nosferatu antitribu:2
-1x Rake                                      6  aus cel pot PRE           prince         Brujah:1
+2x Sheldon, Lord of the Clog                 9  ANI AUS OBF POT for       justicar       Nosferatu:1
+1x Harrod                                   11  ANI CEL OBF POT aus pre   inner circle   Nosferatu:2
+1x Suhailah                                  9  FOR OBF pot ser           prince         Ventrue:2
+1x Emerson Bridges                           8  DOM FOR PRE pot           prince         Ventrue:1
+1x Selma the Repugnant                       8  OBF POT ani for           prince         Nosferatu:1
+1x Kendrick                                  7  ANI POT aus obf           priscus        Nosferatu antitribu:2
+1x Korah                                     7  AUS DEM OBF ani           priscus        Malkavian antitribu:2
+1x Murat                                     7  OBF POT ser               prince         Nosferatu:2
+1x Nikolaus Vermeulen                        7  POT ani for obf           prince         Nosferatu:2
+1x Christanius Lionel, The Mad Chronicler    6  ANI OBF pot                              Nosferatu antitribu:2
+1x Rake                                      6  PRE aus cel pot           prince         Brujah:1
 
 Library (90 cards)
-Master (15)
+Master (15; 1 trifle)
 1x Animalism
 1x Elysium: The Arboretum
 1x Elysium: The Palace of Versailles

@@ -8,9 +8,7 @@ Gilmar Mendes
 
 -- Unknown
 
-Imbuido mais odiado e safado
-
-Unknown
+Deck Name: Imbuido mais odiado e safado
 
 Crypt (12 cards, min=14 max=20 avg=4.25)
 ----------------------------------------
@@ -24,7 +22,7 @@ Crypt (12 cards, min=14 max=20 avg=4.25)
 1x Inez "Nurse216" Villagrande    3  inn              Innocent:4
 
 Library (90 cards)
-Master (20)
+Master (20; 4 trifle)
 5x Angel of Berlin
 2x Church of Vindicated Faith, The
 1x Elder Library

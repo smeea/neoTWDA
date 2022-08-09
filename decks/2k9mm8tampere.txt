@@ -8,27 +8,25 @@ Heikki Palomäki
 
 -- Unknown
 
-Within the spirit
-
-Unknown
+Deck Name: Within the spirit
 
 Crypt (12 cards, min=16 max=31 avg=5.83)
 ----------------------------------------
-1x Lazarus James                  8  obf tha AUS DEM PRE              Malkavian:4
-1x Persephone Tar-Anis            8  cel pot AUS DEM OBF              Malkavian antitribu:4
-1x Rodolfo                        8  pro AUS DEM OBF       bishop     Malkavian antitribu:3
-1x Quentin King III (ADV)         7  cel pre AUS DEM OBF              Malkavian:3
+1x Lazarus James                  8  AUS DEM PRE obf tha              Malkavian:4
+1x Persephone Tar-Anis            8  AUS DEM OBF cel pot              Malkavian antitribu:4
+1x Rodolfo                        8  AUS DEM OBF pro       bishop     Malkavian antitribu:3
+1x Quentin King III (ADV)         7  AUS DEM OBF cel pre              Malkavian:3
 1x Morel                          6  AUS DEM OBF                      Malkavian:4
-1x Ruth McGinley                  6  aus cel obf DEM       primogen   Malkavian:3
-1x Tony                           6  dom obf AUS DEM                  Malkavian:3
-1x Apache Jones                   5  aus for obf DEM                  Malkavian antitribu:4
-1x Persia, The Beautiful Statue   5  aus obf DEM                      Malkavian:3
-1x Uncle George                   5  aus dom obf DEM                  Malkavian antitribu:3
+1x Ruth McGinley                  6  DEM aus cel obf       primogen   Malkavian:3
+1x Tony                           6  AUS DEM dom obf                  Malkavian:3
+1x Apache Jones                   5  DEM aus for obf                  Malkavian antitribu:4
+1x Persia, The Beautiful Statue   5  DEM aus obf                      Malkavian:3
+1x Uncle George                   5  DEM aus dom obf                  Malkavian antitribu:3
 1x Jackie                         3  DEM                              Malkavian antitribu:4
-1x Midget                         3  obf pre DEM                      Malkavian antitribu:3
+1x Midget                         3  DEM obf pre                      Malkavian antitribu:3
 
 Library (90 cards)
-Master (15)
+Master (15; 5 trifle)
 1x Barrens, The
 9x Blood Doll
 5x Wash

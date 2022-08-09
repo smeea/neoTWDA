@@ -8,8 +8,9 @@ John Bell
 
 -- Unknown
 
-The Terrible Two's
+Deck Name: The Terrible Two's
 
+Description:
 The burn option mechanic really helps to get the
 permanents into play quickly while not having to stack multiple
 copies of several cards. The deck works really well in a low

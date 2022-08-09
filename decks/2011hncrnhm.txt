@@ -8,20 +8,18 @@ Csaba Greguss
 
 -- Unknown
 
-The Geisha
-
-Unknown
+Deck Name: The Geisha
 
 Crypt (12 cards, min=16 max=40 avg=7.0)
 ---------------------------------------
-5x Thucimia             10  for pro CEL DEM OBF QUI   1 vote   Banu Haqim:4
-2x Hafsa, The Watcher    6  aus cel OBF QUI                    Banu Haqim:5
-2x Vardar Vardarian      6  cel pre OBF QUI                    Banu Haqim:4
-2x Kamau Jafari          4  obf QUI                            Banu Haqim:4
+5x Thucimia             10  CEL DEM OBF QUI for pro   1 vote   Banu Haqim:4
+2x Hafsa, The Watcher    6  OBF QUI aus cel                    Banu Haqim:5
+2x Vardar Vardarian      6  OBF QUI cel pre                    Banu Haqim:4
+2x Kamau Jafari          4  QUI obf                            Banu Haqim:4
 1x Alu                   2  obf                                Banu Haqim:5
 
 Library (75 cards)
-Master (14)
+Master (14; 5 trifle)
 2x Direct Intervention
 1x Giant's Blood
 1x Monastery of Shadows

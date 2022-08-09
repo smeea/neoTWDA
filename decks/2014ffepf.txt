@@ -8,22 +8,20 @@ https://www.vekn.net/event-calendar/event/7668
 
 -- 2gw5.5 + 3vp in the final
 
-With some more little help from Giotto
-
-Unknown
+Deck Name: With some more little help from Giotto
 
 Crypt (12 cards, min=26 max=43 avg=8.58)
 ----------------------------------------
-5x Giotto Verducci      7  for pot pre DAI OBF                      Baali:2
-2x Arika               11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Leandro             11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-1x Jaroslav Pascek     10  for obf CEL POT PRE       justicar       Brujah:3
-1x Lucinde, Alastor    10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
-1x Queen Anne          10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Catherine du Bois    5  for obf pre DOM                          Ventrue:3
+5x Giotto Verducci      7  DAI OBF for pot pre                      Baali:2
+2x Arika               11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Leandro             11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+1x Jaroslav Pascek     10  CEL POT PRE for obf       justicar       Brujah:3
+1x Lucinde, Alastor    10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
+1x Queen Anne          10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Catherine du Bois    5  DOM for obf pre                          Ventrue:3
 
 Library (75 cards)
-Master (21)
+Master (21; 5 trifle)
 1x Archon Investigation
 6x Ashur Tablets
 1x Coven, The

@@ -8,14 +8,15 @@ Richard Auckland
 
 -- Unknown
 
-Weenie Obfuscate S&B Deck
+Deck Name: Weenie Obfuscate S&B Deck
 
+Description:
 Vermin Channels and dominate are key to this deck.
 
 Crypt (12 cards, min=8 max=18 avg=3.08)
 ---------------------------------------
-1x Frank Litzpar          5  ani for pot OBF      Nosferatu antitribu:4
-1x Skidmark               5  aus pot FOR OBF      Nosferatu antitribu:4
+1x Frank Litzpar          5  OBF ani for pot      Nosferatu antitribu:4
+1x Skidmark               5  FOR OBF aus pot      Nosferatu antitribu:4
 1x Aaron Bathurst         4  for obf pot          Nosferatu antitribu:4
 1x Tock                   4  obf pot pre          Nosferatu antitribu:3
 1x Blister                3  obf pot              Nosferatu antitribu:4

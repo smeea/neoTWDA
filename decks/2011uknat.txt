@@ -8,8 +8,9 @@ Hugh Angseesing
 
 -- Unknown
 
-Brian's Bitches go wild! (Brian being Prince of Seattle)
+Deck Name: Brian's Bitches go wild! (Brian being Prince of Seattle)
 
+Description:
 Tap and bleed with broken master module.
 Should be around 80 cards but does need the Anarchist and the Entrancements
 (probably the AI too). Would suggest losing Reins to put an Enkil back in as
@@ -17,17 +18,17 @@ actually thought in Warsaw and London that there was a Cog somewhere in the
 
 Crypt (13 cards, min=25 max=43 avg=8.62)
 ----------------------------------------
-4x Anson              8  aus dom CEL PRE           prince         Toreador:1
-3x Alexandra         11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-1x Anneke            10  dom AUS CEL PRE           justicar       Toreador:1
-1x François Villon   10  chi obf pot AUS CEL PRE   prince         Toreador:2
+4x Anson              8  CEL PRE aus dom           prince         Toreador:1
+3x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+1x Anneke            10  AUS CEL PRE dom           justicar       Toreador:1
+1x François Villon   10  AUS CEL PRE chi obf pot   prince         Toreador:2
 1x Masika            10  AUS CEL PRE               primogen       Toreador:1
-1x Tatiana Romanov    7  cel pre AUS               prince         Toreador:1
-1x Victoria Ash       6  aus cel dom PRE           primogen       Toreador:2
-1x Mariana Gilbert    4  cel PRE                                  Toreador:1
+1x Tatiana Romanov    7  AUS cel pre               prince         Toreador:1
+1x Victoria Ash       6  PRE aus cel dom           primogen       Toreador:2
+1x Mariana Gilbert    4  PRE cel                                  Toreador:1
 
 Library (90 cards)
-Master (49)
+Master (49; 8 trifle)
 1x Anarch Troublemaker
 1x Archon Investigation
 9x Ashur Tablets

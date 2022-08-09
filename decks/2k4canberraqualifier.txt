@@ -8,17 +8,16 @@ Ben O'Neill
 
 -- Unknown
 
-Unknown
-
+Description:
 Hand written on a scap of paper by him, transcribed by me (salem).
 
 Crypt (12 cards, min=10 max=24 avg=4.17)
 ----------------------------------------
-2x Salbatore Bokkengro          4  for pro CHI          Ravnos:2
-1x Petru Sipos                  7  ani for CHI SER      Ravnos:2
+2x Salbatore Bokkengro          4  CHI for pro          Ravnos:2
+1x Petru Sipos                  7  CHI SER ani for      Ravnos:2
 1x Joaquina Amaya               6  ANI CHI FOR          Ravnos:2
-1x Vaclav Petalengro            6  for pot ANI CHI      Ravnos:2
-1x Khalil Ravana                5  ani for pre CHI      Ravnos:2
+1x Vaclav Petalengro            6  ANI CHI for pot      Ravnos:2
+1x Khalil Ravana                5  CHI ani for pre      Ravnos:2
 1x Anka, Priestess of Thorns    4  ani chi pro          Ravnos:2
 1x Sennuwy, The Promoter        4  ani chi for          Ravnos:2
 1x Tsigane                      3  aus chi              Ravnos:2

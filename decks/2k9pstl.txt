@@ -8,20 +8,21 @@ Marko Lindroos
 
 -- 5vp in the final
 
-I <3 Petra
+Deck Name: I <3 Petra
 
+Description:
 Based on Erik Torstensson's Punmatra Lutzonance.
 
 Crypt (12 cards, min=40 max=44 avg=10.42)
 -----------------------------------------
-4x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE       inner circle   Malkavian:4
-3x Unmada                  10  cel for AUS DEM OBF VIC   justicar       Malkavian:5
-2x Louhi                   10  pro ANI AUS DEM OBF THA   cardinal       Malkavian antitribu:4
+4x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4
+3x Unmada                  10  AUS DEM OBF VIC cel for   justicar       Malkavian:5
+2x Louhi                   10  ANI AUS DEM OBF THA pro   cardinal       Malkavian antitribu:4
 2x Tryphosa                10  AUS DEM DOM OBF POT       prince         Malkavian:4
-1x Josef von Bauren        11  cel ANI DEM OBF POT       inner circle   Nosferatu:4
+1x Josef von Bauren        11  ANI DEM OBF POT cel       inner circle   Nosferatu:4
 
 Library (77 cards)
-Master (14)
+Master (14; 3 trifle)
 2x Dreams of the Sphinx
 1x Giant's Blood
 2x Information Highway

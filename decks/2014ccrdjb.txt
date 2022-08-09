@@ -8,16 +8,14 @@ https://www.vekn.net/event-calendar/event/7612
 
 -- 4vp in the final
 
-Turbo Cybele
-
-Unknown
+Deck Name: Turbo Cybele
 
 Crypt (15 cards, min=40 max=40 avg=10.0)
 ----------------------------------------
 15x Cybele   10  ANI DAI OBF PRE SER THA      Baali:4
 
 Library (88 cards)
-Master (34)
+Master (34; 8 trifle)
 1x Bleeding the Vine
 2x Direct Intervention
 4x Dreams of the Sphinx

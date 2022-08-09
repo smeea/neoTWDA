@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9850
 
 -- 1gw3.5 + 2.5vp in the final
 
-It's about time
+Deck Name: It's about time
 
+Description:
 I squeaked into the final of NAC as the 5 seed and really did not like my seat as Mark’s deck was pretty fast.
 
 The seating was as follows
@@ -23,13 +24,13 @@ So next turn hits and I play the Fear of Mekhet. Gabrielle dies and on the next 
 
 Crypt (12 cards, min=18 max=36 avg=7.0)
 ---------------------------------------
-3x Malabranca                   9  obf AUS CEL PRE PRO   archbishop   Toreador antitribu:4
-3x Ondine "Boudicca" Sinclair   9  obt AUS CEL PRE PRO                Toreador antitribu:5
-3x Redbone McCray               6  cel pro AUS PRE                    Toreador antitribu:4
+3x Malabranca                   9  AUS CEL PRE PRO obf   archbishop   Toreador antitribu:4
+3x Ondine "Boudicca" Sinclair   9  AUS CEL PRE PRO obt                Toreador antitribu:5
+3x Redbone McCray               6  AUS PRE cel pro                    Toreador antitribu:4
 3x L'Épuisette                  4  aus cel pro                        Toreador antitribu:4
 
 Library (90 cards)
-Master (21)
+Master (21; 7 trifle)
 1x Archon Investigation
 1x Dreams of the Sphinx
 1x Erciyes Fragments, The

@@ -8,23 +8,24 @@ https://www.vekn.net/event-calendar/event/9467
 
 -- 2gw9 + 1.5vp in the final
 
-Turvus (V2)
+Deck Name: Turvus (V2)
 
+Description:
 Chilean version of the deck of my brazilian friend Andrey. It whoop my as* on
 3rd round of the south american championship
 
 Crypt (12 cards, min=16 max=36 avg=6.5)
 ---------------------------------------
-4x Torvus Bloodbeard     9  pot ANI FOR OBF PRO            Gangrel:3
-2x Danielle Diron        7  chi for ANI PRO       1 vote   Gangrel:3
-2x Horrock               6  vic ANI PRO                    Gangrel:3
-1x Dr. Allan Woodstock   5  ani aus for PRO                Gangrel:3
-1x Jacob Fermor          5  ani tha PRO                    Gangrel:4
-1x Gunnar                4  for PRO                        Gangrel:4
+4x Torvus Bloodbeard     9  ANI FOR OBF PRO pot            Gangrel:3
+2x Danielle Diron        7  ANI PRO chi for       1 vote   Gangrel:3
+2x Horrock               6  ANI PRO vic                    Gangrel:3
+1x Dr. Allan Woodstock   5  PRO ani aus for                Gangrel:3
+1x Jacob Fermor          5  PRO ani tha                    Gangrel:4
+1x Gunnar                4  PRO for                        Gangrel:4
 1x Robert Price          2  pro                            Gangrel:4
 
 Library (90 cards)
-Master (18)
+Master (18; 8 trifle)
 2x Archon Investigation
 1x Backways
 2x Dreams of the Sphinx

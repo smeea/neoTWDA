@@ -6,25 +6,24 @@ December 22nd 2012
 Txus Alútiz Lizarraga
 
 
--- Unknown
+-- GW4 (4 players table) + 2 (4 players table) + 3VP in final
 
-True Nergal
+Deck Name: True Nergal
 
-GW4 (4 players table) + 2 (4 players table) + 3VP in final
-
+Description:
 quicksilver contemplation...a very great card!
 
 Crypt (12 cards, min=18 max=40 avg=7.67)
 ----------------------------------------
 4x Nergal                        10  AUS DAI FOR OBF PRE THA      Baali:5
-4x Al-Muntathir, God's Witness    8  obf qui AUS FOR PRE TEM      True Brujah:5
+4x Al-Muntathir, God's Witness    8  AUS FOR PRE TEM obf qui      True Brujah:5
 1x Nergal (ADV)                  10  AUS DAI FOR OBF PRE THA      Baali:5
-1x Tyler McGill                   4  pre AUS                      Toreador:5
+1x Tyler McGill                   4  AUS pre                      Toreador:5
 1x Andre LeRoux                   3  aus                          Toreador:5
 1x Veejay Vinod                   3  AUS                          Nagaraja:6
 
 Library (80 cards)
-Master (15)
+Master (15; 7 trifle)
 1x Giant's Blood
 2x Golconda: Inner Peace
 1x Lilith's Blessing

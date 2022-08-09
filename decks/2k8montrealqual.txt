@@ -8,8 +8,9 @@ Christian Chénard
 
 -- Unknown
 
-Amavarati et ses amis
+Deck Name: Amavarati et ses amis
 
+Description:
 My take on what is becoming a classic breed-bleed/vote
 archetype. Inspired largely by the latest TWDA version of Inaki
 Jimenez but adapted to my taste of playing lots of masters plus the
@@ -18,17 +19,17 @@ environment and a reduced capacity crypt.
 
 Crypt (12 cards, min=8 max=30 avg=4.58)
 ---------------------------------------
-3x Amaravati            8  ani chi DOM OBF QUI      Banu Haqim:4
-2x Kamau Jafari         4  obf QUI                  Banu Haqim:4
+3x Amaravati            8  DOM OBF QUI ani chi      Banu Haqim:4
+2x Kamau Jafari         4  QUI obf                  Banu Haqim:4
 2x Alu                  2  obf                      Banu Haqim:5
-1x Hafsa, The Watcher   6  aus cel OBF QUI          Banu Haqim:5
-1x Vardar Vardarian     6  cel pre OBF QUI          Banu Haqim:4
+1x Hafsa, The Watcher   6  OBF QUI aus cel          Banu Haqim:5
+1x Vardar Vardarian     6  OBF QUI cel pre          Banu Haqim:4
 1x Evan Rogers          3  cel qui                  Banu Haqim:4
 1x Sukainah             3  aus qui                  Banu Haqim:5
 1x Basir                1  qui                      Banu Haqim:4
 
 Library (75 cards)
-Master (29)
+Master (29; 1 trifle)
 4x Alamut
 1x Black Throne, The
 1x Coven, The

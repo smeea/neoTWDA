@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8860
 
 -- 1gw6 + 2vp in the final
 
-Cardinal BeneDICKtion
+Deck Name: Cardinal BeneDICKtion
 
+Description:
 This deck was built around a conversation I saw on a group about how cardinal
 benediction is an inferior card. I just felt that was asinine so I combined it
 with some of the most heinous cards in the game to create this little
@@ -36,13 +37,13 @@ Empowerment with the current Ally heavy climate.
 
 Crypt (12 cards, min=29 max=40 avg=8.75)
 ----------------------------------------
-4x Armin Brenner          10  ani obf CEL FOR POT PRE   archbishop   Brujah antitribu:4
-2x Aristotle de Laurent    9  pot AUS DEM OBF PRE                    Malkavian antitribu:3
-2x Isouda de Blaise        7  aus CEL OBF PRE                        Toreador antitribu:4
+4x Armin Brenner          10  CEL FOR POT PRE ani obf   archbishop   Brujah antitribu:4
+2x Aristotle de Laurent    9  AUS DEM OBF PRE pot                    Malkavian antitribu:3
+2x Isouda de Blaise        7  CEL OBF PRE aus                        Toreador antitribu:4
 1x Alicia Barrows          9  AUS DEM OBF POT PRE       archbishop   Malkavian antitribu:4
-1x Malabranca              9  obf AUS CEL PRE PRO       archbishop   Toreador antitribu:4
-1x Doctor Streck           8  aus pot CEL OBF PRE                    Brujah antitribu:3
-1x Stavros                 7  dem AUS OBF PRE           priscus      Malkavian antitribu:4
+1x Malabranca              9  AUS CEL PRE PRO obf       archbishop   Toreador antitribu:4
+1x Doctor Streck           8  CEL OBF PRE aus pot                    Brujah antitribu:3
+1x Stavros                 7  AUS OBF PRE dem           priscus      Malkavian antitribu:4
 
 Library (65 cards)
 Master (18)

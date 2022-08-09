@@ -8,15 +8,16 @@ Genís Prats
 
 -- 4vp in the final
 
-Alamut's Horror Museum
+Deck Name: Alamut's Horror Museum
 
+Description:
 Score: 4 + 0 + 4 + 4 (final)
 
 Crypt (12 cards, min=5 max=17 avg=2.67)
 ---------------------------------------
 3x Anarch Convert    1                       Caitiff:ANY
-2x Tansu Bekir       4  cel OBF              Banu Haqim:2
-1x Badr al-Budur     5  cel dom qui OBF      Banu Haqim:2
+2x Tansu Bekir       4  OBF cel              Banu Haqim:2
+1x Badr al-Budur     5  OBF cel dom qui      Banu Haqim:2
 1x Anwar             4  cel obf qui          Banu Haqim:2
 1x Ali Kar           3  obf qui              Banu Haqim:3
 1x Harika Guljan     3  QUI                  Banu Haqim:2
@@ -25,7 +26,7 @@ Crypt (12 cards, min=5 max=17 avg=2.67)
 1x Piotr Andreikov   2  aus                  Tzimisce:3
 
 Library (80 cards)
-Master (27)
+Master (27; 8 trifle)
 6x Agent of Power
 6x Ashur Tablets
 1x Creepshow Casino

@@ -8,14 +8,15 @@ Martin Tremblay
 
 -- Unknown
 
-Reckless Ssssssssnakes of Sirius
+Deck Name: Reckless Ssssssssnakes of Sirius
 
+Description:
 No need ;-)
 
 Crypt (12 cards, min=16 max=40 avg=7.67)
 ----------------------------------------
 4x Nakhthorheb      10  OBF PRE SER                         Ministry:4
-4x Neferu            9  dom nec OBF PRE SER THA   2 votes   Ministry:4
+4x Neferu            9  OBF PRE SER THA dom nec   2 votes   Ministry:4
 4x Michael Luther    4  aus pre                             Toreador:3
 
 Library (85 cards)

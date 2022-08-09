@@ -8,9 +8,7 @@ https://www.vekn.net/event-calendar/event/9116
 
 -- 1gw4 + 2vp in the final
 
-Friendly Imbued
-
-Unknown
+Deck Name: Friendly Imbued
 
 Crypt (12 cards, min=15 max=20 avg=4.42)
 ----------------------------------------

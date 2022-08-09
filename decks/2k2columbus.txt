@@ -8,8 +8,7 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/R7wcQLvYVYs/m/EeNx2c
 
 -- Unknown
 
-Unknown
-
+Description:
 I put this deck together seven years ago. Its pure cheese.
 I've tweaked it over the years, but I haven't played it.
 Looking you will notice that there is no blood production.
@@ -20,10 +19,10 @@ Hyper Bleed
 
 Crypt (12 cards, min=8 max=18 avg=3.33)
 ---------------------------------------
-1x Didi Meyers          5  aus cel obf DOM      Malkavian:1
-1x Zebulon              5  aus dom pro OBF      Malkavian:1
-1x Gloria Giovanni      4  nec DOM              Giovanni:2
-1x Ingrid Russo         4  for DOM              Ventrue antitribu:2
+1x Didi Meyers          5  DOM aus cel obf      Malkavian:1
+1x Zebulon              5  OBF aus dom pro      Malkavian:1
+1x Gloria Giovanni      4  DOM nec              Giovanni:2
+1x Ingrid Russo         4  DOM for              Ventrue antitribu:2
 1x Laurent de Valois    4  ani dom obf          Nosferatu:2
 1x Roland Bishop        4  aus dom obf          Malkavian:1
 1x Brooke               3  dom tha              Tremere antitribu:2

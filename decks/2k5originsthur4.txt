@@ -8,8 +8,9 @@ Ben Peal
 
 -- Unknown
 
-Henry Twister
+Deck Name: Henry Twister
 
+Description:
 BEN'S DECK NOTES:
 Around the time I was contemplating the EconoGhoul deck, I got into a
 conversation on the #vtes irc channel (irc.sorcery.net) with David
@@ -35,8 +36,8 @@ similarly named in its honor.
 
 Crypt (12 cards, min=10 max=24 avg=4.5)
 ---------------------------------------
-6x Henry Taylor           6  cel pre pro POT      Brujah antitribu:3
-1x Daliyah                4  obf PRO              Nosferatu:2
+6x Henry Taylor           6  POT cel pre pro      Brujah antitribu:3
+1x Daliyah                4  PRO obf              Nosferatu:2
 1x Ramona                 4  for pro              Gangrel:2
 1x Ramona (ADV)           4  for pro              Gangrel:2
 1x Chandler Hungerford    3  PRO                  Gangrel:2
@@ -44,7 +45,7 @@ Crypt (12 cards, min=10 max=24 avg=4.5)
 1x Huang, Blood Cultist   1  pro                  Pander:2
 
 Library (60 cards)
-Master (44)
+Master (44; 1 trifle)
 1x Amusement Park Hunting Ground
 2x Blood Doll
 1x Brothers Grimm

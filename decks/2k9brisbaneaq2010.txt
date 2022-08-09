@@ -8,8 +8,9 @@ Noel Somerfield
 
 -- Unknown
 
-I do nothing part 2.... the bleedening
+Deck Name: I do nothing part 2.... the bleedening
 
+Description:
 Let your Predator do all the work
 
 Crypt (13 cards, min=7 max=12 avg=2.46)
@@ -29,7 +30,7 @@ Crypt (13 cards, min=7 max=12 avg=2.46)
 1x Royce                             1  dom          Pander:2
 
 Library (75 cards)
-Master (23)
+Master (23; 8 trifle)
 1x Archon Investigation
 1x Barrens, The
 3x Dummy Corporation

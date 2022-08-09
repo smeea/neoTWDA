@@ -8,18 +8,19 @@ https://www.vekn.net/event-calendar/event/7800
 
 -- 2vp in the final
 
-Kiasyd S & B
+Deck Name: Kiasyd S & B
 
+Description:
 A bit more info on http://stockholmjyhad.blogspot.se/2014/09/report-swedish-nationals-2014.html
 
 Crypt (12 cards, min=14 max=23 avg=4.67)
 ----------------------------------------
 2x Isanwayen               6  DOM MYT OBT                Kiasyd:4
-1x Virginie, Prodigy       6  obt DOM POT       bishop   Lasombra:4
-1x Andrew Emory            5  aus dom pot OBT   bishop   Lasombra:4
-1x Banjoko                 5  obt pot DOM                Lasombra:3
-1x Dame Hollerton          5  myt DOM OBT                Kiasyd:4
-1x Ermenegildo, The Rake   5  pot DOM OBT                Lasombra:4
+1x Virginie, Prodigy       6  DOM POT obt       bishop   Lasombra:4
+1x Andrew Emory            5  OBT aus dom pot   bishop   Lasombra:4
+1x Banjoko                 5  DOM obt pot                Lasombra:3
+1x Dame Hollerton          5  DOM OBT myt                Kiasyd:4
+1x Ermenegildo, The Rake   5  DOM OBT pot                Lasombra:4
 1x Leila Monroe            4  dom obt pre                Lasombra:4
 1x Quincy, The Trapper     4  dom myt obt                Kiasyd:3
 1x Randel, The Coward      4  dom for obt                Ventrue antitribu:4
@@ -27,7 +28,7 @@ Crypt (12 cards, min=14 max=23 avg=4.67)
 1x Lucy Markowitz          3  dom obt                    Lasombra:4
 
 Library (70 cards)
-Master (28)
+Master (28; 3 trifle)
 1x Anarch Troublemaker
 6x Ashur Tablets
 1x Coven, The

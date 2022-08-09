@@ -8,8 +8,9 @@ Brett Schofield
 
 -- Unknown
 
-Third Party Politics - Velya for President
+Deck Name: Third Party Politics - Velya for President
 
+Description:
 A somewhat traditional "tap and cap" deck backed up with
 the stealth offered by Vicissitude. I was pretty fortunate
 in that I didn't face a real wall deck, and I was the only
@@ -34,15 +35,15 @@ ended using Changeling to bleed.
 
 Crypt (12 cards, min=26 max=38 avg=8.25)
 ----------------------------------------
-3x Velya, The Flayer                         9  for ANI AUS PRE VIC   cardinal     Tzimisce:3
-2x Lambach                                  10  pre ANI AUS DOM VIC   cardinal     Tzimisce:2
-2x Stravinsky                                9  pot ANI AUS VIC       archbishop   Tzimisce:2
+3x Velya, The Flayer                         9  ANI AUS PRE VIC for   cardinal     Tzimisce:3
+2x Lambach                                  10  ANI AUS DOM VIC pre   cardinal     Tzimisce:2
+2x Stravinsky                                9  ANI AUS VIC pot       archbishop   Tzimisce:2
 2x Meshenka                                  8  ANI AUS VIC           priscus      Tzimisce:2
-2x Rose, The                                 5  aus PRE VIC                        Tzimisce:3
-1x Sascha Vykos, The Angel of Caine (ADV)    8  ani dom AUS THA VIC   archbishop   Tzimisce:2
+2x Rose, The                                 5  PRE VIC aus                        Tzimisce:3
+1x Sascha Vykos, The Angel of Caine (ADV)    8  AUS THA VIC ani dom   archbishop   Tzimisce:2
 
 Library (80 cards)
-Master (17)
+Master (17; 1 trifle)
 2x Dreams of the Sphinx
 1x Gurchon Hall
 2x Information Highway

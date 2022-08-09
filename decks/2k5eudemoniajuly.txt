@@ -8,17 +8,16 @@ Jeff Kuta
 
 -- Unknown
 
-Unknown
-
+Description:
 Qadir's World Tour 2005
 
 Crypt (12 cards, min=15 max=36 avg=6.17)
 ----------------------------------------
-4x Qadir ul-Ghani               9  nec tha CEL OBF QUI      Banu Haqim:2
-2x Kalinda                      6  tha CEL OBF              Banu Haqim:2
-2x Tansu Bekir                  4  cel OBF                  Banu Haqim:2
-1x Zahir, Hand of the Silsila   6  qui tha CEL OBF          Banu Haqim:2
-1x Badr al-Budur                5  cel dom qui OBF          Banu Haqim:2
+4x Qadir ul-Ghani               9  CEL OBF QUI nec tha      Banu Haqim:2
+2x Kalinda                      6  CEL OBF tha              Banu Haqim:2
+2x Tansu Bekir                  4  OBF cel                  Banu Haqim:2
+1x Zahir, Hand of the Silsila   6  CEL OBF qui tha          Banu Haqim:2
+1x Badr al-Budur                5  OBF cel dom qui          Banu Haqim:2
 1x Anwar                        4  cel obf qui              Banu Haqim:2
 1x Ali Kar                      3  obf qui                  Banu Haqim:3
 

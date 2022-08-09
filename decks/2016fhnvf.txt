@@ -8,8 +8,9 @@ Niina Lindroos
 
 -- 3vp in the final
 
-Velvet vote
+Deck Name: Velvet vote
 
+Description:
 A deck that I made in 2015 inspired by the new set. Played it first time at
 Finnish ECQ 2015 (Ropecon) and made a few tweaks based on that tournament for this second go.
 
@@ -22,14 +23,14 @@ Nice games overall.. The Finals went so that Timo and Mikko contested Arika, and
 
 Crypt (12 cards, min=29 max=40 avg=8.75)
 ----------------------------------------
-4x Khay'tall, Snake of Eden    9  aus DOM OBF PRE SER                Ministry:2
-3x Kemintiri                  10  aus dom OBF PRE SER THA            Ministry:2
-3x Sarrasine                   7  aus nec ser OBF PRE                Ministry:2
-1x Kemintiri (ADV)            10  aus dom OBF PRE SER THA            Ministry:2
-1x Sarrasine (ADV)             8  aus nec OBF PRE SER       prince   Ministry:2
+4x Khay'tall, Snake of Eden    9  DOM OBF PRE SER aus                Ministry:2
+3x Kemintiri                  10  OBF PRE SER THA aus dom            Ministry:2
+3x Sarrasine                   7  OBF PRE aus nec ser                Ministry:2
+1x Kemintiri (ADV)            10  OBF PRE SER THA aus dom            Ministry:2
+1x Sarrasine (ADV)             8  OBF PRE SER aus nec       prince   Ministry:2
 
 Library (77 cards)
-Master (19)
+Master (19; 6 trifle)
 1x Dreams of the Sphinx
 6x Eternals of Sirius, The
 1x Ferraille

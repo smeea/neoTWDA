@@ -8,8 +8,9 @@ Jeff Lamothe
 
 -- Unknown
 
-Indomptable et persistent
+Deck Name: Indomptable et persistent
 
+Description:
 Un deck rapide.
 Bleeder autant que possible. Rusher les vampires qui bounce chez sa
 proie et ceux qui bleed trop chez son pred.
@@ -17,8 +18,8 @@ Ne pas offrir ses rushs pour rien.
 
 Crypt (12 cards, min=8 max=20 avg=3.33)
 ---------------------------------------
-2x Camille Devereux, The Raven    5  ani FOR PRO          Gangrel:1
-2x Ghivran Dalaal, The Dead God   5  ani aus chi FOR      Ravnos:2
+2x Camille Devereux, The Raven    5  FOR PRO ani          Gangrel:1
+2x Ghivran Dalaal, The Dead God   5  FOR ani aus chi      Ravnos:2
 2x Lázár Dobrescu                 3  for                  Ravnos:2
 1x Ricki Van Demsi                3  for pro              Gangrel:1
 1x Roland Loussarian              3  for pre              Ventrue:1

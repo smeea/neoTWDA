@@ -8,19 +8,17 @@ https://www.vekn.net/event-calendar/event/9773
 
 -- 4vp in the final
 
-Gato "Mia"
-
-Unknown
+Deck Name: Gato "Mia"
 
 Crypt (12 cards, min=18 max=31 avg=6.25)
 ----------------------------------------
-3x Howler             8  obf ANI PRE SPI      Ahrimane:2
-3x Siamese, The       7  ani pro PRE SPI      Ahrimane:2
-3x Cynthia Ingold     6  ani for pre SPI      Ahrimane:2
+3x Howler             8  ANI PRE SPI obf      Ahrimane:2
+3x Siamese, The       7  PRE SPI ani pro      Ahrimane:2
+3x Cynthia Ingold     6  SPI ani for pre      Ahrimane:2
 3x Juanita Santiago   4  ani pre spi          Ahrimane:2
 
 Library (90 cards)
-Master (15)
+Master (15; 4 trifle)
 2x Blessing of the Beast
 3x Capitalist
 1x Festivo dello Estinto

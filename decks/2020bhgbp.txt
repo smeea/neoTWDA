@@ -8,8 +8,7 @@ https://www.vekn.net/event-calendar/event/9579
 
 -- 1gw4.5 + 2.5vp in the final
 
-Unknown
-
+Description:
 The seating in the final was !Ventrue grinder -> high cap Tremeres with Malgorzata
  -> Eurobrujahs -> HoS grinder -> Asanbonsams.
 
@@ -22,16 +21,16 @@ to the EBs, but the bounce was DIed and the Eurobrujahs got a single point for t
 Crypt (12 cards, min=7 max=24 avg=4.08)
 ---------------------------------------
 2x Caliban              6  ANI AUS VIC          Tzimisce:2
-2x Corine Marcón        6  ani AUS VIC          Tzimisce:2
-2x Lolita Houston       4  aus VIC              Tzimisce:2
+2x Corine Marcón        6  AUS VIC ani          Tzimisce:2
+2x Lolita Houston       4  VIC aus              Tzimisce:2
 2x Horatio              2  vic                  Tzimisce:2
-1x Ana Rita Montaña     5  aus dom obf VIC      Tzimisce:3
-1x Rose, The            5  aus PRE VIC          Tzimisce:3
+1x Ana Rita Montaña     5  VIC aus dom obf      Tzimisce:3
+1x Rose, The            5  PRE VIC aus          Tzimisce:3
 1x Christine Boscacci   2  dom vic              Pander:2
 1x Olga Triminov        1  vic                  Pander:3
 
 Library (90 cards)
-Master (18)
+Master (18; 5 trifle)
 2x Direct Intervention
 1x Hungry Coyote, The
 1x Jake Washington

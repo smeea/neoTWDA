@@ -8,20 +8,18 @@ Sebestyén Balázs
 
 -- Unknown
 
-Az örültek hálozata (Network of the Insane)
-
-Unknown
+Deck Name: Az örültek hálozata (Network of the Insane)
 
 Crypt (13 cards, min=8 max=22 avg=3.85)
 ---------------------------------------
-3x Victoria       5  cel obf AUS          Malkavian:2
-1x Dancin' Dana   6  cel obf AUS          Malkavian:1
-1x Ozmo           6  dom obf AUS          Malkavian:1
-1x Zebulon        5  aus dom pro OBF      Malkavian:1
-1x Aleph          4  dom AUS              Malkavian:1
+3x Victoria       5  AUS cel obf          Malkavian:2
+1x Dancin' Dana   6  AUS cel obf          Malkavian:1
+1x Ozmo           6  AUS dom obf          Malkavian:1
+1x Zebulon        5  OBF aus dom pro      Malkavian:1
+1x Aleph          4  AUS dom              Malkavian:1
 1x Dollface       3  aus obf              Malkavian:1
 1x Watenda        3  obf                  Malkavian:2
-1x Zöe            3  cel obf AUS          Malkavian:2
+1x Zöe            3  AUS cel obf          Malkavian:2
 1x Brazil         2  aus                  Malkavian:1
 1x Normal         2  obf                  Malkavian:1
 1x Franciscus     1  aus                  Caitiff:2

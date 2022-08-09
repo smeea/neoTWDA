@@ -8,16 +8,14 @@ Denis Mercante
 
 -- 3vp in the final
 
-Nocturn the Unaligned
-
-Unknown
+Deck Name: Nocturn the Unaligned
 
 Crypt (12 cards, min=14 max=26 avg=5.17)
 ----------------------------------------
 2x Lord Vauxhall           7  DOM OBT POT THA            Lasombra:4
-2x Onaedo                  6  aus pot DOM OBT            Lasombra:4
-2x Virginie, Prodigy       6  obt DOM POT       bishop   Lasombra:4
-2x Ermenegildo, The Rake   5  pot DOM OBT                Lasombra:4
+2x Onaedo                  6  DOM OBT aus pot            Lasombra:4
+2x Virginie, Prodigy       6  DOM POT obt       bishop   Lasombra:4
+2x Ermenegildo, The Rake   5  DOM OBT pot                Lasombra:4
 2x Leila Monroe            4  dom obt pre                Lasombra:4
 2x Lucy Markowitz          3  dom obt                    Lasombra:4
 

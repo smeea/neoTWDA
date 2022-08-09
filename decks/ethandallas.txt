@@ -8,8 +8,7 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/obdFYOkMLK8
 
 -- Unknown
 
-Unknown
-
+Description:
 Princely Weenie Dominate
 
 Crypt (12 cards, min=7 max=30 avg=4.08)
@@ -18,7 +17,7 @@ Crypt (12 cards, min=7 max=30 avg=4.08)
 1x Dónal O'Connor       8  CEL DOM POT   prince   Brujah:2
 1x Gilbert Duane        7  AUS DOM OBF   prince   Malkavian:1
 1x Sir Walter Nash      7  DOM FOR PRE   prince   Ventrue:1
-1x Gloria Giovanni      4  nec DOM                Giovanni:2
+1x Gloria Giovanni      4  DOM nec                Giovanni:2
 1x Cameron              3  dom pot                Lasombra:2
 1x Jing Wei             3  dom tha                Tremere:1
 1x Christine Boscacci   2  dom vic                Pander:2

@@ -8,8 +8,9 @@ Paul Reid-Bowen
 
 -- Unknown
 
-The Alchemists (aka. the octarine killing machine)
+Deck Name: The Alchemists (aka. the octarine killing machine)
 
+Description:
 This take on the Nephandi swarm bleed has evolved over a couple of
 years (beginning in the pre-Antonio d'Erlette days with a Marino
 Reymundo Vasquez, Giovanni, Nephandi and Shambling Hordes version)
@@ -39,14 +40,14 @@ in the past, which can't be bad.
 
 Crypt (12 cards, min=12 max=20 avg=4.0)
 ---------------------------------------
-5x Antonio d'Erlette   5  dom for pot THA      Tremere antitribu:4
+5x Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4
 2x Janine              4  aus dom tha          Tremere antitribu:4
 2x Ember Wright        3  aus dom              Tremere antitribu:3
 2x Keith Moody         3  DOM                  Tremere antitribu:4
 1x Saiz                3  aus dom              Tremere antitribu:3
 
 Library (88 cards)
-Master (22)
+Master (22; 6 trifle)
 5x Blood Doll
 2x Direct Intervention
 3x Haven Uncovered

@@ -8,16 +8,14 @@ Everton Biel
 
 -- Unknown
 
-Unknown
-
-Deck: Catch me if you can
+Deck Name: Catch me if you can
 
 Crypt (12 cards, min=8 max=34 avg=5.92)
 ---------------------------------------
-4x Gabrin                            8  dom for ANI CHI          Ravnos:2
-2x Kostantin, Baro of the Caravan    9  cel dom ANI CHI FOR      Ravnos:2
-1x Natalia                           7  chi dom for ANI          Ravnos:2
-1x Sarisha Veliku                    6  chi dom ANI FOR          Ravnos:2
+4x Gabrin                            8  ANI CHI dom for          Ravnos:2
+2x Kostantin, Baro of the Caravan    9  ANI CHI FOR cel dom      Ravnos:2
+1x Natalia                           7  ANI chi dom for          Ravnos:2
+1x Sarisha Veliku                    6  ANI FOR chi dom          Ravnos:2
 1x Marciana Giovanni, Investigator   2  dom                      Giovanni:2
 1x Mustafa Rahman                    2  dom                      Tremere:2
 1x Ohanna                            2  dom                      Malkavian:2

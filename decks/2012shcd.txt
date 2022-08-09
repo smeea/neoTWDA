@@ -8,24 +8,22 @@ Andreas Stjernfelt
 
 -- Unknown
 
-Stoneface
-
-Unknown
+Deck Name: Stoneface
 
 Crypt (12 cards, min=10 max=26 avg=4.5)
 ---------------------------------------
-2x Ferox, The Rock Lord      7  ani FOR POT VIS      Gargoyle:2
-2x Saxum, Master of Slaves   6  pot pre FOR VIS      Gargoyle:2
-2x Obsidian                  5  for pot VIS          Gargoyle:2
-1x Luma, Stone Beauty        5  aus pot vis FOR      Gargoyle:2
-1x Blythe Candeleria         3  aus THA              Tremere:2
+2x Ferox, The Rock Lord      7  FOR POT VIS ani      Gargoyle:2
+2x Saxum, Master of Slaves   6  FOR VIS pot pre      Gargoyle:2
+2x Obsidian                  5  VIS for pot          Gargoyle:2
+1x Luma, Stone Beauty        5  FOR aus pot vis      Gargoyle:2
+1x Blythe Candeleria         3  THA aus              Tremere:2
 1x Ehrich Weiss              3  dom tha              Tremere:3
 1x Erinyi                    3  pot vis              Gargoyle:2
 1x Almiro Suarez             2  aus                  Tremere:3
 1x Mustafa Rahman            2  dom                  Tremere:2
 
 Library (79 cards)
-Master (15)
+Master (15; 6 trifle)
 1x Academic Hunting Ground
 2x Fame
 1x Giant's Blood

@@ -8,8 +8,9 @@ Darby Keeney
 
 -- Unknown
 
-Mergen's Quandry
+Deck Name: Mergen's Quandry
 
+Description:
 [CEL] gun
 
 Built so that I could better understand the way [CEL] gun decks win
@@ -37,23 +38,23 @@ These should probably be "Eluding the Arms of Morpheus" for Yawp Court and Atone
 
 Crypt (12 cards, min=15 max=20 avg=4.58)
 ----------------------------------------
-2x Black Cat                   5  pot pre CEL                Brujah:1
-1x Brachah                     5  for CEL PRE                Brujah:2
-1x Dodd                        5  dom pre CEL                Brujah antitribu:2
-1x Felicia Mostrom             5  pre AUS CEL                Toreador:1
-1x Rigby, Crusade Vanguard     5  aus pot CEL PRE            Brujah antitribu:2
-1x Victor Revell, Loyalist     5  aus dem pre CEL            Toreador antitribu:2
-1x Volker, The Puppet Prince   5  pot CEL           prince   Brujah:2
-1x Jimmy Dunn                  4  for CEL POT                Pander:2
-1x Parmenides                  4  qui CEL                    Banu Haqim:2
-1x Victor Tolliver             4  pot CEL                    Brujah antitribu:2
+2x Black Cat                   5  CEL pot pre                Brujah:1
+1x Brachah                     5  CEL PRE for                Brujah:2
+1x Dodd                        5  CEL dom pre                Brujah antitribu:2
+1x Felicia Mostrom             5  AUS CEL pre                Toreador:1
+1x Rigby, Crusade Vanguard     5  CEL PRE aus pot            Brujah antitribu:2
+1x Victor Revell, Loyalist     5  CEL aus dem pre            Toreador antitribu:2
+1x Volker, The Puppet Prince   5  CEL pot           prince   Brujah:2
+1x Jimmy Dunn                  4  CEL POT for                Pander:2
+1x Parmenides                  4  CEL qui                    Banu Haqim:2
+1x Victor Tolliver             4  CEL pot                    Brujah antitribu:2
 1x Sarah Brando                3  CEL                        Brujah antitribu:2
 
 Library (90 cards)
 Master (17)
 1x Amusement Park Hunting Ground
-5x Blood Doll -- Blood Doll >> Vessel for this deck.
-2x Dreams of the Sphinx -- Didn't see a single one all day in this tournament, but only jammed once.
+5x Blood Doll
+2x Dreams of the Sphinx
 1x Fame
 3x Frontal Assault
 1x Heidelberg Castle, Germany

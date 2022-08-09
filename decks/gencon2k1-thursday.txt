@@ -8,8 +8,9 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/3E6a98pg8fg
 
 -- Unknown
 
-All ahead full...
+Deck Name: All ahead full...
 
+Description:
 Stealth Bleed
 
 Keep it simple. Get out a bleeder as quick as you can and keep bleeding.
@@ -37,11 +38,11 @@ mostly due to bad play by me and a bit of bad luck as well.
 Crypt (12 cards, min=19 max=29 avg=6.0)
 ---------------------------------------
 2x Gilbert Duane          7  AUS DOM OBF       prince   Malkavian:1
-2x Mariel, Lady Thunder   7  aus tha DOM OBF            Malkavian:1
-2x Ozmo                   6  dom obf AUS                Malkavian:1
-2x Didi Meyers            5  aus cel obf DOM            Malkavian:1
-2x Zebulon                5  aus dom pro OBF            Malkavian:1
-1x Cornelius Ottavio      8  pre qui AUS OBF            Malkavian:2
+2x Mariel, Lady Thunder   7  DOM OBF aus tha            Malkavian:1
+2x Ozmo                   6  AUS dom obf                Malkavian:1
+2x Didi Meyers            5  DOM aus cel obf            Malkavian:1
+2x Zebulon                5  OBF aus dom pro            Malkavian:1
+1x Cornelius Ottavio      8  AUS OBF pre qui            Malkavian:2
 1x Roland Bishop          4  aus dom obf                Malkavian:1
 
 Library (63 cards)

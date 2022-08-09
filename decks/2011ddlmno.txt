@@ -8,8 +8,9 @@ John Bell
 
 -- Unknown
 
-Judgment Columbus: Blocking is Pain
+Deck Name: Judgment Columbus: Blocking is Pain
 
+Description:
 I had a deck around 5 years ago that was played with
 the "tap & cap" model - Villein, Papillon and Ashur's Tablets only
 makes this better. The deck was conceived to punish many of the
@@ -19,14 +20,14 @@ deal with Immortal Grapple.
 
 Crypt (12 cards, min=31 max=43 avg=9.33)
 ----------------------------------------
-4x Anson              8  aus dom CEL PRE           prince         Toreador:1
-3x Alexandra         11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-2x Anneke            10  dom AUS CEL PRE           justicar       Toreador:1
-2x François Villon   10  chi obf pot AUS CEL PRE   prince         Toreador:2
-1x Tatiana Romanov    7  cel pre AUS               prince         Toreador:1
+4x Anson              8  CEL PRE aus dom           prince         Toreador:1
+3x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+2x Anneke            10  AUS CEL PRE dom           justicar       Toreador:1
+2x François Villon   10  AUS CEL PRE chi obf pot   prince         Toreador:2
+1x Tatiana Romanov    7  AUS cel pre               prince         Toreador:1
 
 Library (90 cards)
-Master (39)
+Master (39; 6 trifle)
 7x Aching Beauty
 1x Archon Investigation
 1x Art Museum

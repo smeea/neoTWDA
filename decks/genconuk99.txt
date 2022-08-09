@@ -8,14 +8,13 @@ https://groups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/HcKK8yvtyHQ/
 
 -- Unknown
 
-Unknown
-
+Description:
 "Legacy of Pander"
 
 Crypt (14 cards, min=4 max=15 avg=2.07)
 ---------------------------------------
 2x Lena Rowe                  3  aus obf pre      Pander:2
-1x Jost Werner                6  ani AUS PRE      Toreador antitribu:2
+1x Jost Werner                6  AUS PRE ani      Toreador antitribu:2
 1x Lolita                     3  for pre          Toreador antitribu:2
 1x Christine Boscacci         2  dom vic          Pander:2
 1x Frederick the Weak         2  pre              Brujah antitribu:2

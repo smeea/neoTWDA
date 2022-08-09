@@ -8,20 +8,19 @@ Eric Simon
 
 -- Unknown
 
-Unknown
-
+Description:
 Simple Kiasyd Toolbox with Crocodile's Tongue and
 Tenebrous Form
 
 Crypt (12 cards, min=22 max=37 avg=7.25)
 ----------------------------------------
-2x Ayelea, The Manipulator   10  pre AUS DOM OBT THA   cardinal     Tremere antitribu:2
-2x Bartholomew                8  dom obt AUS MYT NEC                Kiasyd:2
-2x Julia Prima                7  aus myt DOM OBT                    Kiasyd:2
-2x Kassiym Malikhair          6  dom for MYT OBT                    Kiasyd:2
-2x Béatrice L'Angou           5  aus dom nec MYT                    Kiasyd:2
-1x Marconius                  9  pot DOM MYT OBT       archbishop   Kiasyd:2
-1x Talley, The Hound          6  aus dom OBT POT                    Lasombra:2
+2x Ayelea, The Manipulator   10  AUS DOM OBT THA pre   cardinal     Tremere antitribu:2
+2x Bartholomew                8  AUS MYT NEC dom obt                Kiasyd:2
+2x Julia Prima                7  DOM OBT aus myt                    Kiasyd:2
+2x Kassiym Malikhair          6  MYT OBT dom for                    Kiasyd:2
+2x Béatrice L'Angou           5  MYT aus dom nec                    Kiasyd:2
+1x Marconius                  9  DOM MYT OBT pot       archbishop   Kiasyd:2
+1x Talley, The Hound          6  OBT POT aus dom                    Lasombra:2
 
 Library (90 cards)
 Master (16)

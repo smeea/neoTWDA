@@ -8,8 +8,9 @@ Henrik Klippström
 
 -- Unknown
 
-Who needs Deep Song?
+Deck Name: Who needs Deep Song?
 
+Description:
 Comment: I really enjoy playing this type of straightforward deck.
 While others play complicated decks, whine alot and try to make weird
 deals to win, this just ousts it's prey. I took Tuomas Nybergs "Dr
@@ -20,7 +21,7 @@ have been if I actually owned 14 Deep Song.
 Crypt (12 cards, min=7 max=16 avg=2.83)
 ---------------------------------------
 2x Laurent de Valois      4  ani dom obf      Nosferatu:2
-1x Bobby Lemon            4  pro ANI          Gangrel:3
+1x Bobby Lemon            4  ANI pro          Gangrel:3
 1x Shane Grimald          4  ani dom pot      Gangrel antitribu:2
 1x Clarissa Steinburgen   3  ani obf          Nosferatu:3
 1x Panagos Levidis        3  ani obf          Gangrel:2
@@ -43,7 +44,7 @@ Master (15; 4 trifle)
 1x WMRH Talk Radio
 
 Action (14)
-9x Computer Hacking -- Yes, all of these SHOULD be Deep Song
+9x Computer Hacking
 5x Deep Song
 
 Ally (3)

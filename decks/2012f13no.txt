@@ -8,22 +8,20 @@ David Baker
 
 -- Unknown
 
-girls getting on in Newark
-
-Unknown
+Deck Name: girls getting on in Newark
 
 Crypt (12 cards, min=32 max=41 avg=9.08)
 ----------------------------------------
-4x Aksinya Daclau        9  cel tha ANI FOR PRE PRO              Gangrel antitribu:4
+4x Aksinya Daclau        9  ANI FOR PRE PRO cel tha              Gangrel antitribu:4
 3x Cybele               10  ANI DAI OBF PRE SER THA              Baali:4
-1x Enkidu, The Noah     11  for ANI CEL OBF POT PRO              Gangrel antitribu:4
-1x Nangila Were          9  obf ser ANI POT PRE                  Guruhi:4
-1x Gustaphe Brunnelle    8  obf ANI DOM POT           primogen   Nosferatu:4
+1x Enkidu, The Noah     11  ANI CEL OBF POT PRO for              Gangrel antitribu:4
+1x Nangila Were          9  ANI POT PRE obf ser                  Guruhi:4
+1x Gustaphe Brunnelle    8  ANI DOM POT obf           primogen   Nosferatu:4
 1x Nana Buruku           8  ANI POT PRE                          Guruhi:4
-1x Talbot                7  for ANI NEC PRO                      Gangrel:5
+1x Talbot                7  ANI NEC PRO for                      Gangrel:5
 
 Library (75 cards)
-Master (41)
+Master (41; 7 trifle)
 9x Ashur Tablets
 1x Dark Influences
 1x Direct Intervention

@@ -8,8 +8,9 @@ Hernán Rodríguez
 
 -- Unknown
 
-Guns n' Roses
+Deck Name: Guns n' Roses
 
+Description:
 A deck based in Anneke and Toreador princes, using cards
 like Second Tradition, .44 Magnum and a lot of intercept. This deck
 kills his prey with bleed action (the most of type 1-2 get +1 bleed)
@@ -17,16 +18,16 @@ and blocking (D) actions to another Methuselah with Anneke.
 
 Crypt (12 cards, min=25 max=40 avg=8.42)
 ----------------------------------------
-3x Anneke            10  dom AUS CEL PRE           justicar   Toreador:1
-3x Anson              8  aus dom CEL PRE           prince     Toreador:1
-2x François Villon   10  chi obf pot AUS CEL PRE   prince     Toreador:2
+3x Anneke            10  AUS CEL PRE dom           justicar   Toreador:1
+3x Anson              8  CEL PRE aus dom           prince     Toreador:1
+2x François Villon   10  AUS CEL PRE chi obf pot   prince     Toreador:2
 1x Masika            10  AUS CEL PRE               primogen   Toreador:1
-1x Marcellus          8  pro AUS CEL               prince     Toreador:2
-1x Felicia Mostrom    5  pre AUS CEL                          Toreador:1
-1x Dorian Strack      4  cel AUS                              Toreador:1
+1x Marcellus          8  AUS CEL pro               prince     Toreador:2
+1x Felicia Mostrom    5  AUS CEL pre                          Toreador:1
+1x Dorian Strack      4  AUS cel                              Toreador:1
 
 Library (90 cards)
-Master (20)
+Master (20; 2 trifle)
 1x Art Museum
 4x Blood Doll
 2x Direct Intervention

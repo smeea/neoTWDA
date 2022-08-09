@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/7636
 
 -- Unknown
 
-Wildwood Sorceres
+Deck Name: Wildwood Sorceres
 
+Description:
 This deck is sort of an evolution of my !Nos Deck centered around Cailean
 where I have big vampires that fight really well and have a good defense
 but had problems with consistently getting gamewins due to the slow build up
@@ -35,14 +36,14 @@ obliterate anything that doesn't fight at all.
 
 Crypt (12 cards, min=33 max=43 avg=9.58)
 ----------------------------------------
-4x Aksinya Daclau     9  cel tha ANI FOR PRE PRO              Gangrel antitribu:4
-3x Fakir al Sidi     11  abo ANI FOR PRE PRO THA              Gangrel:4
-3x Mictlantecuhtli   10  pre pro ANI FOR POT THA              Gangrel:5
-1x Mimir             10  dom ANI FOR PRO THA       cardinal   Gangrel antitribu:5
-1x Janey Pickman      6  for ANI PRO                          Gangrel antitribu:4
+4x Aksinya Daclau     9  ANI FOR PRE PRO cel tha              Gangrel antitribu:4
+3x Fakir al Sidi     11  ANI FOR PRE PRO THA abo              Gangrel:4
+3x Mictlantecuhtli   10  ANI FOR POT THA pre pro              Gangrel:5
+1x Mimir             10  ANI FOR PRO THA dom       cardinal   Gangrel antitribu:5
+1x Janey Pickman      6  ANI PRO for                          Gangrel antitribu:4
 
 Library (90 cards)
-Master (22)
+Master (22; 9 trifle)
 3x Blood Doll
 1x Giant's Blood
 2x Information Highway

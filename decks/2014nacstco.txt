@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/7723
 
 -- Unknown
 
-Cappadocian Powersleaze
+Deck Name: Cappadocian Powersleaze
 
+Description:
 Giovanni Powerbleed with a Fortitude twist - get Lady Constancia or
 Ignazio Giovanni out to bleed, Freak Drive, and remain standing for defense.
 If you can get two FOR minions into play, this deck moves very fast with solid defense.
@@ -18,17 +19,17 @@ Special thanks to Adam Hulse for the late night deck clinic and Jay Kristoff for
 Crypt (12 cards, min=12 max=39 avg=6.58)
 ----------------------------------------
 3x Lady Constancia                10  AUS DOM FOR NEC POT   2 votes   Giovanni:4
-2x Ignazio Giovanni                9  obf DOM FOR NEC POT             Giovanni:3
+2x Ignazio Giovanni                9  DOM FOR NEC POT obf             Giovanni:3
 1x Don Michael Antonio Giovanni    7  DOM NEC POT           2 votes   Giovanni:4
-1x Benedict Giovanni, Agent        6  cel dom nec FOR POT             Giovanni:4
-1x Raphaela Giovanni               6  pot pre DOM NEC                 Giovanni:4
+1x Benedict Giovanni, Agent        6  FOR POT cel dom nec             Giovanni:4
+1x Raphaela Giovanni               6  DOM NEC pot pre                 Giovanni:4
 1x Primo Giovanni                  4  dom nec pot                     Giovanni:4
 1x Almodo Giovanni                 3  dom pot                         Giovanni:4
 1x Lia Milliner                    3  dom nec                         Giovanni:3
 1x Cristobal Ghiberti              2  nec                             Giovanni:4
 
 Library (86 cards)
-Master (15)
+Master (15; 2 trifle)
 1x Anarch Troublemaker
 2x Blood Doll
 1x Dis Pater

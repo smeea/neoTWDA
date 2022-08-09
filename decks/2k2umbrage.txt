@@ -8,8 +8,9 @@ Sten Düring
 
 -- Unknown
 
-Master Madness
+Deck Name: Master Madness
 
+Description:
 Getting as many master-phase-actions as possible. Empty
 your vamps and don't be shy to use Rosslers speacial and Information
 Highway together. Tap Anson, Golconda Anson (using his special to do so)
@@ -40,10 +41,10 @@ Barrens with two Dreams of the Sphinx.
 
 Crypt (12 cards, min=32 max=40 avg=8.83)
 ----------------------------------------
-6x Anson              8  aus dom CEL PRE           prince         Toreador:1
-3x Ingrid Rossler     9  dom ANI FOR PRO           prince         Gangrel:2
+6x Anson              8  CEL PRE aus dom           prince         Toreador:1
+3x Ingrid Rossler     9  ANI FOR PRO dom           prince         Gangrel:2
 2x Huitzilopochtli   10  AUS DAI DOM OBF POT PRE                  Baali:2
-1x Arika             11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
+1x Arika             11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
 
 Library (90 cards)
 Master (68)

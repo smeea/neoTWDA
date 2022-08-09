@@ -6,25 +6,24 @@ March 14th 2010
 Tim Daudé
 http://www.veknfrance.com/forum/viewtopic.php?t=15869&start=34
 
--- Unknown
+-- 4th before the final, 5VP in final
 
-Deck Kiasyd
+Deck Name: Deck Kiasyd
 
-4th before the final, 5VP in final
-
+Description:
 "Always use Govern superior when able."
 
 Crypt (12 cards, min=18 max=30 avg=6.17)
 ----------------------------------------
-2x Pherydima                 8  obt pot DOM MYT NEC   bishop    Kiasyd:4
-2x Omme Enberbenight         7  cel dom MYT OBT       priscus   Kiasyd:4
-2x Roderick Phillips March   7  cel obt tha DOM MYT             Kiasyd:4
+2x Pherydima                 8  DOM MYT NEC obt pot   bishop    Kiasyd:4
+2x Omme Enberbenight         7  MYT OBT cel dom       priscus   Kiasyd:4
+2x Roderick Phillips March   7  DOM MYT cel obt tha             Kiasyd:4
 2x Isanwayen                 6  DOM MYT OBT                     Kiasyd:4
-2x Dame Hollerton            5  myt DOM OBT                     Kiasyd:4
+2x Dame Hollerton            5  DOM OBT myt                     Kiasyd:4
 2x Quincy, The Trapper       4  dom myt obt                     Kiasyd:3
 
 Library (73 cards)
-Master (12)
+Master (12; 2 trifle)
 1x Coven, The
 1x Direct Intervention
 3x Dreams of the Sphinx

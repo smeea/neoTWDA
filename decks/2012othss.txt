@@ -6,12 +6,11 @@ August 4th 2012
 Jonas Eriksson
 
 
--- Unknown
+-- GW5 + 1 + 5VP in final
 
-DEM bleed
+Deck Name: DEM bleed
 
-GW5 + 1 + 5VP in final
-
+Description:
 "The idea is that in our current meta there are many
 slow decks that relies on Zillah's, and when I always have a Sudden
 Reversal to counter it they are too slow to stop me. It's also very
@@ -22,10 +21,10 @@ for another Touch of clarity, if I had it."
 Crypt (12 cards, min=9 max=19 avg=3.42)
 ---------------------------------------
 3x Jackie                         3  DEM                  Malkavian antitribu:4
-2x Midget                         3  obf pre DEM          Malkavian antitribu:3
-1x Apache Jones                   5  aus for obf DEM      Malkavian antitribu:4
-1x Persia, The Beautiful Statue   5  aus obf DEM          Malkavian:3
-1x Uncle George                   5  aus dom obf DEM      Malkavian antitribu:3
+2x Midget                         3  DEM obf pre          Malkavian antitribu:3
+1x Apache Jones                   5  DEM aus for obf      Malkavian antitribu:4
+1x Persia, The Beautiful Statue   5  DEM aus obf          Malkavian:3
+1x Uncle George                   5  DEM aus dom obf      Malkavian antitribu:3
 1x Adelaide Davis                 4  aus dem obf          Malkavian:3
 1x Beauregard Krueller            4  aus dem obf          Malkavian antitribu:4
 1x Cassandra Langely, The Waif    2  dem                  Malkavian:4

@@ -8,8 +8,9 @@ Johannes Walch
 
 -- Unknown
 
-Amazing Belly Necklace
+Deck Name: Amazing Belly Necklace
 
+Description:
 Straightforward Ventrue Law Firm. 16 Majesty instead of Freak Drive
 and Fortitude Prevent Damage cards for better cardflow and better
 combat defense against CEL (Idea shamelessly stolen from Josh Duffin).
@@ -20,14 +21,14 @@ Tournament last until Sunday 16th. It was over at 3am ;-)
 
 Crypt (12 cards, min=17 max=31 avg=6.25)
 ----------------------------------------
-2x Emerson Bridges                   8  pot DOM FOR PRE   prince   Ventrue:1
+2x Emerson Bridges                   8  DOM FOR PRE pot   prince   Ventrue:1
 2x Sir Walter Nash                   7  DOM FOR PRE       prince   Ventrue:1
-2x Timothy Crowley                   7  ani dom FOR PRE   prince   Ventrue:1
-1x Anson                             8  aus dom CEL PRE   prince   Toreador:1
-1x Rake                              6  aus cel pot PRE   prince   Brujah:1
-1x Jazz Wentworth                    5  dom for PRE                Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar   5  for DOM PRE                Ventrue:2
-1x Violette Prentiss                 4  dom PRE                    Ventrue:1
+2x Timothy Crowley                   7  FOR PRE ani dom   prince   Ventrue:1
+1x Anson                             8  CEL PRE aus dom   prince   Toreador:1
+1x Rake                              6  PRE aus cel pot   prince   Brujah:1
+1x Jazz Wentworth                    5  PRE dom for                Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for                Ventrue:2
+1x Violette Prentiss                 4  PRE dom                    Ventrue:1
 1x Gideon Fontaine                   3  PRE                        Ventrue:1
 
 Library (90 cards)

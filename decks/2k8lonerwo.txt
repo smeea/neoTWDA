@@ -8,23 +8,20 @@ Zach Couch
 
 -- 4vp in the final
 
-Unknown
-
-Winner: Zach Couch
-Deck: Nadima plus
+Deck Name: Nadima plus
 
 Crypt (12 cards, min=16 max=32 avg=5.75)
 ----------------------------------------
-4x Nadima                8  ani aus FOR PRO SER      Gangrel:3
-3x Mirembe Kabbada       5  ani PRO SER              Gangrel:2
-1x Horrock               6  vic ANI PRO              Gangrel:3
-1x Dr. Allan Woodstock   5  ani aus for PRO          Gangrel:3
+4x Nadima                8  FOR PRO SER ani aus      Gangrel:3
+3x Mirembe Kabbada       5  PRO SER ani              Gangrel:2
+1x Horrock               6  ANI PRO vic              Gangrel:3
+1x Dr. Allan Woodstock   5  PRO ani aus for          Gangrel:3
 1x Ramona                4  for pro                  Gangrel:2
 1x Ramona (ADV)          4  for pro                  Gangrel:2
 1x Chandler Hungerford   3  PRO                      Gangrel:2
 
 Library (66 cards)
-Master (13)
+Master (13; 3 trifle)
 1x Backways
 1x Direct Intervention
 1x Ecoterrorists

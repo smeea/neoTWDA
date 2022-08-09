@@ -8,8 +8,9 @@ Jason Ryan
 
 -- Unknown
 
-The Beautiful People 2.0
+Deck Name: The Beautiful People 2.0
 
+Description:
 Last minute Protected Resources were gold all day. Ashurs/Anthelios
 3 MPA recursion shenanigans are close to indomitable in most end game
 showdowns. Anneke was MVP, although Delilah Easton got me the oust on
@@ -17,15 +18,15 @@ the finals table.
 
 Crypt (12 cards, min=15 max=42 avg=7.58)
 ----------------------------------------
-4x Anson              8  aus dom CEL PRE           prince         Toreador:1
-2x Alexandra         11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-2x Anneke            10  dom AUS CEL PRE           justicar       Toreador:1
+4x Anson              8  CEL PRE aus dom           prince         Toreador:1
+2x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+2x Anneke            10  AUS CEL PRE dom           justicar       Toreador:1
 2x Delilah Easton     2  pre                                      Toreador:1
-1x François Villon   10  chi obf pot AUS CEL PRE   prince         Toreador:2
+1x François Villon   10  AUS CEL PRE chi obf pot   prince         Toreador:2
 1x Isabel de Leon     3  AUS                                      Toreador:2
 
 Library (90 cards)
-Master (39)
+Master (39; 7 trifle)
 1x Art Museum
 6x Ashur Tablets
 2x Direct Intervention

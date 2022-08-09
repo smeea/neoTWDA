@@ -8,8 +8,9 @@ Ke Carlton
 
 -- Unknown
 
-Eternal Abuse
+Deck Name: Eternal Abuse
 
+Description:
 Switched Legal's to Intimidation for blood management,
 also added 1x covern and jake - reduced Lilyth's to 1x copy as not
 really needed now. Deck is quite low on stealth, but permastealth
@@ -21,15 +22,15 @@ Added extra Majesties and Mental Mazes for UK meta. Could do with 1x Golconda.
 Crypt (12 cards, min=24 max=40 avg=8.33)
 ----------------------------------------
 4x Nakhthorheb                   10  OBF PRE SER                         Ministry:4
-3x Cagliostro, The Grand Copht    8  nec pot OBF PRE SER                 Ministry:4
+3x Cagliostro, The Grand Copht    8  OBF PRE SER nec pot                 Ministry:4
 1x Cybele                        10  ANI DAI OBF PRE SER THA             Baali:4
-1x Kahina the Sorceress           9  nec pre AUS DOM OBF SER   1 vote    Ministry:3
-1x Neferu                         9  dom nec OBF PRE SER THA   2 votes   Ministry:4
-1x Catherine du Bois              5  for obf pre DOM                     Ventrue:3
+1x Kahina the Sorceress           9  AUS DOM OBF SER nec pre   1 vote    Ministry:3
+1x Neferu                         9  OBF PRE SER THA dom nec   2 votes   Ministry:4
+1x Catherine du Bois              5  DOM for obf pre                     Ventrue:3
 1x Keith Moody                    3  DOM                                 Tremere antitribu:4
 
 Library (69 cards)
-Master (27)
+Master (27; 12 trifle)
 1x Coven, The
 1x Direct Intervention
 8x Eternals of Sirius, The

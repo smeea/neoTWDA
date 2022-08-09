@@ -8,23 +8,21 @@ Jovan Pavlovic
 
 -- Unknown
 
-Wall From The Woods
-
-Unknown
+Deck Name: Wall From The Woods
 
 Crypt (12 cards, min=19 max=28 avg=5.75)
 ----------------------------------------
-3x Janey Pickman         6  for ANI PRO                     Gangrel antitribu:4
-2x Céleste Lamontagne    5  for ANI PRO                     Gangrel antitribu:4
-2x Mowgli                5  ani cel FOR PRO                 Gangrel antitribu:4
-1x Hektor                9  for CEL POT PRE QUI   priscus   Brujah antitribu:4
-1x Doyle Fincher         7  aus for obf ANI PRO             Gangrel antitribu:4
-1x Horrock               6  vic ANI PRO                     Gangrel:3
-1x Dr. Allan Woodstock   5  ani aus for PRO                 Gangrel:3
-1x Bobby Lemon           4  pro ANI                         Gangrel:3
+3x Janey Pickman         6  ANI PRO for                     Gangrel antitribu:4
+2x Céleste Lamontagne    5  ANI PRO for                     Gangrel antitribu:4
+2x Mowgli                5  FOR PRO ani cel                 Gangrel antitribu:4
+1x Hektor                9  CEL POT PRE QUI for   priscus   Brujah antitribu:4
+1x Doyle Fincher         7  ANI PRO aus for obf             Gangrel antitribu:4
+1x Horrock               6  ANI PRO vic                     Gangrel:3
+1x Dr. Allan Woodstock   5  PRO ani aus for                 Gangrel:3
+1x Bobby Lemon           4  ANI pro                         Gangrel:3
 
 Library (90 cards)
-Master (17)
+Master (17; 5 trifle)
 1x Campground Hunting Ground
 1x Channel 10
 1x Direct Intervention

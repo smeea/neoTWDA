@@ -8,17 +8,15 @@ Igor Pereira
 
 -- Unknown
 
-Weenie Celerity Sticks
-
-Unknown
+Deck Name: Weenie Celerity Sticks
 
 Crypt (12 cards, min=7 max=16 avg=3.08)
 ---------------------------------------
-2x Jimmy Dunn               4  for CEL POT      Pander:2
-2x Parmenides               4  qui CEL          Banu Haqim:2
+2x Jimmy Dunn               4  CEL POT for      Pander:2
+2x Parmenides               4  CEL qui          Banu Haqim:2
 2x Sarah Brando             3  CEL              Brujah antitribu:2
-1x Scarlet Carson O'Toole   4  pro CEL          Gangrel antitribu:3
-1x Victor Tolliver          4  pot CEL          Brujah antitribu:2
+1x Scarlet Carson O'Toole   4  CEL pro          Gangrel antitribu:3
+1x Victor Tolliver          4  CEL pot          Brujah antitribu:2
 1x Carter                   2  cel              Toreador antitribu:2
 1x Jesús Alcalá             2  cel              Gangrel antitribu:3
 1x Kanya Akhtar             2  cel              Banu Haqim:2
@@ -27,7 +25,7 @@ Crypt (12 cards, min=7 max=16 avg=3.08)
 Library (89 cards)
 Master (13)
 6x Ashur Tablets
-4x Celerity -- cel
+4x Celerity
 3x Tribute to the Master
 
 Action (12)

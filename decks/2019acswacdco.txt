@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9425
 
 -- 1gw5 + 1.5vp in the final
 
-Dream a Little Dream (Cup Edition)
+Deck Name: Dream a Little Dream (Cup Edition)
 
+Description:
 !Malk Dream World bread deck.
 
 Some minor tweaks since my original win with this. Stavros is really the star
@@ -93,10 +94,10 @@ when time is called.
 
 Crypt (12 cards, min=9 max=32 avg=5.08)
 ---------------------------------------
-3x Stavros                 7  dem AUS OBF PRE       priscus      Malkavian antitribu:4
+3x Stavros                 7  AUS OBF PRE dem       priscus      Malkavian antitribu:4
 2x Alicia Barrows          9  AUS DEM OBF POT PRE   archbishop   Malkavian antitribu:4
 2x Fabrizia Contreraz      4  dem pot               archbishop   Malkavian antitribu:4
-1x General Perfidio Díos   5  dem obf AUS           bishop       Malkavian antitribu:3
+1x General Perfidio Díos   5  AUS dem obf           bishop       Malkavian antitribu:3
 1x Blister                 3  obf pot                            Nosferatu antitribu:4
 1x Bloodfeud               2  obf                                Malkavian antitribu:4
 1x Denette Stensen         2  obf                                Gangrel antitribu:4
@@ -108,20 +109,20 @@ Master (23; 2 trifle)
 3x Blood Doll
 3x Dreams of the Sphinx
 1x Hungry Coyote, The
-5x Obfuscate -- if you have an opening Fabrizia consider holding one
-1x Pentex(TM) Subversion -- never played; discarded twice
+5x Obfuscate
+1x Pentex(TM) Subversion
 1x Powerbase: Madrid
 1x Sunset Strip, Hollywood
-2x Vessel -- prefer Blood Dolls for this deck, but need the trifle
+2x Vessel
 
 Action (11)
 7x Creation Rites
 3x Dream World
-1x Sibyl's Tongue -- adds flexibility in lieu of second copies of silver bullets
+1x Sibyl's Tongue
 
 Ally (7)
 1x Mylan Horseed
-6x Procurer -- Impundulu can eat these guys and that made me sad
+6x Procurer
 
 Political Action (4)
 3x Consanguineous Boon
@@ -149,4 +150,4 @@ Reaction (14)
 5x Telepathic Misdirection
 
 Event (1)
-1x Uncoiling, The -- hate needing to have a bullet to shoot down other bullets
+1x Uncoiling, The

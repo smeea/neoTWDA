@@ -8,14 +8,15 @@ Ralf Lammert
 
 -- Unknown
 
-Dominate Is Broken
+Deck Name: Dominate Is Broken
 
+Description:
 DOM nastiness w/ combat.
 
 Crypt (12 cards, min=5 max=16 avg=2.5)
 --------------------------------------
-2x Gloria Giovanni        4  nec DOM      Giovanni:2
-2x Ingrid Russo           4  for DOM      Ventrue antitribu:2
+2x Gloria Giovanni        4  DOM nec      Giovanni:2
+2x Ingrid Russo           4  DOM for      Ventrue antitribu:2
 1x Brooke                 3  dom tha      Tremere antitribu:2
 1x Christine Boscacci     2  dom vic      Pander:2
 1x Mustafa Rahman         2  dom          Tremere:2
@@ -26,7 +27,7 @@ Crypt (12 cards, min=5 max=16 avg=2.5)
 1x Royce                  1  dom          Pander:2
 
 Library (84 cards)
-Master (22)
+Master (22; 3 trifle)
 4x Blood Doll
 6x Dominate
 1x Fame

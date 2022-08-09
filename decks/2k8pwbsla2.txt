@@ -8,8 +8,9 @@ Ira Fay
 
 -- 3vp in the final
 
-Thank You Ian Lee
+Deck Name: Thank You Ian Lee
 
+Description:
 Get a bunch of locations in play, a giant hand size, and
 then win. Make sure Guillaume doesn't go to torpor. Ian loaned me
 the Preternatural Strength and Therbold Realty, both of which are very
@@ -17,15 +18,15 @@ strong in this deck. I got up to hand size 18 in the tournament.
 
 Crypt (12 cards, min=20 max=36 avg=7.42)
 ----------------------------------------
-5x Guillaume Giovanni             9  obt CEL DOM NEC POT             Giovanni:4
-3x Baldesar Rossellini            8  aus for nec DOM POT             Giovanni:4
+5x Guillaume Giovanni             9  CEL DOM NEC POT obt             Giovanni:4
+3x Baldesar Rossellini            8  DOM POT aus for nec             Giovanni:4
 1x Don Michael Antonio Giovanni   7  DOM NEC POT           2 votes   Giovanni:4
-1x Benedict Giovanni, Agent       6  cel dom nec FOR POT             Giovanni:4
+1x Benedict Giovanni, Agent       6  FOR POT cel dom nec             Giovanni:4
 1x Primo Giovanni                 4  dom nec pot                     Giovanni:4
 1x Lia Milliner                   3  dom nec                         Giovanni:3
 
 Library (91 cards)
-Master (27)
+Master (27; 3 trifle)
 2x Blood Doll
 1x Brothers Grimm
 1x Carver's Meat Packing and Storage

@@ -8,18 +8,17 @@ Marco Vassallo
 
 -- Unknown
 
-Unknown
-
+Description:
 Assamite and Amaravati
 
 Crypt (12 cards, min=9 max=31 avg=5.17)
 ---------------------------------------
-3x Amaravati          8  ani chi DOM OBF QUI            Banu Haqim:4
-1x Kashan             7  obt pre CEL OBF QUI   1 vote   Banu Haqim:4
-1x Olugbenga          7  ani cel OBF QUI       magaji   Banu Haqim:4
-1x Vardar Vardarian   6  cel pre OBF QUI                Banu Haqim:4
-1x Layla bint-Nadr    5  qui CEL OBF                    Banu Haqim:4
-1x Kamau Jafari       4  obf QUI                        Banu Haqim:4
+3x Amaravati          8  DOM OBF QUI ani chi            Banu Haqim:4
+1x Kashan             7  CEL OBF QUI obt pre   1 vote   Banu Haqim:4
+1x Olugbenga          7  OBF QUI ani cel       magaji   Banu Haqim:4
+1x Vardar Vardarian   6  OBF QUI cel pre                Banu Haqim:4
+1x Layla bint-Nadr    5  CEL OBF qui                    Banu Haqim:4
+1x Kamau Jafari       4  QUI obf                        Banu Haqim:4
 1x Evan Rogers        3  cel qui                        Banu Haqim:4
 1x Sukainah           3  aus qui                        Banu Haqim:5
 1x Alu                2  obf                            Banu Haqim:5

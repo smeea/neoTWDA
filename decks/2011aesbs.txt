@@ -8,14 +8,12 @@ Noel Giménez Infante
 
 -- Unknown
 
-¡Me pareció ver un lindo gatito!
-
-Unknown
+Deck Name: ¡Me pareció ver un lindo gatito!
 
 Crypt (12 cards, min=10 max=16 avg=3.17)
 ----------------------------------------
 4x Fidus, The Shrunken Beast   4  for tha vis      Gargoyle:2
-1x Blythe Candeleria           3  aus THA          Tremere:2
+1x Blythe Candeleria           3  THA aus          Tremere:2
 1x Brooke                      3  dom tha          Tremere antitribu:2
 1x Ehrich Weiss                3  dom tha          Tremere:3
 1x Ember Wright                3  aus dom          Tremere antitribu:3

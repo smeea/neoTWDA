@@ -8,22 +8,23 @@ Nils-Johan Andreasson
 
 -- Unknown
 
-Talley's Night Out
+Deck Name: Talley's Night Out
 
+Description:
 Lasombra S&B with light intercept & combat.
 
 Crypt (12 cards, min=18 max=34 avg=6.5)
 ---------------------------------------
-1x Antonio Delgado                9  tha DOM OBT POT       archbishop   Lasombra:2
-1x Francisco Domingo de Polonia   9  pro DOM OBT POT PRE   archbishop   Lasombra:2
-1x Gratiano                       8  obf pot DOM OBT       priscus      Lasombra:2
-1x Lucita                         8  cel pot DOM FOR OBT                Lasombra:2
-1x Henri Lavenant                 7  pot qui DOM OBT                    Lasombra:3
-1x Tobias Smith                   7  pot DOM OBT PRE                    Lasombra:3
-1x Aurora Van Brande, Paladin     6  dom for pot OBT                    Lasombra:2
-1x Talley, The Hound              6  aus dom OBT POT                    Lasombra:2
-1x Banjoko                        5  obt pot DOM                        Lasombra:3
-1x Guido Lucciano                 5  dom obf OBT                        Lasombra:2
+1x Antonio Delgado                9  DOM OBT POT tha       archbishop   Lasombra:2
+1x Francisco Domingo de Polonia   9  DOM OBT POT PRE pro   archbishop   Lasombra:2
+1x Gratiano                       8  DOM OBT obf pot       priscus      Lasombra:2
+1x Lucita                         8  DOM FOR OBT cel pot                Lasombra:2
+1x Henri Lavenant                 7  DOM OBT pot qui                    Lasombra:3
+1x Tobias Smith                   7  DOM OBT PRE pot                    Lasombra:3
+1x Aurora Van Brande, Paladin     6  OBT dom for pot                    Lasombra:2
+1x Talley, The Hound              6  OBT POT aus dom                    Lasombra:2
+1x Banjoko                        5  DOM obt pot                        Lasombra:3
+1x Guido Lucciano                 5  OBT dom obf                        Lasombra:2
 1x Ignacio, The Black Priest      4  dom obt pot                        Lasombra:2
 1x Ramiro                         4  dom obt vic                        Lasombra:2
 

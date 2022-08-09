@@ -8,8 +8,9 @@ Vincent Ripoll
 
 -- Unknown
 
-Enkidu PRO CEL
+Deck Name: Enkidu PRO CEL
 
+Description:
 I got some inspiration from Aleksi Nuora's TWD to build this one.
 Protean and Celerity are great costless polyvalent combat disciplines
 (there are only 3 Claws that cost blood amongst the 60 combat cards).
@@ -23,7 +24,7 @@ Master come quite quickly because you cycle lots of cards. You can even
 
 Crypt (13 cards, min=7 max=44 avg=6.31)
 ---------------------------------------
-6x Enkidu, The Noah   11  for ANI CEL OBF POT PRO      Gangrel antitribu:4
+6x Enkidu, The Noah   11  ANI CEL OBF POT PRO for      Gangrel antitribu:4
 2x Andre LeRoux        3  aus                          Toreador:5
 1x T.J.                3  cel for                      Gangrel:4
 1x Clifton Derrik      2  cel                          Brujah:4
@@ -33,42 +34,42 @@ Crypt (13 cards, min=7 max=44 avg=6.31)
 
 Library (90 cards)
 Master (12; 3 trifle)
-4x Blood Doll -- slow pool gain and blood management to feed Enkidu.
-1x Guardian Angel -- the permanent "prevent 1" is a real life saver.
-1x Monster -- permanent untap
-1x Pentex(TM) Subversion -- for contest or to lock an annoying minion (Ponticulus or the guy with the gun). Can also slow down your predator when you don't have Enkidu yet)
-2x Sudden Reversal -- To be kept against Pentex, Temptation of Greater Power etc.
+4x Blood Doll
+1x Guardian Angel
+1x Monster
+1x Pentex(TM) Subversion
+2x Sudden Reversal
 3x Wider View
 
 Action (8)
-1x Aranthebes, The Immortal -- as always, to contest or to give me some protection against weenie decks (or even intercept... it's a great card)
+1x Aranthebes, The Immortal
 1x Bum's Rush
 1x Deep Song
-1x Heroic Might -- makes some combat easier, but is not vital
+1x Heroic Might
 2x Rumble
 1x Sense Death
 1x Taunt the Caged Beast
 
 Equipment (1)
-1x Gran Madre di Dio, Italy -- against Tupdogs, Nocturns...
+1x Gran Madre di Dio, Italy
 
 Retainer (2)
-1x Homunculus -- not vital, but useful once you have Enkil Cog
-1x Raven Spy -- helpful, but not vital.
+1x Homunculus
+1x Raven Spy
 
 Action Modifier (2)
-2x Enkil Cog -- allows permanent multirush and can give the edge during's your predator's turn. The +1 bleed is great also. Really a key card.
+2x Enkil Cog
 
 Reaction (6)
-6x Sense the Savage Way -- to block of course, but protects also against Rötschreck/Mind Numb/Sensory Deprivation
+6x Sense the Savage Way
 
 Combat (59)
-3x Canine Horde -- why play Drawing when you can get rid of that Ivory Bow/.44 Magnum or Heart of Nizchetus?
-3x Claws of the Dead -- should always be used to burn vampires. Can get rid of Ponticulus/Tye/Ambrosius
-9x Earth Meld -- defensive, untap, works well with Psyche! and is free. Can't ask for more
-2x Flesh of Marble -- cycles easily, handles War Ghoul/Carrion/.44 blur etc.
-16x Psyche! -- key card, even 16 are sometimes not enough
+3x Canine Horde
+3x Claws of the Dead
+9x Earth Meld
+2x Flesh of Marble
+16x Psyche!
 11x Pursuit
 2x Skin of Steel
-4x Stutter-Step -- saves slots, can be used by the sidekicks to dodge
+4x Stutter-Step
 9x Taste of Vitae

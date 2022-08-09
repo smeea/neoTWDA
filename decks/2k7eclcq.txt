@@ -8,10 +8,6 @@ Olivier Perez
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=16 max=20 avg=4.58)
 ----------------------------------------
 4x Travis "Traveler72" Miller     5  mar def          Martyr:4

@@ -8,19 +8,17 @@ James Rodriguez
 
 -- 5vp in the final
 
-"Your tongues can't repel flavor of that magnitude!"
-
-Unknown
+Deck Name: "Your tongues can't repel flavor of that magnitude!"
 
 Crypt (12 cards, min=4 max=25 avg=3.5)
 --------------------------------------
 4x Anarch Convert       1                           Caitiff:ANY
-1x Amaravati            8  ani chi DOM OBF QUI      Banu Haqim:4
-1x Hafsa, The Watcher   6  aus cel OBF QUI          Banu Haqim:5
-1x Vardar Vardarian     6  cel pre OBF QUI          Banu Haqim:4
+1x Amaravati            8  DOM OBF QUI ani chi      Banu Haqim:4
+1x Hafsa, The Watcher   6  OBF QUI aus cel          Banu Haqim:5
+1x Vardar Vardarian     6  OBF QUI cel pre          Banu Haqim:4
 1x Janni                5  cel for obf qui          Banu Haqim:4
-1x Layla bint-Nadr      5  qui CEL OBF              Banu Haqim:4
-1x Michael diCarlo      5  obf qui CEL              Banu Haqim:4
+1x Layla bint-Nadr      5  CEL OBF qui              Banu Haqim:4
+1x Michael diCarlo      5  CEL obf qui              Banu Haqim:4
 1x Alu                  2  obf                      Banu Haqim:5
 1x Basir                1  qui                      Banu Haqim:4
 
@@ -42,7 +40,7 @@ Master (16)
 
 Action (16)
 4x Embrace, The
-2x Fee Stake: Boston -- had to double up on this one missing Seattle
+2x Fee Stake: Boston
 1x Fee Stake: Corte
 1x Fee Stake: Los Angeles
 1x Fee Stake: New York

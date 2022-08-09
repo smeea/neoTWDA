@@ -8,9 +8,7 @@ https://www.vekn.net/event-calendar/event/7739
 
 -- 3vp in the final
 
-The Remarkable Beauty of the Dog/Warghoul Synergy v2
-
-Unknown
+Deck Name: The Remarkable Beauty of the Dog/Warghoul Synergy v2
 
 Crypt (12 cards, min=4 max=34 avg=4.17)
 ---------------------------------------
@@ -23,7 +21,7 @@ Crypt (12 cards, min=4 max=34 avg=4.17)
 1x Piotr Andreikov      2  aus                          Tzimisce:3
 
 Library (65 cards)
-Master (41)
+Master (41; 8 trifle)
 3x Anarch Revolt
 1x Club Illusion
 2x Direct Intervention

@@ -8,8 +8,7 @@ Phil Thompson
 
 -- Unknown
 
-Unknown
-
+Description:
 True Love and Loyalty
 
 Just an attempt to do block denial while avoiding Necrobleed.
@@ -22,11 +21,11 @@ Elder Impersonation is always fun !
 
 Crypt (12 cards, min=18 max=30 avg=6.17)
 ----------------------------------------
-2x Intisar                  8  cel pot OBF PRE SER      Ministry:2
-2x Qufur am-Heru            7  cel tha OBF PRE SER      Ministry:2
-2x Sarrasine                7  aus nec ser OBF PRE      Ministry:2
-2x Samat Ramal-Ra, Archon   6  pre ser tha OBF          Ministry:2
-2x Count Ormonde            5  dom pre ser OBF          Ministry:2
+2x Intisar                  8  OBF PRE SER cel pot      Ministry:2
+2x Qufur am-Heru            7  OBF PRE SER cel tha      Ministry:2
+2x Sarrasine                7  OBF PRE aus nec ser      Ministry:2
+2x Samat Ramal-Ra, Archon   6  OBF pre ser tha          Ministry:2
+2x Count Ormonde            5  OBF dom pre ser          Ministry:2
 1x Hadrian Garrick          4  obf pre                  Ministry:2
 1x Nepata                   4  obf pre ser              Ministry:2
 

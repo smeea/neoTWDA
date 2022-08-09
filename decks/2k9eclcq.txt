@@ -8,16 +8,14 @@ Pascal Bertrand
 
 -- Unknown
 
-LCQ 2009 Winner
-
-Unknown
+Deck Name: LCQ 2009 Winner
 
 Crypt (12 cards, min=5 max=17 avg=2.75)
 ---------------------------------------
-2x Victoria         5  cel obf AUS      Malkavian:2
-2x Zöe              3  cel obf AUS      Malkavian:2
+2x Victoria         5  AUS cel obf      Malkavian:2
+2x Zöe              3  AUS cel obf      Malkavian:2
 2x Anarch Convert   1                   Caitiff:ANY
-1x Aleph            4  dom AUS          Malkavian:1
+1x Aleph            4  AUS dom          Malkavian:1
 1x Dollface         3  aus obf          Malkavian:1
 1x Isabel de Leon   3  AUS              Toreador:2
 1x Brazil           2  aus              Malkavian:1
@@ -25,7 +23,7 @@ Crypt (12 cards, min=5 max=17 avg=2.75)
 1x Franciscus       1  aus              Caitiff:2
 
 Library (72 cards)
-Master (14)
+Master (14; 3 trifle)
 1x Anarch Revolt
 2x Direct Intervention
 3x Madness Network

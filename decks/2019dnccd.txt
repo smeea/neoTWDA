@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9430
 
 -- 2gw7.5 + 1.5vp in the final
 
-Aksinya weenie PRE - Danish Nationals 2019
+Deck Name: Aksinya weenie PRE - Danish Nationals 2019
 
+Description:
 Report by Christian Nislev:
 
 The attendance has been dropping in the last few years, but this year the trend
@@ -62,15 +63,15 @@ face."
 Crypt (12 cards, min=4 max=31 avg=4.08)
 ---------------------------------------
 4x Anarch Convert    1                                       Caitiff:ANY
-3x Aksinya Daclau    9  cel tha ANI FOR PRE PRO              Gangrel antitribu:4
-1x Loonar            4  cel PRE                              Toreador antitribu:4
-1x Lumumba           4  ani PRE                              Guruhi:4
-1x Marla Kenyon      4  ser PRE                              Ministry:4
+3x Aksinya Daclau    9  ANI FOR PRE PRO cel tha              Gangrel antitribu:4
+1x Loonar            4  PRE cel                              Toreador antitribu:4
+1x Lumumba           4  PRE ani                              Guruhi:4
+1x Marla Kenyon      4  PRE ser                              Ministry:4
 1x Reginald Moore    4  PRE                       primogen   Brujah:4
 1x Jayne Jonestown   2  PRE                                  Brujah antitribu:4
 
 Library (67 cards)
-Master (31)
+Master (31; 1 trifle)
 2x Anarch Revolt
 1x Anarch Troublemaker
 9x Ashur Tablets

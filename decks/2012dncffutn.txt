@@ -8,24 +8,20 @@ Izaak Havelaar
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=33 max=43 avg=9.67)
 ----------------------------------------
 4x Nakhthorheb             10  OBF PRE SER                              Ministry:4
-1x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE       inner circle   Malkavian:4
+1x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4
 1x Mistress Fanchon        11  AUS CEL DOM OBF THA VIC   inner circle   Tremere:4
 1x Rafael de Corazon       11  AUS CEL DOM OBF PRE       inner circle   Toreador:4
 1x Seterpenre              10  AUS NEC OBF PRE SER                      Ministry:5
-1x Neferu                   9  dom nec OBF PRE SER THA   2 votes        Ministry:4
-1x Porphyrion               9  for CHI OBF PRE SER                      Ministry:5
-1x Shemti                   9  vic OBF POT PRE SER       1 vote         Ministry:5
-1x Halim Bey                6  obf tha DOM SER                          Ministry:4
+1x Neferu                   9  OBF PRE SER THA dom nec   2 votes        Ministry:4
+1x Porphyrion               9  CHI OBF PRE SER for                      Ministry:5
+1x Shemti                   9  OBF POT PRE SER vic       1 vote         Ministry:5
+1x Halim Bey                6  DOM SER obf tha                          Ministry:4
 
 Library (60 cards)
-Master (17)
+Master (17; 4 trifle)
 1x Anachronism
 2x Dreams of the Sphinx
 7x Eternals of Sirius, The

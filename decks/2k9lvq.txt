@@ -8,8 +8,7 @@ Matthew Morgan
 
 -- Unknown
 
-Unknown
-
+Description:
 "Vapours Tossed" a.k.a. "Dual Cardinals of Doooom"
 
 Get out Aksinya and whoever else you can. Dual them, Cardinal them
@@ -17,18 +16,18 @@ and the Duals, bleed a bit, vote to kill.
 
 Crypt (12 cards, min=26 max=37 avg=8.08)
 ----------------------------------------
-4x Aksinya Daclau    9  cel tha ANI FOR PRE PRO                Gangrel antitribu:4
-1x Hartmut Stover   10  dom for CEL OBF PRO       archbishop   Gangrel antitribu:3
-1x Malabranca        9  obf AUS CEL PRE PRO       archbishop   Toreador antitribu:4
-1x Una               9  dem ANI FOR PRE PRO       archbishop   Gangrel antitribu:3
-1x Doyle Fincher     7  aus for obf ANI PRO                    Gangrel antitribu:4
+4x Aksinya Daclau    9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
+1x Hartmut Stover   10  CEL OBF PRO dom for       archbishop   Gangrel antitribu:3
+1x Malabranca        9  AUS CEL PRE PRO obf       archbishop   Toreador antitribu:4
+1x Una               9  ANI FOR PRE PRO dem       archbishop   Gangrel antitribu:3
+1x Doyle Fincher     7  ANI PRO aus for obf                    Gangrel antitribu:4
 1x Luke Fellows      7  CEL OBF PRO                            Gangrel antitribu:4
-1x Xendil Charmer    7  obf CEL PRO SER           priscus      Gangrel antitribu:4
-1x Janey Pickman     6  for ANI PRO                            Gangrel antitribu:4
-1x Ryszard           6  pre pro CEL OBF           bishop       Gangrel antitribu:4
+1x Xendil Charmer    7  CEL PRO SER obf           priscus      Gangrel antitribu:4
+1x Janey Pickman     6  ANI PRO for                            Gangrel antitribu:4
+1x Ryszard           6  CEL OBF pre pro           bishop       Gangrel antitribu:4
 
 Library (70 cards)
-Master (24)
+Master (24; 5 trifle)
 1x Anarch Troublemaker
 1x Archon Investigation
 2x Blood Doll

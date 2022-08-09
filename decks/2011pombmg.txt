@@ -8,8 +8,9 @@ Rudolf Scholz
 
 -- Unknown
 
-Announce your PRE
+Deck Name: Announce your PRE
 
+Description:
 PRE tap & bleed with Ashur Tablets/Liquidation
 engine. Inspired by "Kyasid Stealth Bleed" by Michael Holmström.
 Dedicated to Nora and Vlada.
@@ -19,19 +20,19 @@ would drop 2x Huitzilopochtli for additional 2x Anson
 Crypt (12 cards, min=16 max=36 avg=6.25)
 ----------------------------------------
 2x Huitzilopochtli                   10  AUS DAI DOM OBF POT PRE              Baali:2
-2x Anson                              8  aus dom CEL PRE           prince     Toreador:1
+2x Anson                              8  CEL PRE aus dom           prince     Toreador:1
 1x Sir Walter Nash                    7  DOM FOR PRE               prince     Ventrue:1
-1x Victoria Ash                       6  aus cel dom PRE           primogen   Toreador:2
-1x Jazz Wentworth                     5  dom for PRE                          Ventrue:1
-1x Ramiel DuPre                       5  aus cel dom PRE                      Toreador:1
-1x Ranjan Rishi, Camarilla Scholar    5  for DOM PRE                          Ventrue:2
-1x Mariana Gilbert                    4  cel PRE                              Toreador:1
-1x Violette Prentiss                  4  dom PRE                              Ventrue:1
+1x Victoria Ash                       6  PRE aus cel dom           primogen   Toreador:2
+1x Jazz Wentworth                     5  PRE dom for                          Ventrue:1
+1x Ramiel DuPre                       5  PRE aus cel dom                      Toreador:1
+1x Ranjan Rishi, Camarilla Scholar    5  DOM PRE for                          Ventrue:2
+1x Mariana Gilbert                    4  PRE cel                              Toreador:1
+1x Violette Prentiss                  4  PRE dom                              Ventrue:1
 1x Gideon Fontaine                    3  PRE                                  Ventrue:1
 
 Library (80 cards)
 Master (27; 1 trifle)
-9x Ashur Tablets -- should be 12, but what to drop?
+9x Ashur Tablets
 1x Coven, The
 1x Direct Intervention
 2x Dreams of the Sphinx
@@ -53,10 +54,10 @@ Action (16)
 Action Modifier (10)
 6x Aire of Elation
 3x Change of Target
-1x Seduction -- as "surprise weapon" against a star blocker
+1x Seduction
 
 Action Modifier/Combat (4)
-4x Force of Personality -- maybe +2
+4x Force of Personality
 
 Reaction (13)
 7x Deflection
@@ -64,7 +65,7 @@ Reaction (13)
 4x On the Qui Vive
 
 Combat (8)
-8x Majesty -- maybe -2
+8x Majesty
 
 Event (2)
 2x Anthelios, The Red Star

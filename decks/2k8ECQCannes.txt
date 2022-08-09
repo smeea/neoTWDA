@@ -8,18 +8,14 @@ Pierre Denis Brouillet
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=16 max=36 avg=6.58)
 ----------------------------------------
-3x Falhu Shibaba        8  ani CEL CHI FOR PRE       magaji   Ishtarri:3
-2x Ayo Igoli           10  obf tha AUS CEL FOR PRE            Ishtarri:4
-2x Ubende               7  for obf qui CEL PRE       magaji   Ishtarri:4
-2x Victor Pelletier     5  cel dom for PRE                    Ventrue:4
+3x Falhu Shibaba        8  CEL CHI FOR PRE ani       magaji   Ishtarri:3
+2x Ayo Igoli           10  AUS CEL FOR PRE obf tha            Ishtarri:4
+2x Ubende               7  CEL PRE for obf qui       magaji   Ishtarri:4
+2x Victor Pelletier     5  PRE cel dom for                    Ventrue:4
 1x Kenyatta             4  cel for pre                        Ishtarri:4
-1x Lumumba              4  ani PRE                            Guruhi:4
+1x Lumumba              4  PRE ani                            Guruhi:4
 1x Panya, The Wicked    3  cel pre                            Ishtarri:4
 
 Library (82 cards)

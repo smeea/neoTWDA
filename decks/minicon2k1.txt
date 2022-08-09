@@ -8,10 +8,9 @@ Matt Green
 
 -- Unknown
 
-Unknown
+Deck Name: Rough Night at the Palla Grande
 
-Deck: Rough Night at the Palla Grande
-
+Description:
 Playing the deck: Never discard any of the 12 kill cards. Counter
 Blood gain with the Suddens. Use Revelations to remove Deflections or
 blood gain from your prey's hand as the first action per turn if
@@ -28,12 +27,12 @@ mattgreen.
 
 Crypt (12 cards, min=16 max=31 avg=5.92)
 ----------------------------------------
-3x Jost Werner                   6  ani AUS PRE                    Toreador antitribu:2
-2x Greta Kircher                 7  obf AUS CEL PRE                Toreador antitribu:2
-2x Sheila Mezarin                6  cel for AUS PRE                Toreador antitribu:2
-1x Donatien                      9  cel pot AUS PRE   cardinal     Toreador antitribu:2
-1x Lachlan, Noddist              8  dom AUS CEL PRE   archbishop   Toreador antitribu:2
-1x Remilliard, Devout Crusader   4  pre AUS                        Toreador antitribu:2
+3x Jost Werner                   6  AUS PRE ani                    Toreador antitribu:2
+2x Greta Kircher                 7  AUS CEL PRE obf                Toreador antitribu:2
+2x Sheila Mezarin                6  AUS PRE cel for                Toreador antitribu:2
+1x Donatien                      9  AUS PRE cel pot   cardinal     Toreador antitribu:2
+1x Lachlan, Noddist              8  AUS CEL PRE dom   archbishop   Toreador antitribu:2
+1x Remilliard, Devout Crusader   4  AUS pre                        Toreador antitribu:2
 1x Dan Murdock                   3  aus obf                        Caitiff:1
 1x Lena Rowe                     3  aus obf pre                    Pander:2
 

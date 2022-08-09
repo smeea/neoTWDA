@@ -8,8 +8,9 @@ Johannes Walch
 
 -- 4vp in the final
 
-Johannes Commands the Legion
+Deck Name: Johannes Commands the Legion
 
+Description:
 Basic idea was to use Command the Legion in any deck. I
 made a G4/5 Ventrue, but was not too happy about it. Consulted the TWDA
 and found Otto's G4/5 Ven, from where I borrowed a lot of ideas.
@@ -42,19 +43,19 @@ effective. versatility really rules in this deck
 
 Crypt (12 cards, min=18 max=39 avg=7.25)
 ----------------------------------------
-2x Mary Anne Blaire      10  ani pot AUS DOM FOR PRE   justicar   Ventrue:5
+2x Mary Anne Blaire      10  AUS DOM FOR PRE ani pot   justicar   Ventrue:5
 2x Johannes Castelein     9  DEM DOM FOR PRE           prince     Ventrue:4
-1x Gustav Breidenstein   10  aus cel pot DOM FOR PRE   prince     Ventrue:4
-1x Lodin (Olaf Holte)     8  aus pro DOM FOR PRE       prince     Ventrue:5
-1x Graham Gottesman       7  obf pre tha DOM FOR       prince     Ventrue:5
-1x Mustafa, The Heir      6  cel dom FOR PRE           prince     Ventrue:4
-1x Victor Donaldson       6  for pre DOM               prince     Ventrue:5
-1x Emily Carson           5  for pre DOM               primogen   Ventrue:5
-1x Victor Pelletier       5  cel dom for PRE                      Ventrue:4
+1x Gustav Breidenstein   10  DOM FOR PRE aus cel pot   prince     Ventrue:4
+1x Lodin (Olaf Holte)     8  DOM FOR PRE aus pro       prince     Ventrue:5
+1x Graham Gottesman       7  DOM FOR obf pre tha       prince     Ventrue:5
+1x Mustafa, The Heir      6  FOR PRE cel dom           prince     Ventrue:4
+1x Victor Donaldson       6  DOM for pre               prince     Ventrue:5
+1x Emily Carson           5  DOM for pre               primogen   Ventrue:5
+1x Victor Pelletier       5  PRE cel dom for                      Ventrue:4
 1x Jackson Asher          2  dom                                  Ventrue:4
 
 Library (90 cards)
-Master (17)
+Master (17; 6 trifle)
 1x Anarch Troublemaker
 1x Giant's Blood
 1x Golconda: Inner Peace

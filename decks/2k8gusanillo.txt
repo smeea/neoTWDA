@@ -8,26 +8,24 @@ Noel Giménez Infante
 
 -- 3vp in the final
 
-Unknown
-
-Name Deck: Si te paro te vas al hoyo
+Deck Name: Si te paro te vas al hoyo
 
 Crypt (12 cards, min=10 max=30 avg=5.17)
 ----------------------------------------
-2x Sascha Vykos, The Angel of Caine   8  ani dom AUS THA VIC   priscus   Tzimisce:2 -- Maravillosa su habilidad para torneo xD
-2x Corine Marcón                      6  ani AUS VIC                     Tzimisce:2
-1x Meshenka                           8  ANI AUS VIC           priscus   Tzimisce:2 -- sobrevalorada por muchos para mi gusto
+2x Sascha Vykos, The Angel of Caine   8  AUS THA VIC ani dom   priscus   Tzimisce:2
+2x Corine Marcón                      6  AUS VIC ani                     Tzimisce:2
+1x Meshenka                           8  ANI AUS VIC           priscus   Tzimisce:2
 1x Caliban                            6  ANI AUS VIC                     Tzimisce:2
-1x Ana Rita Montaña                   5  aus dom obf VIC                 Tzimisce:3
-1x Devin Bisley                       5  vic ANI AUS                     Tzimisce:2
-1x Lolita Houston                     4  aus VIC                         Tzimisce:2
+1x Ana Rita Montaña                   5  VIC aus dom obf                 Tzimisce:3
+1x Devin Bisley                       5  ANI AUS vic                     Tzimisce:2
+1x Lolita Houston                     4  VIC aus                         Tzimisce:2
 1x Isabel de Leon                     3  AUS                             Toreador:2
 1x Horatio                            2  vic                             Tzimisce:2
-1x Olga Triminov                      1  vic                             Pander:3 -- junto a horario los más bleederos del mazo, es espectacular el miedo que se les tiene XD
+1x Olga Triminov                      1  vic                             Pander:3
 
 Library (90 cards)
 Master (22; 3 trifle)
-2x Blood Doll -- quizás cambiarla por 2 vessel más
+2x Blood Doll
 2x Direct Intervention
 1x Erciyes Fragments, The
 1x Fame
@@ -36,7 +34,7 @@ Master (22; 3 trifle)
 2x Parthenon, The
 1x Path of Lilith, The
 1x Pentex(TM) Subversion
-1x Powerbase: Montreal -- estaría bien que de vez en cuando me saliera XD
+1x Powerbase: Montreal
 1x Rack, The
 3x Rötschreck
 1x Smiling Jack, The Anarch
@@ -44,20 +42,20 @@ Master (22; 3 trifle)
 3x Vessel
 
 Action (4)
-2x Abbot -- Buena carta xD
-1x Army of Rats -- MVP del torneo XD
+2x Abbot
+1x Army of Rats
 1x Eternal Vigilance
 
 Ally (1)
-1x Carlton Van Wyk -- Lo llevo básicamente porque diablerizo mucho con este mazo y es una ayuda bloqueando
+1x Carlton Van Wyk
 
 Equipment (3)
 1x Bowl of Convergence
 1x Heart of Nizchetus
-1x Ivory Bow -- esto con Isabel de león es una risa
+1x Ivory Bow
 
 Retainer (1)
-1x Mr. Winthrop -- creo que sería bueno cambiarlo por 1 Aranthebes
+1x Mr. Winthrop
 
 Action Modifier (2)
 2x Changeling
@@ -76,7 +74,7 @@ Reaction (38)
 
 Combat (18)
 8x Breath of the Dragon
-10x Chiropteran Marauder -- No XD no son maniobras, son agravados
+10x Chiropteran Marauder
 
 Event (1)
-1x Dragonbound -- con mi teoría de que es mejor diablerizar que dejarlos en torpor... no me combó mucho en el torneo, pero siempre va bien creo
+1x Dragonbound

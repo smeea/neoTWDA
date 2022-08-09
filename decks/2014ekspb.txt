@@ -8,9 +8,7 @@ https://www.vekn.net/event-calendar/event/7837
 
 -- 4vp in the final
 
-Faith Factor
-
-Unknown
+Deck Name: Faith Factor
 
 Crypt (12 cards, min=13 max=20 avg=4.17)
 ----------------------------------------
@@ -24,7 +22,7 @@ Crypt (12 cards, min=13 max=20 avg=4.17)
 1x François "Warden" Loehr        3  def jud          Judge:4
 
 Library (62 cards)
-Master (20)
+Master (20; 1 trifle)
 5x Angel of Berlin
 3x Church of Vindicated Faith, The
 1x Direct Intervention

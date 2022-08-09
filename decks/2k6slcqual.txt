@@ -8,10 +8,6 @@ Alex Harmon
 
 -- 3gw8 + 2vp in the final
 
-Unknown
-
-Unknown
-
 Crypt (13 cards, min=13 max=22 avg=4.46)
 ----------------------------------------
 4x Travis "Traveler72" Miller    5  mar def          Martyr:4

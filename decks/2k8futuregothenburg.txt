@@ -6,12 +6,11 @@ October 11th 2008
 Erik Torstensson
 
 
--- Unknown
+-- 4gw, 13VP, 3VP in final
 
-Chelsea Hotel #2
+Deck Name: Chelsea Hotel #2
 
-4gw, 13VP, 3VP in final
-
+Description:
 I remember you well in the Chelsea Hotel,
 you were talking so brave and so sweet,
 giving me head on the undead bed,
@@ -19,17 +18,17 @@ while the limousines wait in the street.
 
 Crypt (12 cards, min=16 max=36 avg=6.5)
 ---------------------------------------
-4x Guillaume Giovanni             9  obt CEL DOM NEC POT             Giovanni:4
-2x Raphaela Giovanni              6  pot pre DOM NEC                 Giovanni:4
+4x Guillaume Giovanni             9  CEL DOM NEC POT obt             Giovanni:4
+2x Raphaela Giovanni              6  DOM NEC pot pre                 Giovanni:4
 1x Don Michael Antonio Giovanni   7  DOM NEC POT           2 votes   Giovanni:4
-1x Gualtiero Ghiberti             7  cel pot tha DOM NEC             Giovanni:4
-1x Donatello Giovanni             5  aus pot pre DOM                 Giovanni:4
+1x Gualtiero Ghiberti             7  DOM NEC cel pot tha             Giovanni:4
+1x Donatello Giovanni             5  DOM aus pot pre                 Giovanni:4
 1x Prejudice                      4  aus dom nec                     Nagaraja:4
 1x Primo Giovanni                 4  dom nec pot                     Giovanni:4
 1x Lia Milliner                   3  dom nec                         Giovanni:3
 
 Library (90 cards)
-Master (39)
+Master (39; 4 trifle)
 1x Acquired Ventrue Assets
 2x Anarch Troublemaker
 1x Barrens, The

@@ -8,9 +8,7 @@ Gabriel Waichert
 
 -- Unknown
 
-A revolução do proletariado
-
-Unknown
+Deck Name: A revolução do proletariado
 
 Crypt (22 cards, min=4 max=8 avg=1.36)
 --------------------------------------

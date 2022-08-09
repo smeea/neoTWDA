@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/10043
 
 -- 1gw5 + 2vp in the final
 
-Daylily
+Deck Name: Daylily
 
+Description:
 This deck is based on a similar deck I saw Randall Rudstam play back in 2011. It's pretty straightforward with what it does. Get out 2-3 PRO ANI vamps and abuse the combo of deep song and earth meld to tap down all of your preys vamps and launch massive bleeds with codex and heidelburg. Selectively block actions you don't like and earth meld out of those combats.
 
 The final of this tournament was pretty interesting as we had 5 protean decks including three gangrel anti decks at the table. Seating was
@@ -30,9 +31,9 @@ A big thank you to Mark and the Comic Shop Plus for hosting as always.
 
 Crypt (12 cards, min=8 max=26 avg=4.42)
 ---------------------------------------
-3x Janey Pickman        6  for ANI PRO              Gangrel antitribu:4
-2x Doyle Fincher        7  aus for obf ANI PRO      Gangrel antitribu:4
-2x Céleste Lamontagne   5  for ANI PRO              Gangrel antitribu:4
+3x Janey Pickman        6  ANI PRO for              Gangrel antitribu:4
+2x Doyle Fincher        7  ANI PRO aus for obf      Gangrel antitribu:4
+2x Céleste Lamontagne   5  ANI PRO for              Gangrel antitribu:4
 1x Joseph Fischer       3  PRO                      Gangrel antitribu:5
 1x Lillian              3  ani pro                  Gangrel:5
 1x Leo Washington       2  cel pro                  Gangrel antitribu:4
@@ -40,7 +41,7 @@ Crypt (12 cards, min=8 max=26 avg=4.42)
 1x Iris Bennett         1  pro                      Caitiff:5
 
 Library (90 cards)
-Master (20)
+Master (20; 4 trifle)
 2x Anarch Troublemaker
 1x Animalism
 1x Archon Investigation

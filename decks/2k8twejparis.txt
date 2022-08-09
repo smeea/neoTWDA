@@ -8,8 +8,9 @@ Orian Gissler
 
 -- Unknown
 
-Anarch diversion
+Deck Name: Anarch diversion
 
+Description:
 Sentences to say when playing the deck:
 "Shit, I knew I should have played three restricted vitae
 to draw it early, you know"
@@ -18,19 +19,19 @@ to draw it early, you know"
 
 Crypt (12 cards, min=12 max=29 avg=5.17)
 ----------------------------------------
-2x Conrad Adoula              8  ani cel DOM OBT POT            Lasombra:4
+2x Conrad Adoula              8  DOM OBT POT ani cel            Lasombra:4
 2x Leila Monroe               4  dom obt pre                    Lasombra:4
-1x Henri Lavenant             7  pot qui DOM OBT                Lasombra:3
-1x Onaedo                     6  aus pot DOM OBT                Lasombra:4
-1x Virginie, Prodigy          6  obt DOM POT           bishop   Lasombra:4
-1x Banjoko                    5  obt pot DOM                    Lasombra:3
-1x Dr. Julius Sutphen (ADV)   5  dom obt POT                    Lasombra:3
-1x Ermenegildo, The Rake      5  pot DOM OBT                    Lasombra:4
+1x Henri Lavenant             7  DOM OBT pot qui                Lasombra:3
+1x Onaedo                     6  DOM OBT aus pot                Lasombra:4
+1x Virginie, Prodigy          6  DOM POT obt           bishop   Lasombra:4
+1x Banjoko                    5  DOM obt pot                    Lasombra:3
+1x Dr. Julius Sutphen (ADV)   5  POT dom obt                    Lasombra:3
+1x Ermenegildo, The Rake      5  DOM OBT pot                    Lasombra:4
 1x Lucy Markowitz             3  dom obt                        Lasombra:4
 1x Margarite                  1  obt                            Pander:4
 
 Library (80 cards)
-Master (14)
+Master (14; 4 trifle)
 4x Anarch Revolt
 1x Elysian Fields
 1x Jake Washington

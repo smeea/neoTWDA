@@ -8,8 +8,7 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/ZLzYoNmk3k0
 
 -- Unknown
 
-Unknown
-
+Description:
 The prelims were pretty nasty. I abused the crap out of the Succubus
 Club. The first table I ended up using it to save myself from dying 3
 different times. After paying my predator 1 pool to "borrow" her
@@ -51,7 +50,7 @@ more.
 
 Crypt (18 cards, min=36 max=36 avg=9.0)
 ---------------------------------------
-18x Spiridonas   9  pot pre DOM THA   prince   Tremere:2
+18x Spiridonas   9  DOM THA pot pre   prince   Tremere:2
 
 Library (80 cards)
 Master (20)

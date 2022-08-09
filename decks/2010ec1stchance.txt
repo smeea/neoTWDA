@@ -6,12 +6,11 @@ October 31st 2010
 Jérôme Goyet
 
 
--- Unknown
+-- 2GW8 with 1.5VP in final
 
-Out of Africa
+Deck Name: Out of Africa
 
-2GW8 with 1.5VP in final
-
+Description:
 No Secrets from the Magaji Animalism
 
 Also played during LCQ EC2010 with 2GW6.5VP
@@ -20,17 +19,17 @@ Crypt (12 cards, min=10 max=31 avg=5.17)
 ----------------------------------------
 2x Uchenna       7  ABO ANI FOR               magaji   Akunanse:4
 2x Stick         3  ANI                                Nosferatu antitribu:4
-1x Umdava        9  vic ABO ANI FOR PRE       magaji   Akunanse:4
-1x Sobayifa      8  aus pot pro spi ANI PRE   magaji   Guruhi:3
-1x Olugbenga     7  ani cel OBF QUI           magaji   Banu Haqim:4
-1x Tsunda        6  abo ani dem CHI           magaji   Ravnos:4
-1x Beetleman     4  obf ANI                            Nosferatu:4
-1x Bobby Lemon   4  pro ANI                            Gangrel:3
+1x Umdava        9  ABO ANI FOR PRE vic       magaji   Akunanse:4
+1x Sobayifa      8  ANI PRE aus pot pro spi   magaji   Guruhi:3
+1x Olugbenga     7  OBF QUI ani cel           magaji   Banu Haqim:4
+1x Tsunda        6  CHI abo ani dem           magaji   Ravnos:4
+1x Beetleman     4  ANI obf                            Nosferatu:4
+1x Bobby Lemon   4  ANI pro                            Gangrel:3
 1x Mouse         2  ani                                Nosferatu:3
 1x Zip           2  ani                                Ravnos:3
 
 Library (90 cards)
-Master (16)
+Master (16; 5 trifle)
 2x Animalism
 1x Archon Investigation
 2x Blood Doll

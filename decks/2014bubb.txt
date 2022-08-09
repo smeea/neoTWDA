@@ -8,18 +8,19 @@ https://www.vekn.net/event-calendar/event/7845
 
 -- Unknown
 
-Osebo Flung Junk
+Deck Name: Osebo Flung Junk
 
+Description:
 0.5 + gw2 + 1.5 / 2.5vp
 
 Osebo intercept combat built using the contents of two Osebo starters plus some extra cards.
 
 Crypt (12 cards, min=12 max=24 avg=4.67)
 ----------------------------------------
-3x Titi Camara      5  pot AUS CEL                    Osebo:5
-2x Uzoma            5  aus cel vic POT                Osebo:4
-1x Mamadou Keita    7  aus pot pre vic CEL   magaji   Osebo:4
-1x Abiku            6  cel obt AUS POT                Osebo:4
+3x Titi Camara      5  AUS CEL pot                    Osebo:5
+2x Uzoma            5  POT aus cel vic                Osebo:4
+1x Mamadou Keita    7  CEL aus pot pre vic   magaji   Osebo:4
+1x Abiku            6  AUS POT cel obt                Osebo:4
 1x Homa             6  AUS CEL POT                    Osebo:4
 1x Ismitta          4  aus cel pot                    Osebo:4
 1x Arriette Sylla   3  POT                            Osebo:4
@@ -27,7 +28,7 @@ Crypt (12 cards, min=12 max=24 avg=4.67)
 1x Misrak           2  pot                            Osebo:4
 
 Library (90 cards)
-Master (18)
+Master (18; 3 trifle)
 1x Barrens, The
 1x Base Hunting Ground
 4x Blood Doll

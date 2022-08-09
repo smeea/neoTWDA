@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9848
 
 -- 0gw1.5 + 2.5vp in the final
 
-Balls of Stihl
+Deck Name: Balls of Stihl
 
+Description:
 A dancing Imbued deck featuring Talbot's Chainsaw.
 
 Mental mistakes cost games. In round one, I was blocked transferring equipment to Jennie, but my
@@ -73,7 +74,7 @@ Crypt (12 cards, min=14 max=20 avg=4.33)
 1x Inez "Nurse216" Villagrande   3  inn              Innocent:4
 
 Library (71 cards)
-Master (14)
+Master (14; 1 trifle)
 5x Angel of Berlin
 2x Church of Vindicated Faith, The
 1x Direct Intervention

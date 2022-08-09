@@ -8,19 +8,15 @@ Giulio Grimaldi
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=34 max=43 avg=9.75)
 ----------------------------------------
-3x Alexandra         11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-3x Anneke            10  dom AUS CEL PRE           justicar       Toreador:1
-3x François Villon   10  chi obf pot AUS CEL PRE   prince         Toreador:2
-3x Anson              8  aus dom CEL PRE           prince         Toreador:1
+3x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+3x Anneke            10  AUS CEL PRE dom           justicar       Toreador:1
+3x François Villon   10  AUS CEL PRE chi obf pot   prince         Toreador:2
+3x Anson              8  CEL PRE aus dom           prince         Toreador:1
 
 Library (90 cards)
-Master (39)
+Master (39; 7 trifle)
 8x Aching Beauty
 1x Art Museum
 1x Bleeding the Vine

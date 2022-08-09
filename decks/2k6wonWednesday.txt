@@ -8,23 +8,21 @@ Ginés Quiñonero
 
 -- Unknown
 
-One Nergal To Rule Them All
-
-Unknown
+Deck Name: One Nergal To Rule Them All
 
 Crypt (12 cards, min=12 max=40 avg=6.33)
 ----------------------------------------
 5x Nergal                 10  AUS DAI FOR OBF PRE THA      Baali:5
-1x Louis de Maisonneuve    5  aus dom obf FOR              Ventrue antitribu:4
-1x Petra                   5  aus ANI OBF                  Nosferatu:4
+1x Louis de Maisonneuve    5  FOR aus dom obf              Ventrue antitribu:4
+1x Petra                   5  ANI OBF aus                  Nosferatu:4
 1x Beauregard Krueller     4  aus dem obf                  Malkavian antitribu:4
 1x Guedado                 4  aus obf vic                  Tzimisce:4
-1x Jeffrey Mullins         4  cel OBF                      Gangrel antitribu:4
+1x Jeffrey Mullins         4  OBF cel                      Gangrel antitribu:4
 1x Bloodfeud               2  obf                          Malkavian antitribu:4
 1x Old Neddacka            2  obf                          Nosferatu antitribu:4
 
 Library (90 cards)
-Master (9)
+Master (9; 1 trifle)
 1x Blood Doll
 1x Coven, The
 1x Dreams of the Sphinx

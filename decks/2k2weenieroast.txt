@@ -8,8 +8,9 @@ Matthew Hirsch
 
 -- Unknown
 
-"The Gun is My Brush, Your Face is My Canvas"
+Deck Name: "The Gun is My Brush, Your Face is My Canvas"
 
+Description:
 Bloat up and build a horde of low-caps
 plus Anneke or Anson. Give guns to the ones with celerity.
 Swarm and destroy.
@@ -21,15 +22,15 @@ tight defense to allow time for that longer build-up.
 
 Crypt (12 cards, min=13 max=33 avg=5.17)
 ----------------------------------------
-2x Anneke                           10  dom AUS CEL PRE   justicar   Toreador:1
-1x Anson                             8  aus dom CEL PRE   prince     Toreador:1
-1x Angela Preston                    5  for MEL PRE                  Daughter of Cacophony:2
-1x Delilah Monroe                    4  for pre MEL                  Daughter of Cacophony:2
+2x Anneke                           10  AUS CEL PRE dom   justicar   Toreador:1
+1x Anson                             8  CEL PRE aus dom   prince     Toreador:1
+1x Angela Preston                    5  MEL PRE for                  Daughter of Cacophony:2
+1x Delilah Monroe                    4  MEL for pre                  Daughter of Cacophony:2
 1x Demetrius Slater                  4  aus cel pre                  Toreador:1
-1x Dorian Strack                     4  cel AUS                      Toreador:1
-1x Idalia, Prophet of Guadalajara    4  dem AUS                      Malkavian antitribu:2
-1x Mariana Gilbert                   4  cel PRE                      Toreador:1
-1x Remilliard, Devout Crusader       4  pre AUS                      Toreador antitribu:2
+1x Dorian Strack                     4  AUS cel                      Toreador:1
+1x Idalia, Prophet of Guadalajara    4  AUS dem                      Malkavian antitribu:2
+1x Mariana Gilbert                   4  PRE cel                      Toreador:1
+1x Remilliard, Devout Crusader       4  AUS pre                      Toreador antitribu:2
 1x Céleste, The Voice of a Secret    3  mel pre                      Daughter of Cacophony:2
 1x Delilah Easton                    2  pre                          Toreador:1
 

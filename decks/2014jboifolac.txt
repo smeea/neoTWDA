@@ -8,8 +8,9 @@ Darby Keeney
 
 -- Unknown
 
-Memantine Therapy (2014)
+Deck Name: Memantine Therapy (2014)
 
+Description:
 The second concept from the Art of Memory deck series. I had optimized
 the library a week before the tournament, but I musy have mashed the culls back in with
 the keepers by mistake. The deck still functioned acceptably, but it would benefit from
@@ -23,16 +24,16 @@ The Seductions should probably be removed.
 
 Crypt (12 cards, min=17 max=38 avg=6.67)
 ----------------------------------------
-3x Appius Claudius Corvus   10  cel nec DOM OBT POT      Lasombra:5
+3x Appius Claudius Corvus   10  DOM OBT POT cel nec      Lasombra:5
 2x Saul Meira                8  CHI DOM OBT POT          Lasombra:5
 2x Isanwayen                 6  DOM MYT OBT              Kiasyd:4
-2x Ermenegildo, The Rake     5  pot DOM OBT              Lasombra:4
-1x Dame Hollerton            5  myt DOM OBT              Kiasyd:4
+2x Ermenegildo, The Rake     5  DOM OBT pot              Lasombra:4
+1x Dame Hollerton            5  DOM OBT myt              Kiasyd:4
 1x Leila Monroe              4  dom obt pre              Lasombra:4
 1x Lucy Markowitz            3  dom obt                  Lasombra:4
 
 Library (84 cards)
-Master (22)
+Master (22; 2 trifle)
 1x Admonitions, The
 1x Coven, The
 1x Drop Point Network

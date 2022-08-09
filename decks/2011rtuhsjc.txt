@@ -8,9 +8,7 @@ Eric Haas
 
 -- Unknown
 
-Superstar at the Gay Bar
-
-Unknown
+Deck Name: Superstar at the Gay Bar
 
 Crypt (12 cards, min=15 max=20 avg=4.25)
 ----------------------------------------
@@ -24,7 +22,7 @@ Crypt (12 cards, min=15 max=20 avg=4.25)
 1x François "Warden" Loehr        3  def jud          Judge:4
 
 Library (73 cards)
-Master (20)
+Master (20; 2 trifle)
 6x Angel of Berlin
 1x Church of Vindicated Faith, The
 2x Direct Intervention

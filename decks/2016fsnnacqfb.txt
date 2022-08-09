@@ -8,19 +8,17 @@ https://www.vekn.net/event-calendar/event/8469
 
 -- 3vp in the final
 
-Unknown
-
-Deck: Armin Gangbang
+Deck Name: Armin Gangbang
 
 Crypt (12 cards, min=36 max=40 avg=9.33)
 ----------------------------------------
-4x Armin Brenner     10  ani obf CEL FOR POT PRE   archbishop   Brujah antitribu:4
-3x Dark Selina        9  dom for CEL POT PRE       cardinal     Brujah antitribu:5
-3x Hektor             9  for CEL POT PRE QUI       priscus      Brujah antitribu:4
-2x Dmitra Ilyanova    9  obf CEL FOR POT PRE       justicar     Brujah:5
+4x Armin Brenner     10  CEL FOR POT PRE ani obf   archbishop   Brujah antitribu:4
+3x Dark Selina        9  CEL POT PRE dom for       cardinal     Brujah antitribu:5
+3x Hektor             9  CEL POT PRE QUI for       priscus      Brujah antitribu:4
+2x Dmitra Ilyanova    9  CEL FOR POT PRE obf       justicar     Brujah:5
 
 Library (90 cards)
-Master (17)
+Master (17; 4 trifle)
 1x Amusement Park Hunting Ground
 1x Archon Investigation
 1x Creepshow Casino

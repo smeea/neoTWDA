@@ -8,27 +8,25 @@ Kelly Schultz
 
 -- Unknown
 
-The Kelly Highway
-
-Unknown
+Deck Name: The Kelly Highway
 
 Crypt (12 cards, min=37 max=44 avg=10.42)
 -----------------------------------------
-1x Adana de Sforza         11  aus CEL OBF POT PRE PRO   inner circle   Brujah:4
-1x Hardestadt              11  cel pro DOM FOR POT PRE   inner circle   Ventrue:4
+1x Adana de Sforza         11  CEL OBF POT PRE PRO aus   inner circle   Brujah:4
+1x Hardestadt              11  DOM FOR POT PRE cel pro   inner circle   Ventrue:4
 1x Lucian, the Perfect     11  ANI AUS DOM OBF POT PRE                  Guruhi:4
-1x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE       inner circle   Malkavian:4
+1x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4
 1x Mistress Fanchon        11  AUS CEL DOM OBF THA VIC   inner circle   Tremere:4
 1x Rafael de Corazon       11  AUS CEL DOM OBF PRE       inner circle   Toreador:4
-1x Saulot, The Wanderer    11  dai AUS FOR OBE THA VAL                  Salubri:4
-1x Sha-Ennu                11  obf tha ANI AUS CHI VIC   regent         Tzimisce:4
-1x Armin Brenner           10  ani obf CEL FOR POT PRE   archbishop     Brujah antitribu:4
+1x Saulot, The Wanderer    11  AUS FOR OBE THA VAL dai                  Salubri:4
+1x Sha-Ennu                11  ANI AUS CHI VIC obf tha   regent         Tzimisce:4
+1x Armin Brenner           10  CEL FOR POT PRE ani obf   archbishop     Brujah antitribu:4
 1x Cybele                  10  ANI DAI OBF PRE SER THA                  Baali:4
-1x Undele                   9  obf pre ser CEL FOR       magaji         Ishtarri:5
+1x Undele                   9  CEL FOR obf pre ser       magaji         Ishtarri:5
 1x Nana Buruku              8  ANI POT PRE                              Guruhi:4
 
 Library (60 cards)
-Master (32)
+Master (32; 11 trifle)
 1x Bleeding the Vine
 3x Effective Management
 1x Golconda: Inner Peace

@@ -8,24 +8,22 @@ Zsolt Cziraki
 
 -- Unknown
 
-Let's go to Gym!
-
-Unknown
+Deck Name: Let's go to Gym!
 
 Crypt (12 cards, min=15 max=40 avg=7.0)
 ---------------------------------------
-2x Fakir al Sidi   11  abo ANI FOR PRE PRO THA            Gangrel:4
-2x Matata           9  aus cel obf ABO ANI FOR            Akunanse:3
-2x Amavi            8  pre pro ABO ANI FOR                Akunanse:4
+2x Fakir al Sidi   11  ANI FOR PRE PRO THA abo            Gangrel:4
+2x Matata           9  ABO ANI FOR aus cel obf            Akunanse:3
+2x Amavi            8  ABO ANI FOR pre pro                Akunanse:4
 1x Uchenna          7  ABO ANI FOR               magaji   Akunanse:4
-1x Jubal            6  for pot ABO ANI                    Akunanse:4
-1x Sanjo            6  abo chi ANI FOR                    Akunanse:3
+1x Jubal            6  ABO ANI for pot                    Akunanse:4
+1x Sanjo            6  ANI FOR abo chi                    Akunanse:3
 1x Nestor Kaba      4  abo ani for                        Akunanse:4
 1x Dolie            3  abo ani                            Akunanse:4
 1x Meno Ngari       2  abo                                Akunanse:4
 
 Library (90 cards)
-Master (20)
+Master (20; 9 trifle)
 2x Abombwe
 1x Archon Investigation
 2x Dreams of the Sphinx

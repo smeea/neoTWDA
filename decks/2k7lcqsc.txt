@@ -8,25 +8,26 @@ http://www.almadrava.net/damnans
 
 -- Unknown
 
-Simply Irresistible
+Deck Name: Simply Irresistible
 
+Description:
 http://www.vtes.net
 http://es.groups.yahoo.com/group/vteshispania/
 http://iuturna.sorcery.net (IRC channel: #vtes)
 
 Crypt (12 cards, min=21 max=32 avg=6.58)
 ----------------------------------------
-4x Rebekka, Chantry Elder of Munich   8  pot AUS PRE THA            Tremere:2
-2x Jost Werner                        6  ani AUS PRE                Toreador antitribu:2
-1x Greta Kircher                      7  obf AUS CEL PRE            Toreador antitribu:2
+4x Rebekka, Chantry Elder of Munich   8  AUS PRE THA pot            Tremere:2
+2x Jost Werner                        6  AUS PRE ani                Toreador antitribu:2
+1x Greta Kircher                      7  AUS CEL PRE obf            Toreador antitribu:2
 1x Jessica                            7  AUS CEL OBT PRE   bishop   Toreador antitribu:2
-1x Ian Wallingford                    6  aus CEL PRE       bishop   Toreador antitribu:2
-1x Sheila Mezarin                     6  cel for AUS PRE            Toreador antitribu:2
-1x Creamy Jade                        5  aus cel vic PRE            Toreador antitribu:3
-1x Remilliard, Devout Crusader        4  pre AUS                    Toreador antitribu:2
+1x Ian Wallingford                    6  CEL PRE aus       bishop   Toreador antitribu:2
+1x Sheila Mezarin                     6  AUS PRE cel for            Toreador antitribu:2
+1x Creamy Jade                        5  PRE aus cel vic            Toreador antitribu:3
+1x Remilliard, Devout Crusader        4  AUS pre                    Toreador antitribu:2
 
 Library (90 cards)
-Master (14)
+Master (14; 1 trifle)
 1x Academic Hunting Ground
 1x Anarch Troublemaker
 3x Blood Doll

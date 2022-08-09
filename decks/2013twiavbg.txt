@@ -8,20 +8,18 @@ Martin Schumacher
 
 -- Unknown
 
-A question of honor
-
-Unknown
+Deck Name: A question of honor
 
 Crypt (12 cards, min=38 max=44 avg=10.17)
 -----------------------------------------
 4x Stanislava       11  ANI CEL DOM FOR PRO       inner circle   Gangrel:2
-2x Genevieve        10  aus dom ANI FOR PRO       priscus        Gangrel antitribu:2
-2x Hartmut Stover   10  dom for CEL OBF PRO       archbishop     Gangrel antitribu:3
-2x Xaviar           10  aus cel pot ANI FOR PRO   2 votes        Gangrel:3
-2x Ingrid Rossler    9  dom ANI FOR PRO           prince         Gangrel:2
+2x Genevieve        10  ANI FOR PRO aus dom       priscus        Gangrel antitribu:2
+2x Hartmut Stover   10  CEL OBF PRO dom for       archbishop     Gangrel antitribu:3
+2x Xaviar           10  ANI FOR PRO aus cel pot   2 votes        Gangrel:3
+2x Ingrid Rossler    9  ANI FOR PRO dom           prince         Gangrel:2
 
 Library (90 cards)
-Master (19)
+Master (19; 7 trifle)
 1x Backways
 1x Ecoterrorists
 1x Giant's Blood

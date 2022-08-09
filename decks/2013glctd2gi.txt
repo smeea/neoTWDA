@@ -8,21 +8,19 @@ Luca Turicchi
 
 -- 5vp in the final
 
-Resist Seduction
-
-Unknown
+Deck Name: Resist Seduction
 
 Crypt (12 cards, min=22 max=32 avg=6.92)
 ----------------------------------------
 3x Constanza Vinti             8  CEL DOM POT           prince     Brujah:2
 3x Dónal O'Connor              8  CEL DOM POT           prince     Brujah:2
-2x Rake                        6  aus cel pot PRE       prince     Brujah:1
-2x Volker, The Puppet Prince   5  pot CEL               prince     Brujah:2
-1x Theo Bell                   7  cel dom pre POT                  Brujah:2
-1x Anvil                       6  dom pre tha CEL POT   primogen   Brujah:1
+2x Rake                        6  PRE aus cel pot       prince     Brujah:1
+2x Volker, The Puppet Prince   5  CEL pot               prince     Brujah:2
+1x Theo Bell                   7  POT cel dom pre                  Brujah:2
+1x Anvil                       6  CEL POT dom pre tha   primogen   Brujah:1
 
 Library (88 cards)
-Master (15)
+Master (15; 8 trifle)
 1x Al's Army Apparatus
 1x Celerity
 1x Fame

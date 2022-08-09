@@ -8,22 +8,20 @@ https://www.vekn.net/event-calendar/event/8611
 
 -- 4vp in the final
 
-Anson Gunz #JeSuisAnthelios
-
-Unknown
+Deck Name: Anson Gunz #JeSuisAnthelios
 
 Crypt (13 cards, min=17 max=32 avg=6.85)
 ----------------------------------------
-5x Anson                       8  aus dom CEL PRE   prince   Toreador:1
+5x Anson                       8  CEL PRE aus dom   prince   Toreador:1
 2x Constanza Vinti             8  CEL DOM POT       prince   Brujah:2
 2x Dónal O'Connor              8  CEL DOM POT       prince   Brujah:2
-1x Dodd                        5  dom pre CEL                Brujah antitribu:2
-1x Volker, The Puppet Prince   5  pot CEL           prince   Brujah:2
-1x Victor Tolliver             4  pot CEL                    Brujah antitribu:2
+1x Dodd                        5  CEL dom pre                Brujah antitribu:2
+1x Volker, The Puppet Prince   5  CEL pot           prince   Brujah:2
+1x Victor Tolliver             4  CEL pot                    Brujah antitribu:2
 1x Sarah Brando                3  CEL                        Brujah antitribu:2
 
 Library (75 cards)
-Master (24)
+Master (24; 2 trifle)
 1x Archon Investigation
 9x Ashur Tablets
 1x Direct Intervention

@@ -8,8 +8,7 @@ Hugh Angseesing
 
 -- Unknown
 
-Unknown
-
+Description:
 "Camille & Raven's Royal Bash"
 
 This deck is based upon a deck I used to play before NRA rules were
@@ -21,10 +20,10 @@ have been replaced by dominate cards.
 
 Crypt (12 cards, min=16 max=38 avg=6.42)
 ----------------------------------------
-4x Camille Devereux, The Raven    5  ani FOR PRO                          Gangrel:1
+4x Camille Devereux, The Raven    5  FOR PRO ani                          Gangrel:1
 2x Stanislava                    11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2
-2x Iliana                         7  tha DOM FOR PRO                      Gangrel:2
-1x Ingrid Rossler                 9  dom ANI FOR PRO       prince         Gangrel:2
+2x Iliana                         7  DOM FOR PRO tha                      Gangrel:2
+1x Ingrid Rossler                 9  ANI FOR PRO dom       prince         Gangrel:2
 1x Dylan                          6  aus cel dom for pro                  Ventrue antitribu:2
 1x Chandler Hungerford            3  PRO                                  Gangrel:2
 1x Ricki Van Demsi                3  for pro                              Gangrel:1

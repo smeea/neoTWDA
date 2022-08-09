@@ -8,20 +8,18 @@ Cristian Perez
 
 -- Unknown
 
-Adana & Enkidu
-
-Unknown
+Deck Name: Adana & Enkidu
 
 Crypt (12 cards, min=34 max=44 avg=10.08)
 -----------------------------------------
-4x Enkidu, The Noah   11  for ANI CEL OBF POT PRO                  Gangrel antitribu:4
-3x Adana de Sforza    11  aus CEL OBF POT PRE PRO   inner circle   Brujah:4
-2x Jalan-Aajav         9  ani CEL FOR POT PRO                      Gangrel antitribu:3
-2x Mitru the Hunter    8  ani for CEL OBF PRO                      Gangrel antitribu:4
+4x Enkidu, The Noah   11  ANI CEL OBF POT PRO for                  Gangrel antitribu:4
+3x Adana de Sforza    11  CEL OBF POT PRE PRO aus   inner circle   Brujah:4
+2x Jalan-Aajav         9  CEL FOR POT PRO ani                      Gangrel antitribu:3
+2x Mitru the Hunter    8  CEL OBF PRO ani for                      Gangrel antitribu:4
 1x Karsh              10  ANI CEL FOR POT PRO                      Gangrel:3
 
 Library (90 cards)
-Master (20)
+Master (20; 3 trifle)
 1x Archon Investigation
 1x Campground Hunting Ground
 1x Fortitude

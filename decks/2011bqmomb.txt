@@ -8,20 +8,18 @@ Alexander Loginov
 
 -- 3vp in the final
 
-Cats That Walked By Themselves
-
-Unknown
+Deck Name: Cats That Walked By Themselves
 
 Crypt (12 cards, min=4 max=32 avg=4.83)
 ---------------------------------------
-4x Howler           8  obf ANI PRE SPI      Ahrimane:2
+4x Howler           8  ANI PRE SPI obf      Ahrimane:2
 4x Anarch Convert   1                       Caitiff:ANY
-2x Siamese, The     7  ani pro PRE SPI      Ahrimane:2
-1x Cynthia Ingold   6  ani for pre SPI      Ahrimane:2
+2x Siamese, The     7  PRE SPI ani pro      Ahrimane:2
+1x Cynthia Ingold   6  SPI ani for pre      Ahrimane:2
 1x Delilah Easton   2  pre                  Toreador:1
 
 Library (90 cards)
-Master (21)
+Master (21; 4 trifle)
 1x Anarch Free Press, The
 1x Anarch Railroad
 1x Anarch Revolt

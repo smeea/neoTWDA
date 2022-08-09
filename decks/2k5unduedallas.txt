@@ -8,13 +8,12 @@ Jon Glas
 
 -- Unknown
 
-Unknown
-
+Description:
 MDW: Potence (mono-discipline weenies)
 
 Crypt (13 cards, min=9 max=13 avg=2.85)
 ---------------------------------------
-1x Hector Sosa                    4  pre POT          Brujah:1
+1x Hector Sosa                    4  POT pre          Brujah:1
 1x Cameron                        3  dom pot          Lasombra:2
 1x Cristofero Giovanni            3  nec pot          Giovanni:2
 1x Dre, Leader of the Cold Dawn   3  cel pot          Brujah:1
@@ -29,7 +28,7 @@ Crypt (13 cards, min=9 max=13 avg=2.85)
 1x Paul DiCarlo, The Alpha        2  pot              Giovanni:2
 
 Library (89 cards)
-Master (19)
+Master (19; 2 trifle)
 2x Archon Investigation
 8x Blood Doll
 1x Fame

@@ -8,8 +8,7 @@ Jarkko Suvela
 
 -- 1gw7 + 3vp in the final
 
-Unknown
-
+Description:
 "Lone Biker and his Pup"
 Concept: Bruise
 
@@ -27,9 +26,9 @@ Dead can give maneuver in dire help)
 Crypt (12 cards, min=4 max=40 avg=5.0)
 --------------------------------------
 5x Julius             1  qui ser                          Caitiff:2
-4x Wynn              10  obf pot ANI FOR PRO   primogen   Gangrel:1
-1x Luther             6  for obt pro ANI                  Gangrel antitribu:2
-1x Bear Paw           5  for pre pro ANI                  Gangrel:1
+4x Wynn              10  ANI FOR PRO obf pot   primogen   Gangrel:1
+1x Luther             6  ANI for obt pro                  Gangrel antitribu:2
+1x Bear Paw           5  ANI for pre pro                  Gangrel:1
 1x Roman Alexander    4  ani for pro                      Gangrel:1
 
 Library (90 cards)

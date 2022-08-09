@@ -6,24 +6,22 @@ July 14th 2012
 Txus Alútiz Lizarraga
 
 
--- Unknown
+-- 0 + GW3.5 + GW3 + 4VP in final
 
-Bankia (@@todoloquepuedas.com)
-
-0 + GW3.5 + GW3 + 4VP in final
+Deck Name: Bankia (@@todoloquepuedas.com)
 
 Crypt (12 cards, min=11 max=24 avg=4.75)
 ----------------------------------------
-4x Eurayle Gelasia Mylonas   6  for pre AUS OBE      Salubri:4
-2x Halim Bey                 6  obf tha DOM SER      Ministry:4
-2x Black Lotus               5  aus obf ser DOM      Ministry:4
+4x Eurayle Gelasia Mylonas   6  AUS OBE for pre      Salubri:4
+2x Halim Bey                 6  DOM SER obf tha      Ministry:4
+2x Black Lotus               5  DOM aus obf ser      Ministry:4
 1x Sahira Siraj              4  obf ser tha          Ministry:4
 1x Ahmose Chambers           3  obf ser              Ministry:5
 1x Keith Moody               3  DOM                  Tremere antitribu:4
 1x Anarch Convert            1                       Caitiff:ANY
 
 Library (80 cards)
-Master (16)
+Master (16; 4 trifle)
 1x Dreams of the Sphinx
 4x Heidelberg Castle, Germany
 1x Khobar Towers, Al-Khubar

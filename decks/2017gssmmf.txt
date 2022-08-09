@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8687
 
 -- Unknown
 
-Necrospace
+Deck Name: Necrospace
 
+Description:
 For the best results, alter mustache to all vampires. All of them.
 The most important thing (after mustache) playing this deck is to not die.
 Storage Annex just isn't worth it. Extra hand size isn't an effect, it's just utility, and should be taken as such.
@@ -19,17 +20,17 @@ Even with so much boring dominate, it's actually a lot of fun to play!
 
 Crypt (12 cards, min=13 max=36 avg=6.5)
 ---------------------------------------
-4x Guillaume Giovanni             9  obt CEL DOM NEC POT             Giovanni:4
-2x Pherydima                      8  obt pot DOM MYT NEC   bishop    Kiasyd:4
+4x Guillaume Giovanni             9  CEL DOM NEC POT obt             Giovanni:4
+2x Pherydima                      8  DOM MYT NEC obt pot   bishop    Kiasyd:4
 1x Don Michael Antonio Giovanni   7  DOM NEC POT           2 votes   Giovanni:4
-1x Raphaela Giovanni              6  pot pre DOM NEC                 Giovanni:4
-1x Gianmaria Giovanni             5  dom nec obt POT                 Giovanni:5
-1x Thomasso Ghiberti              4  pot NEC                         Giovanni:4
+1x Raphaela Giovanni              6  DOM NEC pot pre                 Giovanni:4
+1x Gianmaria Giovanni             5  POT dom nec obt                 Giovanni:5
+1x Thomasso Ghiberti              4  NEC pot                         Giovanni:4
 1x Almodo Giovanni                3  dom pot                         Giovanni:4
 1x Anarch Convert                 1                                  Caitiff:ANY
 
 Library (80 cards)
-Master (16)
+Master (16; 3 trifle)
 1x Carver's Meat Packing and Storage
 1x Charisma
 1x Direct Intervention

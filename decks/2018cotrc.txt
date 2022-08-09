@@ -8,19 +8,20 @@ https://www.vekn.net/event-calendar/event/9023
 
 -- 1gw5 + 4vp in the final
 
-You shall not pass
+Deck Name: You shall not pass
 
+Description:
 wall
 
 Crypt (12 cards, min=24 max=36 avg=7.67)
 ----------------------------------------
-4x Qawiyya el-Ghaduba   9  aus pre FOR POT VAL      Salubri antitribu:5
-4x Nuriel               8  cel dom AUS FOR VAL      Salubri antitribu:6
+4x Qawiyya el-Ghaduba   9  FOR POT VAL aus pre      Salubri antitribu:5
+4x Nuriel               8  AUS FOR VAL cel dom      Salubri antitribu:6
 2x Michaela             7  AUS FOR PRE VAL          Salubri antitribu:5
-2x Azrael               5  for AUS VAL              Salubri antitribu:6
+2x Azrael               5  AUS VAL for              Salubri antitribu:6
 
 Library (90 cards)
-Master (22)
+Master (22; 5 trifle)
 2x Archon Investigation
 2x Auspex
 2x Code of Samiel

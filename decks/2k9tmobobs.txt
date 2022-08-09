@@ -8,9 +8,7 @@ Carlos Eduardo Ganso
 
 -- 3gw11 + 4vp in the final
 
-Imbued - Monster Hunter of BOBs
-
-Unknown
+Deck Name: Imbued - Monster Hunter of BOBs
 
 Crypt (12 cards, min=13 max=19 avg=4.0)
 ---------------------------------------

@@ -8,8 +8,9 @@ Matt Wedge
 
 -- 5vp in the final
 
-Hakuna Mata-Tas
+Deck Name: Hakuna Mata-Tas
 
+Description:
 Breed and Boon deck using Bamba and Eldest
 are Kholo as key cards.Losely based on Ravnos Clown Car
 by Robert Goudie from ~10 years ago. I later discovered
@@ -17,12 +18,12 @@ the capacity requirement for Bamba, but it still works.
 
 Crypt (12 cards, min=21 max=28 avg=6.17)
 ----------------------------------------
-5x Mata Hari                     7  aus for qui CHI OBF   2 votes   Ravnos:4
-4x Tsunda                        6  abo ani dem CHI       magaji    Ravnos:4
+5x Mata Hari                     7  CHI OBF aus for qui   2 votes   Ravnos:4
+4x Tsunda                        6  CHI abo ani dem       magaji    Ravnos:4
 3x Paul Forrest, False Prophet   5  chi for pre                     Ravnos:4
 
 Library (90 cards)
-Master (17)
+Master (17; 4 trifle)
 1x Demonstration
 1x Ferraille
 1x Fortune Teller Shop

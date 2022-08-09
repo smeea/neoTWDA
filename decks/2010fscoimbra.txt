@@ -8,8 +8,9 @@ Tiago Brum
 
 -- Unknown
 
-Better Gentlemen, Same Sticks
+Deck Name: Better Gentlemen, Same Sticks
 
+Description:
 After the EC in 2009 I thought about the decks that
 impressed me the most and Hugh's Gentlemen with Sticks was one of
 them. At the time Grinders weren't all that known in Portugal.
@@ -21,18 +22,18 @@ with it. Except the EC:(
 
 Crypt (12 cards, min=16 max=34 avg=6.25)
 ----------------------------------------
-3x Lodin (Olaf Holte)    8  aus pro DOM FOR PRE       prince     Ventrue:5
-2x Graham Gottesman      7  obf pre tha DOM FOR       prince     Ventrue:5
-1x Mary Anne Blaire     10  ani pot AUS DOM FOR PRE   justicar   Ventrue:5
-1x Victor Donaldson      6  for pre DOM               prince     Ventrue:5
-1x Emily Carson          5  for pre DOM               primogen   Ventrue:5
-1x Jephta Hester         5  aus DOM FOR                          Ventrue antitribu:4
-1x João Bilé             5  pre DOM FOR                          Ventrue:4
+3x Lodin (Olaf Holte)    8  DOM FOR PRE aus pro       prince     Ventrue:5
+2x Graham Gottesman      7  DOM FOR obf pre tha       prince     Ventrue:5
+1x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot   justicar   Ventrue:5
+1x Victor Donaldson      6  DOM for pre               prince     Ventrue:5
+1x Emily Carson          5  DOM for pre               primogen   Ventrue:5
+1x Jephta Hester         5  DOM FOR aus                          Ventrue antitribu:4
+1x João Bilé             5  DOM FOR pre                          Ventrue:4
 1x Keith Moody           3  DOM                                  Tremere antitribu:4
 1x Ulrike Rothbart       3  dom for                              Ventrue antitribu:4
 
 Library (82 cards)
-Master (14)
+Master (14; 2 trifle)
 2x Anarch Troublemaker
 2x Blood Doll
 1x Channel 10

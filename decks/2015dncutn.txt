@@ -8,8 +8,9 @@ Jonathan van der Smissen
 
 -- Unknown
 
-[KIA] Kiasyd 66 cards
+Deck Name: [KIA] Kiasyd 66 cards
 
+Description:
 The deck is just big enough to get you through the table.
 1st game: 3vp. My third vp was just when I decked out with 6 minutes left on the clock. Most of my minions were torpored, witouth cards my last one soon joined them and all 4 got eaten.
 2nd game: 0vp. Beast rush deck in my back. My deck can't cope with rush potence torn grapple blur.
@@ -26,15 +27,15 @@ My prey bounces the first govern, bounces the second govern. I go for a third an
 
 Crypt (12 cards, min=18 max=30 avg=6.17)
 ----------------------------------------
-2x Pherydima                 8  obt pot DOM MYT NEC   bishop    Kiasyd:4
-2x Omme Enberbenight         7  cel dom MYT OBT       priscus   Kiasyd:4
-2x Roderick Phillips March   7  cel obt tha DOM MYT             Kiasyd:4
+2x Pherydima                 8  DOM MYT NEC obt pot   bishop    Kiasyd:4
+2x Omme Enberbenight         7  MYT OBT cel dom       priscus   Kiasyd:4
+2x Roderick Phillips March   7  DOM MYT cel obt tha             Kiasyd:4
 2x Isanwayen                 6  DOM MYT OBT                     Kiasyd:4
-2x Dame Hollerton            5  myt DOM OBT                     Kiasyd:4
+2x Dame Hollerton            5  DOM OBT myt                     Kiasyd:4
 2x Quincy, The Trapper       4  dom myt obt                     Kiasyd:3
 
 Library (66 cards)
-Master (11)
+Master (11; 2 trifle)
 2x Blood Doll
 1x Coven, The
 1x Dreams of the Sphinx

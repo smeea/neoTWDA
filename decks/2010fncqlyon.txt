@@ -8,16 +8,12 @@ Yannick Gibert
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (13 cards, min=4 max=24 avg=3.77)
 ---------------------------------------
-4x Eurayle Gelasia Mylonas   6  for pre AUS OBE      Salubri:4
+4x Eurayle Gelasia Mylonas   6  AUS OBE for pre      Salubri:4
 4x Anarch Convert            1                       Caitiff:ANY
-2x Antonio d'Erlette         5  dom for pot THA      Tremere antitribu:4
-1x Esoara                    5  aus for pot DOM      Tremere antitribu:4
+2x Antonio d'Erlette         5  THA dom for pot      Tremere antitribu:4
+1x Esoara                    5  DOM aus for pot      Tremere antitribu:4
 1x Ember Wright              3  aus dom              Tremere antitribu:3
 1x Keith Moody               3  DOM                  Tremere antitribu:4
 

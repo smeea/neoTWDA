@@ -8,22 +8,20 @@ Gabriele Bugliani
 
 -- 5vp in the final
 
-il maestro dei bahari
-
-Unknown
+Deck Name: il maestro dei bahari
 
 Crypt (12 cards, min=10 max=35 avg=6.25)
 ----------------------------------------
-4x Miller Delmardigan, Teacher of Bahari   8  aus pro CEL PRE       bishop     Toreador antitribu:2
-3x Andreas, The Bard of Crete              9  dom pro AUS CEL PRE   primogen   Toreador:1
-1x Kallista, Master Sculptor               6  pre pro AUS CEL                  Toreador:1
-1x Felicia Mostrom                         5  pre AUS CEL                      Toreador:1
+4x Miller Delmardigan, Teacher of Bahari   8  CEL PRE aus pro       bishop     Toreador antitribu:2
+3x Andreas, The Bard of Crete              9  AUS CEL PRE dom pro   primogen   Toreador:1
+1x Kallista, Master Sculptor               6  AUS CEL pre pro                  Toreador:1
+1x Felicia Mostrom                         5  AUS CEL pre                      Toreador:1
 1x Delilah Easton                          2  pre                              Toreador:1
 1x Frederick the Weak                      2  pre                              Brujah antitribu:2
 1x Igo the Hungry                          1  pre pro                          Caitiff:1
 
 Library (90 cards)
-Master (16)
+Master (16; 9 trifle)
 1x Art of Pain, The
 1x Giant's Blood
 1x Pentex(TM) Subversion

@@ -8,8 +8,9 @@ Henrik Isaksson
 
 -- Unknown
 
-Kiasyd Stealth bleed/Intercept combat
+Deck Name: Kiasyd Stealth bleed/Intercept combat
 
+Description:
 Get Marconius out and govern out the smaller ones.
 Exploit the intercept/stealth card aura absorption. Also stone travel
 means you don't get into combat when your acting, which makes
@@ -19,11 +20,11 @@ The rack + eternal vigilance wins the endgame every time!
 
 Crypt (12 cards, min=22 max=35 avg=7.0)
 ---------------------------------------
-3x Marconius           9  pot DOM MYT OBT       archbishop   Kiasyd:2
-3x Julia Prima         7  aus myt DOM OBT                    Kiasyd:2
-3x Kassiym Malikhair   6  dom for MYT OBT                    Kiasyd:2
-2x Béatrice L'Angou    5  aus dom nec MYT                    Kiasyd:2
-1x Bartholomew         8  dom obt AUS MYT NEC                Kiasyd:2
+3x Marconius           9  DOM MYT OBT pot       archbishop   Kiasyd:2
+3x Julia Prima         7  DOM OBT aus myt                    Kiasyd:2
+3x Kassiym Malikhair   6  MYT OBT dom for                    Kiasyd:2
+2x Béatrice L'Angou    5  MYT aus dom nec                    Kiasyd:2
+1x Bartholomew         8  AUS MYT NEC dom obt                Kiasyd:2
 
 Library (90 cards)
 Master (17)

@@ -8,8 +8,9 @@ Steve Van Nus
 
 -- Unknown
 
-Brujah Mass Debate
+Deck Name: Brujah Mass Debate
 
+Description:
 Deck designed to get weenies princes out quick, parity's for
 pool damage/gain which also gives strong deal making power. Brujah Debates
 for defence/offence, hopefully making prey/predator thinking twice before
@@ -33,9 +34,9 @@ on the day I would have had 3-4 in deck).
 
 Crypt (12 cards, min=9 max=22 avg=3.75)
 ---------------------------------------
-2x Rake                                6  aus cel pot PRE   prince   Brujah:1
-2x Volker, The Puppet Prince           5  pot CEL           prince   Brujah:2
-1x Hector Sosa                         4  pre POT                    Brujah:1
+2x Rake                                6  PRE aus cel pot   prince   Brujah:1
+2x Volker, The Puppet Prince           5  CEL pot           prince   Brujah:2
+1x Hector Sosa                         4  POT pre                    Brujah:1
 1x Yuri, The Talon                     4  cel pot pre                Brujah:1
 1x Dre, Leader of the Cold Dawn        3  cel pot                    Brujah:1
 1x Raziya Samater                      3  ani pot                    Brujah:2
@@ -45,7 +46,7 @@ Crypt (12 cards, min=9 max=22 avg=3.75)
 1x Vasilis, The Traitor of Don Cruez   2  pre                        Brujah:2
 
 Library (90 cards)
-Master (25)
+Master (25; 6 trifle)
 2x Blood Doll
 7x Brujah Debate
 1x Carthage Remembered

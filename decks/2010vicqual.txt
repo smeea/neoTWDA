@@ -8,9 +8,7 @@ Ivor Blockley
 
 -- Unknown
 
-Emergent Behavior
-
-Unknown
+Deck Name: Emergent Behavior
 
 Crypt (13 cards, min=36 max=40 avg=9.69)
 ----------------------------------------
@@ -20,7 +18,7 @@ Crypt (13 cards, min=36 max=40 avg=9.69)
 1x Nergal (ADV)   10  AUS DAI FOR OBF PRE THA             Baali:5
 
 Library (90 cards)
-Master (52)
+Master (52; 6 trifle)
 1x Archon Investigation
 12x Ashur Tablets
 1x Blind Spot

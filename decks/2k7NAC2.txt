@@ -8,8 +8,9 @@ Ben Peal
 
 -- 4vp in the final
 
-Angellore (Live In LA)
+Deck Name: Angellore (Live In LA)
 
+Description:
 This is a modified version of the deck I used to win the 2007 Origins
 qualifier. I chose this version of breed-boon for the 2007 NAC (and
 EC) because of its anti-ally capabilities, its combat defense, its
@@ -33,10 +34,10 @@ everyone.
 
 Crypt (12 cards, min=12 max=24 avg=4.5)
 ---------------------------------------
-2x Gaël Pilet                       6  chi pre FOR MEL      Daughter of Cacophony:2
+2x Gaël Pilet                       6  FOR MEL chi pre      Daughter of Cacophony:2
 2x Yseult                           6  FOR MEL PRE          Daughter of Cacophony:3
-2x Angela Preston                   5  for MEL PRE          Daughter of Cacophony:2
-2x Delilah Monroe                   4  for pre MEL          Daughter of Cacophony:2
+2x Angela Preston                   5  MEL PRE for          Daughter of Cacophony:2
+2x Delilah Monroe                   4  MEL for pre          Daughter of Cacophony:2
 2x Céleste, The Voice of a Secret   3  mel pre              Daughter of Cacophony:2
 2x Muse                             3  ani for mel          Daughter of Cacophony:2
 

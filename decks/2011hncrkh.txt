@@ -8,9 +8,7 @@ Péter Botos
 
 -- Unknown
 
-Cats and Dogs
-
-Unknown
+Deck Name: Cats and Dogs
 
 Crypt (12 cards, min=4 max=11 avg=1.58)
 ---------------------------------------

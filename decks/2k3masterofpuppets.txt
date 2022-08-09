@@ -8,18 +8,17 @@ Marcus Mock
 
 -- Unknown
 
-Unknown
-
+Description:
 Tzimisce Intercept with a hint of Warghoul
 
 Crypt (12 cards, min=13 max=30 avg=5.5)
 ---------------------------------------
 2x Meshenka         8  ANI AUS VIC           priscus   Tzimisce:2
 2x Caliban          6  ANI AUS VIC                     Tzimisce:2
-2x Corine Marcón    6  ani AUS VIC                     Tzimisce:2
-2x Lolita Houston   4  aus VIC                         Tzimisce:2
-1x Anton            8  cel obf vic ANI AUS             Tzimisce:2
-1x Devin Bisley     5  vic ANI AUS                     Tzimisce:2
+2x Corine Marcón    6  AUS VIC ani                     Tzimisce:2
+2x Lolita Houston   4  VIC aus                         Tzimisce:2
+1x Anton            8  ANI AUS cel obf vic             Tzimisce:2
+1x Devin Bisley     5  ANI AUS vic                     Tzimisce:2
 1x Isabel de Leon   3  AUS                             Toreador:2
 1x Horatio          2  vic                             Tzimisce:2
 

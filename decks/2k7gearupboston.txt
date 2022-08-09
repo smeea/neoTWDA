@@ -8,8 +8,9 @@ Ben Swainbank
 
 -- Unknown
 
-Imperial March
+Deck Name: Imperial March
 
+Description:
 This is a kinda Power Tools deck. It's toolboxy with a bunch of power
 cards with a focus on Celerity and Fortitude - combination with which
 I am overly fond and have done to death at this point. It's got enough
@@ -20,10 +21,10 @@ Imbued for pool mop-up and other duties as assigned.
 
 Crypt (12 cards, min=16 max=40 avg=6.58)
 ----------------------------------------
-4x Jaroslav Pascek                 10  for obf CEL POT PRE   justicar   Brujah:3
-2x Mustafa, The Heir                6  cel dom FOR PRE       prince     Ventrue:4
-2x Victor Pelletier                 5  cel dom for PRE                  Ventrue:4
-1x Pug Jackson                      6  for pre CEL POT       primogen   Brujah:3
+4x Jaroslav Pascek                 10  CEL POT PRE for obf   justicar   Brujah:3
+2x Mustafa, The Heir                6  FOR PRE cel dom       prince     Ventrue:4
+2x Victor Pelletier                 5  PRE cel dom for                  Ventrue:4
+1x Pug Jackson                      6  CEL POT for pre       primogen   Brujah:3
 1x Fahd al-Zawba'a                  4  cel for pre                      Toreador:4
 1x Leaf "Potter116" Pankowski       4  inn red vis                      Redeemer:4
 1x Béatrice "Oracle171" Tremblay    3  inn ven                          Innocent:4

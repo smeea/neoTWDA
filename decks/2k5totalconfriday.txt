@@ -8,8 +8,9 @@ Matthew Morgan
 
 -- Unknown
 
-Calling Demented Voters
+Deck Name: Calling Demented Voters
 
+Description:
 Combat defense? Who needs combat defense? Vote push?
 That's for wimps. Stealth? That's for people who want successful
 actions. I built this one in the hopes that the amount of stealth
@@ -41,15 +42,15 @@ by the two hour time limit.
 
 Crypt (12 cards, min=28 max=40 avg=8.58)
 ----------------------------------------
-2x Hannibal                 10  cel dom AUS DEM OBF   cardinal     Malkavian antitribu:2
-2x Rachel Brandywine        10  ani AUS DEM OBF PRO   prince       Malkavian:3
-2x Maris Streck              9  ani dem dom AUS OBF   justicar     Malkavian:3
-1x Hannibal (ADV)           10  cel dom AUS DEM OBF   cardinal     Malkavian antitribu:2
-1x Kite                      7  obf pre AUS DEM       bishop       Malkavian antitribu:2
-1x Korah                     7  ani AUS DEM OBF       priscus      Malkavian antitribu:2
-1x Marie Faucigny            7  dem tha AUS OBF       archbishop   Malkavian antitribu:3
-1x Quentin King III          7  obf pre AUS DEM       prince       Malkavian:3
-1x Quentin King III (ADV)    7  cel pre AUS DEM OBF                Malkavian:3
+2x Hannibal                 10  AUS DEM OBF cel dom   cardinal     Malkavian antitribu:2
+2x Rachel Brandywine        10  AUS DEM OBF PRO ani   prince       Malkavian:3
+2x Maris Streck              9  AUS OBF ani dem dom   justicar     Malkavian:3
+1x Hannibal (ADV)           10  AUS DEM OBF cel dom   cardinal     Malkavian antitribu:2
+1x Kite                      7  AUS DEM obf pre       bishop       Malkavian antitribu:2
+1x Korah                     7  AUS DEM OBF ani       priscus      Malkavian antitribu:2
+1x Marie Faucigny            7  AUS OBF dem tha       archbishop   Malkavian antitribu:3
+1x Quentin King III          7  AUS DEM obf pre       prince       Malkavian:3
+1x Quentin King III (ADV)    7  AUS DEM OBF cel pre                Malkavian:3
 
 Library (90 cards)
 Master (16)

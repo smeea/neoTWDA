@@ -8,8 +8,9 @@ Antonio Cobo Cuenca
 
 -- 4vp in the final
 
-Extreme Violence
+Deck Name: Extreme Violence
 
+Description:
 just a combat deck without Pentex, Villein, Giant's blood, ...
 Important facts about the behaviour of this deck during the tournament:
 * 41 vampires sent to torpor
@@ -18,8 +19,8 @@ Important facts about the behaviour of this deck during the tournament:
 
 Crypt (12 cards, min=7 max=28 avg=4.5)
 --------------------------------------
-3x Beast, The Leatherface of Detroit   7  ani cel OBF POT      Nosferatu antitribu:2
-3x Theo Bell                           7  cel dom pre POT      Brujah:2
+3x Beast, The Leatherface of Detroit   7  OBF POT ani cel      Nosferatu antitribu:2
+3x Theo Bell                           7  POT cel dom pre      Brujah:2
 1x Cameron                             3  dom pot              Lasombra:2
 1x Marciana Giovanni, Investigator     2  dom                  Giovanni:2
 1x Mustafa Rahman                      2  dom                  Tremere:2

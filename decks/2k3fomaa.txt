@@ -8,20 +8,21 @@ David Wilson
 
 -- Unknown
 
-Might of the Camarilla
+Deck Name: Might of the Camarilla
 
+Description:
 I voluntarily took out PTO since I feel the card needs to be more balanced.
 After all the Ravnos I saw, I wish I had them. Bring out 1 IC, call Might,
 Possession, Repeat. Doubles as a Stealth Bleed in a Pinch.
 
 Crypt (12 cards, min=37 max=44 avg=10.25)
 -----------------------------------------
-3x Arika               11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-3x Leandro             11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-3x Lucinde, Alastor    10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
+3x Arika               11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+3x Leandro             11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+3x Lucinde, Alastor    10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
 1x Marcus Vitel        10  DOM FOR OBF OBT PRE       prince         Ventrue:3
-1x Queen Anne          10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Carlotta Giovanni    7  dom obf NEC POT                          Giovanni:2
+1x Queen Anne          10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Carlotta Giovanni    7  NEC POT dom obf                          Giovanni:2
 
 Library (80 cards)
 Master (15)

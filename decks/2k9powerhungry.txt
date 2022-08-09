@@ -8,9 +8,7 @@ Jackson Iribarren
 
 -- Unknown
 
-Pander Equipments & Bleed
-
-Unknown
+Deck Name: Pander Equipments & Bleed
 
 Crypt (24 cards, min=4 max=8 avg=1.38)
 --------------------------------------
@@ -35,7 +33,7 @@ Crypt (24 cards, min=4 max=8 avg=1.38)
 1x Uriah Winter               1  for pot      Caitiff:1
 
 Library (90 cards)
-Master (20)
+Master (20; 2 trifle)
 4x Blood Doll
 3x Direct Intervention
 2x Effective Management

@@ -8,19 +8,17 @@ Norbert Flasko
 
 -- 1gw4 + 3vp in the final
 
-Take it Eze!
-
-Unknown
+Deck Name: Take it Eze!
 
 Crypt (12 cards, min=32 max=44 avg=9.58)
 ----------------------------------------
-5x Eze, The Demon Prince   11  aus ANI NEC POT PRE THA   magaji   Guruhi:3
+5x Eze, The Demon Prince   11  ANI NEC POT PRE THA aus   magaji   Guruhi:3
 3x Nana Buruku              8  ANI POT PRE                        Guruhi:4
-2x Ugadja                  10  dom for ABO ANI POT PRE   magaji   Guruhi:4
-2x Sobayifa                 8  aus pot pro spi ANI PRE   magaji   Guruhi:3
+2x Ugadja                  10  ABO ANI POT PRE dom for   magaji   Guruhi:4
+2x Sobayifa                 8  ANI PRE aus pot pro spi   magaji   Guruhi:3
 
 Library (90 cards)
-Master (20)
+Master (20; 7 trifle)
 1x Ancestor Spirit
 1x Archon Investigation
 2x Dreams of the Sphinx

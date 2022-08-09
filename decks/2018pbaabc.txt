@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8974
 
 -- 2gw8 + 1.5vp in the final
 
-Halfway Around
+Deck Name: Halfway Around
 
+Description:
 Final: Ian Lee (Followers Stealth Bleed)
  -> David Anderson (Daughters Shattering Crescendo)
  -> Jonathan Scherer (Giovanni and the Baron Shambling Hordes)
@@ -21,17 +22,17 @@ Blood retention (Path of Typhon, Life in the City) style Serpentis SB.
 Crypt (12 cards, min=6 max=26 avg=4.33)
 ---------------------------------------
 3x Anarch Convert                       1                              Caitiff:ANY
-2x Hesha Ruhadze                        6  ani obf pre SER             Ministry:2
-1x Kephamos, High Priest of Marrakech   8  dom obf pre SER   2 votes   Ministry:2
-1x Ezekiel, Lord of Montreal            6  obf pot PRE SER             Ministry:3
-1x Samat Ramal-Ra, Archon               6  pre ser tha OBF             Ministry:2
-1x Count Ormonde                        5  dom pre ser OBF             Ministry:2
-1x Sir Marriot D'Urban                  5  aus obf ser PRE             Ministry:2
+2x Hesha Ruhadze                        6  SER ani obf pre             Ministry:2
+1x Kephamos, High Priest of Marrakech   8  SER dom obf pre   2 votes   Ministry:2
+1x Ezekiel, Lord of Montreal            6  PRE SER obf pot             Ministry:3
+1x Samat Ramal-Ra, Archon               6  OBF pre ser tha             Ministry:2
+1x Count Ormonde                        5  OBF dom pre ser             Ministry:2
+1x Sir Marriot D'Urban                  5  PRE aus obf ser             Ministry:2
 1x Nepata                               4  obf pre ser                 Ministry:2
 1x Celine Chevalier                     3  obf ser                     Ministry:2
 
 Library (90 cards)
-Master (28)
+Master (28; 9 trifle)
 1x Anarch Railroad
 1x Archon Investigation
 1x Barrens, The

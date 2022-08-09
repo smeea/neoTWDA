@@ -8,8 +8,9 @@ Matti Palomäki
 
 -- 4vp in the final
 
-pienempi paha(lainen) [lesser (d)evil]
+Deck Name: pienempi paha(lainen) [lesser (d)evil]
 
+Description:
 Third of the cards in the deck I never managed to play to any
 beneficial effect, but in most games the combination of having very
 aggressive grandpredator and a horde of guys on the table ended up
@@ -41,12 +42,12 @@ Master (14)
 1x Information Highway
 1x Mob Connections
 1x Pentex(TM) Subversion
-1x Powerbase: Zürich -- In the absence of intercept this was sickeningly good.
+1x Powerbase: Zürich
 
 Action (5)
-2x Abbot -- I like these. Got smiled at until people realized I actually packed combat.
+2x Abbot
 1x Aranthebes, The Immortal
-1x Gramle -- This should help contesting Aranthebes, fetch another AI, or DI for a delayed vote. Never used though.
+1x Gramle
 1x Graverobbing
 
 Ally (4)
@@ -63,15 +64,15 @@ Reaction (12)
 1x Wake with Evening's Freshness
 
 Combat (50)
-2x Botched Move -- Pushes the maximum damage in a round to 7. Cute, but nearly useless.:)
+2x Botched Move
 1x Boxed In
 2x Fake Out
 6x Glancing Blow
 3x Lucky Blow
 5x Pulled Fangs
 2x Target Hand
-5x Target Head -- I think none of these ever landed,
-6x Target Vitals -- whereas none of these failed all day.
+5x Target Head
+6x Target Vitals
 7x Taste of Vitae
 2x Trap
 6x Weighted Walking Stick

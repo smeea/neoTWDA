@@ -8,10 +8,6 @@ Andrés Hernández
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=8 max=12 avg=2.67)
 ---------------------------------------
 1x Dollface                           3  aus obf          Malkavian:1
@@ -22,13 +18,13 @@ Crypt (12 cards, min=8 max=12 avg=2.67)
 1x Shannon Price, the Whisperer       3  ani obf          Nosferatu antitribu:2
 1x Watenda                            3  obf              Malkavian:2
 1x Yorik                              3  dem obf          Malkavian antitribu:2
-1x Zöe                                3  cel obf AUS      Malkavian:2
+1x Zöe                                3  AUS cel obf      Malkavian:2
 1x Dimple                             2  obf              Nosferatu:1
 1x Normal                             2  obf              Malkavian:1
 1x Basil                              1  obf              Pander:2
 
 Library (80 cards)
-Master (16)
+Master (16; 3 trifle)
 1x Archon Investigation
 2x Asylum Hunting Ground
 3x Dummy Corporation

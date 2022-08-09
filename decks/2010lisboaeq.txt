@@ -6,34 +6,32 @@ March 13th 2010
 Hugh Angseesing
 
 
--- Unknown
+-- 3GW10 including 4VP in final
 
-Unknown
+Deck Name: Dominating the Shadows with
 
-3GW10 including 4VP in final
-
-Deck: Dominating the Shadows with
+Description:
 Basic plan: Govern out some guys, use nocturns for a cheeky bleed of
 1 to move the edge or to block nasty mean deepsong and shambling
 rushes.
 
 Crypt (12 cards, min=11 max=26 avg=4.75)
 ----------------------------------------
-1x Henri Lavenant          7  pot qui DOM OBT            Lasombra:3
+1x Henri Lavenant          7  DOM OBT pot qui            Lasombra:3
 1x Lord Vauxhall           7  DOM OBT POT THA            Lasombra:4
 1x Isanwayen               6  DOM MYT OBT                Kiasyd:4
-1x Onaedo                  6  aus pot DOM OBT            Lasombra:4
-1x Andrew Emory            5  aus dom pot OBT   bishop   Lasombra:4
-1x Banjoko                 5  obt pot DOM                Lasombra:3
-1x Dame Hollerton          5  myt DOM OBT                Kiasyd:4
-1x Ermenegildo, The Rake   5  pot DOM OBT                Lasombra:4
+1x Onaedo                  6  DOM OBT aus pot            Lasombra:4
+1x Andrew Emory            5  OBT aus dom pot   bishop   Lasombra:4
+1x Banjoko                 5  DOM obt pot                Lasombra:3
+1x Dame Hollerton          5  DOM OBT myt                Kiasyd:4
+1x Ermenegildo, The Rake   5  DOM OBT pot                Lasombra:4
 1x Leila Monroe            4  dom obt pre                Lasombra:4
 1x Keith Moody             3  DOM                        Tremere antitribu:4
 1x Lucy Markowitz          3  dom obt                    Lasombra:4
 1x Anarch Convert          1                             Caitiff:ANY
 
 Library (85 cards)
-Master (13)
+Master (13; 2 trifle)
 1x Anarch Troublemaker
 1x Coven, The
 1x Direct Intervention

@@ -8,19 +8,17 @@ https://www.vekn.net/event-calendar/event/9076
 
 -- 1gw3 + 4vp in the final
 
-Baali - Capivoto
-
-Unknown
+Deck Name: Baali - Capivoto
 
 Crypt (12 cards, min=15 max=34 avg=6.25)
 ----------------------------------------
 3x Annazir                   9  DAI OBF POT PRE       2 votes   Baali:5
-3x Xeper, Sultan of Lepers   7  ani dai pro OBF PRE             Baali:6
+3x Xeper, Sultan of Lepers   7  OBF PRE ani dai pro             Baali:6
 3x Arishat                   6  DAI OBF PRE           1 vote    Baali:6
 3x Horde, The                3  dai obf pre                     Baali:6
 
 Library (90 cards)
-Master (23)
+Master (23; 8 trifle)
 1x Archon Investigation
 1x Direct Intervention
 1x Failsafe

@@ -8,8 +8,9 @@ Jeffrey Thompson
 
 -- 2.5vp in the final
 
-Abusing the Public Trust is an Abomination
+Deck Name: Abusing the Public Trust is an Abomination
 
+Description:
 Zubeida leads the way, in his own Perfectionist manner, in righting the
 wrongs done by those who are abusing the Public Trust. (Bleed, add
 stealth, use the gained counter on an uncontrolled vampire, bring another
@@ -22,16 +23,16 @@ for assembly, so Robin Withers made it in instead.
 
 Crypt (12 cards, min=21 max=32 avg=6.83)
 ----------------------------------------
-5x Zubeida            8  for ser OBF PRE PRO             Abomination:5
-2x Ogwon              7  for OBF PRE SER                 Ministry:5
-1x Isouda de Blaise   7  aus CEL OBF PRE                 Toreador antitribu:4
-1x Stavros            7  dem AUS OBF PRE       priscus   Malkavian antitribu:4
-1x Raphael Catarari   5  aus pot tha OBF PRE             Nosferatu antitribu:4
-1x Renenet            5  ser OBF PRE                     Ministry:4
+5x Zubeida            8  OBF PRE PRO for ser             Abomination:5
+2x Ogwon              7  OBF PRE SER for                 Ministry:5
+1x Isouda de Blaise   7  CEL OBF PRE aus                 Toreador antitribu:4
+1x Stavros            7  AUS OBF PRE dem       priscus   Malkavian antitribu:4
+1x Raphael Catarari   5  OBF PRE aus pot tha             Nosferatu antitribu:4
+1x Renenet            5  OBF PRE ser                     Ministry:4
 1x Robin Withers      4  dom obf pre                     Ventrue:4
 
 Library (90 cards)
-Master (18)
+Master (18; 13 trifle)
 1x Giant's Blood
 4x Perfectionist
 6x Villein

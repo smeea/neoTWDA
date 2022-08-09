@@ -8,19 +8,20 @@ Simon Reed
 
 -- Unknown
 
-My AAA
+Deck Name: My AAA
 
+Description:
 Assault Rifles are fun!
 
 Crypt (12 cards, min=20 max=42 avg=8.17)
 ----------------------------------------
-4x Anneke           10  dom AUS CEL PRE       justicar       Toreador:1
-4x Anson             8  aus dom CEL PRE       prince         Toreador:1
-2x Alexandra        11  dom ANI AUS CEL PRE   inner circle   Toreador:2
+4x Anneke           10  AUS CEL PRE dom       justicar       Toreador:1
+4x Anson             8  CEL PRE aus dom       prince         Toreador:1
+2x Alexandra        11  ANI AUS CEL PRE dom   inner circle   Toreador:2
 2x Delilah Easton    2  pre                                  Toreador:1
 
 Library (88 cards)
-Master (29)
+Master (29; 8 trifle)
 2x Art Museum
 4x Ashur Tablets
 1x Direct Intervention

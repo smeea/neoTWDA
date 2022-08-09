@@ -8,16 +8,15 @@ Jeff Kuta
 
 -- Unknown
 
-Unknown
-
+Description:
 "Gratuitous"
 
 Crypt (12 cards, min=17 max=27 avg=5.5)
 ---------------------------------------
-3x Parnassus       7  aus tha CEL QUI      Banu Haqim:2
-3x Jalal Sayad     6  pot CEL QUI          Banu Haqim:2
-3x Abd al-Rashid   5  obf CEL QUI          Banu Haqim:2
-3x Parmenides      4  qui CEL              Banu Haqim:2
+3x Parnassus       7  CEL QUI aus tha      Banu Haqim:2
+3x Jalal Sayad     6  CEL QUI pot          Banu Haqim:2
+3x Abd al-Rashid   5  CEL QUI obf          Banu Haqim:2
+3x Parmenides      4  CEL qui              Banu Haqim:2
 
 Library (90 cards)
 Master (15)

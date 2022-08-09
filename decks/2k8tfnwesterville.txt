@@ -8,8 +8,9 @@ Matt Piatek
 
 -- Unknown
 
-Tembo!!
+Deck Name: Tembo!!
 
+Description:
 Demdemeh makes a herd of elephant allies with 2 hand
 damage and one bleed. Babalawo Alafin combines with Maabara to allow
 you to craft the hand you need.
@@ -26,11 +27,11 @@ team in play.
 
 Crypt (13 cards, min=24 max=39 avg=8.15)
 ----------------------------------------
-3x Demdemeh          10  aus pre ANI CEL FOR VIC      Tzimisce:4
-3x Matata             9  aus cel obf ABO ANI FOR      Akunanse:3
-3x Babalawo Alafin    7  ani AUS FOR NEC              Harbinger of Skulls:4
-2x Wamukota           9  aus ANI CHI FOR PRE          Ravnos:4
-2x Solomon Batanea    5  nec AUS FOR                  Harbinger of Skulls:4
+3x Demdemeh          10  ANI CEL FOR VIC aus pre      Tzimisce:4
+3x Matata             9  ABO ANI FOR aus cel obf      Akunanse:3
+3x Babalawo Alafin    7  AUS FOR NEC ani              Harbinger of Skulls:4
+2x Wamukota           9  ANI CHI FOR PRE aus          Ravnos:4
+2x Solomon Batanea    5  AUS FOR nec                  Harbinger of Skulls:4
 
 Library (90 cards)
 Master (14)

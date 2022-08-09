@@ -8,13 +8,11 @@ Desso Alastor
 
 -- 3vp in the final
 
-Demolidor
-
-Unknown
+Deck Name: Demolidor
 
 Crypt (12 cards, min=5 max=15 avg=2.42)
 ---------------------------------------
-2x Lolita Houston         4  aus VIC          Tzimisce:2
+2x Lolita Houston         4  VIC aus          Tzimisce:2
 2x Rex, The Necronomist   3  pot pro vic      Pander:2
 2x Christine Boscacci     2  dom vic          Pander:2
 2x Horatio                2  vic              Tzimisce:2
@@ -23,7 +21,7 @@ Crypt (12 cards, min=5 max=15 avg=2.42)
 1x Anarch Convert         1                   Caitiff:ANY
 
 Library (90 cards)
-Master (25)
+Master (25; 1 trifle)
 1x Anarch Railroad
 5x Anarch Revolt
 1x Archon Investigation

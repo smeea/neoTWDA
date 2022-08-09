@@ -8,23 +8,21 @@ Selen Turkay
 
 -- 5vp in the final
 
-Unknown
-
-Deck: Ousted? Dem's the Breaks
+Deck Name: Ousted? Dem's the Breaks
 
 Crypt (12 cards, min=6 max=18 avg=3.0)
 --------------------------------------
 2x Jackie                         3  DEM                  Malkavian antitribu:4
-2x Midget                         3  obf pre DEM          Malkavian antitribu:3
+2x Midget                         3  DEM obf pre          Malkavian antitribu:3
 2x Cassandra Langely, The Waif    2  dem                  Malkavian:4
 2x Eddie Gaines                   1  dem pot              Caitiff:3
-1x Apache Jones                   5  aus for obf DEM      Malkavian antitribu:4
-1x Persia, The Beautiful Statue   5  aus obf DEM          Malkavian:3
-1x Uncle George                   5  aus dom obf DEM      Malkavian antitribu:3
+1x Apache Jones                   5  DEM aus for obf      Malkavian antitribu:4
+1x Persia, The Beautiful Statue   5  DEM aus obf          Malkavian:3
+1x Uncle George                   5  DEM aus dom obf      Malkavian antitribu:3
 1x Marta                          3  aus dem              Malkavian antitribu:4
 
 Library (85 cards)
-Master (13)
+Master (13; 2 trifle)
 2x Agent of Power
 5x Dementation
 2x Effective Management

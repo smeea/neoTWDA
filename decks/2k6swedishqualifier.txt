@@ -8,20 +8,18 @@ Erik Torstensson
 
 -- Unknown
 
-The reincarnation of an ornithologist
-
-Unknown
+Deck Name: The reincarnation of an ornithologist
 
 Crypt (12 cards, min=11 max=28 avg=5.0)
 ---------------------------------------
 2x Muricia        7  ANI PRE SPI                        Ahrimane:4
-2x Effie Lowery   5  obf ANI SPI                        Ahrimane:4
-1x Sobayifa       8  aus pot pro spi ANI PRE   magaji   Guruhi:3
-1x Batsheva       6  obt pot ANI PRE                    Guruhi:4
-1x Gentha Shale   6  pot spi ANI PRE                    Ahrimane:4
-1x Fish           5  pre ANI POT                        Guruhi:4
-1x Bobby Lemon    4  pro ANI                            Gangrel:3
-1x Lumumba        4  ani PRE                            Guruhi:4
+2x Effie Lowery   5  ANI SPI obf                        Ahrimane:4
+1x Sobayifa       8  ANI PRE aus pot pro spi   magaji   Guruhi:3
+1x Batsheva       6  ANI PRE obt pot                    Guruhi:4
+1x Gentha Shale   6  ANI PRE pot spi                    Ahrimane:4
+1x Fish           5  ANI POT pre                        Guruhi:4
+1x Bobby Lemon    4  ANI pro                            Gangrel:3
+1x Lumumba        4  PRE ani                            Guruhi:4
 1x Mouse          2  ani                                Nosferatu:3
 1x Lisa Noble     1  ani                                Caitiff:3
 

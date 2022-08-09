@@ -8,18 +8,16 @@ Preston Poulter
 
 -- 3vp in the final
 
-Enkidu's Dallas-LA Connection
-
-Unknown
+Deck Name: Enkidu's Dallas-LA Connection
 
 Crypt (12 cards, min=27 max=44 avg=9.08)
 ----------------------------------------
-5x Enkidu, The Noah   11  for ANI CEL OBF POT PRO      Gangrel antitribu:4
-4x Aksinya Daclau      9  cel tha ANI FOR PRE PRO      Gangrel antitribu:4
-3x Janey Pickman       6  for ANI PRO                  Gangrel antitribu:4
+5x Enkidu, The Noah   11  ANI CEL OBF POT PRO for      Gangrel antitribu:4
+4x Aksinya Daclau      9  ANI FOR PRE PRO cel tha      Gangrel antitribu:4
+3x Janey Pickman       6  ANI PRO for                  Gangrel antitribu:4
 
 Library (90 cards)
-Master (22)
+Master (22; 9 trifle)
 1x City Gangrel Connections
 1x Fame
 1x Giant's Blood

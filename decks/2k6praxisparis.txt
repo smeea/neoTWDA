@@ -6,19 +6,15 @@ Unknown
 Kamel Senni
 
 
--- Unknown
-
-Unknown
-
-Enters 1st in final with 3GW8, wins the final with 4VP
+-- Enters 1st in final with 3GW8, wins the final with 4VP
 
 Crypt (12 cards, min=37 max=44 avg=10.25)
 -----------------------------------------
 3x Huitzilopochtli   10  AUS DAI DOM OBF POT PRE                  Baali:2
-3x Maris Streck       9  ani dem dom AUS OBF       justicar       Malkavian:3
-2x Arika             11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-2x Etrius            11  pro AUS DOM OBF THA       inner circle   Tremere:2
-2x Leandro           11  cel dom AUS OBF PRE       inner circle   Malkavian:2
+3x Maris Streck       9  AUS OBF ani dem dom       justicar       Malkavian:3
+2x Arika             11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+2x Etrius            11  AUS DOM OBF THA pro       inner circle   Tremere:2
+2x Leandro           11  AUS OBF PRE cel dom       inner circle   Malkavian:2
 
 Library (62 cards)
 Master (25)

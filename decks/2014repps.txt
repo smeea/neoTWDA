@@ -8,21 +8,22 @@ https://www.vekn.net/event-calendar/event/7862
 
 -- Unknown
 
-Pamplona Tournament: Gon tenía razón...
+Deck Name: Pamplona Tournament: Gon tenía razón...
 
+Description:
 0.5+3 gw+0+5 gw
 
 Crypt (12 cards, min=25 max=40 avg=8.75)
 ----------------------------------------
-4x Nahum Enosh                   10  for pre AUS OBE OBF VAL      Salubri:6
+4x Nahum Enosh                   10  AUS OBE OBF VAL for pre      Salubri:6
 4x Nergal (ADV)                  10  AUS DAI FOR OBF PRE THA      Baali:5
 1x Nergal                        10  AUS DAI FOR OBF PRE THA      Baali:5
-1x Al-Muntathir, God's Witness    8  obf qui AUS FOR PRE TEM      True Brujah:5
-1x Pearl                          4  obf AUS                      Malkavian antitribu:5
+1x Al-Muntathir, God's Witness    8  AUS FOR PRE TEM obf qui      True Brujah:5
+1x Pearl                          4  AUS obf                      Malkavian antitribu:5
 1x Veejay Vinod                   3  AUS                          Nagaraja:6
 
 Library (85 cards)
-Master (16)
+Master (16; 8 trifle)
 1x Dreams of the Sphinx
 1x Giant's Blood
 2x Golconda: Inner Peace

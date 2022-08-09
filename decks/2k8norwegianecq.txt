@@ -8,16 +8,14 @@ Mats Ingdal
 
 -- Unknown
 
-where did that anarch go?
-
-Unknown
+Deck Name: where did that anarch go?
 
 Crypt (14 cards, min=4 max=19 avg=2.79)
 ---------------------------------------
 4x Anarch Convert         1                   Caitiff:ANY
 3x Toby                   5  ani obf pre      Nosferatu:4
 1x Abebe                  4  nec obf thn      Samedi:4
-1x Jeffrey Mullins        4  cel OBF          Gangrel antitribu:4
+1x Jeffrey Mullins        4  OBF cel          Gangrel antitribu:4
 1x Blister                3  obf pot          Nosferatu antitribu:4
 1x Clarissa Steinburgen   3  ani obf          Nosferatu:3
 1x Bloodfeud              2  obf              Malkavian antitribu:4
@@ -25,7 +23,7 @@ Crypt (14 cards, min=4 max=19 avg=2.79)
 1x Krid                   2  obf              Nosferatu:3
 
 Library (76 cards)
-Master (21)
+Master (21; 5 trifle)
 1x Anarch Free Press, The
 1x Anarch Railroad
 3x Club Illusion

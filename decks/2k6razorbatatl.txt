@@ -8,9 +8,7 @@ John Newquist
 
 -- Unknown
 
-Unknown
-
-Deck: The Darby Dance
+Deck Name: The Darby Dance
 
 Crypt (12 cards, min=14 max=21 avg=4.25)
 ----------------------------------------

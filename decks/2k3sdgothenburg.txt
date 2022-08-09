@@ -8,8 +8,9 @@ Sten Düring
 
 -- Unknown
 
-Spying Mission
+Deck Name: Spying Mission
 
+Description:
 Obfuscate bleeder based on Spying Mission with some
 bleed and combatdefence.
 A rather hefty bloatenginge for this type of deck.
@@ -20,11 +21,11 @@ isn't paired with a wake.
 
 Crypt (12 cards, min=8 max=20 avg=3.83)
 ---------------------------------------
-2x Badr al-Budur   5  cel dom qui OBF      Banu Haqim:2
-2x Count Ormonde   5  dom pre ser OBF      Ministry:2
-2x Zebulon         5  aus dom pro OBF      Malkavian:1
-1x Agrippina       4  pot OBF              Nosferatu:1
-1x Tansu Bekir     4  cel OBF              Banu Haqim:2
+2x Badr al-Budur   5  OBF cel dom qui      Banu Haqim:2
+2x Count Ormonde   5  OBF dom pre ser      Ministry:2
+2x Zebulon         5  OBF aus dom pro      Malkavian:1
+1x Agrippina       4  OBF pot              Nosferatu:1
+1x Tansu Bekir     4  OBF cel              Banu Haqim:2
 1x Watenda         3  obf                  Malkavian:2
 1x Dimple          2  obf                  Nosferatu:1
 1x Normal          2  obf                  Malkavian:1

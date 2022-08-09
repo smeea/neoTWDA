@@ -8,8 +8,9 @@ Patrick van der Reest
 
 -- Unknown
 
-Gratiano's Prima Donna
+Deck Name: Gratiano's Prima Donna
 
+Description:
 Lasombra S&B for the tournament in Pittsburgh, 3/27/04
 
 Anyway, here's the decklist. There's not much new tech in here but for some
@@ -31,11 +32,11 @@ the coast is clear.
 
 Crypt (12 cards, min=15 max=31 avg=5.83)
 ----------------------------------------
-3x Gratiano                        8  obf pot DOM OBT   priscus   Lasombra:2
-2x Julia Prima                     7  aus myt DOM OBT             Kiasyd:2
-2x Kassiym Malikhair               6  dom for MYT OBT             Kiasyd:2
-1x Banjoko                         5  obt pot DOM                 Lasombra:3
-1x Guido Lucciano                  5  dom obf OBT                 Lasombra:2
+3x Gratiano                        8  DOM OBT obf pot   priscus   Lasombra:2
+2x Julia Prima                     7  DOM OBT aus myt             Kiasyd:2
+2x Kassiym Malikhair               6  MYT OBT dom for             Kiasyd:2
+1x Banjoko                         5  DOM obt pot                 Lasombra:3
+1x Guido Lucciano                  5  OBT dom obf                 Lasombra:2
 1x Ignacio, The Black Priest       4  dom obt pot                 Lasombra:2
 1x Ramiro                          4  dom obt vic                 Lasombra:2
 1x Aaron Duggan, Cameron's Toady   2  obt                         Lasombra:2

@@ -8,14 +8,12 @@ Colin Riggs
 
 -- Unknown
 
-Guns and Butter
-
-Unknown
+Deck Name: Guns and Butter
 
 Crypt (12 cards, min=4 max=16 avg=2.5)
 --------------------------------------
-2x Parmenides           4  qui CEL      Banu Haqim:2
-2x Victor Tolliver      4  pot CEL      Brujah antitribu:2
+2x Parmenides           4  CEL qui      Banu Haqim:2
+2x Victor Tolliver      4  CEL pot      Brujah antitribu:2
 2x Sarah Brando         3  CEL          Brujah antitribu:2
 2x Antoinette DuChamp   1  cel pre      Caitiff:2
 2x Nik                  1  cel          Caitiff:1

@@ -8,8 +8,9 @@ Chris Arthur
 
 -- Unknown
 
-Kiss of the Brujah
+Deck Name: Kiss of the Brujah
 
+Description:
 Fairly standard Brujah princes deck. Bleed with every vamp every round, if
 they block put them in torpor. Use the 2nds to wake and block your prey's
 vamps from hunting, voting etc. and your predator from bleeding, voting etc.
@@ -19,12 +20,12 @@ Crypt (12 cards, min=21 max=32 avg=6.58)
 ----------------------------------------
 2x Constanza Vinti                   8  CEL DOM POT           prince     Brujah:2
 2x Dónal O'Connor                    8  CEL DOM POT           prince     Brujah:2
-2x Anvil                             6  dom pre tha CEL POT   primogen   Brujah:1
-2x Volker, The Puppet Prince         5  pot CEL               prince     Brujah:2
+2x Anvil                             6  CEL POT dom pre tha   primogen   Brujah:1
+2x Volker, The Puppet Prince         5  CEL pot               prince     Brujah:2
 1x Amelia                            7  CEL POT PRE           bishop     Brujah antitribu:2
-1x Richter, The Templar of Du Mont   7  for pre CEL POT                  Brujah antitribu:2
-1x Bianca                            6  pot pre CEL                      Brujah:1
-1x Black Cat                         5  pot pre CEL                      Brujah:1
+1x Richter, The Templar of Du Mont   7  CEL POT for pre                  Brujah antitribu:2
+1x Bianca                            6  CEL pot pre                      Brujah:1
+1x Black Cat                         5  CEL pot pre                      Brujah:1
 
 Library (90 cards)
 Master (15)

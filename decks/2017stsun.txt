@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8640
 
 -- 2gw7 + 4vp in the final
 
-Matasuntha & Enkidu, a true bromance.
+Deck Name: Matasuntha & Enkidu, a true bromance.
 
+Description:
 Bring out Matasuntha asap and play a passive wall early and mid game, keep a low profile.
 Block strategically, try to totally destroy at least 1 vampire of your predator as deterrent.
 Bleed with Matasuntha when you can, he doesn't need to stay untapped.
@@ -20,7 +21,7 @@ Table talk only when needed and don't be too aggressive in table talk, we're kee
 
 Crypt (12 cards, min=11 max=44 avg=7.92)
 ----------------------------------------
-4x Enkidu, The Noah                11  for ANI CEL OBF POT PRO      Gangrel antitribu:4
+4x Enkidu, The Noah                11  ANI CEL OBF POT PRO for      Gangrel antitribu:4
 4x Matasuntha                      10  ANI AUS CEL FOR PRO          Gangrel:5
 1x Andre LeRoux                     3  aus                          Toreador:5
 1x Béatrice "Oracle171" Tremblay    3  inn ven                      Innocent:4
@@ -28,7 +29,7 @@ Crypt (12 cards, min=11 max=44 avg=7.92)
 1x Robert Price                     2  pro                          Gangrel:4
 
 Library (90 cards)
-Master (17)
+Master (17; 5 trifle)
 1x Carver's Meat Packing and Storage
 2x Fame
 1x Information Highway

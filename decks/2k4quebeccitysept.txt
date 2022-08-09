@@ -8,8 +8,9 @@ Charles Lechasseur
 
 -- Unknown
 
-Erase Me (V4.0)
+Deck Name: Erase Me (V4.0)
 
+Description:
 Here is my winning deck. In this tournament, I've met more political decks than
 I've ever seen in a single tourney and most of them were built using big-cap vamps.
 This, of course, was to my advantage, since killing a big-cap cripples someone terribly.
@@ -18,10 +19,10 @@ Derange vamps, give them some much-needed Dementia and have them climb the Socia
 
 Crypt (12 cards, min=36 max=44 avg=9.92)
 ----------------------------------------
-4x Leandro            11  cel dom AUS OBF PRE   inner circle   Malkavian:2
+4x Leandro            11  AUS OBF PRE cel dom   inner circle   Malkavian:2
 3x Esau               10  AUS DEM DOM OBF PRE                  Malkavian:3
-3x Maris Streck        9  ani dem dom AUS OBF   justicar       Malkavian:3
-2x William Biltmore    9  dom AUS DEM OBF THA                  Malkavian:3
+3x Maris Streck        9  AUS OBF ani dem dom   justicar       Malkavian:3
+2x William Biltmore    9  AUS DEM OBF THA dom                  Malkavian:3
 
 Library (83 cards)
 Master (28)

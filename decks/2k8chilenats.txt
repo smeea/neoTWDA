@@ -8,24 +8,22 @@ Hugo Dey
 
 -- Unknown
 
-Governar la Carne
-
-Unknown
+Deck Name: Governar la Carne
 
 Crypt (12 cards, min=21 max=39 avg=7.75)
 ----------------------------------------
-3x Lambach                                  10  pre ANI AUS DOM VIC   cardinal     Tzimisce:2
-2x Velya, The Flayer                         9  for ANI AUS PRE VIC   cardinal     Tzimisce:3
-1x Little Tailor of Prague                   8  dem ANI AUS VIC                    Tzimisce:2
+3x Lambach                                  10  ANI AUS DOM VIC pre   cardinal     Tzimisce:2
+2x Velya, The Flayer                         9  ANI AUS PRE VIC for   cardinal     Tzimisce:3
+1x Little Tailor of Prague                   8  ANI AUS VIC dem                    Tzimisce:2
 1x Meshenka                                  8  ANI AUS VIC           priscus      Tzimisce:2
-1x Sascha Vykos, The Angel of Caine (ADV)    8  ani dom AUS THA VIC   archbishop   Tzimisce:2
+1x Sascha Vykos, The Angel of Caine (ADV)    8  AUS THA VIC ani dom   archbishop   Tzimisce:2
 1x Caliban                                   6  ANI AUS VIC                        Tzimisce:2
-1x Corine Marcón                             6  ani AUS VIC                        Tzimisce:2
-1x Devin Bisley                              5  vic ANI AUS                        Tzimisce:2
-1x Lolita Houston                            4  aus VIC                            Tzimisce:2
+1x Corine Marcón                             6  AUS VIC ani                        Tzimisce:2
+1x Devin Bisley                              5  ANI AUS vic                        Tzimisce:2
+1x Lolita Houston                            4  VIC aus                            Tzimisce:2
 
 Library (90 cards)
-Master (20)
+Master (20; 2 trifle)
 3x Blood Doll
 1x Giant's Blood
 2x Library Hunting Ground

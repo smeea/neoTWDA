@@ -8,9 +8,7 @@ Michael Holmberg
 
 -- 2gw8 + 3vp in the final
 
-City of Champions
-
-Unknown
+Deck Name: City of Champions
 
 Crypt (12 cards, min=13 max=19 avg=4.0)
 ---------------------------------------

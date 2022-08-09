@@ -8,17 +8,15 @@ Gyula Erdõs
 
 -- Unknown
 
-Ashur CEL
-
-Unknown
+Deck Name: Ashur CEL
 
 Crypt (12 cards, min=13 max=32 avg=5.33)
 ----------------------------------------
-4x Anson                       8  aus dom CEL PRE   prince   Toreador:1
-3x Volker, The Puppet Prince   5  pot CEL           prince   Brujah:2
-1x Jimmy Dunn                  4  for CEL POT                Pander:2
-1x Parmenides                  4  qui CEL                    Banu Haqim:2
-1x Victor Tolliver             4  pot CEL                    Brujah antitribu:2
+4x Anson                       8  CEL PRE aus dom   prince   Toreador:1
+3x Volker, The Puppet Prince   5  CEL pot           prince   Brujah:2
+1x Jimmy Dunn                  4  CEL POT for                Pander:2
+1x Parmenides                  4  CEL qui                    Banu Haqim:2
+1x Victor Tolliver             4  CEL pot                    Brujah antitribu:2
 1x Sarah Brando                3  CEL                        Brujah antitribu:2
 1x Carter                      2  cel                        Toreador antitribu:2
 

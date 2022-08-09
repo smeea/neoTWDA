@@ -8,16 +8,14 @@ Heikki Palomäki
 
 -- Unknown
 
-Marble cake
-
-Unknown
+Deck Name: Marble cake
 
 Crypt (12 cards, min=6 max=16 avg=2.5)
 --------------------------------------
-1x Agrippina            4  pot OBF          Nosferatu:1
+1x Agrippina            4  OBF pot          Nosferatu:1
 1x Laurent de Valois    4  ani dom obf      Nosferatu:2
 1x Roland Bishop        4  aus dom obf      Malkavian:1
-1x Tansu Bekir          4  cel OBF          Banu Haqim:2
+1x Tansu Bekir          4  OBF cel          Banu Haqim:2
 1x Christine Boscacci   2  dom vic          Pander:2
 1x Dimple               2  obf              Nosferatu:1
 1x Mustafa Rahman       2  dom              Tremere:2
@@ -28,7 +26,7 @@ Crypt (12 cards, min=6 max=16 avg=2.5)
 1x Royce                1  dom              Pander:2
 
 Library (90 cards)
-Master (20)
+Master (20; 10 trifle)
 3x Dominate
 4x Lilith's Blessing
 3x Obfuscate

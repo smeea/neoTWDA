@@ -8,8 +8,9 @@ Darby Keeney
 
 -- Unknown
 
-Balls of Stihl
+Deck Name: Balls of Stihl
 
+Description:
 (Imbued Chainsaw Rush)
 
 A couple of years ago, John stitched the Chainsaw rush into

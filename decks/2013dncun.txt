@@ -6,12 +6,11 @@ September 28th 2013
 Bram Van Stappen
 
 
--- Unknown
+-- 1GW4 + 1.5 in final
 
-419 911
+Deck Name: 419 911
 
-1GW4 + 1.5 in final
-
+Description:
 Since most of the times your prey and grandprey make deals for bleeds of one
 and it's impossible to eagle's sight everything, I thought it might be worthwhile
 to try and prevent your prey from playing at all ... so brainwash, pentex for something
@@ -21,12 +20,12 @@ off to play in the second game, so your grandprey doesn't get the pool you have 
 
 Crypt (12 cards, min=10 max=22 avg=4.17)
 ----------------------------------------
-2x Neighbor John    5  dom for AUS          Ventrue antitribu:4
-2x Titi Camara      5  pot AUS CEL          Osebo:5
+2x Neighbor John    5  AUS dom for          Ventrue antitribu:4
+2x Titi Camara      5  AUS CEL pot          Osebo:5
 2x Misrak           2  pot                  Osebo:4
-1x Abiku            6  cel obt AUS POT      Osebo:4
+1x Abiku            6  AUS POT cel obt      Osebo:4
 1x Homa             6  AUS CEL POT          Osebo:4
-1x Idrissa          4  aus CEL              Osebo:4
+1x Idrissa          4  CEL aus              Osebo:4
 1x Ismitta          4  aus cel pot          Osebo:4
 1x Arriette Sylla   3  POT                  Osebo:4
 1x Kamaria          3  aus pot              Osebo:4

@@ -8,18 +8,16 @@ https://www.vekn.net/event-calendar/event/9720
 
 -- 4vp in the final
 
-ANATHEMA
-
-Unknown
+Deck Name: ANATHEMA
 
 Crypt (12 cards, min=36 max=43 avg=9.92)
 ----------------------------------------
-5x Xaviar (ADV)     10  aus cel pot ABO ANI FOR PRO   justicar       Gangrel:3
-4x Ingrid Rossler    9  dom ANI FOR PRO               prince         Gangrel:2
+5x Xaviar (ADV)     10  ABO ANI FOR PRO aus cel pot   justicar       Gangrel:3
+4x Ingrid Rossler    9  ANI FOR PRO dom               prince         Gangrel:2
 3x Stanislava       11  ANI CEL DOM FOR PRO           inner circle   Gangrel:2
 
 Library (90 cards)
-Master (15)
+Master (15; 4 trifle)
 1x Backways
 2x Dreams of the Sphinx
 1x Ecoterrorists

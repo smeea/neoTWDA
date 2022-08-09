@@ -8,20 +8,18 @@ https://www.vekn.net/event-calendar/event/9828
 
 -- 3vp in the final
 
-Antonio anarch
-
-Unknown
+Deck Name: Antonio anarch
 
 Crypt (13 cards, min=4 max=20 avg=3.0)
 --------------------------------------
-5x Antonio d'Erlette   5  dom for pot THA      Tremere antitribu:4
+5x Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4
 5x Anarch Convert      1                       Caitiff:ANY
 1x Ember Wright        3  aus dom              Tremere antitribu:3
 1x Keith Moody         3  DOM                  Tremere antitribu:4
 1x Saiz                3  aus dom              Tremere antitribu:3
 
 Library (77 cards)
-Master (41)
+Master (41; 2 trifle)
 4x Anarch Revolt
 12x Ashur Tablets
 2x Direct Intervention

@@ -8,8 +8,9 @@ Brian Wellington
 
 -- Unknown
 
-Unnamed Salubri Deck #1
+Deck Name: Unnamed Salubri Deck #1
 
+Description:
 I'm still surprised that this worked.
 [In my words, a bunch of cool cards tossed together.]
 
@@ -18,12 +19,12 @@ extras.
 
 Crypt (14 cards, min=20 max=30 avg=6.36)
 ----------------------------------------
-4x Matthias                          7  nec AUS FOR OBE      Salubri:2
-4x Blanche Hill                      6  aus FOR OBE          Salubri:2
+4x Matthias                          7  AUS FOR OBE nec      Salubri:2
+4x Blanche Hill                      6  FOR OBE aus          Salubri:2
 2x Ian Forestal                      8  AUS DOM THA          Tremere antitribu:2
-2x Miriam Benyona                    5  for obe AUS          Salubri:2
-1x Omaya                             7  pro ANI AUS FOR      Gangrel antitribu:2
-1x Richard Tauber, Ayelea's Puppet   4  tha AUS              Tremere antitribu:2
+2x Miriam Benyona                    5  AUS for obe          Salubri:2
+1x Omaya                             7  ANI AUS FOR pro      Gangrel antitribu:2
+1x Richard Tauber, Ayelea's Puppet   4  AUS tha              Tremere antitribu:2
 
 Library (90 cards)
 Master (16)

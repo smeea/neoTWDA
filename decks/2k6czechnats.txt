@@ -8,22 +8,20 @@ Roman Kedzior
 
 -- Unknown
 
-Marijava Thuggee
-
-Unknown
+Deck Name: Marijava Thuggee
 
 Crypt (12 cards, min=14 max=24 avg=4.67)
 ----------------------------------------
-3x Roger Farnsworth     4  aus OBF              Malkavian antitribu:3
-2x Ingram Frizer        6  ani pot AUS OBF      Nosferatu antitribu:3
-2x Sennadurek           6  dom AUS NEC          Nagaraja:4
-2x Colonel, The         5  cel dem obf AUS      Malkavian antitribu:3
+3x Roger Farnsworth     4  OBF aus              Malkavian antitribu:3
+2x Ingram Frizer        6  AUS OBF ani pot      Nosferatu antitribu:3
+2x Sennadurek           6  AUS NEC dom          Nagaraja:4
+2x Colonel, The         5  AUS cel dem obf      Malkavian antitribu:3
 1x Katherine Stoddard   4  dom for              Ventrue antitribu:3
 1x Mariano Pomposo      4  aus cel pot          Brujah antitribu:3
 1x Piotr Andreikov      2  aus                  Tzimisce:3
 
 Library (90 cards)
-Master (17)
+Master (17; 6 trifle)
 5x Blood Doll
 1x Charisma
 6x Corporal Reservoir

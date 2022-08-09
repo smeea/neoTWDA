@@ -8,20 +8,16 @@ Otso Saariluoma
 
 -- 3vp in the final
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=21 max=32 avg=6.75)
 ----------------------------------------
-4x Howler             8  obf ANI PRE SPI          Ahrimane:2
-4x Siamese, The       7  ani pro PRE SPI          Ahrimane:2
-2x Cynthia Ingold     6  ani for pre SPI          Ahrimane:2
+4x Howler             8  ANI PRE SPI obf          Ahrimane:2
+4x Siamese, The       7  PRE SPI ani pro          Ahrimane:2
+2x Cynthia Ingold     6  SPI ani for pre          Ahrimane:2
 1x Nettie Hale        5  ani cel pre pro spi      Ahrimane:2
 1x Juanita Santiago   4  ani pre spi              Ahrimane:2
 
 Library (88 cards)
-Master (17)
+Master (17; 1 trifle)
 1x Anarch Free Press, The
 1x Anarch Railroad
 4x Anarch Revolt

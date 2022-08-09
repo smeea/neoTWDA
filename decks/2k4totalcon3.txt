@@ -8,8 +8,9 @@ Ben Peal
 
 -- Unknown
 
-Pochtli Twister
+Deck Name: Pochtli Twister
 
+Description:
 I was wondering about building a deck that was less than
 60 cards - and padding it out with burn option cards - to see if there
 was potential for abuse (withdrawal excepted). At least from this
@@ -28,17 +29,17 @@ fudjo@mindstorm.com
 
 Crypt (12 cards, min=13 max=32 avg=6.0)
 ---------------------------------------
-5x Pochtli                               8  cel dom NEC OBF POT      Giovanni:2
-1x Carlotta Giovanni                     7  dom obf NEC POT          Giovanni:2
-1x Agaitas, The Scholar of Antiquities   6  for AUS NEC              Harbinger of Skulls:2
-1x Ozmo                                  6  dom obf AUS              Malkavian:1
-1x Raful al-Zarqa                        6  dom nec obf AUS          Nagaraja:2
-1x Aleph                                 4  dom AUS                  Malkavian:1
+5x Pochtli                               8  NEC OBF POT cel dom      Giovanni:2
+1x Carlotta Giovanni                     7  NEC POT dom obf          Giovanni:2
+1x Agaitas, The Scholar of Antiquities   6  AUS NEC for              Harbinger of Skulls:2
+1x Ozmo                                  6  AUS dom obf              Malkavian:1
+1x Raful al-Zarqa                        6  AUS dom nec obf          Nagaraja:2
+1x Aleph                                 4  AUS dom                  Malkavian:1
 1x Frederick the Weak                    2  pre                      Brujah antitribu:2
 1x Basil                                 1  obf                      Pander:2
 
 Library (60 cards)
-Master (13)
+Master (13; 3 trifle)
 1x Anarch Railroad
 2x Blood Doll
 1x Coven, The

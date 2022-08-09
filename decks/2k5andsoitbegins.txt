@@ -8,17 +8,15 @@ Rob Thompson
 
 -- Unknown
 
-Blood Vacuum
-
-Unknown
+Deck Name: Blood Vacuum
 
 Crypt (12 cards, min=32 max=40 avg=9.08)
 ----------------------------------------
-3x Lucas Halton         10  qui AUS CEL DOM THA       prince     Tremere:3
-3x Menele               10  aus dom CEL POT PRE THA              Brujah:3
-3x Anastasz di Zagreb    8  ani cel dom AUS THA       justicar   Tremere:3
-2x Erichtho              8  cel obf AUS DOM THA                  Tremere:3
-1x Javier Montoya        9  ani cel pre AUS THA       prince     Tremere:2
+3x Lucas Halton         10  AUS CEL DOM THA qui       prince     Tremere:3
+3x Menele               10  CEL POT PRE THA aus dom              Brujah:3
+3x Anastasz di Zagreb    8  AUS THA ani cel dom       justicar   Tremere:3
+2x Erichtho              8  AUS DOM THA cel obf                  Tremere:3
+1x Javier Montoya        9  AUS THA ani cel pre       prince     Tremere:2
 
 Library (90 cards)
 Master (13)

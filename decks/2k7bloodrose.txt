@@ -8,8 +8,9 @@ Adam Hulse
 
 -- Unknown
 
-Guedado Where Are You?
+Deck Name: Guedado Where Are You?
 
+Description:
 This is the deck I won the tournament with. The "correct"
 version, (was missing the burn cards right before I left for the
 tournament) is a 61 card deck,removing a Parthenon, adding Specialization
@@ -22,7 +23,7 @@ for cards like Memories.
 Crypt (12 cards, min=9 max=18 avg=3.5)
 --------------------------------------
 4x Guedado                         4  aus obf vic          Tzimisce:4
-2x Ana Rita Montaña                5  aus dom obf VIC      Tzimisce:3
+2x Ana Rita Montaña                5  VIC aus dom obf      Tzimisce:3
 1x Mariano Pomposo                 4  aus cel pot          Brujah antitribu:3
 1x Béatrice "Oracle171" Tremblay   3  inn ven              Innocent:4
 1x Kamaria                         3  aus pot              Osebo:4
@@ -31,7 +32,7 @@ Crypt (12 cards, min=9 max=18 avg=3.5)
 1x Misrak                          2  pot                  Osebo:4
 
 Library (60 cards)
-Master (38)
+Master (38; 2 trifle)
 1x Blood Doll
 1x Chanjelin Ward
 3x Charisma

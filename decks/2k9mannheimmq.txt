@@ -8,8 +8,9 @@ Johannes Walch
 
 -- Unknown
 
-Tyebot's Chainsaw
+Deck Name: Tyebot's Chainsaw
 
+Description:
 Ist so ein toolboxiges Ding, kann von allem etwas.
 Bisschen hart an alles zu denken Smile Und Glück braucht man auch.
 
@@ -26,7 +27,7 @@ Crypt (13 cards, min=11 max=20 avg=3.92)
 1x Cristobal Ghiberti           2  nec              Giovanni:4
 
 Library (85 cards)
-Master (18)
+Master (18; 1 trifle)
 6x Angel of Berlin
 1x Church of Vindicated Faith, The
 1x Direct Intervention

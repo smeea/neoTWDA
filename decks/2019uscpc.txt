@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9085
 
 -- 2gw8 + 3vp in the final
 
-The Capitalist are coming!
+Deck Name: The Capitalist are coming!
 
+Description:
 Background: So, originally was going to play a Harbinger deck, but there were several at the tournament. Contesting is an easy way to lose, so swap to Kiasyd.
 
 This is simply my power bleed Kiasyd (there many on TWDA). I doubled up on the group 4-5 Kiasyd to make Song of Pan more potent.
@@ -24,24 +25,24 @@ Note: Combat could happen, but really this is for Song of Pan.
 
 Crypt (12 cards, min=22 max=32 avg=6.83)
 ----------------------------------------
-2x Arcadian, The             8  chi for DOM MYT OBT             Kiasyd:5
-2x Pherydima                 8  obt pot DOM MYT NEC   bishop    Kiasyd:4
-2x Omme Enberbenight         7  cel dom MYT OBT       priscus   Kiasyd:4
-2x Roderick Phillips March   7  cel obt tha DOM MYT             Kiasyd:4
+2x Arcadian, The             8  DOM MYT OBT chi for             Kiasyd:5
+2x Pherydima                 8  DOM MYT NEC obt pot   bishop    Kiasyd:4
+2x Omme Enberbenight         7  MYT OBT cel dom       priscus   Kiasyd:4
+2x Roderick Phillips March   7  DOM MYT cel obt tha             Kiasyd:4
 2x Isanwayen                 6  DOM MYT OBT                     Kiasyd:4
-2x Dame Hollerton            5  myt DOM OBT                     Kiasyd:4
+2x Dame Hollerton            5  DOM OBT myt                     Kiasyd:4
 
 Library (83 cards)
 Master (14; 3 trifle)
 1x Barrens, The
 2x Capitalist
-2x Chanjelin Ward -- was worried about Rush
+2x Chanjelin Ward
 1x Coven, The
 2x Dreams of the Sphinx
-1x Great Symposium -- Get the Arcadian
+1x Great Symposium
 2x Information Highway
 1x Pentex(TM) Subversion
-2x Wash -- Stop Pentex Subversion from being used on you, sadly I never drew it when I needed it
+2x Wash
 
 Action (20)
 13x Govern the Unaligned

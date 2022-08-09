@@ -8,27 +8,28 @@ https://www.vekn.net/event-calendar/event/7630
 
 -- 4vp in the final
 
-Yes.
+Deck Name: Yes.
 
+Description:
 Violence is not the answer. Violence is the question. The answer is yes.
 
 Crypt (12 cards, min=14 max=26 avg=5.0)
 ---------------------------------------
-1x Kite                             7  obf pre AUS DEM   bishop   Malkavian antitribu:2
-1x Tatiana Romanov                  7  cel pre AUS       prince   Toreador:1
-1x Jost Werner                      6  ani AUS PRE                Toreador antitribu:2
-1x Ozmo                             6  dom obf AUS                Malkavian:1
-1x Quira, The Bitch Queen           6  obt tha AUS OBF            Malkavian antitribu:2
-1x Sheila Mezarin                   6  cel for AUS PRE            Toreador antitribu:2
-1x Aleph                            4  dom AUS                    Malkavian:1
-1x Dorian Strack                    4  cel AUS                    Toreador:1
-1x Idalia, Prophet of Guadalajara   4  dem AUS                    Malkavian antitribu:2
-1x Remilliard, Devout Crusader      4  pre AUS                    Toreador antitribu:2
+1x Kite                             7  AUS DEM obf pre   bishop   Malkavian antitribu:2
+1x Tatiana Romanov                  7  AUS cel pre       prince   Toreador:1
+1x Jost Werner                      6  AUS PRE ani                Toreador antitribu:2
+1x Ozmo                             6  AUS dom obf                Malkavian:1
+1x Quira, The Bitch Queen           6  AUS OBF obt tha            Malkavian antitribu:2
+1x Sheila Mezarin                   6  AUS PRE cel for            Toreador antitribu:2
+1x Aleph                            4  AUS dom                    Malkavian:1
+1x Dorian Strack                    4  AUS cel                    Toreador:1
+1x Idalia, Prophet of Guadalajara   4  AUS dem                    Malkavian antitribu:2
+1x Remilliard, Devout Crusader      4  AUS pre                    Toreador antitribu:2
 1x Isabel de Leon                   3  AUS                        Toreador:2
-1x Zöe                              3  cel obf AUS                Malkavian:2
+1x Zöe                              3  AUS cel obf                Malkavian:2
 
 Library (90 cards)
-Master (4)
+Master (4; 2 trifle)
 1x Powerbase: Montreal
 1x Slave Auction
 2x Villein

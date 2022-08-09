@@ -8,8 +8,9 @@ Ben Peal
 
 -- Unknown
 
-Unacceptable Boon
+Deck Name: Unacceptable Boon
 
+Description:
 Yet another in my line of breed-boon decks. This one
 was born from a conversation with Brian Moritz at the 2006 NAC, where
 he mentioned using Unacceptable Appearance on your own !Nos. Legacy
@@ -25,8 +26,8 @@ staff of TempleCon for having us!
 
 Crypt (12 cards, min=4 max=31 avg=4.25)
 ---------------------------------------
-3x Lukas           8  pre ser ANI OBF POT   archbishop   Nosferatu antitribu:4
-3x Greensleeves    7  for pot ANI OBF       priscus      Nosferatu antitribu:4
+3x Lukas           8  ANI OBF POT pre ser   archbishop   Nosferatu antitribu:4
+3x Greensleeves    7  ANI OBF for pot       priscus      Nosferatu antitribu:4
 1x Feo Ramos       1  aus                                Pander:3
 1x Jaggedy Andy    1  pot                                Pander:4
 1x Kai Simmons     1  cel                                Pander:4
@@ -35,7 +36,7 @@ Crypt (12 cards, min=4 max=31 avg=4.25)
 1x Schuyler        1  tha                                Pander:4
 
 Library (90 cards)
-Master (21)
+Master (21; 1 trifle)
 1x Barrens, The
 4x Blood Doll
 1x Coven, The

@@ -8,8 +8,9 @@ John Bell
 
 -- 2.5vp in the final
 
-Putting "The Dominate" in Indominatability
+Deck Name: Putting "The Dominate" in Indominatability
 
+Description:
 I played a similar deck a number of years ago at Origins. That deck revolved
 more around the combat aspect itself, using Animalism for Drawing Out the Beast.
 Camera Phone seems to be my new favorite card and I keep wanting to put them
@@ -21,7 +22,7 @@ I'd probably drop a Superior Mettle and a Rapid Healing for them.
 
 Crypt (12 cards, min=8 max=16 avg=3.17)
 ---------------------------------------
-2x Ingrid Russo         4  for DOM          Ventrue antitribu:2
+2x Ingrid Russo         4  DOM for          Ventrue antitribu:2
 2x Katherine Stoddard   4  dom for          Ventrue antitribu:3
 2x Peter Blaine         4  aus dom for      Ventrue antitribu:2
 2x March Halcyon        1  for              Pander:2

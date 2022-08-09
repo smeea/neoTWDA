@@ -8,8 +8,9 @@ Aleksi Nuora
 
 -- 3vp in the final
 
-Undele's Bag of Dicks
+Deck Name: Undele's Bag of Dicks
 
+Description:
 Bring out big guys with Zillah's to secure a fast vote lock,
 proceed to win with Undele. For defending and breaking stalemates, pull dick
 moves like recycling Banishment, DI, Entrancement or Pentex. Very difficult
@@ -22,19 +23,19 @@ bleeding I would also add a second Protected Resources.
 
 Crypt (12 cards, min=36 max=42 avg=9.5)
 ---------------------------------------
-5x Undele                   9  obf pre ser CEL FOR       magaji         Ishtarri:5
-2x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE       inner circle   Malkavian:4
-2x Armin Brenner           10  ani obf CEL FOR POT PRE   archbishop     Brujah antitribu:4
-2x Dmitra Ilyanova          9  obf CEL FOR POT PRE       justicar       Brujah:5
-1x Hektor                   9  for CEL POT PRE QUI       priscus        Brujah antitribu:4
+5x Undele                   9  CEL FOR obf pre ser       magaji         Ishtarri:5
+2x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4
+2x Armin Brenner           10  CEL FOR POT PRE ani obf   archbishop     Brujah antitribu:4
+2x Dmitra Ilyanova          9  CEL FOR POT PRE obf       justicar       Brujah:5
+1x Hektor                   9  CEL POT PRE QUI for       priscus        Brujah antitribu:4
 
 Library (60 cards)
 Master (33; 7 trifle)
 3x Ashur Tablets
-1x Command Performance -- burn option
+1x Command Performance
 1x Creepshow Casino
 1x Direct Intervention
-3x Dirty Contract -- burn option
+3x Dirty Contract
 1x Giant's Blood
 1x Golconda: Inner Peace
 1x Information Highway
@@ -43,7 +44,7 @@ Master (33; 7 trifle)
 1x Parthenon, The
 1x Pentex(TM) Subversion
 1x Protected Resources
-2x Slaughterhouse, The -- burn option
+2x Slaughterhouse, The
 5x Villein
 1x Waste Management Operation
 2x Wider View
@@ -77,7 +78,7 @@ Reaction (1)
 1x Lost in Translation
 
 Combat/Reaction (7)
-7x Evil Eye -- burn option
+7x Evil Eye
 
 Event (1)
 1x Anthelios, The Red Star

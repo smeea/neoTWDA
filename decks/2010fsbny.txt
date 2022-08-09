@@ -8,8 +8,9 @@ James Wilhelm
 
 -- Unknown
 
-These are My toys. There are many like them, but these
+Deck Name: These are My toys. There are many like them, but these
 
+Description:
 ones are Mine.
 
 Crypt (12 cards, min=12 max=20 avg=4.0)

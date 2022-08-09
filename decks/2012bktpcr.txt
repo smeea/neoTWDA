@@ -8,22 +8,20 @@ Jiri Paska
 
 -- Unknown
 
-AAA
-
-Unknown
+Deck Name: AAA
 
 Crypt (12 cards, min=20 max=43 avg=8.25)
 ----------------------------------------
-3x Alexandra         11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-3x Anson              8  aus dom CEL PRE           prince         Toreador:1
-2x Anneke            10  dom AUS CEL PRE           justicar       Toreador:1
-1x François Villon   10  chi obf pot AUS CEL PRE   prince         Toreador:2
-1x Tatiana Romanov    7  cel pre AUS               prince         Toreador:1
+3x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+3x Anson              8  CEL PRE aus dom           prince         Toreador:1
+2x Anneke            10  AUS CEL PRE dom           justicar       Toreador:1
+1x François Villon   10  AUS CEL PRE chi obf pot   prince         Toreador:2
+1x Tatiana Romanov    7  AUS cel pre               prince         Toreador:1
 1x Isabel de Leon     3  AUS                                      Toreador:2
 1x Delilah Easton     2  pre                                      Toreador:1
 
 Library (90 cards)
-Master (35)
+Master (35; 2 trifle)
 1x Art Museum
 1x Coven, The
 2x Direct Intervention

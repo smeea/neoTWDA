@@ -8,25 +8,23 @@ https://www.vekn.net/event-calendar/event/8920
 
 -- 4vp in the final
 
-Set's Heaven
-
-Unknown
+Deck Name: Set's Heaven
 
 Crypt (14 cards, min=14 max=39 avg=6.79)
 ----------------------------------------
-3x Nefertiti                   10  cel pot DOM OBF PRE SER            Ministry:2
-2x Kahina the Sorceress         9  nec pre AUS DOM OBF SER   1 vote   Ministry:3
-2x Khay'tall, Snake of Eden     9  aus DOM OBF PRE SER                Ministry:2
-1x Ezekiel, Lord of Montreal    6  obf pot PRE SER                    Ministry:3
-1x Sir Marriot D'Urban          5  aus obf ser PRE                    Ministry:2
-1x Elizabeth Dimitros           4  obf SER                            Ministry:3
+3x Nefertiti                   10  DOM OBF PRE SER cel pot            Ministry:2
+2x Kahina the Sorceress         9  AUS DOM OBF SER nec pre   1 vote   Ministry:3
+2x Khay'tall, Snake of Eden     9  DOM OBF PRE SER aus                Ministry:2
+1x Ezekiel, Lord of Montreal    6  PRE SER obf pot                    Ministry:3
+1x Sir Marriot D'Urban          5  PRE aus obf ser                    Ministry:2
+1x Elizabeth Dimitros           4  SER obf                            Ministry:3
 1x Hadrian Garrick              4  obf pre                            Ministry:2
 1x Nepata                       4  obf pre ser                        Ministry:2
 1x Celine Chevalier             3  obf ser                            Ministry:2
 1x Khalil Anvari                3  pre ser                            Ministry:2
 
 Library (90 cards)
-Master (35)
+Master (35; 11 trifle)
 9x Eternals of Sirius, The
 1x Giant's Blood
 4x Golconda: Inner Peace

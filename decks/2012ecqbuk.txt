@@ -8,25 +8,26 @@ Hugh Angseesing
 
 -- 0.5vp in the final
 
-Pandering to Anson
+Deck Name: Pandering to Anson
 
+Description:
 loosely based on the Toreador master gun decks flying about
 but now using improved Panders
 Ashur Tablets enable another set of cel crypts.
 
 Crypt (13 cards, min=10 max=34 avg=5.62)
 ----------------------------------------
-4x Anson                        8  aus dom CEL PRE   prince     Toreador:1
-3x Jimmy Dunn                   4  for CEL POT                  Pander:2
-1x Anneke                      10  dom AUS CEL PRE   justicar   Toreador:1
+4x Anson                        8  CEL PRE aus dom   prince     Toreador:1
+3x Jimmy Dunn                   4  CEL POT for                  Pander:2
+1x Anneke                      10  AUS CEL PRE dom   justicar   Toreador:1
 1x Dónal O'Connor               8  CEL DOM POT       prince     Brujah:2
-1x Volker, The Puppet Prince    5  pot CEL           prince     Brujah:2
+1x Volker, The Puppet Prince    5  CEL pot           prince     Brujah:2
 1x Sarah Brando                 3  CEL                          Brujah antitribu:2
 1x Christine Boscacci           2  dom vic                      Pander:2
 1x Royce                        1  dom                          Pander:2
 
 Library (79 cards)
-Master (29)
+Master (29; 7 trifle)
 1x Archon Investigation
 9x Ashur Tablets
 1x Direct Intervention

@@ -8,13 +8,11 @@ Brad Cashdollar
 
 -- Unknown
 
-Jay's Angry Dragon
-
-Unknown
+Deck Name: Jay's Angry Dragon
 
 Crypt (12 cards, min=4 max=12 avg=1.75)
 ---------------------------------------
-1x Jimmy Dunn                 4  for CEL POT      Pander:2
+1x Jimmy Dunn                 4  CEL POT for      Pander:2
 1x Lena Rowe                  3  aus obf pre      Pander:2
 1x Rex, The Necronomist       3  pot pro vic      Pander:2
 1x Christine Boscacci         2  dom vic          Pander:2

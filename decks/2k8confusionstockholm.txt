@@ -8,14 +8,15 @@ Magnus Karlström AKA Ober
 
 -- Unknown
 
-Pander vote
+Deck Name: Pander vote
 
+Description:
 Weenie vote
 
 Crypt (12 cards, min=4 max=11 avg=1.58)
 ---------------------------------------
 2x Angela Decker          1  pre              Pander:2
-1x Jimmy Dunn             4  for CEL POT      Pander:2
+1x Jimmy Dunn             4  CEL POT for      Pander:2
 1x Lena Rowe              3  aus obf pre      Pander:2
 1x Rex, The Necronomist   3  pot pro vic      Pander:2
 1x Basil                  1  obf              Pander:2
@@ -27,7 +28,7 @@ Crypt (12 cards, min=4 max=11 avg=1.58)
 1x Tupdog                 1  POT VIS          Gargoyle:3
 
 Library (90 cards)
-Master (21)
+Master (21; 6 trifle)
 1x Barrens, The
 2x Dreams of the Sphinx
 8x Effective Management

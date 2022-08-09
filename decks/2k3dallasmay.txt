@@ -8,8 +8,7 @@ Ethan Burrow
 
 -- Unknown
 
-Unknown
-
+Description:
 Orgy of Flesh - Breathe Harder Remix
 This deck is a modification to the Orgy of Flesh Palla
 Grande/Vic deck. This adds the combat module used in Bow Down Before
@@ -26,13 +25,13 @@ Creation Rites are not blocked.
 Crypt (12 cards, min=16 max=38 avg=6.83)
 ----------------------------------------
 2x Matteus, Flesh Sculptor       10  AUS CEL PRE VIC   priscus      Toreador antitribu:2
-2x Donatien                       9  cel pot AUS PRE   cardinal     Toreador antitribu:2
-2x Lachlan, Noddist               8  dom AUS CEL PRE   archbishop   Toreador antitribu:2
-1x Jost Werner                    6  ani AUS PRE                    Toreador antitribu:2
-1x Sheila Mezarin                 6  cel for AUS PRE                Toreador antitribu:2
-1x Creamy Jade                    5  aus cel vic PRE                Toreador antitribu:3
-1x Mercy, Knight Inquisitor       5  cel dom pre AUS                Toreador antitribu:2
-1x Remilliard, Devout Crusader    4  pre AUS                        Toreador antitribu:2
+2x Donatien                       9  AUS PRE cel pot   cardinal     Toreador antitribu:2
+2x Lachlan, Noddist               8  AUS CEL PRE dom   archbishop   Toreador antitribu:2
+1x Jost Werner                    6  AUS PRE ani                    Toreador antitribu:2
+1x Sheila Mezarin                 6  AUS PRE cel for                Toreador antitribu:2
+1x Creamy Jade                    5  PRE aus cel vic                Toreador antitribu:3
+1x Mercy, Knight Inquisitor       5  AUS cel dom pre                Toreador antitribu:2
+1x Remilliard, Devout Crusader    4  AUS pre                        Toreador antitribu:2
 1x Carter                         2  cel                            Toreador antitribu:2
 
 Library (89 cards)

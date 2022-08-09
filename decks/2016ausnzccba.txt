@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8452
 
 -- Unknown
 
-Cracked Egg
+Deck Name: Cracked Egg
 
+Description:
 Only 11 caps for bonus points. 6x Eagle's Sights to have some table presence
 and to stop prey running away with the game. 2x Heart of Cheating to ensure you can magic
 it and other equipment late game. Dragonbound works really well as a finisher with minimal
@@ -17,13 +18,13 @@ negative effect. Based on a deck by Martin Schumacher.
 
 Crypt (12 cards, min=44 max=44 avg=11.0)
 ----------------------------------------
-5x Saulot, The Wanderer      11  dai AUS FOR OBE THA VAL      Salubri:4
+5x Saulot, The Wanderer      11  AUS FOR OBE THA VAL dai      Salubri:4
 3x Capuchin, The             11  AUS DOM FOR NEC THA THN      Harbinger of Skulls:5
 2x Baba Yaga, the Iron Hag   11  ANI AUS FOR OBF POT THA      Nosferatu:5
 2x Dracon, The               11  ANI AUS POT THA VIC          Tzimisce:5
 
 Library (88 cards)
-Master (20)
+Master (20; 9 trifle)
 1x Erciyes Fragments, The
 2x Giant's Blood
 1x Mob Connections

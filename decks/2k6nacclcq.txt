@@ -8,17 +8,16 @@ Jay Kristoff
 
 -- Unknown
 
-Unknown
-
+Description:
 Beef Chunks 'n' Gravy
 
 Crypt (12 cards, min=13 max=26 avg=4.75)
 ----------------------------------------
-3x Obsidian                     5  for pot VIS          Gargoyle:2
+3x Obsidian                     5  VIS for pot          Gargoyle:2
 3x Fidus, The Shrunken Beast    4  for tha vis          Gargoyle:2
 3x Erinyi                       3  pot vis              Gargoyle:2
-2x Ferox, The Rock Lord         7  ani FOR POT VIS      Gargoyle:2
-1x Ferox, The Rock Lord (ADV)   7  ani FOR POT VIS      Gargoyle:2
+2x Ferox, The Rock Lord         7  FOR POT VIS ani      Gargoyle:2
+1x Ferox, The Rock Lord (ADV)   7  FOR POT VIS ani      Gargoyle:2
 
 Library (90 cards)
 Master (14)

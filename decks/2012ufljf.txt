@@ -8,8 +8,9 @@ Mikko Tervonen
 
 -- 3vp in the final
 
-The Ghosts of Your Loss
+Deck Name: The Ghosts of Your Loss
 
+Description:
 My first Harbinger deck. Everything worked like a dream.
 Card cycle was awesome with all the vampire specials, Maabara, Fragment,
 Gear Ups and Dreams. Anarch Converts are there mainly because I don't own
@@ -22,14 +23,14 @@ Crypt (12 cards, min=8 max=31 avg=5.17)
 ---------------------------------------
 3x Anarch Convert      1                           Caitiff:ANY
 2x Mordechai Ben-Nun   8  ANI AUS FOR NEC          Harbinger of Skulls:5
-2x Babalawo Alafin     7  ani AUS FOR NEC          Harbinger of Skulls:4
-2x Solomon Batanea     5  nec AUS FOR              Harbinger of Skulls:4
-1x Phagian             8  dom for AUS NEC THA      Harbinger of Skulls:4
-1x Zygodat             6  pot AUS NEC              Harbinger of Skulls:4
+2x Babalawo Alafin     7  AUS FOR NEC ani          Harbinger of Skulls:4
+2x Solomon Batanea     5  AUS FOR nec              Harbinger of Skulls:4
+1x Phagian             8  AUS NEC THA dom for      Harbinger of Skulls:4
+1x Zygodat             6  AUS NEC pot              Harbinger of Skulls:4
 1x Nicomedes           5  aus for nec vic          Harbinger of Skulls:4
 
 Library (90 cards)
-Master (17)
+Master (17; 5 trifle)
 1x Dreams of the Sphinx
 1x Erciyes Fragments, The
 1x Giant's Blood

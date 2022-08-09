@@ -6,12 +6,11 @@ May 25th 2013
 Vincent Ripoll
 
 
--- Unknown
+-- 2GW8 (1st seed) + 2VP in final
 
-With a little help from Giotto
+Deck Name: With a little help from Giotto
 
-2GW8 (1st seed) + 2VP in final
-
+Description:
 Locked within the walls of the Abbey of Mount
 Zion (Monastery of Shadows), Giotto Verducci uses the Fragments
 brought back from Kaymakli to attract and organize a secret
@@ -19,16 +18,16 @@ meeting between the leaders of the Ventrue Clan.
 
 Crypt (12 cards, min=26 max=42 avg=8.5)
 ---------------------------------------
-5x Giotto Verducci      7  for pot pre DAI OBF                      Baali:2
-2x Arika               11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Jaroslav Pascek     10  for obf CEL POT PRE       justicar       Brujah:3
-1x Lucinde, Alastor    10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
+5x Giotto Verducci      7  DAI OBF for pot pre                      Baali:2
+2x Arika               11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Jaroslav Pascek     10  CEL POT PRE for obf       justicar       Brujah:3
+1x Lucinde, Alastor    10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
 1x Marcus Vitel        10  DOM FOR OBF OBT PRE       prince         Ventrue:3
-1x Queen Anne          10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Catherine du Bois    5  for obf pre DOM                          Ventrue:3
+1x Queen Anne          10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Catherine du Bois    5  DOM for obf pre                          Ventrue:3
 
 Library (72 cards)
-Master (22)
+Master (22; 2 trifle)
 9x Ashur Tablets
 1x Coven, The
 2x Dreams of the Sphinx

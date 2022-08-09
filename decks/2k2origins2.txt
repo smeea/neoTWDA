@@ -8,8 +8,7 @@ Jay Kristoff
 
 -- Unknown
 
-Unknown
-
+Description:
 Well my luck continued on Friday at Origins this year. My other
 Gangrel deck won that tournament. This deck is a beefed up version
 of my Can I Wear This Jacket? deck that I used to win the Newark OH
@@ -24,12 +23,12 @@ by Jay Kristoff
 
 Crypt (14 cards, min=13 max=34 avg=5.5)
 ---------------------------------------
-3x Ingrid Rossler                9  dom ANI FOR PRO   prince     Gangrel:2
-2x Camille Devereux, The Raven   5  ani FOR PRO                  Gangrel:1
+3x Ingrid Rossler                9  ANI FOR PRO dom   prince     Gangrel:2
+2x Camille Devereux, The Raven   5  FOR PRO ani                  Gangrel:1
 1x Gitane St. Claire             7  ANI FOR PRO       primogen   Gangrel:1
-1x Badger                        6  ani pot FOR PRO              Gangrel:1
-1x Bear Paw                      5  for pre pro ANI              Gangrel:1
-1x Mirembe Kabbada               5  ani PRO SER                  Gangrel:2
+1x Badger                        6  FOR PRO ani pot              Gangrel:1
+1x Bear Paw                      5  ANI for pre pro              Gangrel:1
+1x Mirembe Kabbada               5  PRO SER ani                  Gangrel:2
 1x Ramona                        4  for pro                      Gangrel:2
 1x Roman Alexander               4  ani for pro                  Gangrel:1
 1x Anastasia Grey                3  ani pro                      Gangrel:1

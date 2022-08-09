@@ -8,8 +8,9 @@ Felipe Fiuza
 
 -- 4vp in the final
 
-La ostia
+Deck Name: La ostia
 
+Description:
 Just Be cool, Block, and Wait.
 
 Crypt (12 cards, min=14 max=20 avg=4.17)
@@ -25,7 +26,7 @@ Crypt (12 cards, min=14 max=20 avg=4.17)
 1x Xian "DziDzat155" Quan       4  def inn          Defender:4
 
 Library (60 cards)
-Master (11)
+Master (11; 1 trifle)
 4x Angel of Berlin
 1x Church of Vindicated Faith, The
 1x Fortschritt Library

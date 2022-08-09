@@ -8,19 +8,15 @@ Teemu Salo
 
 -- 3vp in the final
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=24 max=44 avg=9.33)
 ----------------------------------------
-4x Adana de Sforza     11  aus CEL OBF POT PRE PRO   inner circle   Brujah:4
+4x Adana de Sforza     11  CEL OBF POT PRE PRO aus   inner circle   Brujah:4
 4x Rafael de Corazon   11  AUS CEL DOM OBF PRE       inner circle   Toreador:4
-2x Isouda de Blaise     7  aus CEL OBF PRE                          Toreador antitribu:4
-2x Victor Pelletier     5  cel dom for PRE                          Ventrue:4
+2x Isouda de Blaise     7  CEL OBF PRE aus                          Toreador antitribu:4
+2x Victor Pelletier     5  PRE cel dom for                          Ventrue:4
 
 Library (74 cards)
-Master (19)
+Master (19; 5 trifle)
 1x Auspex
 1x Direct Intervention
 1x Dreams of the Sphinx

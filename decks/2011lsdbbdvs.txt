@@ -8,8 +8,9 @@ Tomàs López Jiménez
 
 -- Unknown
 
-Turbo Nergal
+Deck Name: Turbo Nergal
 
+Description:
 Original idea: Acbishop
 Nergal Bleed, Nergal call the Great Beast, Nergal
 activates the Great Beast (Nergal burn), Great Beast bleed,
@@ -23,7 +24,7 @@ Crypt (13 cards, min=6 max=40 avg=5.77)
 2x Andy               1  for                          Caitiff:4
 1x Neel Ramanathan    3  ani for                      Ravnos:4
 1x Rashiel            3  for val                      Salubri antitribu:4
-1x Rosemarie          3  mel FOR                      Daughter of Cacophony:4
+1x Rosemarie          3  FOR mel                      Daughter of Cacophony:4
 
 Library (90 cards)
 Action (27)

@@ -8,8 +8,9 @@ Otso Saariluoma
 
 -- Unknown
 
-Anger Management
+Deck Name: Anger Management
 
+Description:
 Osebo intercept/combat with Andre added as an opportunistic
 ousting mechanism. In order to get GWs, this deck needs
 quite a few turns, so one or two players should be
@@ -19,14 +20,14 @@ as fast as possible.
 
 Crypt (12 cards, min=16 max=36 avg=6.33)
 ----------------------------------------
-4x Massassi       9  obf AUS CEL POT QUI      Osebo:4
+4x Massassi       9  AUS CEL POT QUI obf      Osebo:4
 3x Homa           6  AUS CEL POT              Osebo:4
-2x Titi Camara    5  pot AUS CEL              Osebo:5
+2x Titi Camara    5  AUS CEL pot              Osebo:5
 2x Andre LeRoux   3  aus                      Toreador:5
-1x Abiku          6  cel obt AUS POT          Osebo:4
+1x Abiku          6  AUS POT cel obt          Osebo:4
 
 Library (90 cards)
-Master (18)
+Master (18; 8 trifle)
 1x Direct Intervention
 2x Fame
 1x KRCG News Radio

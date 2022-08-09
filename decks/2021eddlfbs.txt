@@ -6,25 +6,23 @@ July 17th 2021
 Tomàs López Jiménez
 https://www.vekn.net/event-calendar/event/9819
 
--- Unknown
+-- 1gw, 4vps in finals
 
-Giotto con bichos gordos
-
-1gw, 4vps in finals
+Deck Name: Giotto con bichos gordos
 
 Crypt (12 cards, min=28 max=42 avg=8.75)
 ----------------------------------------
-5x Giotto Verducci     7  for pot pre DAI OBF                      Baali:2
-1x Arika              11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Leandro            11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-1x Jaroslav Pascek    10  for obf CEL POT PRE       justicar       Brujah:3
-1x Lucinde, Alastor   10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
+5x Giotto Verducci     7  DAI OBF for pot pre                      Baali:2
+1x Arika              11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Leandro            11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+1x Jaroslav Pascek    10  CEL POT PRE for obf       justicar       Brujah:3
+1x Lucinde, Alastor   10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
 1x Marcus Vitel       10  DOM FOR OBF OBT PRE       prince         Ventrue:3
-1x Queen Anne         10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Sarrasine (ADV)     8  aus nec OBF PRE SER       prince         Ministry:2
+1x Queen Anne         10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Sarrasine (ADV)     8  OBF PRE SER aus nec       prince         Ministry:2
 
 Library (90 cards)
-Master (27)
+Master (27; 10 trifle)
 6x Ashur Tablets
 1x Coven, The
 1x Direct Intervention

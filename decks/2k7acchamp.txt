@@ -8,8 +8,9 @@ Peter Rophail
 
 -- Unknown
 
-Imbued Toolbox
+Deck Name: Imbued Toolbox
 
+Description:
 A 2007 version of the deck I used to win last year's
 Sydney Qualifier. The deck thrived in the low combat environment
 taking 3 game wins & 9.5VP on the day.

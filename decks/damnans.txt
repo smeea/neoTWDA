@@ -8,22 +8,21 @@ https://groups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/ZKxcKotE24k/
 
 -- Unknown
 
-Unknown
-
+Description:
 VENTRUE HOSTILITIES
 
 Crypt (12 cards, min=15 max=40 avg=7.08)
 ----------------------------------------
-1x Arika               11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Democritus          10  aus cel for DOM PRE       justicar       Ventrue:1
-1x Queen Anne          10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Wilhelm Waldburg     9  aus cel DOM FOR PRE       prince         Ventrue:2
-1x Anson                8  aus dom CEL PRE           prince         Toreador:1
-1x Emerson Bridges      8  pot DOM FOR PRE           prince         Ventrue:1
+1x Arika               11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Democritus          10  DOM PRE aus cel for       justicar       Ventrue:1
+1x Queen Anne          10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Wilhelm Waldburg     9  DOM FOR PRE aus cel       prince         Ventrue:2
+1x Anson                8  CEL PRE aus dom           prince         Toreador:1
+1x Emerson Bridges      8  DOM FOR PRE pot           prince         Ventrue:1
 1x Sir Walter Nash      7  DOM FOR PRE               prince         Ventrue:1
-1x Timothy Crowley      7  ani dom FOR PRE           prince         Ventrue:1
-1x Rake                 6  aus cel pot PRE           prince         Brujah:1
-1x Violette Prentiss    4  dom PRE                                  Ventrue:1
+1x Timothy Crowley      7  FOR PRE ani dom           prince         Ventrue:1
+1x Rake                 6  PRE aus cel pot           prince         Brujah:1
+1x Violette Prentiss    4  PRE dom                                  Ventrue:1
 1x Roland Loussarian    3  for pre                                  Ventrue:1
 1x Rufina Soledad       2  for                                      Ventrue:1
 

@@ -8,17 +8,13 @@ Manuel Segatori
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=21 max=37 avg=7.5)
 ---------------------------------------
-3x Gabrin                            8  dom for ANI CHI              Ravnos:2
+3x Gabrin                            8  ANI CHI dom for              Ravnos:2
 3x Joaquina Amaya                    6  ANI CHI FOR                  Ravnos:2
-2x Spider-Killer                    10  aus cel ANI CHI FOR OBF      Ravnos:2
+2x Spider-Killer                    10  ANI CHI FOR OBF aus cel      Ravnos:2
 2x Étienne Fauberge                  8  ANI CEL CHI FOR              Ravnos:3
-1x Kostantin, Baro of the Caravan    9  cel dom ANI CHI FOR          Ravnos:2
+1x Kostantin, Baro of the Caravan    9  ANI CHI FOR cel dom          Ravnos:2
 1x Lázár Dobrescu                    3  for                          Ravnos:2
 
 Library (90 cards)

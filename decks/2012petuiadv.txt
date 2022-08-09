@@ -8,20 +8,18 @@ Gianluca Scala
 
 -- Unknown
 
-Team Leandro
-
-Unknown
+Deck Name: Team Leandro
 
 Crypt (12 cards, min=39 max=44 avg=10.5)
 ----------------------------------------
-4x Leandro            11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-3x Arika              11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-3x Cailean            10  dom ANI OBF POT PRE       archbishop     Nosferatu antitribu:2
-1x Queen Anne         10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Ellison Humboldt    9  pro ANI OBF POT PRE       primogen       Nosferatu:3
+4x Leandro            11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+3x Arika              11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+3x Cailean            10  ANI OBF POT PRE dom       archbishop     Nosferatu antitribu:2
+1x Queen Anne         10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Ellison Humboldt    9  ANI OBF POT PRE pro       primogen       Nosferatu:3
 
 Library (90 cards)
-Master (15)
+Master (15; 9 trifle)
 1x Barrens, The
 1x Direct Intervention
 3x Secure Haven

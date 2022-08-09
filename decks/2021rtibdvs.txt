@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9798
 
 -- 3gw9 + 2vp in the final
 
-Claudio Severino y sus amigos
+Deck Name: Claudio Severino y sus amigos
 
+Description:
 Final Table
 
 Tomás (winnies ofuscate) -> Gabri (gargoyles) ->José Luis Manuel -> David V. (unnamed, The) -> Toni (arhimane wall)
@@ -21,17 +22,17 @@ Crypt (12 cards, min=21 max=32 avg=6.5)
 ---------------------------------------
 2x Ayelech                  7  AUS DOM THA           prince     Tremere:6
 2x Trevon Parker            6  AUS DOM THA                      Tremere:6
-1x Claudio Severino (ADV)   9  cel obf AUS DOM THA              Tremere:5
+1x Claudio Severino (ADV)   9  AUS DOM THA cel obf              Tremere:5
 1x Gerald Windham           9  AUS DOM FOR THA                  Tremere:5
-1x Rutor                    7  pro vic AUS DOM THA              Tremere:5
-1x Inês Tristão             6  aus dom pre THA       prince     Tremere:6
-1x Lloyd Brooks             6  aus pot THA DOM       primogen   Tremere:6
-1x Chrysanthemum            5  dom AUS THA           primogen   Tremere:6
-1x Claus Wegener            5  aus for tha DOM                  Tremere:5
-1x Zane                     5  aus dom THA           primogen   Tremere:5
+1x Rutor                    7  AUS DOM THA pro vic              Tremere:5
+1x Inês Tristão             6  THA aus dom pre       prince     Tremere:6
+1x Lloyd Brooks             6  THA DOM aus pot       primogen   Tremere:6
+1x Chrysanthemum            5  AUS THA dom           primogen   Tremere:6
+1x Claus Wegener            5  DOM aus for tha                  Tremere:5
+1x Zane                     5  THA aus dom           primogen   Tremere:5
 
 Library (76 cards)
-Master (10)
+Master (10; 1 trifle)
 1x Anarch Troublemaker
 1x Arcane Library
 1x Chantry

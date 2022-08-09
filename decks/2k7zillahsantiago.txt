@@ -8,9 +8,7 @@ Hernán Rodríguez
 
 -- Unknown
 
-The Last Imbued.
-
-Unknown
+Deck Name: The Last Imbued.
 
 Crypt (12 cards, min=14 max=20 avg=4.25)
 ----------------------------------------

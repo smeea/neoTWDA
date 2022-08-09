@@ -8,19 +8,17 @@ Norbert Flasko
 
 -- Unknown
 
-You shall not pass!!!
-
-Unknown
+Deck Name: You shall not pass!!!
 
 Crypt (12 cards, min=24 max=32 avg=6.92)
 ----------------------------------------
-4x Howler           8  obf ANI PRE SPI      Ahrimane:2
-3x Siamese, The     7  ani pro PRE SPI      Ahrimane:2
-3x Cynthia Ingold   6  ani for pre SPI      Ahrimane:2
-2x Jost Werner      6  ani AUS PRE          Toreador antitribu:2
+4x Howler           8  ANI PRE SPI obf      Ahrimane:2
+3x Siamese, The     7  PRE SPI ani pro      Ahrimane:2
+3x Cynthia Ingold   6  SPI ani for pre      Ahrimane:2
+2x Jost Werner      6  AUS PRE ani          Toreador antitribu:2
 
 Library (90 cards)
-Master (16)
+Master (16; 6 trifle)
 3x Animalism
 2x Direct Intervention
 1x Lilith's Blessing

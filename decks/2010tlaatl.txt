@@ -8,9 +8,7 @@ Mattias Kallenberg
 
 -- 3vp in the final
 
-We Throw Parties, You Throw Knives
-
-Unknown
+Deck Name: We Throw Parties, You Throw Knives
 
 Crypt (12 cards, min=16 max=16 avg=4.0)
 ---------------------------------------

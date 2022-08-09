@@ -8,14 +8,13 @@ Mirko Anconitani
 
 -- Unknown
 
-Unknown
-
+Description:
 Nephandus' Club
 (same player with same deck won the Italian National 2007, btw)
 
 Crypt (20 cards, min=4 max=20 avg=2.2)
 --------------------------------------
-5x Antonio d'Erlette     5  dom for pot THA      Tremere antitribu:4
+5x Antonio d'Erlette     5  THA dom for pot      Tremere antitribu:4
 4x Tupdog                1  POT VIS              Gargoyle:3
 1x Keith Moody           3  DOM                  Tremere antitribu:4
 1x Saiz                  3  aus dom              Tremere antitribu:3

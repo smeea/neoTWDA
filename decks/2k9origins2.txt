@@ -8,21 +8,19 @@ Ben Swainbank
 
 -- Unknown
 
-Mad Fat Bastards
-
-Unknown
+Deck Name: Mad Fat Bastards
 
 Crypt (12 cards, min=16 max=38 avg=6.92)
 ----------------------------------------
 1x Nakhthorheb              10  OBF PRE SER                         Ministry:4
 1x Seterpenre               10  AUS NEC OBF PRE SER                 Ministry:5
-1x Neferu                    9  dom nec OBF PRE SER THA   2 votes   Ministry:4
-1x Pentweret                 9  aus for obe OBF PRE SER             Ministry:5
-1x Porphyrion                9  for CHI OBF PRE SER                 Ministry:5
-1x Shemti                    9  vic OBF POT PRE SER       1 vote    Ministry:5
-1x Clea Auguste d'Holford    6  pre ser OBF POT                     Ministry:5
+1x Neferu                    9  OBF PRE SER THA dom nec   2 votes   Ministry:4
+1x Pentweret                 9  OBF PRE SER aus for obe             Ministry:5
+1x Porphyrion                9  CHI OBF PRE SER for                 Ministry:5
+1x Shemti                    9  OBF POT PRE SER vic       1 vote    Ministry:5
+1x Clea Auguste d'Holford    6  OBF POT pre ser                     Ministry:5
 1x Abdelsobek                5  for nec obf pre ser                 Ministry:5
-1x Renenet                   5  ser OBF PRE                         Ministry:4
+1x Renenet                   5  OBF PRE ser                         Ministry:4
 1x Sahira Siraj              4  obf ser tha                         Ministry:4
 1x Sisocharis                4  cel obf pre                         Ministry:5
 1x Ahmose Chambers           3  obf ser                             Ministry:5

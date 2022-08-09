@@ -8,17 +8,15 @@ Danilo Torrisi
 
 -- 3vp in the final
 
-Unknown
-
-Deck: turbo shambling
+Deck Name: turbo shambling
 
 Crypt (12 cards, min=14 max=28 avg=5.17)
 ----------------------------------------
-2x Andrea Giovanni     7  pot vic DOM NEC      Giovanni:2
-2x Carlotta Giovanni   7  dom obf NEC POT      Giovanni:2
-2x Isabel Giovanni     5  pot DOM NEC          Giovanni:2
-2x Le Dinh Tho         5  aus dom NEC          Nagaraja:2
-2x Gloria Giovanni     4  nec DOM              Giovanni:2
+2x Andrea Giovanni     7  DOM NEC pot vic      Giovanni:2
+2x Carlotta Giovanni   7  NEC POT dom obf      Giovanni:2
+2x Isabel Giovanni     5  DOM NEC pot          Giovanni:2
+2x Le Dinh Tho         5  NEC aus dom          Nagaraja:2
+2x Gloria Giovanni     4  DOM nec              Giovanni:2
 2x Rudolfo Giovanni    3  NEC                  Giovanni:2
 
 Library (90 cards)

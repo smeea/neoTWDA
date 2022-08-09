@@ -8,8 +8,9 @@ Xavier Bourgoin
 
 -- Unknown
 
-Power cooler
+Deck Name: Power cooler
 
+Description:
 Weenie Auspex anarchy.The Uncoiling is the only card that served
 me once but was gold that time. The 90 cards might be too much for
 this kind of deck since it rarely plays more than half of the pack,
@@ -18,13 +19,13 @@ but I like the proportions as is.
 Crypt (17 cards, min=4 max=16 avg=2.24)
 ---------------------------------------
 5x Anarch Convert                    1                   Caitiff:ANY
-1x Idalia, Prophet of Guadalajara    4  dem AUS          Malkavian antitribu:2
-1x Maldavis                          4  for pre AUS      Caitiff:3
-1x Remilliard, Devout Crusader       4  pre AUS          Toreador antitribu:2
-1x Richard Tauber, Ayelea's Puppet   4  tha AUS          Tremere antitribu:2
+1x Idalia, Prophet of Guadalajara    4  AUS dem          Malkavian antitribu:2
+1x Maldavis                          4  AUS for pre      Caitiff:3
+1x Remilliard, Devout Crusader       4  AUS pre          Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet   4  AUS tha          Tremere antitribu:2
 1x Isabel de Leon                    3  AUS              Toreador:2
-1x Martin Franckel                   3  tha AUS          Tremere:3
-1x Zöe                               3  cel obf AUS      Malkavian:2
+1x Martin Franckel                   3  AUS tha          Tremere:3
+1x Zöe                               3  AUS cel obf      Malkavian:2
 1x Almiro Suarez                     2  aus              Tremere:3
 1x Nicholas Chang                    2  aus              Toreador antitribu:3
 1x Piotr Andreikov                   2  aus              Tzimisce:3
@@ -32,7 +33,7 @@ Crypt (17 cards, min=4 max=16 avg=2.24)
 1x Franciscus                        1  aus              Caitiff:2
 
 Library (90 cards)
-Master (25)
+Master (25; 6 trifle)
 6x Anarch Revolt
 1x Anarch Troublemaker
 2x Blood Doll

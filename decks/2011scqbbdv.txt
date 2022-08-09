@@ -8,20 +8,18 @@ Genís Prats
 
 -- Unknown
 
-Dimitri's Big Band
-
-Unknown
+Deck Name: Dimitri's Big Band
 
 Crypt (12 cards, min=30 max=40 avg=8.92)
 ----------------------------------------
-5x Dmitri Borodin     10  obf AUS CEL NEC QUI                Banu Haqim:4
-3x Massassi            9  obf AUS CEL POT QUI                Osebo:4
-2x Kabede Maru         9  abo pot AUS CEL OBF QUI   magaji   Banu Haqim:5
-1x Antara              8  aus obf pre CEL FOR QUI            Banu Haqim:4
+5x Dmitri Borodin     10  AUS CEL NEC QUI obf                Banu Haqim:4
+3x Massassi            9  AUS CEL POT QUI obf                Osebo:4
+2x Kabede Maru         9  AUS CEL OBF QUI abo pot   magaji   Banu Haqim:5
+1x Antara              8  CEL FOR QUI aus obf pre            Banu Haqim:4
 1x Bertrand d'Anjou    4  aus cel qui                        Banu Haqim:4
 
 Library (90 cards)
-Master (19)
+Master (19; 7 trifle)
 2x Direct Intervention
 1x Dreams of the Sphinx
 1x Erciyes Fragments, The

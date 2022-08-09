@@ -8,8 +8,9 @@ Jon Cooper
 
 -- Unknown
 
-Call 666 B-E-A-S-T
+Deck Name: Call 666 B-E-A-S-T
 
+Description:
 Call up the Great Beast, give him VICISSITUDE TEMPORIS and
 OBEAH and let the good times roll. Ideal opening hand is Minion tap,
 Vicissitude skill card a call the great beast and lost in crowds/Domain
@@ -30,8 +31,8 @@ Crypt (12 cards, min=27 max=40 avg=8.42)
 ----------------------------------------
 5x Huitzilopochtli   10  AUS DAI DOM OBF POT PRE      Baali:2
 3x Ian Forestal       8  AUS DOM THA                  Tremere antitribu:2
-3x Matthias           7  nec AUS FOR OBE              Salubri:2
-1x Corine Marcón      6  ani AUS VIC                  Tzimisce:2
+3x Matthias           7  AUS FOR OBE nec              Salubri:2
+1x Corine Marcón      6  AUS VIC ani                  Tzimisce:2
 
 Library (90 cards)
 Master (14)

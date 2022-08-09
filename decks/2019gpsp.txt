@@ -8,21 +8,22 @@ https://www.vekn.net/event-calendar/event/9319
 
 -- 3gw12 + 0.5vp in the final
 
-Tariq Wall
+Deck Name: Tariq Wall
 
+Description:
 Deck based on the idea of Marcin Rumiński- our top polish player
 
 Crypt (12 cards, min=4 max=28 avg=4.0)
 --------------------------------------
-4x Tariq, The Silent   7  cel AUS FOR OBF QUI      Banu Haqim:2
+4x Tariq, The Silent   7  AUS FOR OBF QUI cel      Banu Haqim:2
 4x Anarch Convert      1                           Caitiff:ANY
-1x Miriam Benyona      5  for obe AUS              Salubri:2
-1x Maldavis            4  for pre AUS              Caitiff:3
-1x Maldavis (ADV)      4  for pre AUS              Caitiff:3
-1x Zöe                 3  cel obf AUS              Malkavian:2
+1x Miriam Benyona      5  AUS for obe              Salubri:2
+1x Maldavis            4  AUS for pre              Caitiff:3
+1x Maldavis (ADV)      4  AUS for pre              Caitiff:3
+1x Zöe                 3  AUS cel obf              Malkavian:2
 
 Library (90 cards)
-Master (17)
+Master (17; 5 trifle)
 1x Anarch Free Press, The
 1x Coven, The
 1x Direct Intervention

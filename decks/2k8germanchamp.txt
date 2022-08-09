@@ -8,8 +8,9 @@ Michael Heyder
 
 -- 2gw10 + 2.5vp in the final
 
-European Brujah Potpourri
+Deck Name: European Brujah Potpourri
 
+Description:
 Got lucky, perfect fit for the metagame that day.
 Entering the final with 2GW10VP. 2.5VP in final Worked fine
 and had a great flow, just enough combat to keep peolpe guessing. Can
@@ -18,10 +19,10 @@ surely be improved. Of course, New Carthage needs to be put in.
 Crypt (12 cards, min=22 max=32 avg=6.92)
 ----------------------------------------
 3x Dónal O'Connor              8  CEL DOM POT       prince   Brujah:2
-3x Volker, The Puppet Prince   5  pot CEL           prince   Brujah:2
+3x Volker, The Puppet Prince   5  CEL pot           prince   Brujah:2
 2x Constanza Vinti             8  CEL DOM POT       prince   Brujah:2
-2x Juggler                     7  obf pot CEL DOM            Brujah:3
-2x Theo Bell                   7  cel dom pre POT            Brujah:2
+2x Juggler                     7  CEL DOM obf pot            Brujah:3
+2x Theo Bell                   7  POT cel dom pre            Brujah:2
 
 Library (90 cards)
 Master (15)

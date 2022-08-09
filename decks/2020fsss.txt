@@ -8,21 +8,19 @@ https://www.vekn.net/event-calendar/event/9587
 
 -- 1gw3.5 + 3vp in the final
 
-Location, location, location
-
-Unknown
+Deck Name: Location, location, location
 
 Crypt (12 cards, min=20 max=36 avg=7.25)
 ----------------------------------------
-5x Guillaume Giovanni    9  obt CEL DOM NEC POT      Giovanni:4
-2x Gualtiero Ghiberti    7  cel pot tha DOM NEC      Giovanni:4
-2x Raphaela Giovanni     6  pot pre DOM NEC          Giovanni:4
-1x Baldesar Rossellini   8  aus for nec DOM POT      Giovanni:4
+5x Guillaume Giovanni    9  CEL DOM NEC POT obt      Giovanni:4
+2x Gualtiero Ghiberti    7  DOM NEC cel pot tha      Giovanni:4
+2x Raphaela Giovanni     6  DOM NEC pot pre          Giovanni:4
+1x Baldesar Rossellini   8  DOM POT aus for nec      Giovanni:4
 1x Prejudice             4  aus dom nec              Nagaraja:4
 1x Primo Giovanni        4  dom nec pot              Giovanni:4
 
 Library (90 cards)
-Master (30)
+Master (30; 4 trifle)
 1x Barrens, The
 1x Channel 10
 1x Charisma

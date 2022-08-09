@@ -8,8 +8,9 @@ John Bell
 
 -- Unknown
 
-What the Flock?!
+Deck Name: What the Flock?!
 
+Description:
 Cybele's master phases are key to working the
 Tend the Flocks for either speed or pool generation.
 The Ashur Tablets give me freedom to move cards quickly
@@ -22,12 +23,12 @@ Crypt (13 cards, min=25 max=40 avg=8.62)
 ----------------------------------------
 5x Cybele                    10  ANI DAI OBF PRE SER THA             Baali:4
 3x Annazir                    9  DAI OBF POT PRE           2 votes   Baali:5
-3x Maureen, Dark Priestess    6  dom obf DAI PRE           1 vote    Baali:4
+3x Maureen, Dark Priestess    6  DAI PRE dom obf           1 vote    Baali:4
 1x Nergal                    10  AUS DAI FOR OBF PRE THA             Baali:5
-1x Azaneal                    7  pre tha DAI OBF OBT                 Baali:4
+1x Azaneal                    7  DAI OBF OBT pre tha                 Baali:4
 
 Library (74 cards)
-Master (26)
+Master (26; 2 trifle)
 1x Archon Investigation
 6x Ashur Tablets
 1x Dominate

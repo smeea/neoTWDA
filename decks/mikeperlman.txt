@@ -8,8 +8,9 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Nb5T5RdxNec
 
 -- Unknown
 
-Play the table
+Deck Name: Play the table
 
+Description:
 https://groups.google.com/g/rec.games.trading-cards.jyhad/c/z0aeEJ46rYI/m/LfDXJcwoM5YJ
 
 Use your predator (and any vote decks that are on the table)
@@ -18,16 +19,16 @@ steal a location.
 
 Crypt (13 cards, min=30 max=42 avg=9.0)
 ---------------------------------------
-2x Arika                                11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-2x Queen Anne                           10  aus obf DOM FOR PRE       prince         Ventrue:2
-2x Anson                                 8  aus dom CEL PRE           prince         Toreador:1
-1x Lucian                               10  cel tha AUS DOM OBF       justicar       Malkavian:1
-1x Roxanne, Rectrix of the 13th Floor    9  pot AUS DOM FOR OBF       primogen       Malkavian:1
-1x Spiridonas                            9  pot pre DOM THA           prince         Tremere:2
-1x Wilhelm Waldburg                      9  aus cel DOM FOR PRE       prince         Ventrue:2
-1x Emerson Bridges                       8  pot DOM FOR PRE           prince         Ventrue:1
+2x Arika                                11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+2x Queen Anne                           10  DOM FOR PRE aus obf       prince         Ventrue:2
+2x Anson                                 8  CEL PRE aus dom           prince         Toreador:1
+1x Lucian                               10  AUS DOM OBF cel tha       justicar       Malkavian:1
+1x Roxanne, Rectrix of the 13th Floor    9  AUS DOM FOR OBF pot       primogen       Malkavian:1
+1x Spiridonas                            9  DOM THA pot pre           prince         Tremere:2
+1x Wilhelm Waldburg                      9  DOM FOR PRE aus cel       prince         Ventrue:2
+1x Emerson Bridges                       8  DOM FOR PRE pot           prince         Ventrue:1
 1x Gilbert Duane                         7  AUS DOM OBF               prince         Malkavian:1
-1x Greger Anderssen                      7  dom pro AUS OBF           prince         Malkavian:2
+1x Greger Anderssen                      7  AUS OBF dom pro           prince         Malkavian:2
 
 Library (90 cards)
 Master (22)

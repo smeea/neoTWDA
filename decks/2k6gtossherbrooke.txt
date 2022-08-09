@@ -8,9 +8,7 @@ Martin Tremblay
 
 -- Unknown
 
-Top Dog
-
-Unknown
+Deck Name: Top Dog
 
 Crypt (24 cards, min=4 max=14 avg=1.58)
 ---------------------------------------

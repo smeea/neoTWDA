@@ -8,8 +8,9 @@ David Litwin
 
 -- 4vp in the final
 
-Armin Hammer
+Deck Name: Armin Hammer
 
+Description:
 The deck plays generally the same as any stealth/vote deck with a more
 interesting stealth module. Ideally Armin Brenner is your first
 minion and should always be first unless he isn't in your opening
@@ -34,13 +35,13 @@ finals against me slowed down my offense several turns.
 
 Crypt (12 cards, min=34 max=40 avg=9.17)
 ----------------------------------------
-4x Armin Brenner    10  ani obf CEL FOR POT PRE   archbishop   Brujah antitribu:4
-3x Hektor            9  for CEL POT PRE QUI       priscus      Brujah antitribu:4
-3x Undele            9  obf pre ser CEL FOR       magaji       Ishtarri:5
-2x Klaus Konrecht    8  for pot AUS CEL PRE       cardinal     Toreador antitribu:4
+4x Armin Brenner    10  CEL FOR POT PRE ani obf   archbishop   Brujah antitribu:4
+3x Hektor            9  CEL POT PRE QUI for       priscus      Brujah antitribu:4
+3x Undele            9  CEL FOR obf pre ser       magaji       Ishtarri:5
+2x Klaus Konrecht    8  AUS CEL PRE for pot       cardinal     Toreador antitribu:4
 
 Library (90 cards)
-Master (15)
+Master (15; 6 trifle)
 1x Black Forest Base
 1x Creepshow Casino
 3x Dreams of the Sphinx

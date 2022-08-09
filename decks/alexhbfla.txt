@@ -8,18 +8,19 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/6idaObm284w
 
 -- Unknown
 
-My !Toreador Bleedy, Votey,
+Deck Name: My !Toreador Bleedy, Votey,
 
+Description:
 with a little stealth and Majesty deck
 
 Crypt (12 cards, min=13 max=29 avg=5.5)
 ---------------------------------------
-2x Greta Kircher      7  obf AUS CEL PRE                Toreador antitribu:2
-2x Jost Werner        6  ani AUS PRE                    Toreador antitribu:2
-2x Sheila Mezarin     6  cel for AUS PRE                Toreador antitribu:2
-1x Lachlan, Noddist   8  dom AUS CEL PRE   archbishop   Toreador antitribu:2
+2x Greta Kircher      7  AUS CEL PRE obf                Toreador antitribu:2
+2x Jost Werner        6  AUS PRE ani                    Toreador antitribu:2
+2x Sheila Mezarin     6  AUS PRE cel for                Toreador antitribu:2
+1x Lachlan, Noddist   8  AUS CEL PRE dom   archbishop   Toreador antitribu:2
 1x Jessica            7  AUS CEL OBT PRE   bishop       Toreador antitribu:2
-1x Ian Wallingford    6  aus CEL PRE       bishop       Toreador antitribu:2
+1x Ian Wallingford    6  CEL PRE aus       bishop       Toreador antitribu:2
 1x Gideon Fontaine    3  PRE                            Ventrue:1
 1x Lena Rowe          3  aus obf pre                    Pander:2
 1x Basil              1  obf                            Pander:2

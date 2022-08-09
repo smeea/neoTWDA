@@ -8,9 +8,7 @@ Daniel Stefanutti
 
 -- Unknown
 
-Weenie animalism
-
-Unknown
+Deck Name: Weenie animalism
 
 Crypt (12 cards, min=9 max=13 avg=2.83)
 ---------------------------------------
@@ -28,7 +26,7 @@ Crypt (12 cards, min=9 max=13 avg=2.83)
 1x Zip                            2  ani              Ravnos:3
 
 Library (90 cards)
-Master (22)
+Master (22; 6 trifle)
 4x Animalism
 1x Archon Investigation
 2x Fame

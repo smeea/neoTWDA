@@ -8,28 +8,26 @@ Kleber Souza
 
 -- 3vp in the final
 
-Honors Ashur Tablets
-
-Unknown
+Deck Name: Honors Ashur Tablets
 
 Crypt (14 cards, min=33 max=44 avg=9.71)
 ----------------------------------------
-2x Anson                                 8  aus dom CEL PRE           prince         Toreador:1
-1x Arika                                11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Harrod                               11  aus pre ANI CEL OBF POT   inner circle   Nosferatu:2
-1x Leandro                              11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-1x Sutekh, The Dark God                 11  cel pot NEC OBF PRE SER   2 votes        Ministry:2
-1x Cailean                              10  dom ANI OBF POT PRE       archbishop     Nosferatu antitribu:2
-1x François Villon                      10  chi obf pot AUS CEL PRE   prince         Toreador:2
+2x Anson                                 8  CEL PRE aus dom           prince         Toreador:1
+1x Arika                                11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Harrod                               11  ANI CEL OBF POT aus pre   inner circle   Nosferatu:2
+1x Leandro                              11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+1x Sutekh, The Dark God                 11  NEC OBF PRE SER cel pot   2 votes        Ministry:2
+1x Cailean                              10  ANI OBF POT PRE dom       archbishop     Nosferatu antitribu:2
+1x François Villon                      10  AUS CEL PRE chi obf pot   prince         Toreador:2
 1x Huitzilopochtli                      10  AUS DAI DOM OBF POT PRE                  Baali:2
-1x Nehsi                                10  aus for OBF PRE PRO SER   2 votes        Ministry:2
-1x Queen Anne                           10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Sheldon, Lord of the Clog             9  for ANI AUS OBF POT       justicar       Nosferatu:1
-1x Suhailah                              9  pot ser FOR OBF           prince         Ventrue:2
-1x Kephamos, High Priest of Marrakech    8  dom obf pre SER           2 votes        Ministry:2
+1x Nehsi                                10  OBF PRE PRO SER aus for   2 votes        Ministry:2
+1x Queen Anne                           10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Sheldon, Lord of the Clog             9  ANI AUS OBF POT for       justicar       Nosferatu:1
+1x Suhailah                              9  FOR OBF pot ser           prince         Ventrue:2
+1x Kephamos, High Priest of Marrakech    8  SER dom obf pre           2 votes        Ministry:2
 
 Library (79 cards)
-Master (42)
+Master (42; 4 trifle)
 9x Ashur Tablets
 1x Barrens, The
 1x Creepshow Casino

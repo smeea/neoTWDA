@@ -8,24 +8,22 @@ Erik Torstensson
 
 -- Unknown
 
-Bridges is Vignes
-
-Unknown
+Deck Name: Bridges is Vignes
 
 Crypt (12 cards, min=15 max=30 avg=5.75)
 ----------------------------------------
-2x Emerson Bridges                   8  pot DOM FOR PRE   prince   Ventrue:1
+2x Emerson Bridges                   8  DOM FOR PRE pot   prince   Ventrue:1
 2x Sir Walter Nash                   7  DOM FOR PRE       prince   Ventrue:1
-2x Vanessa                           6  aus pre DOM FOR            Ventrue antitribu:2
-1x Timothy Crowley                   7  ani dom FOR PRE   prince   Ventrue:1
-1x Jazz Wentworth                    5  dom for PRE                Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar   5  for DOM PRE                Ventrue:2
-1x Ingrid Russo                      4  for DOM                    Ventrue antitribu:2
-1x Violette Prentiss                 4  dom PRE                    Ventrue:1
+2x Vanessa                           6  DOM FOR aus pre            Ventrue antitribu:2
+1x Timothy Crowley                   7  FOR PRE ani dom   prince   Ventrue:1
+1x Jazz Wentworth                    5  PRE dom for                Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for                Ventrue:2
+1x Ingrid Russo                      4  DOM for                    Ventrue antitribu:2
+1x Violette Prentiss                 4  PRE dom                    Ventrue:1
 1x Samson                            2  dom                        Ventrue antitribu:2
 
 Library (70 cards)
-Master (13)
+Master (13; 3 trifle)
 2x Anarch Troublemaker
 2x Blood Doll
 1x Coven, The

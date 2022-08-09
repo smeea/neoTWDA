@@ -8,9 +8,7 @@ Giulio Roffi
 
 -- Unknown
 
-Caitiff for President
-
-Unknown
+Deck Name: Caitiff for President
 
 Crypt (12 cards, min=4 max=5 avg=1.08)
 --------------------------------------
@@ -28,7 +26,7 @@ Crypt (12 cards, min=4 max=5 avg=1.08)
 1x Walker Grimes       1  ani          Caitiff:5
 
 Library (60 cards)
-Master (15)
+Master (15; 2 trifle)
 1x Dark Influences
 4x Dreams of the Sphinx
 6x Information Highway

@@ -8,9 +8,7 @@ https://www.vekn.net/event-calendar/event/9784
 
 -- 2,5vp in the final
 
-Camaleão
-
-Unknown
+Deck Name: Camaleão
 
 Crypt (13 cards, min=4 max=40 avg=5.69)
 ---------------------------------------
@@ -19,7 +17,7 @@ Crypt (13 cards, min=4 max=40 avg=5.69)
 4x Anarch Convert    1                       Caitiff:ANY
 
 Library (69 cards)
-Master (24)
+Master (24; 3 trifle)
 9x Ashur Tablets
 2x Dreams of the Sphinx
 7x Eternals of Sirius, The

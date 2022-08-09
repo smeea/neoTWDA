@@ -8,9 +8,7 @@ Dominic Bédard
 
 -- Unknown
 
-Weenie-Cel-DesertEagle
-
-Unknown
+Deck Name: Weenie-Cel-DesertEagle
 
 Crypt (12 cards, min=6 max=12 avg=2.42)
 ---------------------------------------

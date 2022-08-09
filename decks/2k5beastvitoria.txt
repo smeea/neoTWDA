@@ -8,15 +8,13 @@ Ramon Moure
 
 -- Unknown
 
-Sabrina - Love in the Shadows
-
-Unknown
+Deck Name: Sabrina - Love in the Shadows
 
 Crypt (12 cards, min=12 max=44 avg=6.83)
 ----------------------------------------
-5x Enkidu, The Noah    11  for ANI CEL OBF POT PRO      Gangrel antitribu:4
-1x Black Lotus          5  aus obf ser DOM              Ministry:4
-1x Catherine du Bois    5  for obf pre DOM              Ventrue:3
+5x Enkidu, The Noah    11  ANI CEL OBF POT PRO for      Gangrel antitribu:4
+1x Black Lotus          5  DOM aus obf ser              Ministry:4
+1x Catherine du Bois    5  DOM for obf pre              Ventrue:3
 1x Kyoko Shinsegawa     5  aus cel dom for              Tremere:3
 1x Diana Vick           3  dom pre                      Ventrue:3
 1x Ember Wright         3  aus dom                      Tremere antitribu:3

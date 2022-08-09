@@ -8,21 +8,19 @@ Luca Visonà
 
 -- 5vp in the final
 
-Baali Boons
-
-Unknown
+Deck Name: Baali Boons
 
 Crypt (12 cards, min=12 max=35 avg=6.0)
 ---------------------------------------
 4x Horde, The                3  dai obf pre                      Baali:6
 3x Arishat                   6  DAI OBF PRE           1 vote     Baali:6
-2x Dmitra Ilyanova           9  obf CEL FOR POT PRE   justicar   Brujah:5
+2x Dmitra Ilyanova           9  CEL FOR POT PRE obf   justicar   Brujah:5
 1x Annazir                   9  DAI OBF POT PRE       2 votes    Baali:5
-1x Scout Youngwood           8  for qui MEL OBF PRE   2 votes    Daughter of Cacophony:6
-1x Xeper, Sultan of Lepers   7  ani dai pro OBF PRE              Baali:6
+1x Scout Youngwood           8  MEL OBF PRE for qui   2 votes    Daughter of Cacophony:6
+1x Xeper, Sultan of Lepers   7  OBF PRE ani dai pro              Baali:6
 
 Library (74 cards)
-Master (13)
+Master (13; 7 trifle)
 1x Information Highway
 1x Path of Evil Revelations
 2x Ruins of Charizel

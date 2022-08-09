@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9255
 
 -- 1gw5 + 4vp in the final
 
-Ishtarri Bleed & Vote Multiaction
+Deck Name: Ishtarri Bleed & Vote Multiaction
 
+Description:
 Deck was originally created by my friend Patrick Alves then fine tuned by me.
 As all crypt have basic obf, there is 4 forgotten labyrinth for political
 actions and also there is some telepathic misdirections that only Eugene and
@@ -20,14 +21,14 @@ there was 10+ anarch revolts in play.
 
 Crypt (12 cards, min=30 max=39 avg=8.75)
 ----------------------------------------
-3x Ayo Igoli         10  obf tha AUS CEL FOR PRE              Ishtarri:4
-3x Undele             9  obf pre ser CEL FOR       magaji     Ishtarri:5
-2x Dmitra Ilyanova    9  obf CEL FOR POT PRE       justicar   Brujah:5
+3x Ayo Igoli         10  AUS CEL FOR PRE obf tha              Ishtarri:4
+3x Undele             9  CEL FOR obf pre ser       magaji     Ishtarri:5
+2x Dmitra Ilyanova    9  CEL FOR POT PRE obf       justicar   Brujah:5
 2x Eugene             8  AUS CEL FOR PRE           primogen   Toreador:4
-2x Ubende             7  for obf qui CEL PRE       magaji     Ishtarri:4
+2x Ubende             7  CEL PRE for obf qui       magaji     Ishtarri:4
 
 Library (90 cards)
-Master (11)
+Master (11; 2 trifle)
 1x Ancestor Spirit
 2x Archon Investigation
 1x Glutton

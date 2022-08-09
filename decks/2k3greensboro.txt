@@ -8,8 +8,9 @@ David Cherryholmes
 
 -- Unknown
 
-She's a Cross-Eyed Beast
+Deck Name: She's a Cross-Eyed Beast
 
+Description:
 I posted the deck to the group when I was first putting it
 together. Here's the actual tweak I played at the tournament. I've
 renamed the deck in my head as "Twenty Around the Table", but it just
@@ -17,11 +18,11 @@ makes people antsy somehow.
 
 Crypt (12 cards, min=23 max=40 avg=8.17)
 ----------------------------------------
-6x Rachel Brandywine              10  ani AUS DEM OBF PRO   prince   Malkavian:3
-2x Greger Anderssen                7  dom pro AUS OBF       prince   Malkavian:2
-1x Anatole, Prophet of Gehenna     8  dom for AUS DEM OBF            Malkavian:2
-1x Quentin King III                7  obf pre AUS DEM       prince   Malkavian:3
-1x Persia, The Beautiful Statue    5  aus obf DEM                    Malkavian:3
+6x Rachel Brandywine              10  AUS DEM OBF PRO ani   prince   Malkavian:3
+2x Greger Anderssen                7  AUS OBF dom pro       prince   Malkavian:2
+1x Anatole, Prophet of Gehenna     8  AUS DEM OBF dom for            Malkavian:2
+1x Quentin King III                7  AUS DEM obf pre       prince   Malkavian:3
+1x Persia, The Beautiful Statue    5  DEM aus obf                    Malkavian:3
 1x Adelaide Davis                  4  aus dem obf                    Malkavian:3
 
 Library (80 cards)

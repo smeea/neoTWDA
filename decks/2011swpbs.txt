@@ -8,21 +8,19 @@ Genís Prats
 
 -- Unknown
 
-Dementamites
-
-Unknown
+Deck Name: Dementamites
 
 Crypt (12 cards, min=13 max=40 avg=7.25)
 ----------------------------------------
-5x Thucimia             10  for pro CEL DEM OBF QUI   1 vote   Banu Haqim:4
-3x Bakr                  8  dem pro CEL OBF QUI                Banu Haqim:5
-1x Hafsa, The Watcher    6  aus cel OBF QUI                    Banu Haqim:5
-1x Kamau Jafari          4  obf QUI                            Banu Haqim:4
+5x Thucimia             10  CEL DEM OBF QUI for pro   1 vote   Banu Haqim:4
+3x Bakr                  8  CEL OBF QUI dem pro                Banu Haqim:5
+1x Hafsa, The Watcher    6  OBF QUI aus cel                    Banu Haqim:5
+1x Kamau Jafari          4  QUI obf                            Banu Haqim:4
 1x Alu                   2  obf                                Banu Haqim:5
 1x Basir                 1  qui                                Banu Haqim:4
 
 Library (90 cards)
-Master (18)
+Master (18; 4 trifle)
 1x Dark Influences
 3x Dementation
 4x Dreams of the Sphinx

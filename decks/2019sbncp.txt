@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9428
 
 -- 1gw4 + 1.5vp in the final
 
-cybelotron
+Deck Name: cybelotron
 
+Description:
 Bad design - Dark Influence will cancel your I Am Legion, almost cost me the finals
 
 Crypt (12 cards, min=40 max=40 avg=10.0)
@@ -17,7 +18,7 @@ Crypt (12 cards, min=40 max=40 avg=10.0)
 12x Cybele   10  ANI DAI OBF PRE SER THA      Baali:4
 
 Library (60 cards)
-Master (33)
+Master (33; 3 trifle)
 12x Ashur Tablets
 1x Coven, The
 1x Dark Influences

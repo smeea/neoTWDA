@@ -8,27 +8,28 @@ Jay Kristoff
 
 -- Unknown
 
-The Pattie Melt
+Deck Name: The Pattie Melt
 
+Description:
 My version of my favorite John Pattie deck
 
 Crypt (12 cards, min=15 max=31 avg=6.0)
 ---------------------------------------
-1x Izhim abd Azrael             9  pot CEL OBF QUI THA            Banu Haqim:5
-1x Bakr                         8  dem pro CEL OBF QUI            Banu Haqim:5
-1x Djuhah, The Bronze Bow       7  aus cel pre OBF QUI            Banu Haqim:5
-1x Joe "Boot" Hill              7  for obf CEL QUI                Banu Haqim:4
-1x Kashan                       7  obt pre CEL OBF QUI   1 vote   Banu Haqim:4
-1x Olugbenga                    7  ani cel OBF QUI       magaji   Banu Haqim:4
-1x Hafsa, The Watcher           6  aus cel OBF QUI                Banu Haqim:5
-1x Reza Fatir, The Dark Angel   6  obf pro CEL QUI                Banu Haqim:4
-1x Vardar Vardarian             6  cel pre OBF QUI                Banu Haqim:4
-1x Kamau Jafari                 4  obf QUI                        Banu Haqim:4
+1x Izhim abd Azrael             9  CEL OBF QUI THA pot            Banu Haqim:5
+1x Bakr                         8  CEL OBF QUI dem pro            Banu Haqim:5
+1x Djuhah, The Bronze Bow       7  OBF QUI aus cel pre            Banu Haqim:5
+1x Joe "Boot" Hill              7  CEL QUI for obf                Banu Haqim:4
+1x Kashan                       7  CEL OBF QUI obt pre   1 vote   Banu Haqim:4
+1x Olugbenga                    7  OBF QUI ani cel       magaji   Banu Haqim:4
+1x Hafsa, The Watcher           6  OBF QUI aus cel                Banu Haqim:5
+1x Reza Fatir, The Dark Angel   6  CEL QUI obf pro                Banu Haqim:4
+1x Vardar Vardarian             6  OBF QUI cel pre                Banu Haqim:4
+1x Kamau Jafari                 4  QUI obf                        Banu Haqim:4
 1x Sajid al Misbah              4  QUI                            Banu Haqim:5
 1x Basir                        1  qui                            Banu Haqim:4
 
 Library (60 cards)
-Master (14)
+Master (14; 4 trifle)
 1x Alamut
 1x Anarch Troublemaker
 4x Effective Management

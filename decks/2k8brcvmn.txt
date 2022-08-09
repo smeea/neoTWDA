@@ -8,22 +8,20 @@ Jim Miller
 
 -- 4vp in the final
 
-Fran and Alex
-
-Unknown
+Deck Name: Fran and Alex
 
 Crypt (12 cards, min=31 max=43 avg=9.5)
 ---------------------------------------
-3x Alexandra         11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-3x François Villon   10  chi obf pot AUS CEL PRE   prince         Toreador:2
-2x Marcellus          8  pro AUS CEL               prince         Toreador:2
-1x Lucas Halton      10  qui AUS CEL DOM THA       prince         Tremere:3
-1x Madame Guil       10  for pot ser AUS CEL PRE   justicar       Toreador:3
-1x Fleurdumal         8  cel tha AUS DEM PRE       prince         Toreador:3
-1x Ira Rivers         7  ani pre AUS CEL           prince         Toreador:3
+3x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+3x François Villon   10  AUS CEL PRE chi obf pot   prince         Toreador:2
+2x Marcellus          8  AUS CEL pro               prince         Toreador:2
+1x Lucas Halton      10  AUS CEL DOM THA qui       prince         Tremere:3
+1x Madame Guil       10  AUS CEL PRE for pot ser   justicar       Toreador:3
+1x Fleurdumal         8  AUS DEM PRE cel tha       prince         Toreador:3
+1x Ira Rivers         7  AUS CEL ani pre           prince         Toreador:3
 
 Library (90 cards)
-Master (15)
+Master (15; 2 trifle)
 1x Art Museum
 1x Blood Doll
 1x Erciyes Fragments, The

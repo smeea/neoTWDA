@@ -8,8 +8,9 @@ Orian Gissler
 
 -- 5vp in the final
 
-tu joues, tu joues pas, tu crèves quand même
+Deck Name: tu joues, tu joues pas, tu crèves quand même
 
+Description:
 first version of the deck, the crypt can be largely more
 efficient and the combo is not locking enough
 
@@ -28,7 +29,7 @@ Crypt (12 cards, min=4 max=10 avg=1.67)
 1x Smudge the Ignored   1               Caitiff:1
 
 Library (60 cards)
-Master (37)
+Master (37; 2 trifle)
 7x Brainwash
 4x Dreams of the Sphinx
 1x Information Highway

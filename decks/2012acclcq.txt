@@ -8,18 +8,19 @@ Jon Darbro
 
 -- 2.5vp in the final
 
-Shane Grimald Deck #4
+Deck Name: Shane Grimald Deck #4
 
+Description:
 Get out Shane Grimald and wait for Huang, Blood Cultist.
 
 Crypt (12 cards, min=15 max=21 avg=4.5)
 ---------------------------------------
-1x Lisette Vizquel             6  pro DOM POT       bishop   Lasombra:2
-1x Dr. Julius Sutphen          5  dom obt POT       bishop   Lasombra:3
-1x Dr. Julius Sutphen (ADV)    5  dom obt POT                Lasombra:3
-1x Isabel Giovanni             5  pot DOM NEC                Giovanni:2
-1x Terry                       5  aus dom san POT            Blood Brother:2
-1x Wah Chun-Yuen               5  cel dom pre POT            Brujah antitribu:3
+1x Lisette Vizquel             6  DOM POT pro       bishop   Lasombra:2
+1x Dr. Julius Sutphen          5  POT dom obt       bishop   Lasombra:3
+1x Dr. Julius Sutphen (ADV)    5  POT dom obt                Lasombra:3
+1x Isabel Giovanni             5  DOM NEC pot                Giovanni:2
+1x Terry                       5  POT aus dom san            Blood Brother:2
+1x Wah Chun-Yuen               5  POT cel dom pre            Brujah antitribu:3
 1x Chas Giovanni Tello         4  DOM POT                    Giovanni:2
 1x Earl                        4  dom for pot                Ventrue:3
 1x Francesca Giovanni          4  dom nec pot                Giovanni:2
@@ -28,7 +29,7 @@ Crypt (12 cards, min=15 max=21 avg=4.5)
 1x Cameron                     3  dom pot                    Lasombra:2
 
 Library (82 cards)
-Master (15)
+Master (15; 2 trifle)
 1x Anarch Troublemaker
 1x Archon Investigation
 1x Barrens, The

@@ -8,8 +8,9 @@ Scott Gomes
 
 -- Unknown
 
-Fortitude weenies of the world unite
+Deck Name: Fortitude weenies of the world unite
 
+Description:
 Bring out weenies and over whelm your prey.
 If your prey has weak combat, press to continue. If your
 prey has a strong combat, press to end. Has a pretty strong
@@ -17,12 +18,12 @@ defensive package too.
 
 Crypt (12 cards, min=12 max=20 avg=3.92)
 ----------------------------------------
-1x Billy                          5  dom for AUS          Ventrue antitribu:2
-1x Ghivran Dalaal, The Dead God   5  ani aus chi FOR      Ravnos:2
+1x Billy                          5  AUS dom for          Ventrue antitribu:2
+1x Ghivran Dalaal, The Dead God   5  FOR ani aus chi      Ravnos:2
 1x Kyoko Shinsegawa               5  aus cel dom for      Tremere:3
-1x Miriam Benyona                 5  for obe AUS          Salubri:2
-1x Ingrid Russo                   4  for DOM              Ventrue antitribu:2
-1x Maldavis                       4  for pre AUS          Caitiff:3
+1x Miriam Benyona                 5  AUS for obe          Salubri:2
+1x Ingrid Russo                   4  DOM for              Ventrue antitribu:2
+1x Maldavis                       4  AUS for pre          Caitiff:3
 1x Peter Blaine                   4  aus dom for          Ventrue antitribu:2
 1x Juan Cali                      3  aus for              Ventrue antitribu:2
 1x Lana Butcher                   3  dom for              Ventrue:3

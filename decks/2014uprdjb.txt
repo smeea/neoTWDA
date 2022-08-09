@@ -8,20 +8,18 @@ Davi Pereira da Cunha
 
 -- Unknown
 
-Assamita
-
-Unknown
+Deck Name: Assamita
 
 Crypt (12 cards, min=17 max=31 avg=6.0)
 ---------------------------------------
-3x Bakr              8  dem pro CEL OBF QUI            Banu Haqim:5
-3x Kashan            7  obt pre CEL OBF QUI   1 vote   Banu Haqim:4
-3x Layla bint-Nadr   5  qui CEL OBF                    Banu Haqim:4
-2x Kamau Jafari      4  obf QUI                        Banu Haqim:4
+3x Bakr              8  CEL OBF QUI dem pro            Banu Haqim:5
+3x Kashan            7  CEL OBF QUI obt pre   1 vote   Banu Haqim:4
+3x Layla bint-Nadr   5  CEL OBF qui                    Banu Haqim:4
+2x Kamau Jafari      4  QUI obf                        Banu Haqim:4
 1x Sajid al Misbah   4  QUI                            Banu Haqim:5
 
 Library (84 cards)
-Master (16)
+Master (16; 6 trifle)
 2x Alamut
 2x Archon Investigation
 2x Dreams of the Sphinx

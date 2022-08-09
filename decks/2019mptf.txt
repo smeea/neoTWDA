@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9361
 
 -- 2gw8.5 + 4vp in the final
 
-Montano PURGE
+Deck Name: Montano PURGE
 
+Description:
 Thanks to Otto & Jura for arranging the tournament!
 
 Finalists:
@@ -20,15 +21,15 @@ Traditional Baltimore Purge deck built around Montano. Inspiration was taken fro
 Crypt (12 cards, min=18 max=44 avg=8.42)
 ----------------------------------------
 5x Montano                                  11  ANI DOM FOR OBT POT       2 votes    Lasombra:3
-2x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal   Lasombra:2
-1x Gratiano                                  8  obf pot DOM OBT           priscus    Lasombra:2
-1x Gustav Mallenhous                         8  for obt AUS DOM           priscus    Ventrue antitribu:2
+2x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal   Lasombra:2
+1x Gratiano                                  8  DOM OBT obf pot           priscus    Lasombra:2
+1x Gustav Mallenhous                         8  AUS DOM for obt           priscus    Ventrue antitribu:2
 1x Ignacio, The Black Priest                 4  dom obt pot                          Lasombra:2
 1x Cameron                                   3  dom pot                              Lasombra:2
 1x Hester Reed                               3  obt pot                              Lasombra:3
 
 Library (84 cards)
-Master (16)
+Master (16; 3 trifle)
 1x Blind Spot
 1x Direct Intervention
 2x Dreams of the Sphinx

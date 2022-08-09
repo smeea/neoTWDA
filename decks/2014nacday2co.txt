@@ -8,8 +8,7 @@ https://www.vekn.net/event-calendar/event/7718
 
 -- 3vp in the final
 
-Unknown
-
+Description:
 It's a vote deck with a lot of toolbox, defense, and agg strikes.
 Notes:
 I originally had built a tournament-level Terrifisto deck, and I also had a
@@ -44,15 +43,15 @@ stall the game.
 
 Crypt (12 cards, min=25 max=39 avg=8.25)
 ----------------------------------------
-3x Lambach                                  10  pre ANI AUS DOM VIC   cardinal     Tzimisce:2
-2x Velya, The Flayer                         9  for ANI AUS PRE VIC   cardinal     Tzimisce:3
-1x John Paleologus                           9  pot ANI AUS CEL VIC   archbishop   Tzimisce:3
-1x Stravinsky                                9  pot ANI AUS VIC       archbishop   Tzimisce:2
+3x Lambach                                  10  ANI AUS DOM VIC pre   cardinal     Tzimisce:2
+2x Velya, The Flayer                         9  ANI AUS PRE VIC for   cardinal     Tzimisce:3
+1x John Paleologus                           9  ANI AUS CEL VIC pot   archbishop   Tzimisce:3
+1x Stravinsky                                9  ANI AUS VIC pot       archbishop   Tzimisce:2
 1x Meshenka                                  8  ANI AUS VIC           priscus      Tzimisce:2
-1x Sascha Vykos, The Angel of Caine          8  ani dom AUS THA VIC   priscus      Tzimisce:2
-1x Sascha Vykos, The Angel of Caine (ADV)    8  ani dom AUS THA VIC   archbishop   Tzimisce:2
-1x Elizabeth Westcott                        5  ani cel vic AUS                    Tzimisce:3 -- Should actually be Devin Bisley, but I didn't have a copy on hand.
-1x Lolita Houston                            4  aus VIC                            Tzimisce:2
+1x Sascha Vykos, The Angel of Caine          8  AUS THA VIC ani dom   priscus      Tzimisce:2
+1x Sascha Vykos, The Angel of Caine (ADV)    8  AUS THA VIC ani dom   archbishop   Tzimisce:2
+1x Elizabeth Westcott                        5  AUS ani cel vic                    Tzimisce:3
+1x Lolita Houston                            4  VIC aus                            Tzimisce:2
 
 Library (90 cards)
 Master (19; 6 trifle)
@@ -72,7 +71,7 @@ Master (19; 6 trifle)
 
 Action (5)
 1x Abbot
-1x Fiendish Tongue -- Could probably be a Deep Song, in case you want to rush. The untap from Tongue isn't really needed given all the untap/wakes in the deck.
+1x Fiendish Tongue
 1x Shepherd's Innocence
 2x Under Siege
 
@@ -90,7 +89,7 @@ Political Action (11)
 1x Ancilla Empowerment
 1x Disputed Territory
 5x Kine Resources Contested
-1x Public Vilification -- It's a bit too hard to use. I had 2 copies in the Terrifisto deck and I dropped down to one here.
+1x Public Vilification
 1x Reins of Power
 
 Action Modifier (14)
@@ -98,7 +97,7 @@ Action Modifier (14)
 4x Changeling
 1x Conditioning
 1x Crocodile's Tongue
-3x Mind of the Wilds -- I'm a real big fan of this card, as it lets Tzimisce decks play that second point of stealth without spending a blood on Plasmic Form.
+3x Mind of the Wilds
 1x Private Audience
 3x Telepathic Vote Counting
 
@@ -106,7 +105,7 @@ Action Modifier/Combat (1)
 1x Plasmic Form
 
 Reaction (27)
-1x Cardinal Sin: Insubordination -- Never got to pull it off in the tournament, but I'd still keep it in the deck. I was anticipating more Sabbat decks using Danse Macabre cards.
+1x Cardinal Sin: Insubordination
 1x Cats' Guidance
 2x Eagle's Sight
 2x Eyes of Argus

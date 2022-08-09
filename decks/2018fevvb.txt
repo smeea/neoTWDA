@@ -8,14 +8,12 @@ https://www.vekn.net/event-calendar/event/8932
 
 -- 1gw5 + 4vp in the final
 
-Velhos lobos e suas parafernálias endiabradas
-
-Unknown
+Deck Name: Velhos lobos e suas parafernálias endiabradas
 
 Crypt (12 cards, min=11 max=21 avg=4.0)
 ---------------------------------------
-3x Jacob Fermor            5  ani tha PRO      Gangrel:4
-3x Gunnar                  4  for PRO          Gangrel:4
+3x Jacob Fermor            5  PRO ani tha      Gangrel:4
+3x Gunnar                  4  PRO for          Gangrel:4
 1x André the Manipulator   6  FOR PRO          Gangrel:5
 1x Jezebelle               4  ani for pro      Gangrel:4
 1x Calvin Cleaver          3  for pro          Gangrel:4
@@ -24,7 +22,7 @@ Crypt (12 cards, min=11 max=21 avg=4.0)
 1x Robert Price            2  pro              Gangrel:4
 
 Library (67 cards)
-Master (23)
+Master (23; 7 trifle)
 1x Backways
 2x Charisma
 2x Dreams of the Sphinx

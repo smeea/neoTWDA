@@ -8,8 +8,9 @@ John Bell
 
 -- Unknown
 
-Brad's Angry Dragon
+Deck Name: Brad's Angry Dragon
 
+Description:
 Deck idea shamelessly stolen from a deck Mattias
 played at last year's NAC. I made some alterations mainly in
 the bloat/blood gain mechanisms for the deck as well as wanting
@@ -22,13 +23,13 @@ have also made a fine addition.
 
 Crypt (14 cards, min=10 max=32 avg=6.07)
 ----------------------------------------
-5x Serenna the White   8  ani dem AUS FOR OBE      Salubri:6
-5x Anu Diptinatpa      7  aus vic DOM NEC          Nagaraja:6
+5x Serenna the White   8  AUS FOR OBE ani dem      Salubri:6
+5x Anu Diptinatpa      7  DOM NEC aus vic          Nagaraja:6
 2x Lynn Thompson       3  cel pot                  Brujah:5
 2x Honest Abe          2  pre                      Brujah:5
 
 Library (60 cards)
-Master (15)
+Master (15; 1 trifle)
 6x Ashur Tablets
 2x Blood Doll
 1x Giant's Blood

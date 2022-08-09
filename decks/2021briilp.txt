@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9827
 
 -- 2gw8 + 4vp in the final
 
-The Lioness of Jerusalem
+Deck Name: The Lioness of Jerusalem
 
+Description:
 Qawiyya multi rush
 Suggested changes after the tournament:
 - Games of Instinct has to go (too situational), replace with Nose of the Hound;
@@ -19,13 +20,13 @@ Amaranth link: amaranth.vtes.co.nz/#deck/3e0d9440-ad2b-496f-a518-d7cc88267e85
 
 Crypt (12 cards, min=25 max=36 avg=7.75)
 ----------------------------------------
-5x Qawiyya el-Ghaduba        9  aus pre FOR POT VAL            Salubri antitribu:5
-3x Eurayle Gelasia Mylonas   6  for pre AUS OBE                Salubri:4
-2x Uriel                     8  ani obe AUS FOR VAL   bishop   Salubri antitribu:4
+5x Qawiyya el-Ghaduba        9  FOR POT VAL aus pre            Salubri antitribu:5
+3x Eurayle Gelasia Mylonas   6  AUS OBE for pre                Salubri:4
+2x Uriel                     8  AUS FOR VAL ani obe   bishop   Salubri antitribu:4
 2x Michaela                  7  AUS FOR PRE VAL                Salubri antitribu:5
 
 Library (90 cards)
-Master (16)
+Master (16; 7 trifle)
 1x Code of Samiel
 1x Direct Intervention
 1x Dreams of the Sphinx

@@ -8,24 +8,22 @@ Hugh Angseesing
 
 -- 1gw4 + 4vp in the final
 
-Ventrue
-
-Unknown
+Deck Name: Ventrue
 
 Crypt (12 cards, min=18 max=31 avg=6.08)
 ----------------------------------------
-3x Lodin (Olaf Holte)   8  aus pro DOM FOR PRE   prince     Ventrue:5
-2x Graham Gottesman     7  obf pre tha DOM FOR   prince     Ventrue:5
-1x Mustafa, The Heir    6  cel dom FOR PRE       prince     Ventrue:4
-1x Victor Donaldson     6  for pre DOM           prince     Ventrue:5
-1x Emily Carson         5  for pre DOM           primogen   Ventrue:5
-1x Jephta Hester        5  aus DOM FOR                      Ventrue antitribu:4
-1x João Bilé            5  pre DOM FOR                      Ventrue:4
-1x Victor Pelletier     5  cel dom for PRE                  Ventrue:4
+3x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro   prince     Ventrue:5
+2x Graham Gottesman     7  DOM FOR obf pre tha   prince     Ventrue:5
+1x Mustafa, The Heir    6  FOR PRE cel dom       prince     Ventrue:4
+1x Victor Donaldson     6  DOM for pre           prince     Ventrue:5
+1x Emily Carson         5  DOM for pre           primogen   Ventrue:5
+1x Jephta Hester        5  DOM FOR aus                      Ventrue antitribu:4
+1x João Bilé            5  DOM FOR pre                      Ventrue:4
+1x Victor Pelletier     5  PRE cel dom for                  Ventrue:4
 1x Ulrike Rothbart      3  dom for                          Ventrue antitribu:4
 
 Library (79 cards)
-Master (13)
+Master (13; 2 trifle)
 1x Anarch Troublemaker
 2x Blood Doll
 1x Direct Intervention

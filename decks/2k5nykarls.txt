@@ -8,8 +8,9 @@ Sven Helmer
 
 -- Unknown
 
-Anarch Diversion
+Deck Name: Anarch Diversion
 
+Description:
 Toolboxy Anarch Deck with lots of Diversions
 
 When I visited the Boston playgroup in spring 2004 and played a game
@@ -29,16 +30,16 @@ I should add one more (and/or throw out some more cards).
 
 Crypt (12 cards, min=19 max=32 avg=6.58)
 ----------------------------------------
-3x Owain Evans, The Wanderer   8  cel pre AUS DOM FOR      Ventrue antitribu:3
+3x Owain Evans, The Wanderer   8  AUS DOM FOR cel pre      Ventrue antitribu:3
 2x Ian Forestal                8  AUS DOM THA              Tremere antitribu:2
-2x Joseph O'Grady              7  aus cel DOM FOR          Ventrue antitribu:3
+2x Joseph O'Grady              7  DOM FOR aus cel          Ventrue antitribu:3
 2x Kyoko Shinsegawa            5  aus cel dom for          Tremere:3
 1x Dylan                       6  aus cel dom for pro      Ventrue antitribu:2
 1x Andrei Puxon                5  ani cel chi for          Ravnos:2
 1x Gustavo Morales             4  ani cel for              Gangrel:3
 
 Library (82 cards)
-Master (25)
+Master (25; 9 trifle)
 1x Anarch Free Press, The
 1x Anarch Railroad
 1x Antediluvian Awakening

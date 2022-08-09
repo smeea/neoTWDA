@@ -8,18 +8,19 @@ Danilo Torrisi
 
 -- Unknown
 
-tupdogs+nephandi
+Deck Name: tupdogs+nephandi
 
+Description:
 tupdogs+nephandi
 
 Crypt (24 cards, min=4 max=20 avg=1.83)
 ---------------------------------------
 18x Tupdog              1  POT VIS              Gargoyle:3
-4x  Antonio d'Erlette   5  dom for pot THA      Tremere antitribu:4
+4x  Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4
 2x  Keith Moody         3  DOM                  Tremere antitribu:4
 
 Library (90 cards)
-Master (16)
+Master (16; 2 trifle)
 2x Blood Doll
 1x Dark Influences
 1x Direct Intervention

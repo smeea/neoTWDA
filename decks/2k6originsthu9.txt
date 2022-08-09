@@ -8,8 +8,9 @@ http://www.veknfrance.com/decks/boc.htm
 
 -- Unknown
 
-Lasombra Creation Boon
+Deck Name: Lasombra Creation Boon
 
+Description:
 This deck was directly inspired by Jeff "The Lasombra"
 Thompson's Lasombra decks that took advantage of breed, Power Structure, and Consanguineous Boon:
 
@@ -25,17 +26,17 @@ a charm, getting 4GW.
 
 Crypt (12 cards, min=10 max=38 avg=6.17)
 ----------------------------------------
-3x Angelica, The Canonicus         10  cel obf DOM OBT POT   cardinal   Lasombra:2
-3x Gratiano                         8  obf pot DOM OBT       priscus    Lasombra:2
-1x Catherine du Bois                5  for obf pre DOM                  Ventrue:3
-1x Guido Lucciano                   5  dom obf OBT                      Lasombra:2
+3x Angelica, The Canonicus         10  DOM OBT POT cel obf   cardinal   Lasombra:2
+3x Gratiano                         8  DOM OBT obf pot       priscus    Lasombra:2
+1x Catherine du Bois                5  DOM for obf pre                  Ventrue:3
+1x Guido Lucciano                   5  OBT dom obf                      Lasombra:2
 1x Cameron                          3  dom pot                          Lasombra:2
 1x Hester Reed                      3  obt pot                          Lasombra:3
 1x Aaron Duggan, Cameron's Toady    2  obt                              Lasombra:2
 1x Krid                             2  obf                              Nosferatu:3
 
 Library (90 cards)
-Master (23)
+Master (23; 1 trifle)
 1x Barrens, The
 4x Blood Doll
 1x Coven, The

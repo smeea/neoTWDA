@@ -8,20 +8,21 @@ Erik Torstensson
 
 -- Unknown
 
-girls will find...
+Deck Name: girls will find...
 
+Description:
 Much based/stolen from Teemu Sainomaa's deck, so credit should go that
 way. Biggest difference is the Liquidation+Ashur Tablets combo, which is kinda decent:o
 
 Crypt (12 cards, min=36 max=40 avg=9.67)
 ----------------------------------------
 4x Cybele           10  ANI DAI OBF PRE SER THA      Baali:4
-4x Aksinya Daclau    9  cel tha ANI FOR PRE PRO      Gangrel antitribu:4
+4x Aksinya Daclau    9  ANI FOR PRE PRO cel tha      Gangrel antitribu:4
 3x Nergal           10  AUS DAI FOR OBF PRE THA      Baali:5
 1x Nergal (ADV)     10  AUS DAI FOR OBF PRE THA      Baali:5
 
 Library (86 cards)
-Master (59)
+Master (59; 8 trifle)
 1x Archon Investigation
 9x Ashur Tablets
 4x Blind Spot

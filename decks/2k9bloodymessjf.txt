@@ -8,9 +8,7 @@ Reetta Lehikoinen
 
 -- Unknown
 
-Unknown
-
-Deck Name, 'Imbued to win'
+Deck Name: Imbued to win
 
 Crypt (12 cards, min=12 max=16 avg=3.67)
 ----------------------------------------

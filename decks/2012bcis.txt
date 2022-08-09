@@ -8,9 +8,10 @@ Hugh Angseesing
 
 -- 4vp in the final
 
-Dmitri's Eyes
+Deck Name: Dmitri's Eyes
 
-Comments: Deck from Hugh Angseesing and Isak Esbjörnsson Bjärmark
+Description:
+Deck from Hugh Angseesing and Isak Esbjörnsson Bjärmark
 Used in FCQ @ Origins reached finals with 2GW7 and 1VP in final.
 changes from tournaments:
 1 more Dmitri Borodin added and a Kabede removed,
@@ -19,17 +20,17 @@ changes from tournaments:
 
 Crypt (12 cards, min=19 max=40 avg=7.58)
 ----------------------------------------
-4x Dmitri Borodin   10  obf AUS CEL NEC QUI                Banu Haqim:4
-2x Massassi          9  obf AUS CEL POT QUI                Osebo:4
-1x Kabede Maru       9  abo pot AUS CEL OBF QUI   magaji   Banu Haqim:5
-1x Arthur Denholm    5  obf AUS DEM                        Malkavian:5
-1x Frondator         5  dom tha AUS               bishop   Tremere antitribu:4
-1x Neighbor John     5  dom for AUS                        Ventrue antitribu:4
-1x Titi Camara       5  pot AUS CEL                        Osebo:5
-1x Tyler McGill      4  pre AUS                            Toreador:5
+4x Dmitri Borodin   10  AUS CEL NEC QUI obf                Banu Haqim:4
+2x Massassi          9  AUS CEL POT QUI obf                Osebo:4
+1x Kabede Maru       9  AUS CEL OBF QUI abo pot   magaji   Banu Haqim:5
+1x Arthur Denholm    5  AUS DEM obf                        Malkavian:5
+1x Frondator         5  AUS dom tha               bishop   Tremere antitribu:4
+1x Neighbor John     5  AUS dom for                        Ventrue antitribu:4
+1x Titi Camara       5  AUS CEL pot                        Osebo:5
+1x Tyler McGill      4  AUS pre                            Toreador:5
 
 Library (81 cards)
-Master (17)
+Master (17; 4 trifle)
 2x Direct Intervention
 2x Dreams of the Sphinx
 2x Information Highway

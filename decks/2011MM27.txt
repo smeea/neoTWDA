@@ -8,26 +8,24 @@ Heikki Palomäki
 
 -- 3vp in the final
 
-Tampere by night
-
-Unknown
+Deck Name: Tampere by night
 
 Crypt (12 cards, min=18 max=27 avg=5.42)
 ----------------------------------------
-2x Renenet              5  ser OBF PRE                     Ministry:4
-1x Isouda de Blaise     7  aus CEL OBF PRE                 Toreador antitribu:4
-1x Ogwon                7  for OBF PRE SER                 Ministry:5
-1x Stavros              7  dem AUS OBF PRE       priscus   Malkavian antitribu:4
-1x Ankh-sen-Sutekh      6  obf PRE SER                     Ministry:4
+2x Renenet              5  OBF PRE ser                     Ministry:4
+1x Isouda de Blaise     7  CEL OBF PRE aus                 Toreador antitribu:4
+1x Ogwon                7  OBF PRE SER for                 Ministry:5
+1x Stavros              7  AUS OBF PRE dem       priscus   Malkavian antitribu:4
+1x Ankh-sen-Sutekh      6  PRE SER obf                     Ministry:4
 1x Abdelsobek           5  for nec obf pre ser             Ministry:5
-1x Axel Von Anders      5  cel obf pot PRE                 Brujah antitribu:4
+1x Axel Von Anders      5  PRE cel obf pot                 Brujah antitribu:4
 1x Gabriel de Cambrai   5  aus cel dem obf pre             Toreador antitribu:4
-1x Herbert Westin       5  pot OBF PRE                     Brujah:4
+1x Herbert Westin       5  OBF PRE pot                     Brujah:4
 1x Robin Withers        4  dom obf pre                     Ventrue:4
 1x Sisocharis           4  cel obf pre                     Ministry:5
 
 Library (89 cards)
-Master (17)
+Master (17; 11 trifle)
 1x Barrens, The
 1x Jake Washington
 3x Lilith's Blessing

@@ -8,8 +8,9 @@ Lex Pike
 
 -- Unknown
 
-Giovanni mini powerbleed with goods.
+Deck Name: Giovanni mini powerbleed with goods.
 
+Description:
 Lex Pike wins the gold star for putting Funeral Wake into the TWDA in a tournament by the same name! I don't know if that has ever been done before, especially within days of the cards becoming tournament legal.
 
 Also new to the TWDA: Enzo Adv, Soul Feasting
@@ -22,13 +23,13 @@ Do need to remove/replace Talbot's Chainsaw - all three rounds Ambrosius or Tye 
 
 Crypt (13 cards, min=10 max=30 avg=4.92)
 ----------------------------------------
-2x Andrea Giovanni                                  7  pot vic DOM NEC              Giovanni:2
-2x Isabel Giovanni                                  5  pot DOM NEC                  Giovanni:2
-2x Le Dinh Tho                                      5  aus dom NEC                  Nagaraja:2
+2x Andrea Giovanni                                  7  DOM NEC pot vic              Giovanni:2
+2x Isabel Giovanni                                  5  DOM NEC pot                  Giovanni:2
+2x Le Dinh Tho                                      5  NEC aus dom                  Nagaraja:2
 2x Rudolfo Giovanni                                 3  NEC                          Giovanni:2
-1x Enzo Giovanni, Pentex Board of Directors         8  ani pot tha DOM NEC          Giovanni:2
-1x Enzo Giovanni, Pentex Board of Directors (ADV)   8  ani pre tha DOM NEC POT      Giovanni:2
-1x Gloria Giovanni                                  4  nec DOM                      Giovanni:2
+1x Enzo Giovanni, Pentex Board of Directors         8  DOM NEC ani pot tha          Giovanni:2
+1x Enzo Giovanni, Pentex Board of Directors (ADV)   8  DOM NEC POT ani pre tha      Giovanni:2
+1x Gloria Giovanni                                  4  DOM nec                      Giovanni:2
 1x Lia Milliner                                     3  dom nec                      Giovanni:3
 1x Nedal, The Careless                              1  cel nec                      Caitiff:3
 

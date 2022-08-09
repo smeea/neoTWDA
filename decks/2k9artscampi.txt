@@ -8,15 +8,16 @@ Alessandro Donati
 
 -- Unknown
 
-Pandermonium
+Deck Name: Pandermonium
 
+Description:
 Fate Vobis.
 
 Crypt (15 cards, min=4 max=20 avg=2.4)
 --------------------------------------
-1x Alfred Benezri (ADV)       7  aus dom PRE THA   bishop   Pander:3
-1x Alfred Benezri             6  aus dom PRE THA   bishop   Pander:3
-1x Jimmy Dunn                 4  for CEL POT                Pander:2
+1x Alfred Benezri (ADV)       7  PRE THA aus dom   bishop   Pander:3
+1x Alfred Benezri             6  PRE THA aus dom   bishop   Pander:3
+1x Jimmy Dunn                 4  CEL POT for                Pander:2
 1x Lena Rowe                  3  aus obf pre                Pander:2
 1x Rex, The Necronomist       3  pot pro vic                Pander:2
 1x Christine Boscacci         2  dom vic                    Pander:2

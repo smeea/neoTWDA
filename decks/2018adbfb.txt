@@ -8,21 +8,22 @@ https://www.vekn.net/event-calendar/event/9090
 
 -- 1gw4 + 4vp in the final
 
-Tumnimos reprodutor
+Deck Name: Tumnimos reprodutor
 
+Description:
 Tumnimos nascem anarquistas e com presença.
 
 Crypt (12 cards, min=4 max=22 avg=3.33)
 ---------------------------------------
 4x Anarch Convert                      1                           Caitiff:ANY
-3x Irena                               5  ani for pre CHI          Ravnos:5
-2x Desiree Narayan, Anarch Historian   6  ani cel for nec CHI      Ravnos:6
-1x Sanjay Chakrabarti                  4  ani CHI                  Ravnos:6
+3x Irena                               5  CHI ani for pre          Ravnos:5
+2x Desiree Narayan, Anarch Historian   6  CHI ani cel for nec      Ravnos:6
+1x Sanjay Chakrabarti                  4  CHI ani                  Ravnos:6
 1x Gwen Brand                          3  aus chi                  Ravnos:5
 1x Adri, The Seeker                    2  for                      Ravnos:6
 
 Library (81 cards)
-Master (28)
+Master (28; 5 trifle)
 1x Anarch Railroad
 3x Chimerstry
 1x Fortune Teller Shop

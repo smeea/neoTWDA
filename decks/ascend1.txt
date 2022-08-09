@@ -8,8 +8,9 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TEcWI9sxp1Y
 
 -- Unknown
 
-Big Toreador Deck
+Deck Name: Big Toreador Deck
 
+Description:
 Here is the winning deck for "Ascendance: 1", with comments from the winner.
 It's a very interesting combination deck using Pool Gain, Votes, Intercept,
 and Bounce:
@@ -34,12 +35,12 @@ that I didn't see any other Toreador decks."
 
 Crypt (12 cards, min=26 max=42 avg=9.0)
 ---------------------------------------
-2x Alexandra         11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-2x Anneke            10  dom AUS CEL PRE           justicar       Toreador:1
-2x François Villon   10  chi obf pot AUS CEL PRE   prince         Toreador:2
+2x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+2x Anneke            10  AUS CEL PRE dom           justicar       Toreador:1
+2x François Villon   10  AUS CEL PRE chi obf pot   prince         Toreador:2
 2x Masika            10  AUS CEL PRE               primogen       Toreador:1
-2x Anson              8  aus dom CEL PRE           prince         Toreador:1
-2x Felicia Mostrom    5  pre AUS CEL                              Toreador:1
+2x Anson              8  CEL PRE aus dom           prince         Toreador:1
+2x Felicia Mostrom    5  AUS CEL pre                              Toreador:1
 
 Library (90 cards)
 Master (23)

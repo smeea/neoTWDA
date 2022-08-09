@@ -8,8 +8,9 @@ Matias Frosterus
 
 -- 3vp in the final
 
-Pride, Presence, Princes and Prejudice
+Deck Name: Pride, Presence, Princes and Prejudice
 
+Description:
 Mono PRE deck that uses cheap Princes for defense via
 Second Tradition and pool gain via Parity Shift.
 It's easyish to get through by proper negotiating
@@ -17,19 +18,19 @@ even without any vote push.
 
 Crypt (12 cards, min=16 max=24 avg=4.83)
 ----------------------------------------
-2x Mustafa, The Heir      6  cel dom FOR PRE   prince     Ventrue:4
-2x Tara                   6  cel POT PRE       prince     Brujah:5
-1x Shasa Abu Badr         5  cel for PRE                  Ishtarri:4
-1x Victor Pelletier       5  cel dom for PRE              Ventrue:4
-1x Antoinette Dubois      4  for mel PRE                  Daughter of Cacophony:4
-1x Bethany Ray            4  aus PRE                      Toreador:5
-1x Lumumba                4  ani PRE                      Guruhi:4
-1x Marla Kenyon           4  ser PRE                      Ministry:4
+2x Mustafa, The Heir      6  FOR PRE cel dom   prince     Ventrue:4
+2x Tara                   6  POT PRE cel       prince     Brujah:5
+1x Shasa Abu Badr         5  PRE cel for                  Ishtarri:4
+1x Victor Pelletier       5  PRE cel dom for              Ventrue:4
+1x Antoinette Dubois      4  PRE for mel                  Daughter of Cacophony:4
+1x Bethany Ray            4  PRE aus                      Toreador:5
+1x Lumumba                4  PRE ani                      Guruhi:4
+1x Marla Kenyon           4  PRE ser                      Ministry:4
 1x Reginald Moore         4  PRE               primogen   Brujah:4
-1x Reverend Adams (ADV)   4  aus PRE                      Ventrue:4
+1x Reverend Adams (ADV)   4  PRE aus                      Ventrue:4
 
 Library (64 cards)
-Master (13)
+Master (13; 6 trifle)
 1x Dreams of the Sphinx
 1x Effective Management
 1x Information Highway

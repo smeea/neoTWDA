@@ -8,8 +8,9 @@ Sergio Gracia
 
 -- 3vp in the final
 
-Trolls Converters
+Deck Name: Trolls Converters
 
+Description:
 1GW3vp + 1GW5vp + 1GW3vpF
 In hindsight, I would drop one Delaying Tactics and
 add another Frontal Assault.
@@ -18,15 +19,15 @@ Crypt (12 cards, min=4 max=26 avg=3.67)
 ---------------------------------------
 4x Anarch Convert       1                   Caitiff:ANY
 2x Nana Buruku          8  ANI POT PRE      Guruhi:4
-1x Céleste Lamontagne   5  for ANI PRO      Gangrel antitribu:4
-1x Petra                5  aus ANI OBF      Nosferatu:4
-1x Beetleman            4  obf ANI          Nosferatu:4
-1x Bobby Lemon          4  pro ANI          Gangrel:3
+1x Céleste Lamontagne   5  ANI PRO for      Gangrel antitribu:4
+1x Petra                5  ANI OBF aus      Nosferatu:4
+1x Beetleman            4  ANI obf          Nosferatu:4
+1x Bobby Lemon          4  ANI pro          Gangrel:3
 1x Stick                3  ANI              Nosferatu antitribu:4
 1x T.J.                 3  cel for          Gangrel:4
 
 Library (78 cards)
-Master (23)
+Master (23; 5 trifle)
 10x Anarch Revolt
 1x Archon Investigation
 1x Fame

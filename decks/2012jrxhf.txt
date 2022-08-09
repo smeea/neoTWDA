@@ -8,8 +8,9 @@ Juha Nyholm
 
 -- Unknown
 
-Fast lunch
+Deck Name: Fast lunch
 
+Description:
 A casual deck built back when I started playing. Haven't really updated
 it much since. I guess the deck would fair better if I swapped out the
 fast reaction tech for some dominate.
@@ -18,9 +19,9 @@ The deck was inspired by: www.veknfrance.com/decks/witchy_woman.htm
 Crypt (12 cards, min=21 max=28 avg=6.25)
 ----------------------------------------
 3x Carna, The Princess Witch     7  AUS DOM THA       primogen   Tremere:3
-3x Muaziz, Archon of Ulugh Beg   7  aus dom for THA              Tremere:2
-3x Eugenio Estevez               6  dom for AUS THA              Tremere:3
-3x Aisling Sturbridge            5  dom AUS THA                  Tremere:2
+3x Muaziz, Archon of Ulugh Beg   7  THA aus dom for              Tremere:2
+3x Eugenio Estevez               6  AUS THA dom for              Tremere:3
+3x Aisling Sturbridge            5  AUS THA dom                  Tremere:2
 
 Library (90 cards)
 Master (11)

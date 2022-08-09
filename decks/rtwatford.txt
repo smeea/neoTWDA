@@ -8,8 +8,9 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/xg7Q_kWT4l4
 
 -- Unknown
 
-'Respect my Prince's authoritah'
+Deck Name: 'Respect my Prince's authoritah'
 
+Description:
 Good all-rounder, does not like heavy agg. damage or
 mass prevention but very effectively stops and works over a lot of
 'Tournament sleaze' type decks (weenie Pre, s+b, tapout, votes). A
@@ -19,11 +20,11 @@ Crypt (12 cards, min=12 max=32 avg=5.58)
 ----------------------------------------
 2x Constanza Vinti                 8  CEL DOM POT           prince     Brujah:2
 2x Dónal O'Connor                  8  CEL DOM POT           prince     Brujah:2
-1x Anvil                           6  dom pre tha CEL POT   primogen   Brujah:1
-1x Damaskenos, Herald of Leandro   6  aus cel pot DOM                  Malkavian:2
-1x Rake                            6  aus cel pot PRE       prince     Brujah:1
-1x Volker, The Puppet Prince       5  pot CEL               prince     Brujah:2
-1x Jimmy Dunn                      4  for CEL POT                      Pander:2
+1x Anvil                           6  CEL POT dom pre tha   primogen   Brujah:1
+1x Damaskenos, Herald of Leandro   6  DOM aus cel pot                  Malkavian:2
+1x Rake                            6  PRE aus cel pot       prince     Brujah:1
+1x Volker, The Puppet Prince       5  CEL pot               prince     Brujah:2
+1x Jimmy Dunn                      4  CEL POT for                      Pander:2
 1x Cameron                         3  dom pot                          Lasombra:2
 1x Dre, Leader of the Cold Dawn    3  cel pot                          Brujah:1
 1x Lupo                            2  pot                              Brujah:1

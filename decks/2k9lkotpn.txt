@@ -6,12 +6,11 @@ January 11th 2009
 Hernán Rodríguez
 
 
--- Unknown
+-- 1st place with 1GW6.5, 3VP in final
 
-No secrets 2009
+Deck Name: No secrets 2009
 
-1st place with 1GW6.5, 3VP in final
-
+Description:
 The classic Akunanse/Magaji
 
 Last table: Ventrue 4-5 Votes; Toreador Grand Ball 1-2; Tremere 3-4
@@ -28,15 +27,15 @@ Akunanse's deck never lose a table.
 
 Crypt (12 cards, min=26 max=36 avg=7.75)
 ----------------------------------------
-3x Nkule Galadima    8  ani aus pre ABO FOR       magaji   Akunanse:4
+3x Nkule Galadima    8  ABO FOR ani aus pre       magaji   Akunanse:4
 3x Uchenna           7  ABO ANI FOR               magaji   Akunanse:4
-2x Ugadja           10  dom for ABO ANI POT PRE   magaji   Guruhi:4
-2x Amavi             8  pre pro ABO ANI FOR                Akunanse:4
-1x Jubal             6  for pot ABO ANI                    Akunanse:4
-1x Sanjo             6  abo chi ANI FOR                    Akunanse:3
+2x Ugadja           10  ABO ANI POT PRE dom for   magaji   Guruhi:4
+2x Amavi             8  ABO ANI FOR pre pro                Akunanse:4
+1x Jubal             6  ABO ANI for pot                    Akunanse:4
+1x Sanjo             6  ANI FOR abo chi                    Akunanse:3
 
 Library (90 cards)
-Master (14)
+Master (14; 2 trifle)
 2x Blood Doll
 1x Fame
 2x Guardian Angel

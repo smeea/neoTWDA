@@ -8,23 +8,19 @@ Norbert Flasko
 
 -- 4vp in the final
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=19 max=37 avg=7.0)
 ---------------------------------------
-3x Lucian                 10  cel tha AUS DOM OBF   justicar   Malkavian:1
+3x Lucian                 10  AUS DOM OBF cel tha   justicar   Malkavian:1
 2x Gilbert Duane           7  AUS DOM OBF           prince     Malkavian:1
-2x Greger Anderssen        7  dom pro AUS OBF       prince     Malkavian:2
-1x Mariel, Lady Thunder    7  aus tha DOM OBF                  Malkavian:1
-1x Ozmo                    6  dom obf AUS                      Malkavian:1
-1x Didi Meyers             5  aus cel obf DOM                  Malkavian:1
-1x Victoria                5  cel obf AUS                      Malkavian:2
-1x Zöe                     3  cel obf AUS                      Malkavian:2
+2x Greger Anderssen        7  AUS OBF dom pro       prince     Malkavian:2
+1x Mariel, Lady Thunder    7  DOM OBF aus tha                  Malkavian:1
+1x Ozmo                    6  AUS dom obf                      Malkavian:1
+1x Didi Meyers             5  DOM aus cel obf                  Malkavian:1
+1x Victoria                5  AUS cel obf                      Malkavian:2
+1x Zöe                     3  AUS cel obf                      Malkavian:2
 
 Library (89 cards)
-Master (17)
+Master (17; 6 trifle)
 3x Dreams of the Sphinx
 1x Giant's Blood
 1x Information Highway

@@ -8,8 +8,9 @@ John Bell
 
 -- Unknown
 
-Tatu Song
+Deck Name: Tatu Song
 
+Description:
 This is a staple deck I've kept built, inspired
 by one I watched Robyn Tatu play a number of years ago.
 It's always performed well with enough actions, block and
@@ -19,10 +20,10 @@ addition to the deck.
 Crypt (12 cards, min=8 max=19 avg=3.25)
 ---------------------------------------
 2x Dani                           2  ani                    Nosferatu antitribu:2
-1x Calebros, The Martyr           5  obf pot ANI   prince   Nosferatu:2
-1x Devin Bisley                   5  vic ANI AUS            Tzimisce:2
-1x Nigel the Shunned              5  obf ANI POT            Nosferatu antitribu:2
-1x Bobby Lemon                    4  pro ANI                Gangrel:3
+1x Calebros, The Martyr           5  ANI obf pot   prince   Nosferatu:2
+1x Devin Bisley                   5  ANI AUS vic            Tzimisce:2
+1x Nigel the Shunned              5  ANI POT obf            Nosferatu antitribu:2
+1x Bobby Lemon                    4  ANI pro                Gangrel:3
 1x Leon                           3  ani for                Gangrel antitribu:2
 1x Shannon Price, the Whisperer   3  ani obf                Nosferatu antitribu:2
 1x Tommy                          3  ani pot                Nosferatu antitribu:2

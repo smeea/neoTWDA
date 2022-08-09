@@ -8,16 +8,14 @@ Dave Clooney
 
 -- Unknown
 
-Kung Fu versus Robots
-
-Unknown
+Deck Name: Kung Fu versus Robots
 
 Crypt (13 cards, min=4 max=23 avg=3.23)
 ---------------------------------------
 5x Anarch Convert    1                       Caitiff:ANY
-2x Agru Kabera       6  cel nec pre FOR      Ishtarri:4
-1x Honorine Ateba    6  cel nec FOR PRE      Ishtarri:4
-1x Elizabeth Conde   5  pre CEL FOR          Ishtarri:4
+2x Agru Kabera       6  FOR cel nec pre      Ishtarri:4
+1x Honorine Ateba    6  FOR PRE cel nec      Ishtarri:4
+1x Elizabeth Conde   5  CEL FOR pre          Ishtarri:4
 1x Fahd al-Zawba'a   4  cel for pre          Toreador:4
 1x Kenyatta          4  cel for pre          Ishtarri:4
 1x Abu Nuwasi        3  cel for              Ishtarri:4

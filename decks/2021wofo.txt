@@ -8,9 +8,7 @@ https://www.vekn.net/event-calendar/event/9770
 
 -- 3vp in the final
 
-Blind Spot
-
-Unknown
+Deck Name: Blind Spot
 
 Crypt (12 cards, min=44 max=44 avg=11.0)
 ----------------------------------------
@@ -19,7 +17,7 @@ Crypt (12 cards, min=44 max=44 avg=11.0)
 4x Rafael de Corazon     11  AUS CEL DOM OBF PRE       inner circle   Toreador:4
 
 Library (69 cards)
-Master (19)
+Master (19; 3 trifle)
 7x Blind Spot
 2x Dreams of the Sphinx
 1x Golconda: Inner Peace

@@ -8,8 +8,9 @@ John Bell
 
 -- Unknown
 
-Una + 1's
+Deck Name: Una + 1's
 
+Description:
 Pretty standard Una with 1 cap support for
 bleeds or Pentex removal. I threw the deck together at the
 last minute so it was missing a lot of cards I intended to
@@ -18,7 +19,7 @@ a silly strong deck.
 
 Crypt (12 cards, min=4 max=36 avg=5.0)
 --------------------------------------
-6x Una                   9  dem ANI FOR PRE PRO   archbishop   Gangrel antitribu:3
+6x Una                   9  ANI FOR PRE PRO dem   archbishop   Gangrel antitribu:3
 2x Anarch Convert        1                                     Caitiff:ANY
 1x Antoinette DuChamp    1  cel pre                            Caitiff:2
 1x Franciscus            1  aus                                Caitiff:2
@@ -26,7 +27,7 @@ Crypt (12 cards, min=4 max=36 avg=5.0)
 1x Sandra White          1                                     Caitiff:3
 
 Library (81 cards)
-Master (5)
+Master (5; 1 trifle)
 1x Blood Doll
 1x Direct Intervention
 1x Pentex(TM) Subversion

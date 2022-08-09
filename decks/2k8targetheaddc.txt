@@ -8,8 +8,7 @@ Matthew Avery
 
 -- Unknown
 
-Unknown
-
+Description:
 Angel of Conviction
 
 Crypt (12 cards, min=15 max=21 avg=4.58)

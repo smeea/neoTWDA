@@ -8,8 +8,9 @@ Petteri Teerikangas
 
 -- Unknown
 
-Unnamed cruising at Baltic Sea
+Deck Name: Unnamed cruising at Baltic Sea
 
+Description:
 Unnamed deck using maleficia; greater curses for
 gaining more pool and slowing down combat decks, evil eyes
 canceling and psalms to get bleeds in right address. Deck needs
@@ -22,11 +23,11 @@ Crypt (12 cards, min=12 max=40 avg=7.0)
 5x unnamed, The              10  CEL DAI OBF PRE PRO             Baali:6
 4x Horde, The                 3  dai obf pre                     Baali:6
 1x Annazir                    9  DAI OBF POT PRE       2 votes   Baali:5
-1x Xeper, Sultan of Lepers    7  ani dai pro OBF PRE             Baali:6
+1x Xeper, Sultan of Lepers    7  OBF PRE ani dai pro             Baali:6
 1x Arishat                    6  DAI OBF PRE           1 vote    Baali:6
 
 Library (86 cards)
-Master (22)
+Master (22; 6 trifle)
 1x Dreams of the Sphinx
 2x Information Highway
 1x Jake Washington

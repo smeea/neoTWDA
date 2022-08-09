@@ -8,9 +8,7 @@ Miklós Szilvester
 
 -- Unknown
 
-Imbued Silver
-
-Unknown
+Deck Name: Imbued Silver
 
 Crypt (12 cards, min=12 max=20 avg=4.08)
 ----------------------------------------

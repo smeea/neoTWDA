@@ -8,21 +8,19 @@ https://www.vekn.net/event-calendar/event/8462
 
 -- 4vp in the final
 
-Tremere Monstro
-
-Unknown
+Deck Name: Tremere Monstro
 
 Crypt (12 cards, min=21 max=32 avg=6.75)
 ----------------------------------------
-3x Chaundice                           8  vic FOR POT VIS              Gargoyle:4
-3x Antonio d'Erlette                   5  dom for pot THA              Tremere antitribu:4
-2x Rocia                               8  obf FOR POT VIS              Gargoyle:4
-2x Fustuk                              6  obt pot FOR VIS              Gargoyle:5
-1x Valerius Maior, Hell's Fool         7  nec pre AUS DAI DOM THA      Tremere:4
-1x Valerius Maior, Hell's Fool (ADV)   7  nec pre AUS DAI DOM THA      Tremere antitribu:4
+3x Chaundice                           8  FOR POT VIS vic              Gargoyle:4
+3x Antonio d'Erlette                   5  THA dom for pot              Tremere antitribu:4
+2x Rocia                               8  FOR POT VIS obf              Gargoyle:4
+2x Fustuk                              6  FOR VIS obt pot              Gargoyle:5
+1x Valerius Maior, Hell's Fool         7  AUS DAI DOM THA nec pre      Tremere:4
+1x Valerius Maior, Hell's Fool (ADV)   7  AUS DAI DOM THA nec pre      Tremere antitribu:4
 
 Library (90 cards)
-Master (14)
+Master (14; 6 trifle)
 1x Fame
 1x Golconda: Inner Peace
 1x Infernal Pact

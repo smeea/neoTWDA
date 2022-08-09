@@ -8,16 +8,14 @@ Jonatan Reino
 
 -- 3vp in the final
 
-el amor de los feos
-
-Unknown
+Deck Name: el amor de los feos
 
 Crypt (12 cards, min=7 max=24 avg=3.92)
 ---------------------------------------
-2x Beast, The Leatherface of Detroit   7  ani cel OBF POT            Nosferatu antitribu:2
-2x Olivia                              5  vic OBF POT       bishop   Nosferatu antitribu:2
-2x Agatha                              4  obf POT                    Nosferatu antitribu:2
-1x Nigel the Shunned                   5  obf ANI POT                Nosferatu antitribu:2
+2x Beast, The Leatherface of Detroit   7  OBF POT ani cel            Nosferatu antitribu:2
+2x Olivia                              5  OBF POT vic       bishop   Nosferatu antitribu:2
+2x Agatha                              4  POT obf                    Nosferatu antitribu:2
+1x Nigel the Shunned                   5  ANI POT obf                Nosferatu antitribu:2
 1x Duck                                3  obf pot                    Nosferatu:1
 1x KoKo                                2  pot                        Nosferatu:1
 1x Lupo                                2  pot                        Brujah:1

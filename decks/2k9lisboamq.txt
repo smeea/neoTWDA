@@ -8,8 +8,9 @@ Teresa Neves
 
 -- Unknown
 
-In Visible Light
+Deck Name: In Visible Light
 
+Description:
 Player: Teresa Neves
 Loosely based on Michal Kochanowski
 
@@ -18,15 +19,15 @@ in May
 
 Crypt (12 cards, min=19 max=40 avg=7.67)
 ----------------------------------------
-4x Nefertiti                  10  cel pot DOM OBF PRE SER            Ministry:2
-2x Khay'tall, Snake of Eden    9  aus DOM OBF PRE SER                Ministry:2
-2x Allonzo Montoya             6  ani aus OBF SER                    Abomination:3
-2x Count Ormonde               5  dom pre ser OBF                    Ministry:2
-1x Kahina the Sorceress        9  nec pre AUS DOM OBF SER   1 vote   Ministry:3
+4x Nefertiti                  10  DOM OBF PRE SER cel pot            Ministry:2
+2x Khay'tall, Snake of Eden    9  DOM OBF PRE SER aus                Ministry:2
+2x Allonzo Montoya             6  OBF SER ani aus                    Abomination:3
+2x Count Ormonde               5  OBF dom pre ser                    Ministry:2
+1x Kahina the Sorceress        9  AUS DOM OBF SER nec pre   1 vote   Ministry:3
 1x Celine Chevalier            3  obf ser                            Ministry:2
 
 Library (90 cards)
-Master (14)
+Master (14; 2 trifle)
 1x Barrens, The
 5x Eternals of Sirius, The
 1x Giant's Blood

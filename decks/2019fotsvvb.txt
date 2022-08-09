@@ -8,24 +8,25 @@ https://www.vekn.net/event-calendar/event/9364
 
 -- 1gw3 + 4vp in the final
 
-Bang bang, my baby shot me down (A.k.a. Anson Guns)
+Deck Name: Bang bang, my baby shot me down (A.k.a. Anson Guns)
 
+Description:
 A classic Anson Guns deck like the others.
 
 Crypt (12 cards, min=16 max=36 avg=6.75)
 ----------------------------------------
-4x Anson                        8  aus dom CEL PRE           prince     Toreador:1
-1x Anneke                      10  dom AUS CEL PRE           justicar   Toreador:1
-1x François Villon             10  chi obf pot AUS CEL PRE   prince     Toreador:2
-1x Marcellus                    8  pro AUS CEL               prince     Toreador:2
-1x Black Cat                    5  pot pre CEL                          Brujah:1
-1x Volker, The Puppet Prince    5  pot CEL                   prince     Brujah:2
-1x Jimmy Dunn                   4  for CEL POT                          Pander:2
-1x Victor Tolliver              4  pot CEL                              Brujah antitribu:2
+4x Anson                        8  CEL PRE aus dom           prince     Toreador:1
+1x Anneke                      10  AUS CEL PRE dom           justicar   Toreador:1
+1x François Villon             10  AUS CEL PRE chi obf pot   prince     Toreador:2
+1x Marcellus                    8  AUS CEL pro               prince     Toreador:2
+1x Black Cat                    5  CEL pot pre                          Brujah:1
+1x Volker, The Puppet Prince    5  CEL pot                   prince     Brujah:2
+1x Jimmy Dunn                   4  CEL POT for                          Pander:2
+1x Victor Tolliver              4  CEL pot                              Brujah antitribu:2
 1x Sarah Brando                 3  CEL                                  Brujah antitribu:2
 
 Library (80 cards)
-Master (23)
+Master (23; 1 trifle)
 9x Ashur Tablets
 1x Dreams of the Sphinx
 1x Fame

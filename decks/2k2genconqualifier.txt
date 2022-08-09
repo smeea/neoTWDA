@@ -8,21 +8,17 @@ Tom Mickle
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=15 max=38 avg=6.42)
 ----------------------------------------
-2x Lucian                 10  cel tha AUS DOM OBF       justicar       Malkavian:1
+2x Lucian                 10  AUS DOM OBF cel tha       justicar       Malkavian:1
 2x Gilbert Duane           7  AUS DOM OBF               prince         Malkavian:1
-2x Le Dinh Tho             5  aus dom NEC                              Nagaraja:2
-1x Arika                  11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Greger Anderssen        7  dom pro AUS OBF           prince         Malkavian:2
-1x Calebros, The Martyr    5  obf pot ANI               prince         Nosferatu:2
+2x Le Dinh Tho             5  NEC aus dom                              Nagaraja:2
+1x Arika                  11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Greger Anderssen        7  AUS OBF dom pro           prince         Malkavian:2
+1x Calebros, The Martyr    5  ANI obf pot               prince         Nosferatu:2
 1x Roland Bishop           4  aus dom obf                              Malkavian:1
 1x Isabel de Leon          3  AUS                                      Toreador:2
-1x Zöe                     3  cel obf AUS                              Malkavian:2
+1x Zöe                     3  AUS cel obf                              Malkavian:2
 
 Library (90 cards)
 Master (16)

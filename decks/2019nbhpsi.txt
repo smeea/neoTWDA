@@ -8,20 +8,16 @@ https://www.vekn.net/event-calendar/event/9394
 
 -- 1gw5 + 4vp in the final
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=5 max=40 avg=6.25)
 ---------------------------------------
 4x Nakhthorheb       10  OBF PRE SER              Ministry:4
-3x Porphyrion         9  for CHI OBF PRE SER      Ministry:5
+3x Porphyrion         9  CHI OBF PRE SER for      Ministry:5
 3x Anarch Convert     1                           Caitiff:ANY
 1x Ahmose Chambers    3  obf ser                  Ministry:5
 1x Belle Equitone     2  ser                      Ministry:4
 
 Library (61 cards)
-Master (17)
+Master (17; 4 trifle)
 1x Coven, The
 1x Dreams of the Sphinx
 7x Eternals of Sirius, The

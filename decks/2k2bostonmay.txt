@@ -8,10 +8,9 @@ Ben Swainbank
 
 -- Unknown
 
-Unknown
+Deck Name: Monster's Ball
 
-Deck: Monster's Ball
-
+Description:
 I've had a very good record with this deck in casual games, and now in a
 tournament. Its fairly straightforward, but a good bit of R&D went into
 testing and tuning it. Intercept combat. A nice layered defense of solid
@@ -29,15 +28,15 @@ them, join them. Then give them a beating.
 
 Crypt (12 cards, min=13 max=30 avg=5.5)
 ---------------------------------------
-2x Miller Delmardigan, Teacher of Bahari   8  aus pro CEL PRE   bishop   Toreador antitribu:2
-2x Greta Kircher                           7  obf AUS CEL PRE            Toreador antitribu:2
-1x Parnassus                               7  aus tha CEL QUI            Banu Haqim:2
-1x Ian Wallingford                         6  aus CEL PRE       bishop   Toreador antitribu:2
-1x Felicia Mostrom                         5  pre AUS CEL                Toreador:1
-1x Victor Revell, Loyalist                 5  aus dem pre CEL            Toreador antitribu:2
-1x Parmenides                              4  qui CEL                    Banu Haqim:2
-1x Remilliard, Devout Crusader             4  pre AUS                    Toreador antitribu:2
-1x Zöe                                     3  cel obf AUS                Malkavian:2
+2x Miller Delmardigan, Teacher of Bahari   8  CEL PRE aus pro   bishop   Toreador antitribu:2
+2x Greta Kircher                           7  AUS CEL PRE obf            Toreador antitribu:2
+1x Parnassus                               7  CEL QUI aus tha            Banu Haqim:2
+1x Ian Wallingford                         6  CEL PRE aus       bishop   Toreador antitribu:2
+1x Felicia Mostrom                         5  AUS CEL pre                Toreador:1
+1x Victor Revell, Loyalist                 5  CEL aus dem pre            Toreador antitribu:2
+1x Parmenides                              4  CEL qui                    Banu Haqim:2
+1x Remilliard, Devout Crusader             4  AUS pre                    Toreador antitribu:2
+1x Zöe                                     3  AUS cel obf                Malkavian:2
 1x Carter                                  2  cel                        Toreador antitribu:2
 
 Library (90 cards)

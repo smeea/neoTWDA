@@ -8,20 +8,21 @@ https://www.vekn.net/event-calendar/event/9162
 
 -- 1gw3 + 3vp in the final
 
-Ludmija's friends
+Deck Name: Ludmija's friends
 
+Description:
 My classic Tzimice wall V. 2.0
 
 Crypt (12 cards, min=22 max=30 avg=6.67)
 ----------------------------------------
 4x Ludmijla Rakoczy     7  ANI AUS VIC           bishop   Tzimisce:5
 2x Lady Zara Slatikov   8  ANI AUS OBF VIC       bishop   Tzimisce:4
-2x Laika                7  chi obf vic ANI AUS            Tzimisce:4
-2x Rurik Rakoczy        6  aus ANI VIC                    Tzimisce:5
-2x Yuri Kerezenski      5  aus for vic ANI       bishop   Tzimisce:4
+2x Laika                7  ANI AUS chi obf vic            Tzimisce:4
+2x Rurik Rakoczy        6  ANI VIC aus                    Tzimisce:5
+2x Yuri Kerezenski      5  ANI aus for vic       bishop   Tzimisce:4
 
 Library (90 cards)
-Master (13)
+Master (13; 5 trifle)
 1x Erciyes Fragments, The
 2x Guardian Angel
 1x Pentex(TM) Subversion

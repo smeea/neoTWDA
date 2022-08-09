@@ -8,19 +8,20 @@ Eric Leal
 
 -- Unknown
 
-... Like bunnies
+Deck Name: ... Like bunnies
 
+Description:
 hmmmm...... If i need to explain this you need a new game.
 
 Crypt (12 cards, min=12 max=24 avg=4.42)
 ----------------------------------------
-1x Murat                              7  ser OBF POT   prince   Nosferatu:2
-1x Tusk, The Talebearer               6  ani pot OBF            Nosferatu:1
-1x Tusk, The Talebearer (ADV)         6  ani pot OBF            Nosferatu:1
-1x Calebros, The Martyr               5  obf pot ANI   prince   Nosferatu:2
-1x Grendel the Worm-Eaten             5  ani pot OBF            Nosferatu:1
-1x Agrippina                          4  pot OBF                Nosferatu:1
-1x Daliyah                            4  obf PRO                Nosferatu:2
+1x Murat                              7  OBF POT ser   prince   Nosferatu:2
+1x Tusk, The Talebearer               6  OBF ani pot            Nosferatu:1
+1x Tusk, The Talebearer (ADV)         6  OBF ani pot            Nosferatu:1
+1x Calebros, The Martyr               5  ANI obf pot   prince   Nosferatu:2
+1x Grendel the Worm-Eaten             5  OBF ani pot            Nosferatu:1
+1x Agrippina                          4  OBF pot                Nosferatu:1
+1x Daliyah                            4  PRO obf                Nosferatu:2
 1x Laurent de Valois                  4  ani dom obf            Nosferatu:2
 1x Sammy                              4  ani obf pot            Nosferatu:1
 1x Duck                               3  obf pot                Nosferatu:1

@@ -8,27 +8,28 @@ Rudolf Scholz
 
 -- 3vp in the final
 
-New Days, Old School
+Deck Name: New Days, Old School
 
+Description:
 A tale of old told anew ...
 Note: Erciyes Fragments combined with Lambach allowed me to win the
 finals.
 
 Crypt (12 cards, min=12 max=36 avg=5.92)
 ----------------------------------------
-2x Lambach                   10  pre ANI AUS DOM VIC   cardinal   Tzimisce:2
+2x Lambach                   10  ANI AUS DOM VIC pre   cardinal   Tzimisce:2
 2x Caliban                    6  ANI AUS VIC                      Tzimisce:2
-1x Little Tailor of Prague    8  dem ANI AUS VIC                  Tzimisce:2
+1x Little Tailor of Prague    8  ANI AUS VIC dem                  Tzimisce:2
 1x Meshenka                   8  ANI AUS VIC           priscus    Tzimisce:2
-1x Corine Marcón              6  ani AUS VIC                      Tzimisce:2
-1x Devin Bisley               5  vic ANI AUS                      Tzimisce:2
-1x Elizabeth Westcott         5  ani cel vic AUS                  Tzimisce:3
-1x Lolita Houston             4  aus VIC                          Tzimisce:2
+1x Corine Marcón              6  AUS VIC ani                      Tzimisce:2
+1x Devin Bisley               5  ANI AUS vic                      Tzimisce:2
+1x Elizabeth Westcott         5  AUS ani cel vic                  Tzimisce:3
+1x Lolita Houston             4  VIC aus                          Tzimisce:2
 1x Horatio                    2  vic                              Tzimisce:2
 1x Anarch Convert             1                                   Caitiff:ANY
 
 Library (90 cards)
-Master (17)
+Master (17; 2 trifle)
 1x Channel 10
 1x Erciyes Fragments, The
 1x Library Hunting Ground

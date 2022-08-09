@@ -8,16 +8,17 @@ Riku Niittymäki
 
 -- Unknown
 
-Fix Me, Please
+Deck Name: Fix Me, Please
 
+Description:
 Anson based master deck that just bloats & kills with
 Anarch Revolts.
 
 Crypt (12 cards, min=32 max=40 avg=9.0)
 ---------------------------------------
-6x Anson                     8  aus dom CEL PRE           prince     Toreador:1
-4x Anneke                   10  dom AUS CEL PRE           justicar   Toreador:1
-2x Ulugh Beg, The Watcher   10  cel for pot AUS DOM THA   justicar   Tremere:1
+6x Anson                     8  CEL PRE aus dom           prince     Toreador:1
+4x Anneke                   10  AUS CEL PRE dom           justicar   Toreador:1
+2x Ulugh Beg, The Watcher   10  AUS DOM THA cel for pot   justicar   Tremere:1
 
 Library (90 cards)
 Master (69)

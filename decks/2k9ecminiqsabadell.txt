@@ -8,8 +8,9 @@ Iñaki Puigdollers
 
 -- Unknown
 
-"Tupdog's Diary"
+Deck Name: "Tupdog's Diary"
 
+Description:
 Builder and Player: Iñaki Puigdollers, inspired by "Sudario Diary"
 Orian Gissler' s deck
 
@@ -27,7 +28,7 @@ Giant' s Blood
 Crypt (12 cards, min=5 max=17 avg=2.75)
 ---------------------------------------
 3x Tupdog                                    1  POT VIS          Gargoyle:3
-1x Isabel Giovanni                           5  pot DOM NEC      Giovanni:2
+1x Isabel Giovanni                           5  DOM NEC pot      Giovanni:2
 1x Patrizia Giovanni, Collector of Secrets   5  nec qui tha      Giovanni:2
 1x Chas Giovanni Tello                       4  DOM POT          Giovanni:2
 1x Cristofero Giovanni                       3  nec pot          Giovanni:2
@@ -38,7 +39,7 @@ Crypt (12 cards, min=5 max=17 avg=2.75)
 1x Paul DiCarlo, The Alpha                   2  pot              Giovanni:2
 
 Library (76 cards)
-Master (26)
+Master (26; 4 trifle)
 1x Archon Investigation
 1x Direct Intervention
 1x Fear of Mekhet

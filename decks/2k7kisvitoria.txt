@@ -8,9 +8,7 @@ Felipe Fiuza
 
 -- Unknown
 
-Hunters Hunted 2
-
-Unknown
+Deck Name: Hunters Hunted 2
 
 Crypt (12 cards, min=15 max=22 avg=4.75)
 ----------------------------------------
@@ -23,7 +21,7 @@ Crypt (12 cards, min=15 max=22 avg=4.75)
 1x François "Warden" Loehr        3  def jud          Judge:4
 
 Library (90 cards)
-Master (11)
+Master (11; 1 trifle)
 4x Angel of Berlin
 1x Barrens, The
 1x Church of Vindicated Faith, The

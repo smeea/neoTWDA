@@ -8,19 +8,20 @@ Marko Lindroos
 
 -- 4vp in the final
 
-Lilith ain't blessing anymore, but Dmitra can give you a kiss
+Deck Name: Lilith ain't blessing anymore, but Dmitra can give you a kiss
 
+Description:
 Player: Marko Lindroos
 
 Crypt (12 cards, min=25 max=36 avg=7.58)
 ----------------------------------------
-4x Dmitra Ilyanova   9  obf CEL FOR POT PRE   justicar   Brujah:5
-3x Karen Suadela     7  obf pre CEL POT       prince     Brujah:5
-3x Tara              6  cel POT PRE           prince     Brujah:5
-2x Carlak            8  dom pot CEL PRE       prince     Brujah:5
+4x Dmitra Ilyanova   9  CEL FOR POT PRE obf   justicar   Brujah:5
+3x Karen Suadela     7  CEL POT obf pre       prince     Brujah:5
+3x Tara              6  POT PRE cel           prince     Brujah:5
+2x Carlak            8  CEL PRE dom pot       prince     Brujah:5
 
 Library (70 cards)
-Master (18)
+Master (18; 5 trifle)
 1x Coven, The
 2x Dreams of the Sphinx
 1x Elysium: The Palace of Versailles

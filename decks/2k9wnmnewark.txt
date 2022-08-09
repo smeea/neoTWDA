@@ -8,22 +8,21 @@ Jay Kristoff
 
 -- Unknown
 
-Unknown
-
+Description:
 Uncle Jay wants you!
 
 Crypt (12 cards, min=17 max=39 avg=6.75)
 ----------------------------------------
-1x Elimelech the Twice-Damned   11  pro AUS DEM DOM FOR OBF                Ventrue antitribu:5
+1x Elimelech the Twice-Damned   11  AUS DEM DOM FOR OBF pro                Ventrue antitribu:5
 1x Bruce de Guy                 10  AUS DOM FOR OBT           cardinal     Ventrue antitribu:4
-1x Laszlo Mirac                 10  cel obf vic AUS DOM FOR   bishop       Ventrue antitribu:4
-1x Polly Kay Fisher              8  for pot AUS DOM THA       archbishop   Ventrue antitribu:4
-1x Titus Camille                 8  for AUS DOM OBF                        Ventrue antitribu:4
-1x Jefferson Foster              6  for tha AUS DOM           bishop       Ventrue antitribu:4
-1x Kestrelle Hayes               6  dom for obt AUS                        Ventrue antitribu:5
-1x Jephta Hester                 5  aus DOM FOR                            Ventrue antitribu:4
-1x Louis de Maisonneuve          5  aus dom obf FOR                        Ventrue antitribu:4
-1x Neighbor John                 5  dom for AUS                            Ventrue antitribu:4
+1x Laszlo Mirac                 10  AUS DOM FOR cel obf vic   bishop       Ventrue antitribu:4
+1x Polly Kay Fisher              8  AUS DOM THA for pot       archbishop   Ventrue antitribu:4
+1x Titus Camille                 8  AUS DOM OBF for                        Ventrue antitribu:4
+1x Jefferson Foster              6  AUS DOM for tha           bishop       Ventrue antitribu:4
+1x Kestrelle Hayes               6  AUS dom for obt                        Ventrue antitribu:5
+1x Jephta Hester                 5  DOM FOR aus                            Ventrue antitribu:4
+1x Louis de Maisonneuve          5  FOR aus dom obf                        Ventrue antitribu:4
+1x Neighbor John                 5  AUS dom for                            Ventrue antitribu:4
 1x Little Willie                 4  for obf pro                            Ventrue antitribu:4
 1x Ulrike Rothbart               3  dom for                                Ventrue antitribu:4
 

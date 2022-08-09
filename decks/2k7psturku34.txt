@@ -8,8 +8,9 @@ Antero Leppänen
 
 -- Unknown
 
-The Usual Suspects
+Deck Name: The Usual Suspects
 
+Description:
 a generic Imbued deck
 
 The other finalists were playing: Daughters breed/vote, Setite SB/
@@ -19,7 +20,7 @@ Crypt (12 cards, min=8 max=20 avg=3.67)
 ---------------------------------------
 2x Jennie "Cassie247" Orne        5  inn jud vis      Visionary:4
 2x Travis "Traveler72" Miller     5  mar def          Martyr:4
-2x Tupdog                         1  POT VIS          Gargoyle:3 -- can recruit el vagabundo or Carlton
+2x Tupdog                         1  POT VIS          Gargoyle:3
 1x Erick "Shophet125" Franco      4  inn jud          Judge:4
 1x Jack "Hannibal137" Harmon      4  def jud          Defender:4
 1x Leaf "Potter116" Pankowski     4  inn red vis      Redeemer:4
@@ -28,7 +29,7 @@ Crypt (12 cards, min=8 max=20 avg=3.67)
 1x Inez "Nurse216" Villagrande    3  inn              Innocent:4
 
 Library (83 cards)
-Master (15)
+Master (15; 2 trifle)
 6x Angel of Berlin
 1x Church of Vindicated Faith, The
 2x Fortschritt Library

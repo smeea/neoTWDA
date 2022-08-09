@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8925
 
 -- 2gw7.5 + 2.5vp in the final
 
-Anson Gunz
+Deck Name: Anson Gunz
 
+Description:
 switched a little bit the crypt after the last tournament to include more
 weenies and seems to work better. The problem of the deck is that you strongly
 rely on bleeds for 1, so you need to be a little bit opportunistic with the
@@ -19,17 +20,17 @@ whatever is needed to avoid him from bloating. Bloat = you loose.
 
 Crypt (13 cards, min=16 max=32 avg=6.31)
 ----------------------------------------
-5x Anson                       8  aus dom CEL PRE   prince   Toreador:1
-2x Volker, The Puppet Prince   5  pot CEL           prince   Brujah:2
+5x Anson                       8  CEL PRE aus dom   prince   Toreador:1
+2x Volker, The Puppet Prince   5  CEL pot           prince   Brujah:2
 1x Constanza Vinti             8  CEL DOM POT       prince   Brujah:2
 1x Dónal O'Connor              8  CEL DOM POT       prince   Brujah:2
-1x Dodd                        5  dom pre CEL                Brujah antitribu:2
-1x Jimmy Dunn                  4  for CEL POT                Pander:2
-1x Victor Tolliver             4  pot CEL                    Brujah antitribu:2
+1x Dodd                        5  CEL dom pre                Brujah antitribu:2
+1x Jimmy Dunn                  4  CEL POT for                Pander:2
+1x Victor Tolliver             4  CEL pot                    Brujah antitribu:2
 1x Sarah Brando                3  CEL                        Brujah antitribu:2
 
 Library (75 cards)
-Master (24)
+Master (24; 2 trifle)
 1x Archon Investigation
 9x Ashur Tablets
 1x Direct Intervention

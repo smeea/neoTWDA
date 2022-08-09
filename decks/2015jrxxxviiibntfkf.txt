@@ -8,22 +8,18 @@ https://www.vekn.net/event-calendar/event/8112
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=9 max=26 avg=4.5)
 --------------------------------------
 3x Muricia          7  ANI PRE SPI          Ahrimane:4
-3x Effie Lowery     5  obf ANI SPI          Ahrimane:4
+3x Effie Lowery     5  ANI SPI obf          Ahrimane:4
 2x Anarch Convert   1                       Caitiff:ANY
-1x Sahana           5  pre pro spi ANI      Ahrimane:4
-1x Beetleman        4  obf ANI              Nosferatu:4
-1x Bobby Lemon      4  pro ANI              Gangrel:3
+1x Sahana           5  ANI pre pro spi      Ahrimane:4
+1x Beetleman        4  ANI obf              Nosferatu:4
+1x Bobby Lemon      4  ANI pro              Gangrel:3
 1x Stick            3  ANI                  Nosferatu antitribu:4
 
 Library (90 cards)
-Master (10)
+Master (10; 1 trifle)
 1x Blood Doll
 1x Direct Intervention
 1x Erciyes Fragments, The

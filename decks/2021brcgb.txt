@@ -8,9 +8,7 @@ https://www.vekn.net/event-calendar/event/9843
 
 -- 2gw8 + 4vp in the final
 
-Ghede
-
-Unknown
+Deck Name: Ghede
 
 Crypt (12 cards, min=4 max=40 avg=6.17)
 ---------------------------------------
@@ -21,7 +19,7 @@ Crypt (12 cards, min=4 max=40 avg=6.17)
 1x Walker Grimes     1  ani                      Caitiff:5
 
 Library (90 cards)
-Master (18)
+Master (18; 4 trifle)
 3x Ashur Tablets
 1x Dreams of the Sphinx
 4x Eternals of Sirius, The

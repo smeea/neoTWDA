@@ -8,17 +8,15 @@ Kacper Marciniec
 
 -- 4vp in the final
 
-Only Madness
-
-Unknown
+Deck Name: Only Madness
 
 Crypt (12 cards, min=6 max=18 avg=3.0)
 --------------------------------------
 2x Jackie                         3  DEM                  Malkavian antitribu:4
-2x Midget                         3  obf pre DEM          Malkavian antitribu:3
-1x Apache Jones                   5  aus for obf DEM      Malkavian antitribu:4
-1x Persia, The Beautiful Statue   5  aus obf DEM          Malkavian:3
-1x Uncle George                   5  aus dom obf DEM      Malkavian antitribu:3
+2x Midget                         3  DEM obf pre          Malkavian antitribu:3
+1x Apache Jones                   5  DEM aus for obf      Malkavian antitribu:4
+1x Persia, The Beautiful Statue   5  DEM aus obf          Malkavian:3
+1x Uncle George                   5  DEM aus dom obf      Malkavian antitribu:3
 1x Marta                          3  aus dem              Malkavian antitribu:4
 1x Bloodfeud                      2  obf                  Malkavian antitribu:4
 1x Cassandra Langely, The Waif    2  dem                  Malkavian:4
@@ -26,7 +24,7 @@ Crypt (12 cards, min=6 max=18 avg=3.0)
 1x Eddie Gaines                   1  dem pot              Caitiff:3
 
 Library (60 cards)
-Master (13)
+Master (13; 6 trifle)
 6x Agent of Power
 3x Dementation
 1x Dreams of the Sphinx

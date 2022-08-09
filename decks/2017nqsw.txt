@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8581
 
 -- Unknown
 
-Farley Mowat
+Deck Name: Farley Mowat
 
+Description:
 Finals seating: Saulot Hide the Heart (Faye, 4th) --> Scobax (Kelly, 1st) --> Khazar (Darby, 2nd) --> Turbo Baron (Fletcher, 5th) --> Daughers Lily Prelude (Raj, 3rd).
 
 An immediate Pentex and bad opening draw shafted the Baron, gaining both Khazar's and Lily Prelude momentum for early VPs - also importantly removing one of the 2 decks that would re-actively screw with minion actions/blood totals.
@@ -28,7 +29,7 @@ Crypt (12 cards, min=4 max=14 avg=2.17)
 ---------------------------------------
 5x Anarch Convert                    1                   Caitiff:ANY
 1x Francesca Giovanni                4  dom nec pot      Giovanni:2
-1x Gloria Giovanni                   4  nec DOM          Giovanni:2
+1x Gloria Giovanni                   4  DOM nec          Giovanni:2
 1x Cristofero Giovanni               3  nec pot          Giovanni:2
 1x Mario Giovanni                    3  nec pot          Giovanni:2
 1x Rudolfo Giovanni                  3  NEC              Giovanni:2
@@ -72,10 +73,10 @@ Action Modifier/Reaction (1)
 Reaction (9)
 2x Deflection
 2x Delaying Tactics
-5x On the Qui Vive -- with mostly inferior [dom] the OtQV get double duty for both wolf blocks and reaction access.
+5x On the Qui Vive
 
 Combat (5)
-5x Target Vitals -- as often used by blocked Giovanni as by the rushing wolves.
+5x Target Vitals
 
 Event (3)
 1x FBI Special Affairs Division

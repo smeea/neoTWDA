@@ -8,8 +8,9 @@ Peter Bakija
 
 -- Unknown
 
-Tocktor Funkenstein
+Deck Name: Tocktor Funkenstein
 
+Description:
 Tock powered Nosferatu stealth vote
 
 Mostly the exact same deck I posted in the January 2005 Nosferatu
@@ -18,13 +19,13 @@ a Legendary Vampire, and a Nosferatu Justicar vote.
 
 Crypt (12 cards, min=20 max=40 avg=7.58)
 ----------------------------------------
-2x Harrod             11  aus pre ANI CEL OBF POT   inner circle   Nosferatu:2
-2x Ellison Humboldt    9  pro ANI OBF POT PRE       primogen       Nosferatu:3
-2x Amadeo              8  ani aus pre OBF POT       primogen       Nosferatu:2
-2x Sundown             6  obf pre ANI POT                          Nosferatu:3
+2x Harrod             11  ANI CEL OBF POT aus pre   inner circle   Nosferatu:2
+2x Ellison Humboldt    9  ANI OBF POT PRE pro       primogen       Nosferatu:3
+2x Amadeo              8  OBF POT ani aus pre       primogen       Nosferatu:2
+2x Sundown             6  ANI POT obf pre                          Nosferatu:3
 2x Tock                4  obf pot pre                              Nosferatu antitribu:3
-1x Synesios            8  obf ser POT PRE TEM       2 votes        True Brujah:2
-1x Murat               7  ser OBF POT               prince         Nosferatu:2
+1x Synesios            8  POT PRE TEM obf ser       2 votes        True Brujah:2
+1x Murat               7  OBF POT ser               prince         Nosferatu:2
 
 Library (90 cards)
 Master (17)

@@ -8,17 +8,16 @@ Paul Foisy
 
 -- Unknown
 
-Unknown
-
+Description:
 Lasombra Deck o'Doom
 
 Crypt (14 cards, min=16 max=32 avg=5.86)
 ----------------------------------------
-2x Gratiano                     8  obf pot DOM OBT       priscus   Lasombra:2
-2x Lucita                       8  cel pot DOM FOR OBT             Lasombra:2
-2x Aurora Van Brande, Paladin   6  dom for pot OBT                 Lasombra:2
-2x Talley, The Hound            6  aus dom OBT POT                 Lasombra:2
-2x Guido Lucciano               5  dom obf OBT                     Lasombra:2
+2x Gratiano                     8  DOM OBT obf pot       priscus   Lasombra:2
+2x Lucita                       8  DOM FOR OBT cel pot             Lasombra:2
+2x Aurora Van Brande, Paladin   6  OBT dom for pot                 Lasombra:2
+2x Talley, The Hound            6  OBT POT aus dom                 Lasombra:2
+2x Guido Lucciano               5  OBT dom obf                     Lasombra:2
 2x Ignacio, The Black Priest    4  dom obt pot                     Lasombra:2
 2x Ramiro                       4  dom obt vic                     Lasombra:2
 

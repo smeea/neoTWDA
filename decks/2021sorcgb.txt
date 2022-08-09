@@ -8,18 +8,16 @@ https://www.vekn.net/event-calendar/event/9758
 
 -- 1gw9 + 4vp in the final
 
-Matasuntha e enkidu
-
-Unknown
+Deck Name: Matasuntha e enkidu
 
 Crypt (12 cards, min=4 max=44 avg=7.33)
 ---------------------------------------
-4x Enkidu, The Noah   11  for ANI CEL OBF POT PRO      Gangrel antitribu:4
+4x Enkidu, The Noah   11  ANI CEL OBF POT PRO for      Gangrel antitribu:4
 4x Matasuntha         10  ANI AUS CEL FOR PRO          Gangrel:5
 4x Anarch Convert      1                               Caitiff:ANY
 
 Library (88 cards)
-Master (17)
+Master (17; 2 trifle)
 9x Ashur Tablets
 1x Ecoterrorists
 1x Fame

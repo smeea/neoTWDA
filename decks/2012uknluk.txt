@@ -8,8 +8,9 @@ Hugh Angseesing
 
 -- Unknown
 
-Bronwen's Fanclub
+Deck Name: Bronwen's Fanclub
 
+Description:
 Part of the plan to get !brujah win - deliberately weakening
 the better Toreador versions by adding Bronwen and her gang
 Used Uk Nationals 24/11/2012
@@ -17,18 +18,18 @@ Used Uk Nationals 24/11/2012
 
 Crypt (13 cards, min=16 max=36 avg=6.46)
 ----------------------------------------
-4x Anson                        8  aus dom CEL PRE       prince     Toreador:1
-2x Volker, The Puppet Prince    5  pot CEL               prince     Brujah:2
-1x Anneke                      10  dom AUS CEL PRE       justicar   Toreador:1
-1x Bronwen                     10  dom obt CEL POT PRE   priscus    Brujah antitribu:2
-1x Julian Sanders               6  pot CEL PRE                      Brujah antitribu:2
-1x Dodd                         5  dom pre CEL                      Brujah antitribu:2
-1x Jimmy Dunn                   4  for CEL POT                      Pander:2
-1x Victor Tolliver              4  pot CEL                          Brujah antitribu:2
+4x Anson                        8  CEL PRE aus dom       prince     Toreador:1
+2x Volker, The Puppet Prince    5  CEL pot               prince     Brujah:2
+1x Anneke                      10  AUS CEL PRE dom       justicar   Toreador:1
+1x Bronwen                     10  CEL POT PRE dom obt   priscus    Brujah antitribu:2
+1x Julian Sanders               6  CEL PRE pot                      Brujah antitribu:2
+1x Dodd                         5  CEL dom pre                      Brujah antitribu:2
+1x Jimmy Dunn                   4  CEL POT for                      Pander:2
+1x Victor Tolliver              4  CEL pot                          Brujah antitribu:2
 1x Sarah Brando                 3  CEL                              Brujah antitribu:2
 
 Library (80 cards)
-Master (29)
+Master (29; 6 trifle)
 1x Archon Investigation
 9x Ashur Tablets
 1x Direct Intervention

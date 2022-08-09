@@ -8,8 +8,9 @@ Adam Hulse
 
 -- Unknown
 
-Terrifying Politics
+Deck Name: Terrifying Politics
 
+Description:
 New York City Qualifier Tournament Deck Winner 2013
 A Tzimisce Vote deck. A nice thing is that when going against them,
 you never know what you are facing. Bounce? Combat? Bleed? I knew
@@ -21,15 +22,15 @@ to good ole' agg + Rotschreck.
 
 Crypt (12 cards, min=19 max=39 avg=7.67)
 ----------------------------------------
-3x Terrifisto          10  cel obt ANI AUS FOR VIC   archbishop   Tzimisce:4
-3x Velya, The Flayer    9  for ANI AUS PRE VIC       cardinal     Tzimisce:3
-3x Radu Bistri          8  ani pre vic AUS DOM       cardinal     Tzimisce:4
-1x Yuri Kerezenski      5  aus for vic ANI           bishop       Tzimisce:4
+3x Terrifisto          10  ANI AUS FOR VIC cel obt   archbishop   Tzimisce:4
+3x Velya, The Flayer    9  ANI AUS PRE VIC for       cardinal     Tzimisce:3
+3x Radu Bistri          8  AUS DOM ani pre vic       cardinal     Tzimisce:4
+1x Yuri Kerezenski      5  ANI aus for vic           bishop       Tzimisce:4
 1x Droescher One-Eye    3  ani vic                                Tzimisce:4
 1x Ilias cel Frumos     3  aus vic                                Tzimisce:4
 
 Library (80 cards)
-Master (20)
+Master (20; 7 trifle)
 1x Black Forest Base
 2x Blood Doll
 1x Dreams of the Sphinx

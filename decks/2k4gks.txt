@@ -8,8 +8,9 @@ Alex Ek
 
 -- Unknown
 
-Ruptura Interior
+Deck Name: Ruptura Interior
 
+Description:
 A derange deck that has been in my mind since the new
 reword on derange. I finally got all the deranges I needed and I put
 it together and played it on our february tourney here in gothenburg.
@@ -27,11 +28,11 @@ it always takes vp and it usually takes gw's too.
 
 Crypt (12 cards, min=28 max=44 avg=8.83)
 ----------------------------------------
-4x Leandro                11  cel dom AUS OBF PRE   inner circle   Malkavian:2
-2x Lucian                 10  cel tha AUS DOM OBF   justicar       Malkavian:1
+4x Leandro                11  AUS OBF PRE cel dom   inner circle   Malkavian:2
+2x Lucian                 10  AUS DOM OBF cel tha   justicar       Malkavian:1
 2x Gilbert Duane           7  AUS DOM OBF           prince         Malkavian:1
-2x Greger Anderssen        7  dom pro AUS OBF       prince         Malkavian:2
-2x Mariel, Lady Thunder    7  aus tha DOM OBF                      Malkavian:1
+2x Greger Anderssen        7  AUS OBF dom pro       prince         Malkavian:2
+2x Mariel, Lady Thunder    7  DOM OBF aus tha                      Malkavian:1
 
 Library (90 cards)
 Master (30)

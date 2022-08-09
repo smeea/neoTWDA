@@ -8,8 +8,9 @@ Otso Saariluoma
 
 -- 3vp in the final
 
-AD&D (Advanced Derange & Dementia)
+Deck Name: AD&D (Advanced Derange & Dementia)
 
+Description:
 The same deck I played before, this time with slight
 alterations, as I found Unmada too important to miss in the opening
 crypt. Temptation of Greater Power was actually an excellent addition.
@@ -19,12 +20,12 @@ Enkil Cog.
 
 Crypt (12 cards, min=40 max=43 avg=10.25)
 -----------------------------------------
-5x Unmada                  10  cel for AUS DEM OBF VIC   justicar       Malkavian:5
+5x Unmada                  10  AUS DEM OBF VIC cel for   justicar       Malkavian:5
 4x Cybele                  10  ANI DAI OBF PRE SER THA                  Baali:4
-3x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE       inner circle   Malkavian:4
+3x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4
 
 Library (76 cards)
-Master (40)
+Master (40; 9 trifle)
 1x Archon Investigation
 6x Ashur Tablets
 1x Direct Intervention

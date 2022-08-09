@@ -8,8 +8,9 @@ Otso Turunen
 
 -- 3vp in the final
 
-Nakhthorheb likes Angry Juice
+Deck Name: Nakhthorheb likes Angry Juice
 
+Description:
 Old news, Mokole Blood is fantastic. Inspired by
 a deck played by Tuomas Vuokko and many similar decks on the
 internet. I was rarely blocked or bounced, so without Mokole
@@ -20,16 +21,16 @@ Crypt (12 cards, min=25 max=40 avg=8.5)
 ---------------------------------------
 4x Nakhthorheb                     10  OBF PRE SER                         Ministry:4
 1x Cybele                          10  ANI DAI OBF PRE SER THA             Baali:4
-1x Neferu                           9  dom nec OBF PRE SER THA   2 votes   Ministry:4
-1x Pentweret                        9  aus for obe OBF PRE SER             Ministry:5
-1x Porphyrion                       9  for CHI OBF PRE SER                 Ministry:5
-1x Shemti                           9  vic OBF POT PRE SER       1 vote    Ministry:5
-1x Sundervere, The Devil Brahmin    8  obf AUS PRE SER THA                 Ministry:4
-1x Ankh-sen-Sutekh                  6  obf PRE SER                         Ministry:4
+1x Neferu                           9  OBF PRE SER THA dom nec   2 votes   Ministry:4
+1x Pentweret                        9  OBF PRE SER aus for obe             Ministry:5
+1x Porphyrion                       9  CHI OBF PRE SER for                 Ministry:5
+1x Shemti                           9  OBF POT PRE SER vic       1 vote    Ministry:5
+1x Sundervere, The Devil Brahmin    8  AUS PRE SER THA obf                 Ministry:4
+1x Ankh-sen-Sutekh                  6  PRE SER obf                         Ministry:4
 1x Belle Equitone                   2  ser                                 Ministry:4
 
 Library (75 cards)
-Master (23)
+Master (23; 7 trifle)
 6x Eternals of Sirius, The
 1x Giant's Blood
 1x Golconda: Inner Peace

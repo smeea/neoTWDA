@@ -8,10 +8,6 @@ https://www.vekn.net/event-calendar/event/9885
 
 -- 3vp in the final
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=4 max=40 avg=6.17)
 ---------------------------------------
 6x Ghede            10  FOR OBF POT PRE SER      Ministry:6
@@ -21,7 +17,7 @@ Crypt (12 cards, min=4 max=40 avg=6.17)
 1x Walker Grimes     1  ani                      Caitiff:5
 
 Library (90 cards)
-Master (10)
+Master (10; 3 trifle)
 1x Dreams of the Sphinx
 1x Fame
 1x Giant's Blood

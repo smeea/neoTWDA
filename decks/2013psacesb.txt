@@ -8,16 +8,14 @@ https://www.vekn.net/event-calendar/event/7394
 
 -- 4vp in the final
 
-Infinity Pool
-
-Unknown
+Deck Name: Infinity Pool
 
 Crypt (15 cards, min=40 max=40 avg=10.0)
 ----------------------------------------
 15x Cybele   10  ANI DAI OBF PRE SER THA      Baali:4
 
 Library (88 cards)
-Master (32)
+Master (32; 8 trifle)
 1x Barrens, The
 1x Bleeding the Vine
 2x Dreams of the Sphinx

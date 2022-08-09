@@ -8,8 +8,9 @@ John Newquist
 
 -- Unknown
 
-Judgment Day
+Deck Name: Judgment Day
 
+Description:
 three game wins on the day, 2VP, 2VP, and 4VP.
 Pretty standard Vigilance bleed. I went power-light this time.
 

@@ -8,8 +8,7 @@ Rob Treasure
 
 -- Unknown
 
-Unknown
-
+Description:
 Weenie Trap Unflinching Filth
 By Rob Treasure
 most decks with numbers. Obviously key to get out one or two with dom or DOM
@@ -18,9 +17,9 @@ persistence but seemed to work ok. In hindsight would put more bleed in.
 
 Crypt (12 cards, min=6 max=19 avg=3.08)
 ---------------------------------------
-2x Ingrid Russo                      4  for DOM          Ventrue antitribu:2
-1x Luccia Paciola                    6  for pre DOM      Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar   5  for DOM PRE      Ventrue:2
+2x Ingrid Russo                      4  DOM for          Ventrue antitribu:2
+1x Luccia Paciola                    6  DOM for pre      Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for      Ventrue:2
 1x Courtland Leighton                4  dom for pre      Ventrue:1
 1x Lázár Dobrescu                    3  for              Ravnos:2
 1x Roland Loussarian                 3  for pre          Ventrue:1

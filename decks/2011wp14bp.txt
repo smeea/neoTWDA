@@ -8,19 +8,20 @@ Marcin Watras
 
 -- Unknown
 
-Una Freaky Wall
+Deck Name: Una Freaky Wall
 
+Description:
 It's rather simple - equip and rush/block.
 
 Crypt (12 cards, min=4 max=36 avg=5.25)
 ---------------------------------------
-6x Una                  9  dem ANI FOR PRE PRO   archbishop   Gangrel antitribu:3
+6x Una                  9  ANI FOR PRE PRO dem   archbishop   Gangrel antitribu:3
 4x Anarch Convert       1                                     Caitiff:ANY
 1x Sarah Brando         3  CEL                                Brujah antitribu:2
 1x Frederick the Weak   2  pre                                Brujah antitribu:2
 
 Library (90 cards)
-Master (6)
+Master (6; 1 trifle)
 1x Direct Intervention
 1x Monster
 1x Pentex(TM) Subversion

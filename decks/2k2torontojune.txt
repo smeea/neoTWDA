@@ -8,16 +8,15 @@ David Chow
 
 -- Unknown
 
-Unknown
-
+Description:
 The Petting Zoo
 
 Crypt (12 cards, min=17 max=26 avg=5.5)
 ---------------------------------------
 3x Caliban                   6  ANI AUS VIC          Tzimisce:2
-3x Jost Werner               6  ani AUS PRE          Toreador antitribu:2
-3x Devin Bisley              5  vic ANI AUS          Tzimisce:2
-1x Little Tailor of Prague   8  dem ANI AUS VIC      Tzimisce:2
+3x Jost Werner               6  AUS PRE ani          Toreador antitribu:2
+3x Devin Bisley              5  ANI AUS vic          Tzimisce:2
+1x Little Tailor of Prague   8  ANI AUS VIC dem      Tzimisce:2
 1x Terrence                  4  ani aus vic          Tzimisce:2
 1x Wendy Wade                3  ani aus              Tzimisce:2
 

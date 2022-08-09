@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8614
 
 -- 2gw7 + 2.5vp in the final
 
-Scout
+Deck Name: Scout
 
+Description:
 Stealth vote with tricks
 
 My take on the archetype. I ditched Undele and Ashurs relatively early on as I
@@ -26,14 +27,14 @@ great plan since 94
 
 Crypt (12 cards, min=26 max=36 avg=7.83)
 ----------------------------------------
-4x Dmitra Ilyanova    9  obf CEL FOR POT PRE   justicar   Brujah:5
-4x Scout Youngwood    8  for qui MEL OBF PRE   2 votes    Daughter of Cacophony:6
+4x Dmitra Ilyanova    9  CEL FOR POT PRE obf   justicar   Brujah:5
+4x Scout Youngwood    8  MEL OBF PRE for qui   2 votes    Daughter of Cacophony:6
 2x Arishat            6  DAI OBF PRE           1 vote     Baali:6
-1x Graham Gottesman   7  obf pre tha DOM FOR   prince     Ventrue:5
-1x Karen Suadela      7  obf pre CEL POT       prince     Brujah:5
+1x Graham Gottesman   7  DOM FOR obf pre tha   prince     Ventrue:5
+1x Karen Suadela      7  CEL POT obf pre       prince     Brujah:5
 
 Library (80 cards)
-Master (24)
+Master (24; 7 trifle)
 1x Barrens, The
 1x Creepshow Casino
 1x Direct Intervention

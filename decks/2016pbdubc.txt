@@ -8,8 +8,9 @@ Mark Jasper
 
 -- 5vp in the final
 
-Saulot and Nergal: Beauty and the Beast
+Deck Name: Saulot and Nergal: Beauty and the Beast
 
+Description:
 Final table: David Corson-Knowles (Weenie Potence Thrown Gate) > Kate Hanley (Malk 94) > Brett Schofield (Ventrue Anti Obtenebration Vote) > Mark Jasper (Nergal, Saulot and the Great Beast) > Ian Lee (Mid-cap Assamite toolbox?)
 Tipping Point: The turn after ousting Ian about 1 hour in I had 3 pool, Unleash Hell's Fury in play,
 Saulot with 1 blood and Repulsion, merged Nergal with 3 blood and Call the Great Beast on him already.
@@ -30,12 +31,12 @@ close tournament and my first win!!
 
 Crypt (12 cards, min=40 max=44 avg=10.42)
 -----------------------------------------
-5x Saulot, The Wanderer   11  dai AUS FOR OBE THA VAL      Salubri:4
+5x Saulot, The Wanderer   11  AUS FOR OBE THA VAL dai      Salubri:4
 5x Nergal                 10  AUS DAI FOR OBF PRE THA      Baali:5
 2x Nergal (ADV)           10  AUS DAI FOR OBF PRE THA      Baali:5
 
 Library (90 cards)
-Master (21)
+Master (21; 7 trifle)
 1x Dreams of the Sphinx
 1x Giant's Blood
 5x Golconda: Inner Peace

@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9820
 
 -- 3vp in the final
 
-Lock and Load
+Deck Name: Lock and Load
 
+Description:
 Based upon Martin Major's First Chance Qualifier at NAC 2010 Tourney winning deck
 The goal is to get assault rifles and let people play their game. Okay to rush down cross table voters if necessary.
 With Parity shift rule change pool gain was an issue.
@@ -18,10 +19,10 @@ Meddilng with Semsith was worth the card slot.
 
 Crypt (12 cards, min=23 max=36 avg=7.58)
 ----------------------------------------
-5x Dmitra Ilyanova   9  obf CEL FOR POT PRE   justicar   Brujah:5
-2x Carlak            8  dom pot CEL PRE       prince     Brujah:5
-2x Karen Suadela     7  obf pre CEL POT       prince     Brujah:5
-1x Tara              6  cel POT PRE           prince     Brujah:5
+5x Dmitra Ilyanova   9  CEL FOR POT PRE obf   justicar   Brujah:5
+2x Carlak            8  CEL PRE dom pot       prince     Brujah:5
+2x Karen Suadela     7  CEL POT obf pre       prince     Brujah:5
+1x Tara              6  POT PRE cel           prince     Brujah:5
 1x Tomaine           6  CEL POT PRE           primogen   Brujah:4
 1x Reginald Moore    4  PRE                   primogen   Brujah:4
 

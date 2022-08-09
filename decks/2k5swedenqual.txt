@@ -8,10 +8,6 @@ Karl Gustavsson
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=9 max=14 avg=2.92)
 ---------------------------------------
 4x Chandler Hungerford   3  PRO          Gangrel:2

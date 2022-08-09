@@ -8,20 +8,19 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/L_G72e6orok
 
 -- 3vp in the final
 
-Unknown
-
+Description:
 Junta
 
 Crypt (12 cards, min=28 max=40 avg=8.58)
 ----------------------------------------
-4x Ayo Igoli        10  obf tha AUS CEL FOR PRE              Ishtarri:4
-3x Undele            9  obf pre ser CEL FOR       magaji     Ishtarri:5
-3x Ubende            7  for obf qui CEL PRE       magaji     Ishtarri:4
-1x Klaus Konrecht    8  for pot AUS CEL PRE       cardinal   Toreador antitribu:4
-1x Mukhtar Bey       7  obf pot FOR PRE QUI       prince     Caitiff:4
+4x Ayo Igoli        10  AUS CEL FOR PRE obf tha              Ishtarri:4
+3x Undele            9  CEL FOR obf pre ser       magaji     Ishtarri:5
+3x Ubende            7  CEL PRE for obf qui       magaji     Ishtarri:4
+1x Klaus Konrecht    8  AUS CEL PRE for pot       cardinal   Toreador antitribu:4
+1x Mukhtar Bey       7  FOR PRE QUI obf pot       prince     Caitiff:4
 
 Library (90 cards)
-Master (18)
+Master (18; 1 trifle)
 1x Ancestor Spirit
 3x Dreams of the Sphinx
 1x Glutton

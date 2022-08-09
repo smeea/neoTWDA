@@ -8,8 +8,9 @@ Marcin Szybkowski
 
 -- 5vp in the final
 
-Guedado Ghouls
+Deck Name: Guedado Ghouls
 
+Description:
 This deck is designed to bring out War Ghouls at extra
 speed - cutting the deck size to 50 and using D'habi revenants does
 the trick nicely, plus the revenants make perfect "meat" for corrupt
@@ -28,7 +29,7 @@ Crypt (12 cards, min=4 max=15 avg=2.42)
 1x Droescher One-Eye   3  ani vic          Tzimisce:4
 
 Library (60 cards)
-Master (11)
+Master (11; 3 trifle)
 1x Dark Influences
 1x Failsafe
 1x Fame

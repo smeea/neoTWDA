@@ -8,18 +8,17 @@ David Tatu
 
 -- Unknown
 
-Unknown
-
+Description:
 All Things Sneaky
 
 Crypt (12 cards, min=17 max=27 avg=5.58)
 ----------------------------------------
-2x Mukhtar Bey                 7  obf pot FOR PRE QUI   prince     Caitiff:4
-2x Ankh-sen-Sutekh             6  obf PRE SER                      Ministry:4
-2x Ezekiel, Lord of Montreal   6  obf pot PRE SER                  Ministry:3
-2x Catherine du Bois           5  for obf pre DOM                  Ventrue:3
+2x Mukhtar Bey                 7  FOR PRE QUI obf pot   prince     Caitiff:4
+2x Ankh-sen-Sutekh             6  PRE SER obf                      Ministry:4
+2x Ezekiel, Lord of Montreal   6  PRE SER obf pot                  Ministry:3
+2x Catherine du Bois           5  DOM for obf pre                  Ventrue:3
 2x Robin Withers               4  dom obf pre                      Ventrue:4
-1x Amenophobis                 7  dom pre OBF SER       primogen   Ministry:4
+1x Amenophobis                 7  OBF SER dom pre       primogen   Ministry:4
 1x Tock                        4  obf pot pre                      Nosferatu antitribu:3
 
 Library (90 cards)

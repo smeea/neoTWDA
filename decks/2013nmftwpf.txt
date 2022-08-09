@@ -6,27 +6,26 @@ October 26th 2013
 Pierre Tran-Van
 https://www.vekn.net/event-calendar/event/7353
 
--- Unknown
+-- 2GW6 (1st seed) + 3VP in final
 
-The tap and bleed strategy
+Deck Name: The tap and bleed strategy
 
-2GW6 (1st seed) + 3VP in final
-
+Description:
 Accordingly to its creator, the deck was focused on tapping vampires
 with Deep Song, then untapping with Earth Meld...
 
 Crypt (12 cards, min=24 max=44 avg=8.75)
 ----------------------------------------
 4x Stanislava       11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2
-3x Ingrid Rossler    9  dom ANI FOR PRO       prince         Gangrel:2
-1x Genevieve        10  aus dom ANI FOR PRO   priscus        Gangrel antitribu:2
-1x Faruq             8  dom for pot ANI PRO                  Gangrel:2
-1x Iliana            7  tha DOM FOR PRO                      Gangrel:2
-1x Caitlin           6  aus dom ANI PRO       bishop         Gangrel antitribu:2
+3x Ingrid Rossler    9  ANI FOR PRO dom       prince         Gangrel:2
+1x Genevieve        10  ANI FOR PRO aus dom   priscus        Gangrel antitribu:2
+1x Faruq             8  ANI PRO dom for pot                  Gangrel:2
+1x Iliana            7  DOM FOR PRO tha                      Gangrel:2
+1x Caitlin           6  ANI PRO aus dom       bishop         Gangrel antitribu:2
 1x Anastasia Grey    3  ani pro                              Gangrel:1
 
 Library (90 cards)
-Master (19)
+Master (19; 8 trifle)
 2x Backways
 1x Direct Intervention
 1x Ecoterrorists

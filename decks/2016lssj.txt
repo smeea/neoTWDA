@@ -8,24 +8,25 @@ https://www.vekn.net/event-calendar/event/8268
 
 -- Unknown
 
-Get More Fire to Start the War
+Deck Name: Get More Fire to Start the War
 
+Description:
 The deck is pretty self-explanatory. Stealth + Bleed good.
 
 Crypt (12 cards, min=20 max=26 avg=5.58)
 ----------------------------------------
-2x Virginie, Prodigy       6  obt DOM POT       bishop   Lasombra:4
-2x Andrew Emory            5  aus dom pot OBT   bishop   Lasombra:4
-2x Dr. Julius Sutphen      5  dom obt POT       bishop   Lasombra:3
-1x Henri Lavenant          7  pot qui DOM OBT            Lasombra:3
+2x Virginie, Prodigy       6  DOM POT obt       bishop   Lasombra:4
+2x Andrew Emory            5  OBT aus dom pot   bishop   Lasombra:4
+2x Dr. Julius Sutphen      5  POT dom obt       bishop   Lasombra:3
+1x Henri Lavenant          7  DOM OBT pot qui            Lasombra:3
 1x Lord Vauxhall           7  DOM OBT POT THA            Lasombra:4
-1x Onaedo                  6  aus pot DOM OBT            Lasombra:4
-1x Banjoko                 5  obt pot DOM                Lasombra:3
-1x Dame Hollerton          5  myt DOM OBT                Kiasyd:4
-1x Ermenegildo, The Rake   5  pot DOM OBT                Lasombra:4
+1x Onaedo                  6  DOM OBT aus pot            Lasombra:4
+1x Banjoko                 5  DOM obt pot                Lasombra:3
+1x Dame Hollerton          5  DOM OBT myt                Kiasyd:4
+1x Ermenegildo, The Rake   5  DOM OBT pot                Lasombra:4
 
 Library (83 cards)
-Master (18)
+Master (18; 3 trifle)
 3x Blood Doll
 1x Coven, The
 2x Direct Intervention

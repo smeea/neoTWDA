@@ -8,20 +8,21 @@ Erik Torstensson
 
 -- Unknown
 
-Ratman on the balcony
+Deck Name: Ratman on the balcony
 
+Description:
 Block deck with the best vampire in the game. Key cards:
 deflection, army of rats, direct intervention & pentex subversion.
 
 Crypt (12 cards, min=19 max=40 avg=7.42)
 ----------------------------------------
-5x Cailean                                  10  dom ANI OBF POT PRE   archbishop   Nosferatu antitribu:2
-1x Kendrick                                  7  aus obf ANI POT       priscus      Nosferatu antitribu:2
-1x Teresita, The Godmother                   7  for ANI OBF POT                    Nosferatu antitribu:3
-1x Christanius Lionel, The Mad Chronicler    6  pot ANI OBF                        Nosferatu antitribu:2
+5x Cailean                                  10  ANI OBF POT PRE dom   archbishop   Nosferatu antitribu:2
+1x Kendrick                                  7  ANI POT aus obf       priscus      Nosferatu antitribu:2
+1x Teresita, The Godmother                   7  ANI OBF POT for                    Nosferatu antitribu:3
+1x Christanius Lionel, The Mad Chronicler    6  ANI OBF pot                        Nosferatu antitribu:2
 1x Ox, Viceroy of the Hollows                6  ANI OBF POT                        Nosferatu antitribu:2
 1x Cicatriz                                  5  ani obf pot           bishop       Nosferatu antitribu:2
-1x Nigel the Shunned                         5  obf ANI POT                        Nosferatu antitribu:2
+1x Nigel the Shunned                         5  ANI POT obf                        Nosferatu antitribu:2
 1x Shannon Price, the Whisperer              3  ani obf                            Nosferatu antitribu:2
 
 Library (90 cards)

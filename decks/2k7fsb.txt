@@ -8,8 +8,9 @@ Tony Wedd
 
 -- Unknown
 
-Dog Soldiers
+Deck Name: Dog Soldiers
 
+Description:
 I've had several versions of this deck over the years
 with Gangrel bloating plus Garous with Assault Rifles being the
 consistent theme. Previous iterations used multiple large cap
@@ -24,7 +25,7 @@ Crypt (12 cards, min=8 max=44 avg=6.0)
 2x Vliam Andor            2  ani                                  Gangrel:1
 
 Library (90 cards)
-Master (17)
+Master (17; 1 trifle)
 1x Archon Investigation
 3x Backways
 7x Blood Doll

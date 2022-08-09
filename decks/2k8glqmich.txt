@@ -8,26 +8,24 @@ Raymond Harnack
 
 -- 3vp in the final
 
-Not So Unexpected Anymore in Flint
-
-Unknown
+Deck Name: Not So Unexpected Anymore in Flint
 
 Crypt (12 cards, min=15 max=38 avg=6.58)
 ----------------------------------------
-2x Hektor               9  for CEL POT PRE QUI       priscus      Brujah antitribu:4
-1x Armin Brenner       10  ani obf CEL FOR POT PRE   archbishop   Brujah antitribu:4
-1x Bela Kardoza        10  ani dom CEL POT PRE VIC                Brujah antitribu:4
-1x Marcel de Breau      9  ani pro CEL POT PRE       archbishop   Brujah antitribu:3
-1x Urraca               7  pre ANI CEL POT           bishop       Brujah antitribu:4
-1x Axel Von Anders      5  cel obf pot PRE                        Brujah antitribu:4
-1x Wah Chun-Yuen        5  cel dom pre POT                        Brujah antitribu:3
+2x Hektor               9  CEL POT PRE QUI for       priscus      Brujah antitribu:4
+1x Armin Brenner       10  CEL FOR POT PRE ani obf   archbishop   Brujah antitribu:4
+1x Bela Kardoza        10  CEL POT PRE VIC ani dom                Brujah antitribu:4
+1x Marcel de Breau      9  CEL POT PRE ani pro       archbishop   Brujah antitribu:3
+1x Urraca               7  ANI CEL POT pre           bishop       Brujah antitribu:4
+1x Axel Von Anders      5  PRE cel obf pot                        Brujah antitribu:4
+1x Wah Chun-Yuen        5  POT cel dom pre                        Brujah antitribu:3
 1x Alessandro Garcia    4  pot pre pro                            Brujah antitribu:4
 1x Mariano Pomposo      4  aus cel pot                            Brujah antitribu:3
-1x Patrick              4  pre POT                                Brujah antitribu:4
+1x Patrick              4  POT pre                                Brujah antitribu:4
 1x Smash                3  pot pre                                Brujah antitribu:4
 
 Library (91 cards)
-Master (19)
+Master (19; 3 trifle)
 1x Amusement Park Hunting Ground
 1x Black Forest Base
 2x Blood Doll

@@ -8,21 +8,19 @@ Fletcher Gibson
 
 -- Unknown
 
-Pornstars, Inc.
-
-Unknown
+Deck Name: Pornstars, Inc.
 
 Crypt (12 cards, min=20 max=31 avg=6.42)
 ----------------------------------------
-3x Reg Driscoll                    8  aus for pre OBF THN      Samedi:2
-3x Jorge De La Muerte, The Agent   7  cel for nec OBF THN      Samedi:2
-2x Alonzo Guillen                  6  ani for pot OBF          Nosferatu:3
-2x Lithrac                         5  for thn OBF              Samedi:2
-1x George Frederick                6  nec obf FOR THN          Samedi:2
+3x Reg Driscoll                    8  OBF THN aus for pre      Samedi:2
+3x Jorge De La Muerte, The Agent   7  OBF THN cel for nec      Samedi:2
+2x Alonzo Guillen                  6  OBF ani for pot          Nosferatu:3
+2x Lithrac                         5  OBF for thn              Samedi:2
+1x George Frederick                6  FOR THN nec obf          Samedi:2
 1x Wolfgang                        4  for obf pot              Nosferatu:3
 
 Library (90 cards)
-Master (21)
+Master (21; 3 trifle)
 1x Barrens, The
 6x Blood Doll
 1x Coroner's Contact

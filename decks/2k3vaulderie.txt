@@ -8,20 +8,18 @@ Pierre Tran-Van
 
 -- Unknown
 
-Draught of Betrayal
-
-Unknown
+Deck Name: Draught of Betrayal
 
 Crypt (12 cards, min=12 max=30 avg=5.33)
 ----------------------------------------
-4x Tariq, The Silent                  7  cel AUS FOR OBF QUI      Banu Haqim:2
-2x Fatima al-Faqadi                   8  aus for CEL OBF QUI      Banu Haqim:2
+4x Tariq, The Silent                  7  AUS FOR OBF QUI cel      Banu Haqim:2
+2x Fatima al-Faqadi                   8  CEL OBF QUI aus for      Banu Haqim:2
 1x Anwar                              4  cel obf qui              Banu Haqim:2
-1x Tansu Bekir                        4  cel OBF                  Banu Haqim:2
+1x Tansu Bekir                        4  OBF cel                  Banu Haqim:2
 1x Juan Cali                          3  aus for                  Ventrue antitribu:2
 1x Max Lowell                         3  cel obf                  Gangrel antitribu:2
 1x Regilio, The Seeker of Akhenaten   3  aus obf                  Nosferatu:2
-1x Zöe                                3  cel obf AUS              Malkavian:2
+1x Zöe                                3  AUS cel obf              Malkavian:2
 
 Library (90 cards)
 Master (12)

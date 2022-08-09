@@ -8,22 +8,23 @@ Martin Schumacher
 
 -- Unknown
 
-No Bounce?
+Deck Name: No Bounce?
 
+Description:
 Old School Voter, No Bounce No Govern
 
 Crypt (12 cards, min=40 max=44 avg=10.33)
 -----------------------------------------
-2x Arika              11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-2x Leandro            11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-2x Jaroslav Pascek    10  for obf CEL POT PRE       justicar       Brujah:3
-2x Lucinde, Alastor   10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
+2x Arika              11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+2x Leandro            11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+2x Jaroslav Pascek    10  CEL POT PRE for obf       justicar       Brujah:3
+2x Lucinde, Alastor   10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
 2x Marcus Vitel       10  DOM FOR OBF OBT PRE       prince         Ventrue:3
-1x François Villon    10  chi obf pot AUS CEL PRE   prince         Toreador:2
-1x Queen Anne         10  aus obf DOM FOR PRE       prince         Ventrue:2
+1x François Villon    10  AUS CEL PRE chi obf pot   prince         Toreador:2
+1x Queen Anne         10  DOM FOR PRE aus obf       prince         Ventrue:2
 
 Library (75 cards)
-Master (19)
+Master (19; 7 trifle)
 1x Creepshow Casino
 1x Giant's Blood
 2x Information Highway

@@ -8,8 +8,7 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/_P3-7Mk6pQM
 
 -- Unknown
 
-Unknown
-
+Description:
 Here it is, along with his notes for improvements
 
 Notes: Should replace Greger with another copy of Mariel. His lack of
@@ -22,14 +21,14 @@ Replace with an Obfuscate skill card and another Cloak the Gathering.
 Crypt (12 cards, min=25 max=37 avg=7.67)
 ----------------------------------------
 2x Gilbert Duane           7  AUS DOM OBF           prince     Malkavian:1
-1x Democritus             10  aus cel for DOM PRE   justicar   Ventrue:1
-1x Queen Anne             10  aus obf DOM FOR PRE   prince     Ventrue:2
-1x Spiridonas              9  pot pre DOM THA       prince     Tremere:2
+1x Democritus             10  DOM PRE aus cel for   justicar   Ventrue:1
+1x Queen Anne             10  DOM FOR PRE aus obf   prince     Ventrue:2
+1x Spiridonas              9  DOM THA pot pre       prince     Tremere:2
 1x Constanza Vinti         8  CEL DOM POT           prince     Brujah:2
 1x Dónal O'Connor          8  CEL DOM POT           prince     Brujah:2
-1x Emerson Bridges         8  pot DOM FOR PRE       prince     Ventrue:1
-1x Greger Anderssen        7  dom pro AUS OBF       prince     Malkavian:2
-1x Mariel, Lady Thunder    7  aus tha DOM OBF                  Malkavian:1
+1x Emerson Bridges         8  DOM FOR PRE pot       prince     Ventrue:1
+1x Greger Anderssen        7  AUS OBF dom pro       prince     Malkavian:2
+1x Mariel, Lady Thunder    7  DOM OBF aus tha                  Malkavian:1
 1x Sir Walter Nash         7  DOM FOR PRE           prince     Ventrue:1
 1x Courtland Leighton      4  dom for pre                      Ventrue:1
 

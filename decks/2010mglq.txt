@@ -8,8 +8,9 @@ David Wilson
 
 -- Unknown
 
-Ivan's Shilmulo Tarot
+Deck Name: Ivan's Shilmulo Tarot
 
+Description:
 A very fun deck to play, it needs to be trimmed and re-worked. The
 other ravnos with dom should be added, as CHI isn't as mandatory as I
 initially thought. Get out Ivan, get the heart of nizchetus, and let
@@ -17,12 +18,12 @@ the cycling roll.
 
 Crypt (12 cards, min=23 max=40 avg=7.92)
 ----------------------------------------
-5x Ivan Krenyenko      10  obf ANI CHI FOR POT      Ravnos:2
-2x Gabrin               8  dom for ANI CHI          Ravnos:2
+5x Ivan Krenyenko      10  ANI CHI FOR POT obf      Ravnos:2
+2x Gabrin               8  ANI CHI dom for          Ravnos:2
 2x Joaquina Amaya       6  ANI CHI FOR              Ravnos:2
-1x Sarisha Veliku       6  chi dom ANI FOR          Ravnos:2
-1x Vaclav Petalengro    6  for pot ANI CHI          Ravnos:2
-1x Khalil Ravana        5  ani for pre CHI          Ravnos:2
+1x Sarisha Veliku       6  ANI FOR chi dom          Ravnos:2
+1x Vaclav Petalengro    6  ANI CHI for pot          Ravnos:2
+1x Khalil Ravana        5  CHI ani for pre          Ravnos:2
 
 Library (90 cards)
 Master (21)

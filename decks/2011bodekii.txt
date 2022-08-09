@@ -8,22 +8,23 @@ Marcin Szybkowski
 
 -- Unknown
 
-Mummies
+Deck Name: Mummies
 
+Description:
 Lay low and do your stuff most of the time, recruit a few allies
 to defend, put 5 spells in play and profit.
 
 Crypt (12 cards, min=15 max=38 avg=6.92)
 ----------------------------------------
-2x Halim Bey          6  obf tha DOM SER                     Ministry:4
+2x Halim Bey          6  DOM SER obf tha                     Ministry:4
 1x Nakhthorheb       10  OBF PRE SER                         Ministry:4
 1x Seterpenre        10  AUS NEC OBF PRE SER                 Ministry:5
-1x Neferu             9  dom nec OBF PRE SER THA   2 votes   Ministry:4
-1x Pentweret          9  aus for obe OBF PRE SER             Ministry:5
-1x Porphyrion         9  for CHI OBF PRE SER                 Ministry:5
-1x Shemti             9  vic OBF POT PRE SER       1 vote    Ministry:5
-1x Black Lotus        5  aus obf ser DOM                     Ministry:4
-1x Zhenga             5  obf pre SER                         Ministry:4
+1x Neferu             9  OBF PRE SER THA dom nec   2 votes   Ministry:4
+1x Pentweret          9  OBF PRE SER aus for obe             Ministry:5
+1x Porphyrion         9  CHI OBF PRE SER for                 Ministry:5
+1x Shemti             9  OBF POT PRE SER vic       1 vote    Ministry:5
+1x Black Lotus        5  DOM aus obf ser                     Ministry:4
+1x Zhenga             5  SER obf pre                         Ministry:4
 1x Ahmose Chambers    3  obf ser                             Ministry:5
 1x Belle Equitone     2  ser                                 Ministry:4
 

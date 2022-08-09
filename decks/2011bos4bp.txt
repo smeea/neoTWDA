@@ -8,8 +8,9 @@ Marcin Watras
 
 -- Unknown
 
-Brujah Debate 60 cards
+Deck Name: Brujah Debate 60 cards
 
+Description:
 Deck based on Johannes Walch's Brujah Debate deck
 he played during WoN in June. I added 3 cards to the original deck -
 Jake, Carlton and Aranthebes. I would add Dreams of the Sphinx
@@ -28,9 +29,9 @@ I will play that deck during a bigger tournament in the future.
 
 Crypt (12 cards, min=9 max=22 avg=3.75)
 ---------------------------------------
-2x Rake                                6  aus cel pot PRE   prince   Brujah:1
-2x Volker, The Puppet Prince           5  pot CEL           prince   Brujah:2
-1x Hector Sosa                         4  pre POT                    Brujah:1
+2x Rake                                6  PRE aus cel pot   prince   Brujah:1
+2x Volker, The Puppet Prince           5  CEL pot           prince   Brujah:2
+1x Hector Sosa                         4  POT pre                    Brujah:1
 1x Yuri, The Talon                     4  cel pot pre                Brujah:1
 1x Dre, Leader of the Cold Dawn        3  cel pot                    Brujah:1
 1x Raziya Samater                      3  ani pot                    Brujah:2

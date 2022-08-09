@@ -8,8 +8,9 @@ Archibald Zimonyi
 
 -- Unknown
 
-Brujahlicous
+Deck Name: Brujahlicous
 
+Description:
 This deck won the February monthly tournament in
 Gothenburg. The point of the deck is to dish out more damage then you
 take, even if you take a lot of damage yourself, which you do.
@@ -25,15 +26,15 @@ Bell and his Advanced copy.
 
 Crypt (12 cards, min=25 max=32 avg=7.08)
 ----------------------------------------
-2x Antonio Veradas                   8  obf CEL POT PRE       bishop   Brujah antitribu:3
-2x Jacko                             8  obt CEL POT PRE                Brujah antitribu:2
+2x Antonio Veradas                   8  CEL POT PRE obf       bishop   Brujah antitribu:3
+2x Jacko                             8  CEL POT PRE obt                Brujah antitribu:2
 2x Amelia                            7  CEL POT PRE           bishop   Brujah antitribu:2
-1x Joshua Tarnopolski                7  obf pot CEL PRE                Brujah:3
-1x Richter, The Templar of Du Mont   7  for pre CEL POT                Brujah antitribu:2
-1x Theo Bell                         7  cel dom pre POT                Brujah:2
-1x Theo Bell (ADV)                   7  aus dom CEL POT PRE            Brujah:2
-1x Julian Sanders                    6  pot CEL PRE                    Brujah antitribu:2
-1x Rigby, Crusade Vanguard           5  aus pot CEL PRE                Brujah antitribu:2
+1x Joshua Tarnopolski                7  CEL PRE obf pot                Brujah:3
+1x Richter, The Templar of Du Mont   7  CEL POT for pre                Brujah antitribu:2
+1x Theo Bell                         7  POT cel dom pre                Brujah:2
+1x Theo Bell (ADV)                   7  CEL POT PRE aus dom            Brujah:2
+1x Julian Sanders                    6  CEL PRE pot                    Brujah antitribu:2
+1x Rigby, Crusade Vanguard           5  CEL PRE aus pot                Brujah antitribu:2
 
 Library (90 cards)
 Master (20)

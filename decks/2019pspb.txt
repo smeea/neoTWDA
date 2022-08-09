@@ -8,15 +8,16 @@ https://www.vekn.net/event-calendar/event/9385
 
 -- 2gw8 + 3vp in the final
 
-Lutz and the Weenies
+Deck Name: Lutz and the Weenies
 
+Description:
 Exploit Lutz power to the max by having weenies in the back vocal!
 
 Crypt (12 cards, min=6 max=44 avg=5.33)
 ---------------------------------------
-3x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE   inner circle   Malkavian:4
+3x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot   inner circle   Malkavian:4
 1x Rafael de Corazon       11  AUS CEL DOM OBF PRE   inner circle   Toreador:4
-1x Stavros                  7  dem AUS OBF PRE       priscus        Malkavian antitribu:4
+1x Stavros                  7  AUS OBF PRE dem       priscus        Malkavian antitribu:4
 1x Lubomira Hradok          3  OBF                                  Nosferatu antitribu:5
 1x Alu                      2  obf                                  Banu Haqim:5
 1x Bloodfeud                2  obf                                  Malkavian antitribu:4
@@ -26,7 +27,7 @@ Crypt (12 cards, min=6 max=44 avg=5.33)
 1x César Holfield           1  obf                                  Caitiff:4
 
 Library (74 cards)
-Master (18)
+Master (18; 7 trifle)
 1x Creepshow Casino
 2x Dreams of the Sphinx
 1x Giant's Blood

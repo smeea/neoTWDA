@@ -8,8 +8,9 @@ Anthony Coleman
 
 -- Unknown
 
-"I like raping"
+Deck Name: "I like raping"
 
+Description:
 "We'll do some raping, looting, pillaging and raping"
 "Hey, you said raping twice"
 "I *LIKE* raping"
@@ -17,9 +18,9 @@ Anthony Coleman
 Crypt (12 cards, min=32 max=44 avg=9.5)
 ---------------------------------------
 4x Stanislava       11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2
-4x Ingrid Rossler    9  dom ANI FOR PRO       prince         Gangrel:2
-2x Genevieve        10  aus dom ANI FOR PRO   priscus        Gangrel antitribu:2
-2x Iliana            7  tha DOM FOR PRO                      Gangrel:2
+4x Ingrid Rossler    9  ANI FOR PRO dom       prince         Gangrel:2
+2x Genevieve        10  ANI FOR PRO aus dom   priscus        Gangrel antitribu:2
+2x Iliana            7  DOM FOR PRO tha                      Gangrel:2
 
 Library (90 cards)
 Master (18)

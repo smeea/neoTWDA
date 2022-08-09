@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8489
 
 -- 1gw4 + 1.5vp in the final
 
-Stand with Lutz
+Deck Name: Stand with Lutz
 
+Description:
 Finalists:
 Nikolaj 1.5vp — Stand with Lutz
 Simon Reed 0vp — Scout + Arishat
@@ -20,13 +21,13 @@ Decided on tournament points, with Nikolaj achieving his oust in the final minut
 
 Crypt (12 cards, min=36 max=42 avg=9.5)
 ---------------------------------------
-4x Aksinya Daclau           9  cel tha ANI FOR PRE PRO                  Gangrel antitribu:4
-3x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE       inner circle   Malkavian:4
-3x Undele                   9  obf pre ser CEL FOR       magaji         Ishtarri:5
-2x Dmitra Ilyanova          9  obf CEL FOR POT PRE       justicar       Brujah:5
+4x Aksinya Daclau           9  ANI FOR PRE PRO cel tha                  Gangrel antitribu:4
+3x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4
+3x Undele                   9  CEL FOR obf pre ser       magaji         Ishtarri:5
+2x Dmitra Ilyanova          9  CEL FOR POT PRE obf       justicar       Brujah:5
 
 Library (75 cards)
-Master (27)
+Master (27; 9 trifle)
 2x Dreams of the Sphinx
 1x Giant's Blood
 2x Information Highway

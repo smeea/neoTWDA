@@ -8,9 +8,7 @@ Marius Iscru
 
 -- Unknown
 
-Weenie DBR ECQ Paris
-
-Unknown
+Deck Name: Weenie DBR ECQ Paris
 
 Crypt (14 cards, min=4 max=9 avg=1.5)
 -------------------------------------

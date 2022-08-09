@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9397
 
 -- 2gw8.5 + 3vp in the final
 
-Xendil multirush with baby-snakes
+Deck Name: Xendil multirush with baby-snakes
 
+Description:
 Finals seating was:
 
 Lasse Pöyry (Hatch the Viper rush)
@@ -53,17 +54,17 @@ About the deck: I made the deck day before tournament so it wasn't tested. It wa
 
 Crypt (12 cards, min=12 max=28 avg=5.42)
 ----------------------------------------
-5x Xendil Charmer   7  obf CEL PRO SER   priscus   Gangrel antitribu:4
+5x Xendil Charmer   7  CEL PRO SER obf   priscus   Gangrel antitribu:4
 1x Luke Fellows     7  CEL OBF PRO                 Gangrel antitribu:4
-1x Spider           6  ani for CEL PRO             Gangrel antitribu:4
-1x Alex Camille     5  cel for obf PRO             Gangrel antitribu:5
+1x Spider           6  CEL PRO ani for             Gangrel antitribu:4
+1x Alex Camille     5  PRO cel for obf             Gangrel antitribu:5
 1x Charlie Tyne     4  obf pro ser                 Gangrel antitribu:4
 1x Joseph Fischer   3  PRO                         Gangrel antitribu:5
 1x Lula Burch       3  for pro                     Gangrel antitribu:4
 1x New Blood        2  san                         Blood Brother:ANY
 
 Library (90 cards)
-Master (11)
+Master (11; 6 trifle)
 1x Carver's Meat Packing and Storage
 1x Dreams of the Sphinx
 1x Failsafe

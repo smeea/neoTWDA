@@ -8,10 +8,9 @@ Louis Legault
 
 -- 4vp in the final
 
-Unknown
+Deck Name: African Delegation
 
-Deck: African Delegation
-
+Description:
 Strange Day should definitely go in here but I don't own any.
 Proxied by Indomitability in friendly games
 
@@ -19,11 +18,11 @@ Was left there by mistake but proved to be useful in the tournament
 
 Crypt (12 cards, min=24 max=38 avg=7.83)
 ----------------------------------------
-4x Jibade el-Bahrawi    9  aus CEL DEM FOR PRE                Ishtarri:4
-3x Ubende               7  for obf qui CEL PRE       magaji   Ishtarri:4
-2x Ayo Igoli           10  obf tha AUS CEL FOR PRE            Ishtarri:4
-2x Shasa Abu Badr       5  cel for PRE                        Ishtarri:4
-1x Ganhuru              7  cel pro FOR PRE                    Ishtarri:4 -- Should be switched for a 3rd Ayo. Used as a proxy for her in friendly games
+4x Jibade el-Bahrawi    9  CEL DEM FOR PRE aus                Ishtarri:4
+3x Ubende               7  CEL PRE for obf qui       magaji   Ishtarri:4
+2x Ayo Igoli           10  AUS CEL FOR PRE obf tha            Ishtarri:4
+2x Shasa Abu Badr       5  PRE cel for                        Ishtarri:4
+1x Ganhuru              7  FOR PRE cel pro                    Ishtarri:4
 
 Library (90 cards)
 Master (19)

@@ -8,18 +8,16 @@ https://www.vekn.net/event-calendar/event/8027
 
 -- 4vp in the final
 
-Paella Black Hand (Abrazo's Pagüer)
-
-Unknown
+Deck Name: Paella Black Hand (Abrazo's Pagüer)
 
 Crypt (12 cards, min=12 max=28 avg=5.17)
 ----------------------------------------
 4x Gerald FitzGerald        7  AUS DOM THA              Tremere antitribu:5
-1x Dominique Santo Paulo    6  pot pre AUS CEL          Toreador antitribu:4
-1x Redbone McCray           6  cel pro AUS PRE          Toreador antitribu:4
-1x Amber                    5  cel AUS PRE              Toreador antitribu:5
+1x Dominique Santo Paulo    6  AUS CEL pot pre          Toreador antitribu:4
+1x Redbone McCray           6  AUS PRE cel pro          Toreador antitribu:4
+1x Amber                    5  AUS PRE cel              Toreador antitribu:5
 1x Gabriel de Cambrai       5  aus cel dem obf pre      Toreador antitribu:4
-1x Loonar                   4  cel PRE                  Toreador antitribu:4
+1x Loonar                   4  PRE cel                  Toreador antitribu:4
 1x Jonathan Gursel          3  aus pre                  Toreador antitribu:4
 1x Monique Kim              3  aus cel                  Toreador antitribu:4
 1x Justine Chen, Innocent   2  pre                      Toreador antitribu:4
@@ -39,7 +37,7 @@ Master (16; 2 trifle)
 Action (32)
 1x Aranthebes, The Immortal
 12x Art Scam
-1x Black Hand Emissary -- la metí de extra y fué la oxxx
+1x Black Hand Emissary
 12x Embrace, The
 4x Mustajib
 2x Tattoo Signal
@@ -60,7 +58,7 @@ Reaction (13)
 5x Telepathic Misdirection
 
 Combat (6)
-6x Target Vitals -- abrazos pegando 4R xd
+6x Target Vitals
 
 Event (4)
 1x Blood Trade

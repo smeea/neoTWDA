@@ -8,8 +8,9 @@ James Snowball
 
 -- Unknown
 
-Tremere Bloody Control
+Deck Name: Tremere Bloody Control
 
+Description:
 This deck went into the final table at the number 1 spot and swept up all the VP's on the final table.
 
 Play the deck,
@@ -19,13 +20,13 @@ game blocker.
 
 Crypt (12 cards, min=20 max=30 avg=6.25)
 ----------------------------------------
-2x Kij Dansky                  8  obt AUS DOM THA   priscus      Tremere antitribu:2
-2x Ladislas Toth, The Torch    7  for AUS DOM THA   archbishop   Tremere antitribu:3
-2x Reverend Blackwood          6  obf DOM THA       bishop       Tremere antitribu:2
+2x Kij Dansky                  8  AUS DOM THA obt   priscus      Tremere antitribu:2
+2x Ladislas Toth, The Torch    7  AUS DOM THA for   archbishop   Tremere antitribu:3
+2x Reverend Blackwood          6  DOM THA obf       bishop       Tremere antitribu:2
 2x Selena                      6  AUS DOM THA                    Tremere antitribu:3
 1x Carna, The Princess Witch   7  AUS DOM THA       primogen     Tremere:3
-1x Elena Mendoza Vasquez       6  dom obt AUS THA                Tremere antitribu:3
-1x Yasmin the Black            6  dom pre AUS THA                Tremere antitribu:3
+1x Elena Mendoza Vasquez       6  AUS THA dom obt                Tremere antitribu:3
+1x Yasmin the Black            6  AUS THA dom pre                Tremere antitribu:3
 1x Heinrick Schlempt           2  tha                            Tremere antitribu:2
 
 Library (84 cards)

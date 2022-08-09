@@ -8,27 +8,28 @@ Jens Johansson
 
 -- 3vp in the final
 
-Govern down...
+Deck Name: Govern down...
 
+Description:
 Superior govern deck of doom!
 
 Crypt (12 cards, min=14 max=20 avg=4.17)
 ----------------------------------------
-1x Badr al-Budur                      5  cel dom qui OBF      Banu Haqim:2
-1x Count Ormonde                      5  dom pre ser OBF      Ministry:2
-1x Didi Meyers                        5  aus cel obf DOM      Malkavian:1
-1x Zebulon                            5  aus dom pro OBF      Malkavian:1
-1x Agrippina                          4  pot OBF              Nosferatu:1
-1x Gloria Giovanni                    4  nec DOM              Giovanni:2
-1x Ingrid Russo                       4  for DOM              Ventrue antitribu:2
+1x Badr al-Budur                      5  OBF cel dom qui      Banu Haqim:2
+1x Count Ormonde                      5  OBF dom pre ser      Ministry:2
+1x Didi Meyers                        5  DOM aus cel obf      Malkavian:1
+1x Zebulon                            5  OBF aus dom pro      Malkavian:1
+1x Agrippina                          4  OBF pot              Nosferatu:1
+1x Gloria Giovanni                    4  DOM nec              Giovanni:2
+1x Ingrid Russo                       4  DOM for              Ventrue antitribu:2
 1x Laurent de Valois                  4  ani dom obf          Nosferatu:2
 1x Roland Bishop                      4  aus dom obf          Malkavian:1
-1x Tansu Bekir                        4  cel OBF              Banu Haqim:2
+1x Tansu Bekir                        4  OBF cel              Banu Haqim:2
 1x Duck                               3  obf pot              Nosferatu:1
 1x Regilio, The Seeker of Akhenaten   3  aus obf              Nosferatu:2
 
 Library (70 cards)
-Master (16)
+Master (16; 5 trifle)
 1x Anarch Troublemaker
 1x Coven, The
 5x Dominate

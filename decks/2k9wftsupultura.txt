@@ -8,27 +8,28 @@ Luis Espejo
 
 -- Unknown
 
-AUSAUSAUSAUSAUSAUSAUS PEXPEXPEXPEXPEXPEXPEX
+Deck Name: AUSAUSAUSAUSAUSAUSAUS PEXPEXPEXPEXPEXPEXPEX
 
+Description:
 Target: To defend the Constant Revolution
 
 Crypt (15 cards, min=4 max=16 avg=2.47)
 ---------------------------------------
 4x Anarch Convert                   1                   Caitiff:ANY
-1x Aleph                            4  dom AUS          Malkavian:1
-1x Dorian Strack                    4  cel AUS          Toreador:1
-1x Idalia, Prophet of Guadalajara   4  dem AUS          Malkavian antitribu:2
-1x Remilliard, Devout Crusader      4  pre AUS          Toreador antitribu:2
+1x Aleph                            4  AUS dom          Malkavian:1
+1x Dorian Strack                    4  AUS cel          Toreador:1
+1x Idalia, Prophet of Guadalajara   4  AUS dem          Malkavian antitribu:2
+1x Remilliard, Devout Crusader      4  AUS pre          Toreador antitribu:2
 1x Colin Flynn                      3  aus cel          Toreador:1
 1x Dollface                         3  aus obf          Malkavian:1
 1x Isabel de Leon                   3  AUS              Toreador:2
-1x Zöe                              3  cel obf AUS      Malkavian:2
+1x Zöe                              3  AUS cel obf      Malkavian:2
 1x Brazil                           2  aus              Malkavian:1
 1x Dieter Kleist                    2  aus              Toreador:1
 1x Franciscus                       1  aus              Caitiff:2
 
 Library (90 cards)
-Master (22)
+Master (22; 2 trifle)
 3x Anarch Revolt
 1x Asylum Hunting Ground
 3x Auspex

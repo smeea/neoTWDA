@@ -8,9 +8,7 @@ Carlos Eduardo Ganso
 
 -- 5vp in the final
 
-Hunter
-
-Unknown
+Deck Name: Hunter
 
 Crypt (12 cards, min=14 max=20 avg=4.17)
 ----------------------------------------

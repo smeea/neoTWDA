@@ -8,8 +8,9 @@ http://thelasombra.com/decks/twd.htm#2k4originsfriday
 
 -- Unknown
 
-Tribute to Jay
+Deck Name: Tribute to Jay
 
+Description:
 I used to think that !Ven sucked (how can
 they oust with no stealth?!), but then I was inspired byJay Kristoff
 
@@ -25,12 +26,12 @@ tournament. Govern at DOM + freak drive + Scouting at DOM = fun.
 
 Crypt (12 cards, min=25 max=40 avg=8.08)
 ----------------------------------------
-4x Lazverinus, Thrall of Lambach   10  pro AUS DOM FOR POT   archbishop   Ventrue antitribu:2
-3x Owain Evans, The Wanderer        8  cel pre AUS DOM FOR                Ventrue antitribu:3
-1x Gustav Mallenhous                8  for obt AUS DOM       priscus      Ventrue antitribu:2
-1x Jesse Menks                      8  ani AUS DOM FOR       archbishop   Ventrue antitribu:3
+4x Lazverinus, Thrall of Lambach   10  AUS DOM FOR POT pro   archbishop   Ventrue antitribu:2
+3x Owain Evans, The Wanderer        8  AUS DOM FOR cel pre                Ventrue antitribu:3
+1x Gustav Mallenhous                8  AUS DOM for obt       priscus      Ventrue antitribu:2
+1x Jesse Menks                      8  AUS DOM FOR ani       archbishop   Ventrue antitribu:3
 1x Blackhorse Tanner                7  AUS DOM FOR                        Ventrue antitribu:3
-1x Joseph O'Grady                   7  aus cel DOM FOR                    Ventrue antitribu:3
+1x Joseph O'Grady                   7  DOM FOR aus cel                    Ventrue antitribu:3
 1x Sister Evelyn                    3  aus dom                            Ventrue antitribu:3
 
 Library (90 cards)

@@ -8,8 +8,9 @@ Ankur Gupta
 
 -- Unknown
 
-Black Hand CEL
+Deck Name: Black Hand CEL
 
+Description:
 The deck is yet another testament to my love for Black
 Hand, even without using the neat new cards of wonderfulness for Black Hand.
 This deck focuses on attrition using Zip Guns/Blur/Taste. Let's
@@ -47,15 +48,15 @@ I just couldn't find one at the time.
 
 Crypt (13 cards, min=14 max=30 avg=5.62)
 ----------------------------------------
-3x Joe "Boot" Hill                 7  for obf CEL QUI          Banu Haqim:4
-3x Skryta Zyleta                   5  obf pot pro CEL          Gangrel antitribu:3
+3x Joe "Boot" Hill                 7  CEL QUI for obf          Banu Haqim:4
+3x Skryta Zyleta                   5  CEL obf pot pro          Gangrel antitribu:3
 3x Béatrice "Oracle171" Tremblay   3  inn ven                  Innocent:4
-2x Yazid Tamari                    8  ani dom obf CEL QUI      Banu Haqim:3
-1x Dominique Santo Paulo           6  pot pre AUS CEL          Toreador antitribu:4
-1x Reza Fatir, The Dark Angel      6  obf pro CEL QUI          Banu Haqim:4
+2x Yazid Tamari                    8  CEL QUI ani dom obf      Banu Haqim:3
+1x Dominique Santo Paulo           6  AUS CEL pot pre          Toreador antitribu:4
+1x Reza Fatir, The Dark Angel      6  CEL QUI obf pro          Banu Haqim:4
 
 Library (90 cards)
-Master (24)
+Master (24; 12 trifle)
 6x Corporal Reservoir
 1x Fame
 1x Giant's Blood

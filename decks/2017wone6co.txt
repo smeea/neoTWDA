@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8605
 
 -- Unknown
 
-Goldfish and Clowns
+Deck Name: Goldfish and Clowns
 
+Description:
 Alex Romano won the Last Chance Qualifier at Origins in 2015 with this deck and
 I finally got a win with it myself. It abuses Malgorzata's special ability to
 get out big vampires at a discount. It doesn't seek combat, but has a robust
@@ -17,16 +18,16 @@ get out big vampires at a discount. It doesn't seek combat, but has a robust
 
 Crypt (12 cards, min=23 max=40 avg=8.25)
 ----------------------------------------
-5x Malgorzata                9  pre AUS DOM THA VIC       priscus        Tremere antitribu:4
+5x Malgorzata                9  AUS DOM THA VIC pre       priscus        Tremere antitribu:4
 2x Gerald Windham            9  AUS DOM FOR THA                          Tremere:5
-1x Lord Tremere             11  obe ANI AUS DOM VIC THA                  Tremere:5
+1x Lord Tremere             11  ANI AUS DOM VIC THA obe                  Tremere:5
 1x Mistress Fanchon         11  AUS CEL DOM OBF THA VIC   inner circle   Tremere:4
 1x Nickolai, The Survivor    6  aus dom pot pre tha vic                  Tremere antitribu:4
-1x Frondator                 5  dom tha AUS               bishop         Tremere antitribu:4
+1x Frondator                 5  AUS dom tha               bishop         Tremere antitribu:4
 1x Keith Moody               3  DOM                                      Tremere antitribu:4
 
 Library (73 cards)
-Master (13)
+Master (13; 4 trifle)
 6x Effective Management
 1x Monastery of Shadows
 1x Powerbase: Montreal

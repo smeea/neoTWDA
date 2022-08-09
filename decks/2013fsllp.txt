@@ -8,8 +8,9 @@ Tomasz Kliszewski
 
 -- 2.5vp in the final
 
-Piper Ghoul
+Deck Name: Piper Ghoul
 
+Description:
 A deck put up two years ago by Lukasz Saczek for my appearence in Lublin as well.
 Since that very event, I had the opportunity to play with it on several occasions.
 I decided to use it again for the lack of time required to come up with a new
@@ -22,12 +23,12 @@ Crypt (12 cards, min=4 max=14 avg=2.08)
 5x Anarch Convert    1                   Caitiff:ANY
 2x Wendy Wade        3  ani aus          Tzimisce:2
 2x Horatio           2  vic              Tzimisce:2
-1x Lolita Houston    4  aus VIC          Tzimisce:2
+1x Lolita Houston    4  VIC aus          Tzimisce:2
 1x Terrence          4  ani aus vic      Tzimisce:2
 1x Piotr Andreikov   2  aus              Tzimisce:3
 
 Library (63 cards)
-Master (29)
+Master (29; 1 trifle)
 4x Blood Doll
 1x Carver's Meat Packing and Storage
 3x Direct Intervention

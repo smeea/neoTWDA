@@ -8,8 +8,9 @@ Ivan Marin-Rivas
 
 -- Unknown
 
-Vita Kränkta Män ("White violated men")
+Deck Name: Vita Kränkta Män ("White violated men")
 
+Description:
 I made this deck for Sofia as a newbie deck
 to show how votes work. The deck is a normal Govern chain
 with Democritus at the top, vote if you can, otherwise
@@ -17,14 +18,14 @@ discard vote cards during referendums to draw more bleed.
 
 Crypt (12 cards, min=24 max=36 avg=7.42)
 ----------------------------------------
-2x Wilhelm Waldburg                    9  aus cel DOM FOR PRE   prince     Ventrue:2
-2x Emerson Bridges                     8  pot DOM FOR PRE       prince     Ventrue:1
+2x Wilhelm Waldburg                    9  DOM FOR PRE aus cel   prince     Ventrue:2
+2x Emerson Bridges                     8  DOM FOR PRE pot       prince     Ventrue:1
 2x Sir Walter Nash                     7  DOM FOR PRE           prince     Ventrue:1
-2x Timothy Crowley                     7  ani dom FOR PRE       prince     Ventrue:1
-1x Democritus                         10  aus cel for DOM PRE   justicar   Ventrue:1
-1x Heather Florent, The Opportunist    6  dom FOR PRE                      Ventrue:1
-1x Luccia Paciola                      6  for pre DOM                      Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar     5  for DOM PRE                      Ventrue:2
+2x Timothy Crowley                     7  FOR PRE ani dom       prince     Ventrue:1
+1x Democritus                         10  DOM PRE aus cel for   justicar   Ventrue:1
+1x Heather Florent, The Opportunist    6  FOR PRE dom                      Ventrue:1
+1x Luccia Paciola                      6  DOM for pre                      Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar     5  DOM PRE for                      Ventrue:2
 
 Library (83 cards)
 Master (11)

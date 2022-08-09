@@ -8,15 +8,16 @@ Marko Saari
 
 -- Unknown
 
-Don't tease a cat or dog or pull its tail or ears
+Deck Name: Don't tease a cat or dog or pull its tail or ears
 
+Description:
 block things & eat guns (Ahrimanes wall)
 
 Crypt (12 cards, min=12 max=31 avg=5.75)
 ----------------------------------------
-3x Howler               8  obf ANI PRE SPI          Ahrimane:2
-3x Siamese, The         7  ani pro PRE SPI          Ahrimane:2
-2x Cynthia Ingold       6  ani for pre SPI          Ahrimane:2
+3x Howler               8  ANI PRE SPI obf          Ahrimane:2
+3x Siamese, The         7  PRE SPI ani pro          Ahrimane:2
+2x Cynthia Ingold       6  SPI ani for pre          Ahrimane:2
 1x Nettie Hale          5  ani cel pre pro spi      Ahrimane:2
 1x Juanita Santiago     4  ani pre spi              Ahrimane:2
 1x Delilah Easton       2  pre                      Toreador:1

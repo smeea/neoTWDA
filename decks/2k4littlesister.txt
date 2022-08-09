@@ -8,8 +8,7 @@ Sten Düring
 
 -- Unknown
 
-Unknown
-
+Description:
 Little Sister
 
 This deck is actually not my own. I forgot to bring
@@ -25,13 +24,13 @@ that is much needed as it intercepts very little and bounces not at all.
 
 Crypt (12 cards, min=16 max=31 avg=6.08)
 ----------------------------------------
-2x Jacko                       8  obt CEL POT PRE            Brujah antitribu:2
-2x Theo Bell                   7  cel dom pre POT            Brujah:2
-2x Sela                        6  cel obt POT PRE   bishop   Brujah antitribu:2
-2x Jimmy Dunn                  4  for CEL POT                Pander:2
-1x Antonio Veradas             8  obf CEL POT PRE   bishop   Brujah antitribu:3
-1x Miguel Santo Domingo        7  cel for POT PRE            Brujah antitribu:3
-1x Volker, The Puppet Prince   5  pot CEL           prince   Brujah:2
+2x Jacko                       8  CEL POT PRE obt            Brujah antitribu:2
+2x Theo Bell                   7  POT cel dom pre            Brujah:2
+2x Sela                        6  POT PRE cel obt   bishop   Brujah antitribu:2
+2x Jimmy Dunn                  4  CEL POT for                Pander:2
+1x Antonio Veradas             8  CEL POT PRE obf   bishop   Brujah antitribu:3
+1x Miguel Santo Domingo        7  POT PRE cel for            Brujah antitribu:3
+1x Volker, The Puppet Prince   5  CEL pot           prince   Brujah:2
 1x Jacob Bragg                 3  cel pot                    Brujah antitribu:2
 
 Library (90 cards)

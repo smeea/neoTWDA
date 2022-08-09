@@ -8,20 +8,18 @@ https://www.vekn.net/event-calendar/event/9476
 
 -- 1gw3 + 3vp in the final
 
-Anarch AUS cel for
-
-Unknown
+Deck Name: Anarch AUS cel for
 
 Crypt (12 cards, min=7 max=30 avg=5.0)
 --------------------------------------
-3x Victor Gerard               7  cel dom for obf AUS PRE      Toreador:2
+3x Victor Gerard               7  AUS PRE cel dom for obf      Toreador:2
 3x Anarch Convert              1                               Caitiff:ANY
-2x Owain Evans, The Wanderer   8  cel pre AUS DOM FOR          Ventrue antitribu:3
-2x Sheila Mezarin              6  cel for AUS PRE              Toreador antitribu:2
-2x Maldavis (ADV)              4  for pre AUS                  Caitiff:3
+2x Owain Evans, The Wanderer   8  AUS DOM FOR cel pre          Ventrue antitribu:3
+2x Sheila Mezarin              6  AUS PRE cel for              Toreador antitribu:2
+2x Maldavis (ADV)              4  AUS for pre                  Caitiff:3
 
 Library (90 cards)
-Master (21)
+Master (21; 5 trifle)
 1x Anarch Free Press, The
 2x Anarch Revolt
 1x Blood Turnip

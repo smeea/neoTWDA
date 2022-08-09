@@ -8,23 +8,24 @@ Joerg Alten
 
 -- Unknown
 
-Undead Army
+Deck Name: Undead Army
 
+Description:
 Shambling Hordes with obfuscate and some dirty tricks
 
 Crypt (12 cards, min=11 max=28 avg=5.25)
 ----------------------------------------
-2x Carlotta Giovanni   7  dom obf NEC POT      Giovanni:2
-2x Egothha             7  obf AUS FOR NEC      Harbinger of Skulls:2
-2x Mina Grotius        6  cel FOR NEC          Harbinger of Skulls:3
-2x Rafaele Giovanni    6  cel obf NEC          Giovanni:2
-1x Roger Farnsworth    4  aus OBF              Malkavian antitribu:3
-1x Tansu Bekir         4  cel OBF              Banu Haqim:2
+2x Carlotta Giovanni   7  NEC POT dom obf      Giovanni:2
+2x Egothha             7  AUS FOR NEC obf      Harbinger of Skulls:2
+2x Mina Grotius        6  FOR NEC cel          Harbinger of Skulls:3
+2x Rafaele Giovanni    6  NEC cel obf          Giovanni:2
+1x Roger Farnsworth    4  OBF aus              Malkavian antitribu:3
+1x Tansu Bekir         4  OBF cel              Banu Haqim:2
 1x Krid                2  obf                  Nosferatu:3
 1x Anarch Convert      1                       Caitiff:ANY
 
 Library (65 cards)
-Master (19)
+Master (19; 2 trifle)
 1x Channel 10
 1x Charisma
 1x Direct Intervention

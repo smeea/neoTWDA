@@ -8,23 +8,24 @@ https://www.vekn.net/event-calendar/event/7606
 
 -- 0vp in the final
 
-Toreador Gun Wall
+Deck Name: Toreador Gun Wall
 
+Description:
 Toreador prince gun wall.
 
 Crypt (12 cards, min=18 max=42 avg=7.5)
 ---------------------------------------
-3x Ira Rivers                   7  ani pre AUS CEL           prince         Toreador:3
-2x Alexandra                   11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-2x Marcellus                    8  pro AUS CEL               prince         Toreador:2
-1x François Villon             10  chi obf pot AUS CEL PRE   prince         Toreador:2
-1x Madame Guil                 10  for pot ser AUS CEL PRE   justicar       Toreador:3
-1x Volker, The Puppet Prince    5  pot CEL                   prince         Brujah:2
+3x Ira Rivers                   7  AUS CEL ani pre           prince         Toreador:3
+2x Alexandra                   11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+2x Marcellus                    8  AUS CEL pro               prince         Toreador:2
+1x François Villon             10  AUS CEL PRE chi obf pot   prince         Toreador:2
+1x Madame Guil                 10  AUS CEL PRE for pot ser   justicar       Toreador:3
+1x Volker, The Puppet Prince    5  CEL pot                   prince         Brujah:2
 1x Isabel de Leon               3  AUS                                      Toreador:2
-1x Zöe                          3  cel obf AUS                              Malkavian:2
+1x Zöe                          3  AUS cel obf                              Malkavian:2
 
 Library (86 cards)
-Master (19)
+Master (19; 8 trifle)
 2x Art Museum
 2x Dreams of the Sphinx
 1x Giant's Blood

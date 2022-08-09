@@ -8,8 +8,9 @@ Robert Scythe
 
 -- 3.5vp in the final
 
-Animal Trackers
+Deck Name: Animal Trackers
 
+Description:
 This was a rather old deck that had been updated
 with newer cards for kicks. I hardly played it, however, because
 of the popularity of animalism. When the tournament was about to
@@ -29,15 +30,15 @@ another Wider View or 2.
 
 Crypt (12 cards, min=22 max=32 avg=7.0)
 ---------------------------------------
-3x Anton                     8  cel obf vic ANI AUS      Tzimisce:2
-3x Little Tailor of Prague   8  dem ANI AUS VIC          Tzimisce:2
+3x Anton                     8  ANI AUS cel obf vic      Tzimisce:2
+3x Little Tailor of Prague   8  ANI AUS VIC dem          Tzimisce:2
 2x Caliban                   6  ANI AUS VIC              Tzimisce:2
-2x Devin Bisley              5  vic ANI AUS              Tzimisce:2
-1x Dragos                    7  vic ANI AUS              Tzimisce:2
-1x Omaya                     7  pro ANI AUS FOR          Gangrel antitribu:2
+2x Devin Bisley              5  ANI AUS vic              Tzimisce:2
+1x Dragos                    7  ANI AUS vic              Tzimisce:2
+1x Omaya                     7  ANI AUS FOR pro          Gangrel antitribu:2
 
 Library (89 cards)
-Master (12)
+Master (12; 2 trifle)
 1x Ashur Tablets
 4x Blood Doll
 2x Direct Intervention

@@ -8,20 +8,18 @@ https://www.vekn.net/event-calendar/event/7997
 
 -- 5vp in the final
 
-Mono Presence (Grupo 1 & 2)
-
-Unknown
+Deck Name: Mono Presence (Grupo 1 & 2)
 
 Crypt (15 cards, min=5 max=20 avg=3.4)
 --------------------------------------
-1x Angela Preston                      5  for MEL PRE          Daughter of Cacophony:2
-1x Brachah                             5  for CEL PRE          Brujah:2
-1x Jazz Wentworth                      5  dom for PRE          Ventrue:1
-1x Ramiel DuPre                        5  aus cel dom PRE      Toreador:1
-1x Ranjan Rishi, Camarilla Scholar     5  for DOM PRE          Ventrue:2
-1x Rigby, Crusade Vanguard             5  aus pot CEL PRE      Brujah antitribu:2
-1x Sir Marriot D'Urban                 5  aus obf ser PRE      Ministry:2
-1x Violette Prentiss                   4  dom PRE              Ventrue:1
+1x Angela Preston                      5  MEL PRE for          Daughter of Cacophony:2
+1x Brachah                             5  CEL PRE for          Brujah:2
+1x Jazz Wentworth                      5  PRE dom for          Ventrue:1
+1x Ramiel DuPre                        5  PRE aus cel dom      Toreador:1
+1x Ranjan Rishi, Camarilla Scholar     5  DOM PRE for          Ventrue:2
+1x Rigby, Crusade Vanguard             5  CEL PRE aus pot      Brujah antitribu:2
+1x Sir Marriot D'Urban                 5  PRE aus obf ser      Ministry:2
+1x Violette Prentiss                   4  PRE dom              Ventrue:1
 1x Gideon Fontaine                     3  PRE                  Ventrue:1
 1x Delilah Easton                      2  pre                  Toreador:1
 1x Frederick the Weak                  2  pre                  Brujah antitribu:2
@@ -31,7 +29,7 @@ Crypt (15 cards, min=5 max=20 avg=3.4)
 1x Igo the Hungry                      1  pre pro              Caitiff:1
 
 Library (90 cards)
-Master (24)
+Master (24; 11 trifle)
 1x Anarch Troublemaker
 1x Archon Investigation
 6x Effective Management

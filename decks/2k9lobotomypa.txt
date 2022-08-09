@@ -8,8 +8,9 @@ Jessie Ellison
 
 -- 3vp in the final
 
-The Baobhan-sith, Kyasid bleed deck
+Deck Name: The Baobhan-sith, Kyasid bleed deck
 
+Description:
 The idea behind this deck is of course primarily stealth
 bleed, with a secondary function of trying to choose one's battles.
 Chanjelin Ward and Redcap Wilder pose undesirable consequences to other
@@ -29,14 +30,14 @@ of Faerie mischief late in the game.
 
 Crypt (12 cards, min=17 max=34 avg=6.25)
 ----------------------------------------
-2x Marconius                   9  pot DOM MYT OBT       archbishop   Kiasyd:2
-2x Bartholomew                 8  dom obt AUS MYT NEC                Kiasyd:2
+2x Marconius                   9  DOM MYT OBT pot       archbishop   Kiasyd:2
+2x Bartholomew                 8  AUS MYT NEC dom obt                Kiasyd:2
 2x Quincy, The Trapper         4  dom myt obt                        Kiasyd:3
-1x Julia Prima                 7  aus myt DOM OBT                    Kiasyd:2
-1x Kassiym Malikhair           6  dom for MYT OBT                    Kiasyd:2
-1x Talley, The Hound           6  aus dom OBT POT                    Lasombra:2
-1x Béatrice L'Angou            5  aus dom nec MYT                    Kiasyd:2
-1x Guido Lucciano              5  dom obf OBT                        Lasombra:2
+1x Julia Prima                 7  DOM OBT aus myt                    Kiasyd:2
+1x Kassiym Malikhair           6  MYT OBT dom for                    Kiasyd:2
+1x Talley, The Hound           6  OBT POT aus dom                    Lasombra:2
+1x Béatrice L'Angou            5  MYT aus dom nec                    Kiasyd:2
+1x Guido Lucciano              5  OBT dom obf                        Lasombra:2
 1x Ignacio, The Black Priest   4  dom obt pot                        Lasombra:2
 
 Library (81 cards)

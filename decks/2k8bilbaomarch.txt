@@ -8,26 +8,24 @@ Juanma Sorrotxe
 
 -- 2gw8 + 3vp in the final
 
-Big Malkavian Deck
-
-Unknown
+Deck Name: Big Malkavian Deck
 
 Crypt (13 cards, min=21 max=37 avg=7.54)
 ----------------------------------------
-2x Persephone Tar-Anis                8  cel pot AUS DEM OBF                  Malkavian antitribu:4
-2x Rodolfo                            8  pro AUS DEM OBF           bishop     Malkavian antitribu:3
+2x Persephone Tar-Anis                8  AUS DEM OBF cel pot                  Malkavian antitribu:4
+2x Rodolfo                            8  AUS DEM OBF pro           bishop     Malkavian antitribu:3
 1x Gravitnir                         10  AUS CEL DEM OBF VIC       priscus    Malkavian antitribu:4
-1x Louhi                             10  pro ANI AUS DEM OBF THA   cardinal   Malkavian antitribu:4
-1x Harold Zettler, Pentex Director    9  vic AUS DEM OBF POT                  Malkavian antitribu:4
-1x Jason, The World's Voice           8  for AUS DEM OBF           primogen   Malkavian:3
-1x Lazarus James                      8  obf tha AUS DEM PRE                  Malkavian:4
-1x White Lily                         8  cel dom for DEM OBF                  Malkavian antitribu:4
-1x Apache Jones                       5  aus for obf DEM                      Malkavian antitribu:4
-1x Uncle George                       5  aus dom obf DEM                      Malkavian antitribu:3
-1x Midget                             3  obf pre DEM                          Malkavian antitribu:3
+1x Louhi                             10  ANI AUS DEM OBF THA pro   cardinal   Malkavian antitribu:4
+1x Harold Zettler, Pentex Director    9  AUS DEM OBF POT vic                  Malkavian antitribu:4
+1x Jason, The World's Voice           8  AUS DEM OBF for           primogen   Malkavian:3
+1x Lazarus James                      8  AUS DEM PRE obf tha                  Malkavian:4
+1x White Lily                         8  DEM OBF cel dom for                  Malkavian antitribu:4
+1x Apache Jones                       5  DEM aus for obf                      Malkavian antitribu:4
+1x Uncle George                       5  DEM aus dom obf                      Malkavian antitribu:3
+1x Midget                             3  DEM obf pre                          Malkavian antitribu:3
 
 Library (90 cards)
-Master (9)
+Master (9; 8 trifle)
 1x Secure Haven
 8x Vessel
 

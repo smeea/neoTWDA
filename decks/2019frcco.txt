@@ -8,20 +8,21 @@ https://www.vekn.net/event-calendar/event/9204
 
 -- 2gw6 + 3vp in the final
 
-If You Have Ghosts
+Deck Name: If You Have Ghosts
 
+Description:
 Emerald Legionnaire/HoS wall
 
 Crypt (12 cards, min=21 max=37 avg=7.08)
 ----------------------------------------
-4x Erebus             7  dem AUS FOR NEC          Harbinger of Skulls:3
+4x Erebus             7  AUS FOR NEC dem          Harbinger of Skulls:3
 3x Erlik             10  AUS CEL FOR NEC THN      Harbinger of Skulls:3
-2x Zygodat            6  pot AUS NEC              Harbinger of Skulls:4
-2x Solomon Batanea    5  nec AUS FOR              Harbinger of Skulls:4
+2x Zygodat            6  AUS NEC pot              Harbinger of Skulls:4
+2x Solomon Batanea    5  AUS FOR nec              Harbinger of Skulls:4
 1x Nicomedes          5  aus for nec vic          Harbinger of Skulls:4
 
 Library (69 cards)
-Master (10)
+Master (10; 1 trifle)
 1x Direct Intervention
 1x Guardian Angel
 1x Pentex(TM) Subversion

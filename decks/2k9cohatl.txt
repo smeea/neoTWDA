@@ -8,22 +8,23 @@ http://thelasombra.com/newsletter/gangrel_october_2006.htm
 
 -- 3.5vp in the final
 
-Wheelchair Vampire
+Deck Name: Wheelchair Vampire
 
+Description:
 Based on a deck by Andrew 'Wes' Weston
 
 Crypt (12 cards, min=14 max=29 avg=5.17)
 ----------------------------------------
-3x Nadima                8  ani aus FOR PRO SER      Gangrel:3
-3x Mirembe Kabbada       5  ani PRO SER              Gangrel:2
+3x Nadima                8  FOR PRO SER ani aus      Gangrel:3
+3x Mirembe Kabbada       5  PRO SER ani              Gangrel:2
 2x Chandler Hungerford   3  PRO                      Gangrel:2
-1x Dr. Allan Woodstock   5  ani aus for PRO          Gangrel:3
-1x Daliyah               4  obf PRO                  Nosferatu:2
+1x Dr. Allan Woodstock   5  PRO ani aus for          Gangrel:3
+1x Daliyah               4  PRO obf                  Nosferatu:2
 1x Ramona                4  for pro                  Gangrel:2
 1x Ramona (ADV)          4  for pro                  Gangrel:2
 
 Library (90 cards)
-Master (16)
+Master (16; 1 trifle)
 1x Backways
 1x Barrens, The
 1x Bleeding the Vine

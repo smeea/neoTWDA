@@ -8,8 +8,9 @@ Péter Botos
 
 -- Unknown
 
-Cybele's Curse v2
+Deck Name: Cybele's Curse v2
 
+Description:
 Inspired by "Snakes on the Plane" by Ivan Marin-Rivas.
 This deck, however, relies more on Maleficia for defensive
 purpuses as well. Rather slow to build up but can be very
@@ -25,11 +26,11 @@ Crypt (12 cards, min=26 max=40 avg=8.67)
 ----------------------------------------
 6x Cybele                    10  ANI DAI OBF PRE SER THA             Baali:4
 2x Annazir                    9  DAI OBF POT PRE           2 votes   Baali:5
-2x Azaneal                    7  pre tha DAI OBF OBT                 Baali:4
-2x Maureen, Dark Priestess    6  dom obf DAI PRE           1 vote    Baali:4
+2x Azaneal                    7  DAI OBF OBT pre tha                 Baali:4
+2x Maureen, Dark Priestess    6  DAI PRE dom obf           1 vote    Baali:4
 
 Library (90 cards)
-Master (42)
+Master (42; 13 trifle)
 9x Ashur Tablets
 1x Coven, The
 3x Dreams of the Sphinx

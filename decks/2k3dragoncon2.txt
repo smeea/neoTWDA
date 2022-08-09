@@ -8,19 +8,17 @@ Robyn Tatu
 
 -- Unknown
 
-Grand Toreador
-
-Unknown
+Deck Name: Grand Toreador
 
 Crypt (12 cards, min=29 max=43 avg=9.17)
 ----------------------------------------
-3x Alexandra            11  dom ANI AUS CEL PRE       inner circle   Toreador:2
-2x Madame Guil          10  for pot ser AUS CEL PRE   justicar       Toreador:3
-2x Annabelle Triabell    9  dom for AUS CEL PRE       primogen       Toreador:3
-2x Suzanne Kadim         7  aus dom obf CEL PRE                      Toreador:3
-1x François Villon      10  chi obf pot AUS CEL PRE   prince         Toreador:2
-1x Fleurdumal            8  cel tha AUS DEM PRE       prince         Toreador:3
-1x Lucina                7  cel pro AUS PRE           primogen       Toreador:3
+3x Alexandra            11  ANI AUS CEL PRE dom       inner circle   Toreador:2
+2x Madame Guil          10  AUS CEL PRE for pot ser   justicar       Toreador:3
+2x Annabelle Triabell    9  AUS CEL PRE dom for       primogen       Toreador:3
+2x Suzanne Kadim         7  CEL PRE aus dom obf                      Toreador:3
+1x François Villon      10  AUS CEL PRE chi obf pot   prince         Toreador:2
+1x Fleurdumal            8  AUS DEM PRE cel tha       prince         Toreador:3
+1x Lucina                7  AUS PRE cel pro           primogen       Toreador:3
 
 Library (90 cards)
 Master (14)

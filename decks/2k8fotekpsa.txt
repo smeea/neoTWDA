@@ -8,8 +8,9 @@ Victor Kemp
 
 -- Unknown
 
-Victor's Deck of Dominate
+Deck Name: Victor's Deck of Dominate
 
+Description:
 This was our national constructed tournament event held at Upcon 2008.
 There was a good attendence at this tournament and the metagame was
 dominated by bruise-bleed decks. The final table was swept up by Victor,
@@ -29,10 +30,10 @@ helped this deck work, as well as Stanislava's repeat performances.
 Crypt (12 cards, min=6 max=40 avg=5.67)
 ---------------------------------------
 2x Stanislava             11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2
-2x Ingrid Rossler          9  dom ANI FOR PRO       prince         Gangrel:2
-1x Faruq                   8  dom for pot ANI PRO                  Gangrel:2
-1x Caitlin                 6  aus dom ANI PRO       bishop         Gangrel antitribu:2
-1x Lisette Vizquel         6  pro DOM POT           bishop         Lasombra:2
+2x Ingrid Rossler          9  ANI FOR PRO dom       prince         Gangrel:2
+1x Faruq                   8  ANI PRO dom for pot                  Gangrel:2
+1x Caitlin                 6  ANI PRO aus dom       bishop         Gangrel antitribu:2
+1x Lisette Vizquel         6  DOM POT pro           bishop         Lasombra:2
 1x Mustafa Rahman          2  dom                                  Tremere:2
 1x Ohanna                  2  dom                                  Malkavian:2
 1x Samson                  2  dom                                  Ventrue antitribu:2
@@ -40,7 +41,7 @@ Crypt (12 cards, min=6 max=40 avg=5.67)
 1x Royce                   1  dom                                  Pander:2
 
 Library (88 cards)
-Master (19)
+Master (19; 3 trifle)
 1x Animalism
 1x Archon Investigation
 3x Blood Doll

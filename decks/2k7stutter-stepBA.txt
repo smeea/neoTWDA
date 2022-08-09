@@ -8,21 +8,22 @@ Bernie MacNaught
 
 -- 3vp in the final
 
-Feed the Marena - classic Tzimisce Wall
+Deck Name: Feed the Marena - classic Tzimisce Wall
 
+Description:
 It's a wall. Block and kill!
 
 Crypt (12 cards, min=15 max=38 avg=6.67)
 ----------------------------------------
-2x Duality                               6  ani AUS VIC                          Tzimisce:4
-1x Sha-Ennu                             11  obf tha ANI AUS CHI VIC   regent     Tzimisce:4
-1x Count Vladimir Rustovitch             9  dom pot pro ANI AUS VIC              Tzimisce:4
-1x Szechenyi Jolán, Mother of Horrors    9  cel for pro ANI AUS VIC   bishop     Tzimisce:3
-1x Velya, The Flayer                     9  for ANI AUS PRE VIC       cardinal   Tzimisce:3
+2x Duality                               6  AUS VIC ani                          Tzimisce:4
+1x Sha-Ennu                             11  ANI AUS CHI VIC obf tha   regent     Tzimisce:4
+1x Count Vladimir Rustovitch             9  ANI AUS VIC dom pot pro              Tzimisce:4
+1x Szechenyi Jolán, Mother of Horrors    9  ANI AUS VIC cel for pro   bishop     Tzimisce:3
+1x Velya, The Flayer                     9  ANI AUS PRE VIC for       cardinal   Tzimisce:3
 1x Lady Zara Slatikov                    8  ANI AUS OBF VIC           bishop     Tzimisce:4
-1x Kazimir Savostin                      7  ani pot AUS VIC                      Tzimisce:3
-1x Yuri Kerezenski                       5  aus for vic ANI           bishop     Tzimisce:4
-1x Jane Sims                             4  ani aus pro VIC                      Tzimisce:4
+1x Kazimir Savostin                      7  AUS VIC ani pot                      Tzimisce:3
+1x Yuri Kerezenski                       5  ANI aus for vic           bishop     Tzimisce:4
+1x Jane Sims                             4  VIC ani aus pro                      Tzimisce:4
 1x Droescher One-Eye                     3  ani vic                              Tzimisce:4
 1x Ilias cel Frumos                      3  aus vic                              Tzimisce:4
 

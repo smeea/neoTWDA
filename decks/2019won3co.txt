@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9136
 
 -- 1gw5 + 2vp in the final
 
-Propaganda Moves
+Deck Name: Propaganda Moves
 
+Description:
 Night Moves + Propaganda.
 
 I played this online several times and liked the basic concept. Big thanks to Ke
@@ -60,13 +61,13 @@ Crypt (13 cards, min=4 max=10 avg=1.69)
 
 Library (60 cards)
 Master (14; 2 trifle)
-1x Anarch Railroad -- never used
-1x Archon Investigation -- not used all day
-6x Ashur Tablets -- recycled once, not critical
-1x Fear of Mekhet -- didn't see IC or Justicar
-2x Information Highway -- another may be warranted
+1x Anarch Railroad
+1x Archon Investigation
+6x Ashur Tablets
+1x Fear of Mekhet
+2x Information Highway
 1x Pentex(TM) Subversion
-2x Wash -- extremely handy, more?
+2x Wash
 
 Action (10)
 10x Night Moves
@@ -82,7 +83,7 @@ Action Modifier (19)
 3x Cryptic Rider
 1x Faceless Night
 3x Forgotten Labyrinth
-3x Memory Rift -- can be cycled on any action
+3x Memory Rift
 7x Propaganda of the Deed
 1x Spying Mission
 

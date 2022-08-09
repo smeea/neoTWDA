@@ -8,19 +8,15 @@ https://www.vekn.net/event-calendar/event/6784
 
 -- 3gw11 + 1.5vp in the final
 
-Unknown
-
-Unknown
-
 Crypt (26 cards, min=4 max=18 avg=1.69)
 ---------------------------------------
 20x Tupdog              1  POT VIS              Gargoyle:3
-3x  Antonio d'Erlette   5  dom for pot THA      Tremere antitribu:4
+3x  Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4
 2x  Keith Moody         3  DOM                  Tremere antitribu:4
 1x  Ember Wright        3  aus dom              Tremere antitribu:3
 
 Library (80 cards)
-Master (13)
+Master (13; 1 trifle)
 1x Direct Intervention
 2x Dreams of the Sphinx
 1x Fame

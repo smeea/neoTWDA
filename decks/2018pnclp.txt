@@ -8,8 +8,7 @@ https://www.vekn.net/event-calendar/event/9028
 
 -- 1gw4 + 4vp in the final
 
-Unknown
-
+Description:
 After "EC 2010 Day 1 Tournament" in Paris, finally the deck rolls
 out successfully, with a few changes towards local meta.
 
@@ -17,18 +16,18 @@ out successfully, with a few changes towards local meta.
 
 Crypt (12 cards, min=17 max=32 avg=6.33)
 ----------------------------------------
-2x Amaravati           8  ani chi DOM OBF QUI          Banu Haqim:4
-2x Titus Camille       8  for AUS DOM OBF              Ventrue antitribu:4
-2x Preston Varrick     7  aus nec DOM OBF THA          Tremere:4
-1x Phillipe Rigaud     7  ani aus obt DOM OBF PRO      Gangrel antitribu:4
-1x Halim Bey           6  obf tha DOM SER              Ministry:4
-1x Black Lotus         5  aus obf ser DOM              Ministry:4
-1x Catherine du Bois   5  for obf pre DOM              Ventrue:3
+2x Amaravati           8  DOM OBF QUI ani chi          Banu Haqim:4
+2x Titus Camille       8  AUS DOM OBF for              Ventrue antitribu:4
+2x Preston Varrick     7  DOM OBF THA aus nec          Tremere:4
+1x Phillipe Rigaud     7  DOM OBF PRO ani aus obt      Gangrel antitribu:4
+1x Halim Bey           6  DOM SER obf tha              Ministry:4
+1x Black Lotus         5  DOM aus obf ser              Ministry:4
+1x Catherine du Bois   5  DOM for obf pre              Ventrue:3
 1x Robin Withers       4  dom obf pre                  Ventrue:4
 1x Keith Moody         3  DOM                          Tremere antitribu:4
 
 Library (90 cards)
-Master (12)
+Master (12; 4 trifle)
 1x Archon Investigation
 2x Blood Doll
 1x Coven, The

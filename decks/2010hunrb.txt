@@ -8,8 +8,9 @@ Martin Major
 
 -- Unknown
 
-mINIMAL sTYLE
+Deck Name: mINIMAL sTYLE
 
+Description:
 Fast and aggressive rush combat. Make 1st vp asap and decide who to
 stay 1 on 1 with. Follow the basic combat doctrine to backrush first
 and then play without a predator.
@@ -30,8 +31,8 @@ completed Ashur Cycle in the midgame. Awesome bonus to your ousting power/
 Crypt (12 cards, min=8 max=32 avg=4.5)
 --------------------------------------
 4x Nana Buruku            8  ANI POT PRE      Guruhi:4
-1x Beetleman              4  obf ANI          Nosferatu:4
-1x Bobby Lemon            4  pro ANI          Gangrel:3
+1x Beetleman              4  ANI obf          Nosferatu:4
+1x Bobby Lemon            4  ANI pro          Gangrel:3
 1x Bothwell               3  ani for          Gangrel:3
 1x Clarissa Steinburgen   3  ani obf          Nosferatu:3
 1x Stick                  3  ANI              Nosferatu antitribu:4
@@ -52,7 +53,7 @@ Master (21; 1 trifle)
 1x Wider View
 
 Action (13)
-13x Deep Song -- just the right number
+13x Deep Song
 
 Reaction (8)
 2x Cats' Guidance

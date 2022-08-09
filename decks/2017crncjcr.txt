@@ -8,22 +8,20 @@ https://www.vekn.net/event-calendar/event/8750
 
 -- 5vp in the final
 
-Mistress Malgorzata
-
-Unknown
+Deck Name: Mistress Malgorzata
 
 Crypt (15 cards, min=30 max=44 avg=9.27)
 ----------------------------------------
-5x Malgorzata               9  pre AUS DOM THA VIC       priscus        Tremere antitribu:4
+5x Malgorzata               9  AUS DOM THA VIC pre       priscus        Tremere antitribu:4
 3x Mistress Fanchon        11  AUS CEL DOM OBF THA VIC   inner circle   Tremere:4
-2x Gabrielle di Righetti   10  obf pot ANI AUS DOM THA   justicar       Tremere:5
-2x Orlando Oriundus         9  obf AUS DOM THA           bishop         Tremere antitribu:4
-1x Lord Tremere            11  obe ANI AUS DOM VIC THA                  Tremere:5
+2x Gabrielle di Righetti   10  ANI AUS DOM THA obf pot   justicar       Tremere:5
+2x Orlando Oriundus         9  AUS DOM THA obf           bishop         Tremere antitribu:4
+1x Lord Tremere            11  ANI AUS DOM VIC THA obe                  Tremere:5
 1x Gerald Windham           9  AUS DOM FOR THA                          Tremere:5
 1x Keith Moody              3  DOM                                      Tremere antitribu:4
 
 Library (90 cards)
-Master (18)
+Master (18; 6 trifle)
 1x Coven, The
 1x Creepshow Casino
 1x Direct Intervention

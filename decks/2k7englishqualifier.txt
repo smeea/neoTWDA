@@ -8,20 +8,20 @@ Robert Thompson
 
 -- Unknown
 
-Unknown
+Deck Name: For Gypsy Queen & Country
 
-Deck: For Gypsy Queen & Country.
+Description:
 Fairly toolboxy Ravnos deck, the three deflections were enough to
 bring about survival long enough in the final to take the only VP.
 
 Crypt (12 cards, min=11 max=32 avg=5.5)
 ---------------------------------------
-4x Gabrin                       8  dom for ANI CHI      Ravnos:2
+4x Gabrin                       8  ANI CHI dom for      Ravnos:2
 1x Joaquina Amaya               6  ANI CHI FOR          Ravnos:2
-1x Sarisha Veliku               6  chi dom ANI FOR      Ravnos:2
-1x Vaclav Petalengro            6  for pot ANI CHI      Ravnos:2
-1x Khalil Ravana                5  ani for pre CHI      Ravnos:2
-1x Salbatore Bokkengro          4  for pro CHI          Ravnos:2
+1x Sarisha Veliku               6  ANI FOR chi dom      Ravnos:2
+1x Vaclav Petalengro            6  ANI CHI for pot      Ravnos:2
+1x Khalil Ravana                5  CHI ani for pre      Ravnos:2
+1x Salbatore Bokkengro          4  CHI for pro          Ravnos:2
 1x Vedel Esbreno                3  chi for              Ravnos:2
 1x Sasha Miklos                 2  chi                  Ravnos:2
 1x Spleen, Georgio Gutterpunk   2  ani chi              Ravnos:2

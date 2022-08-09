@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/8138
 
 -- Unknown
 
-Guillaume's Surprise
+Deck Name: Guillaume's Surprise
 
+Description:
 Guillaume Giovanni gets a bunch of Storage Annexes, in which he stores a killer hand
 of cryptic-rider-chained political actions that can destroy the table in a single turn, to be kicked
 off by Día de los Muertos. Wait for the right moment, then.. surprise!
@@ -22,16 +23,16 @@ Changes to make: See Updated Kiasyd Version at www.secretlibrary.info/index.php?
 
 Crypt (12 cards, min=19 max=36 avg=6.5)
 ---------------------------------------
-4x Guillaume Giovanni      9  obt CEL DOM NEC POT            Giovanni:4
+4x Guillaume Giovanni      9  CEL DOM NEC POT obt            Giovanni:4
 3x Isanwayen               6  DOM MYT OBT                    Kiasyd:4
-1x Andrew Emory            5  aus dom pot OBT       bishop   Lasombra:4
-1x Banjoko                 5  obt pot DOM                    Lasombra:3
-1x Dame Hollerton          5  myt DOM OBT                    Kiasyd:4
-1x Ermenegildo, The Rake   5  pot DOM OBT                    Lasombra:4
+1x Andrew Emory            5  OBT aus dom pot       bishop   Lasombra:4
+1x Banjoko                 5  DOM obt pot                    Lasombra:3
+1x Dame Hollerton          5  DOM OBT myt                    Kiasyd:4
+1x Ermenegildo, The Rake   5  DOM OBT pot                    Lasombra:4
 1x Quincy, The Trapper     4  dom myt obt                    Kiasyd:3
 
 Library (90 cards)
-Master (23)
+Master (23; 6 trifle)
 1x Dreams of the Sphinx
 1x Día de los Muertos
 1x Giant's Blood

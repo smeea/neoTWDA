@@ -8,18 +8,16 @@ Andreas Nusser
 
 -- Unknown
 
-We are watching you
-
-Unknown
+Deck Name: We are watching you
 
 Crypt (12 cards, min=16 max=29 avg=5.67)
 ----------------------------------------
-3x Matthias         7  nec AUS FOR OBE      Salubri:2
-3x Blanche Hill     6  aus FOR OBE          Salubri:2
-2x Miriam Benyona   5  for obe AUS          Salubri:2
+3x Matthias         7  AUS FOR OBE nec      Salubri:2
+3x Blanche Hill     6  FOR OBE aus          Salubri:2
+2x Miriam Benyona   5  AUS for obe          Salubri:2
 2x Lázár Dobrescu   3  for                  Ravnos:2
 1x Ian Forestal     8  AUS DOM THA          Tremere antitribu:2
-1x Billy            5  dom for AUS          Ventrue antitribu:2
+1x Billy            5  AUS dom for          Ventrue antitribu:2
 
 Library (90 cards)
 Master (18)

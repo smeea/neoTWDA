@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9318
 
 -- 3gw9 + 1.5vp in the final
 
-Äitini on mäyrä (My mother is a badger)
+Deck Name: Äitini on mäyrä (My mother is a badger)
 
+Description:
 Huge tournament this time around! Thanks to everyone for taking the time to come to Joensuu!
 
 Games were super hard this time. A lot of wall and combat decks. And the few aggressive decks were super nasty and super punishing type.
@@ -30,13 +31,13 @@ Very slight changes compared to the previous version. The most interesting one I
 Crypt (12 cards, min=13 max=40 avg=6.92)
 ----------------------------------------
 5x unnamed, The              10  CEL DAI OBF PRE PRO            Baali:6
-2x Xeper, Sultan of Lepers    7  ani dai pro OBF PRE            Baali:6
+2x Xeper, Sultan of Lepers    7  OBF PRE ani dai pro            Baali:6
 2x Arishat                    6  DAI OBF PRE           1 vote   Baali:6
 2x Horde, The                 3  dai obf pre                    Baali:6
 1x Anarch Convert             1                                 Caitiff:ANY
 
 Library (66 cards)
-Master (11)
+Master (11; 4 trifle)
 1x Dreams of the Sphinx
 1x Giant's Blood
 2x Perfectionist

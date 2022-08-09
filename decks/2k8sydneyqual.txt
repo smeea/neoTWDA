@@ -8,24 +8,22 @@ Ivor Blockley
 
 -- Unknown
 
-Sempiternal Setites
-
-Unknown
+Deck Name: Sempiternal Setites
 
 Crypt (12 cards, min=12 max=23 avg=4.58)
 ----------------------------------------
-2x Halim Bey               6  obf tha DOM SER      Ministry:4
-2x Black Lotus             5  aus obf ser DOM      Ministry:4
-2x Renenet                 5  ser OBF PRE          Ministry:4
-1x Ankh-sen-Sutekh         6  obf PRE SER          Ministry:4
-1x Zhenga                  5  obf pre SER          Ministry:4
-1x Marla Kenyon            4  ser PRE              Ministry:4
+2x Halim Bey               6  DOM SER obf tha      Ministry:4
+2x Black Lotus             5  DOM aus obf ser      Ministry:4
+2x Renenet                 5  OBF PRE ser          Ministry:4
+1x Ankh-sen-Sutekh         6  PRE SER obf          Ministry:4
+1x Zhenga                  5  SER obf pre          Ministry:4
+1x Marla Kenyon            4  PRE ser              Ministry:4
 1x Ahmose Chambers         3  obf ser              Ministry:5
 1x Reverend Djoser Jones   3  pre ser              Ministry:4
 1x Belle Equitone          2  ser                  Ministry:4
 
 Library (90 cards)
-Master (26)
+Master (26; 4 trifle)
 1x Archon Investigation
 14x Dominate
 1x Dreams of the Sphinx

@@ -8,26 +8,27 @@ https://www.vekn.net/event-calendar/event/8541
 
 -- Unknown
 
-To Perish Uncreated
+Deck Name: To Perish Uncreated
 
+Description:
 Note: this deck ousted a player who played massive bloat. Well done Ian!
 
 Apple bleeds, Quira and friends Cloak and Revelate and Precision. Get your game win through playing Precision and naming Sideslip, then scare people with one copy of Walk of Flame so that your prey repeatedly Obediences you until your prey gets ousted.
 
 Crypt (12 cards, min=22 max=42 avg=7.67)
 ----------------------------------------
-2x Gwendolyn                    11  aus tha CEL FOR POT PRE   inner circle   Brujah:2
-2x Appolonius                   10  for pot CEL PRE           primogen       Brujah:1
-2x Quira, The Bitch Queen        6  obt tha AUS OBF                          Malkavian antitribu:2
-1x Vasantasena                   9  dom pot AUS DEM OBF                      Malkavian antitribu:2
-1x Greta Kircher                 7  obf AUS CEL PRE                          Toreador antitribu:2
+2x Gwendolyn                    11  CEL FOR POT PRE aus tha   inner circle   Brujah:2
+2x Appolonius                   10  CEL PRE for pot           primogen       Brujah:1
+2x Quira, The Bitch Queen        6  AUS OBF obt tha                          Malkavian antitribu:2
+1x Vasantasena                   9  AUS DEM OBF dom pot                      Malkavian antitribu:2
+1x Greta Kircher                 7  AUS CEL PRE obf                          Toreador antitribu:2
 1x Darrell Boyce, Consul         6  CEL OBF PRO                              Gangrel antitribu:2
-1x Kalinda                       6  tha CEL OBF                              Banu Haqim:2
-1x Zahir, Hand of the Silsila    6  qui tha CEL OBF                          Banu Haqim:2
-1x Tansu Bekir                   4  cel OBF                                  Banu Haqim:2
+1x Kalinda                       6  CEL OBF tha                              Banu Haqim:2
+1x Zahir, Hand of the Silsila    6  CEL OBF qui tha                          Banu Haqim:2
+1x Tansu Bekir                   4  OBF cel                                  Banu Haqim:2
 
 Library (80 cards)
-Master (21)
+Master (21; 5 trifle)
 1x Barrens, The
 5x Blood Doll
 1x Direct Intervention

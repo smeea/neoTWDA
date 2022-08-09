@@ -8,9 +8,7 @@ Mehdi Mazni
 
 -- Unknown
 
-Shalmath History
-
-Unknown
+Deck Name: Shalmath History
 
 Crypt (12 cards, min=4 max=40 avg=5.67)
 ---------------------------------------
@@ -23,7 +21,7 @@ Crypt (12 cards, min=4 max=40 avg=5.67)
 1x Walker Grimes     1  ani              Caitiff:5
 
 Library (85 cards)
-Master (13)
+Master (13; 2 trifle)
 1x Dark Influences
 1x Giant's Blood
 2x Obfuscate

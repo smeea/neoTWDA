@@ -8,20 +8,18 @@ John Bell
 
 -- Unknown
 
-Hmmm, Yeah, I'll Block That
-
-Unknown
+Deck Name: Hmmm, Yeah, I'll Block That
 
 Crypt (12 cards, min=8 max=20 avg=3.58)
 ---------------------------------------
-3x General Perfidio Díos            5  dem obf AUS   bishop   Malkavian antitribu:3
-1x Victoria                         5  cel obf AUS            Malkavian:2
-1x Idalia, Prophet of Guadalajara   4  dem AUS                Malkavian antitribu:2
-1x Maldavis                         4  for pre AUS            Caitiff:3
-1x Remilliard, Devout Crusader      4  pre AUS                Toreador antitribu:2
+3x General Perfidio Díos            5  AUS dem obf   bishop   Malkavian antitribu:3
+1x Victoria                         5  AUS cel obf            Malkavian:2
+1x Idalia, Prophet of Guadalajara   4  AUS dem                Malkavian antitribu:2
+1x Maldavis                         4  AUS for pre            Caitiff:3
+1x Remilliard, Devout Crusader      4  AUS pre                Toreador antitribu:2
 1x Isabel de Leon                   3  AUS                    Toreador:2
-1x Martin Franckel                  3  tha AUS                Tremere:3
-1x Zöe                              3  cel obf AUS            Malkavian:2
+1x Martin Franckel                  3  AUS tha                Tremere:3
+1x Zöe                              3  AUS cel obf            Malkavian:2
 1x Feo Ramos                        1  aus                    Pander:3
 1x Franciscus                       1  aus                    Caitiff:2
 

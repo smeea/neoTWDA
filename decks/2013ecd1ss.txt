@@ -8,22 +8,20 @@ Martin Weinmayer
 
 -- 2gw8, + 4vp in the final
 
-EC 2013 Day 1: Stanislava & Friends Dom/For Bleed/Vote
-
-Unknown
+Deck Name: EC 2013 Day 1: Stanislava & Friends Dom/For Bleed/Vote
 
 Crypt (12 cards, min=38 max=44 avg=10.33)
 -----------------------------------------
 4x Stanislava                11  ANI CEL DOM FOR PRO       inner circle   Gangrel:2
-2x Angus the Unruled         10  cel for pot ANI PRO       justicar       Gangrel:1
-2x Ingrid Rossler             9  dom ANI FOR PRO           prince         Gangrel:2
-1x Arika                     11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Etrius                    11  pro AUS DOM OBF THA       inner circle   Tremere:2
-1x Don Cruez, The Idealist   10  ani dom pro CEL POT PRE   justicar       Brujah:1
-1x Genevieve                 10  aus dom ANI FOR PRO       priscus        Gangrel antitribu:2
+2x Angus the Unruled         10  ANI PRO cel for pot       justicar       Gangrel:1
+2x Ingrid Rossler             9  ANI FOR PRO dom           prince         Gangrel:2
+1x Arika                     11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Etrius                    11  AUS DOM OBF THA pro       inner circle   Tremere:2
+1x Don Cruez, The Idealist   10  CEL POT PRE ani dom pro   justicar       Brujah:1
+1x Genevieve                 10  ANI FOR PRO aus dom       priscus        Gangrel antitribu:2
 
 Library (84 cards)
-Master (22)
+Master (22; 7 trifle)
 1x Backways
 1x Creepshow Casino
 4x Dreams of the Sphinx

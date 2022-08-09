@@ -8,10 +8,6 @@ Cory Busch Kendall
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (13 cards, min=13 max=19 avg=4.0)
 ---------------------------------------
 3x François "Warden" Loehr      3  def jud          Judge:4

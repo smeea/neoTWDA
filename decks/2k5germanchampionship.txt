@@ -8,8 +8,9 @@ Johannes Walch
 
 -- Unknown
 
-Nergal has possesed the body of Thetmes
+Deck Name: Nergal has possesed the body of Thetmes
 
+Description:
 Erol lent the deck to me and I added 2 D.I
 Hard to play yet very powerful. You don't have many combat cards but
 you must look dangerous all the time. Every move is crucial. Only rush
@@ -17,10 +18,10 @@ sure targets/easy kills.
 
 Crypt (12 cards, min=8 max=40 avg=5.5)
 --------------------------------------
-4x Thetmes, Caliph of Alamut         10  dom pot CEL OBF QUI   2 votes   Banu Haqim:2
-2x Badr al-Budur                      5  cel dom qui OBF                 Banu Haqim:2
-1x Gloria Giovanni                    4  nec DOM                         Giovanni:2
-1x Ingrid Russo                       4  for DOM                         Ventrue antitribu:2
+4x Thetmes, Caliph of Alamut         10  CEL OBF QUI dom pot   2 votes   Banu Haqim:2
+2x Badr al-Budur                      5  OBF cel dom qui                 Banu Haqim:2
+1x Gloria Giovanni                    4  DOM nec                         Giovanni:2
+1x Ingrid Russo                       4  DOM for                         Ventrue antitribu:2
 1x Marciana Giovanni, Investigator    2  dom                             Giovanni:2
 1x Mustafa Rahman                     2  dom                             Tremere:2
 1x Ohanna                             2  dom                             Malkavian:2

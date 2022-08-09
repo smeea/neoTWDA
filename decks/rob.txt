@@ -8,19 +8,15 @@ https://groups.google.com/d/topic/rec.games.trading-cards.jyhad/KvlduCXKobA/disc
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=10 max=35 avg=5.58)
 ----------------------------------------
-2x Lazverinus, Thrall of Lambach   10  pro AUS DOM FOR POT   archbishop   Ventrue antitribu:2
+2x Lazverinus, Thrall of Lambach   10  AUS DOM FOR POT pro   archbishop   Ventrue antitribu:2
 1x Ian Forestal                     8  AUS DOM THA                        Tremere antitribu:2
-1x Iliana                           7  tha DOM FOR PRO                    Gangrel:2
-1x Badger                           6  ani pot FOR PRO                    Gangrel:1
+1x Iliana                           7  DOM FOR PRO tha                    Gangrel:2
+1x Badger                           6  FOR PRO ani pot                    Gangrel:1
 1x Dylan                            6  aus cel dom for pro                Ventrue antitribu:2
-1x Lisette Vizquel                  6  pro DOM POT           bishop       Lasombra:2
-1x Jimmy Dunn                       4  for CEL POT                        Pander:2
+1x Lisette Vizquel                  6  DOM POT pro           bishop       Lasombra:2
+1x Jimmy Dunn                       4  CEL POT for                        Pander:2
 1x Cameron                          3  dom pot                            Lasombra:2
 1x Juan Cali                        3  aus for                            Ventrue antitribu:2
 1x Ricki Van Demsi                  3  for pro                            Gangrel:1

@@ -8,17 +8,15 @@ Luiz Mello
 
 -- Unknown
 
-Feral Royalty
-
-Unknown
+Deck Name: Feral Royalty
 
 Crypt (12 cards, min=11 max=21 avg=3.92)
 ----------------------------------------
 2x Chandler Hungerford           3  PRO                  Gangrel:2
-1x Badger                        6  ani pot FOR PRO      Gangrel:1
-1x Bear Paw                      5  for pre pro ANI      Gangrel:1
-1x Camille Devereux, The Raven   5  ani FOR PRO          Gangrel:1
-1x Mirembe Kabbada               5  ani PRO SER          Gangrel:2
+1x Badger                        6  FOR PRO ani pot      Gangrel:1
+1x Bear Paw                      5  ANI for pre pro      Gangrel:1
+1x Camille Devereux, The Raven   5  FOR PRO ani          Gangrel:1
+1x Mirembe Kabbada               5  PRO SER ani          Gangrel:2
 1x Ramona                        4  for pro              Gangrel:2
 1x Ramona (ADV)                  4  for pro              Gangrel:2
 1x Roman Alexander               4  ani for pro          Gangrel:1
@@ -27,7 +25,7 @@ Crypt (12 cards, min=11 max=21 avg=3.92)
 1x Giuliano Vincenzi             2  for                  Gangrel:1
 
 Library (90 cards)
-Master (14)
+Master (14; 7 trifle)
 1x Backways
 2x Blood Doll
 1x Dummy Corporation

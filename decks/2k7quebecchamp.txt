@@ -8,8 +8,9 @@ Guillaume Lefebvre
 
 -- Unknown
 
-Le fourbe et ses amis invisible
+Deck Name: Le fourbe et ses amis invisible
 
+Description:
 L'objectif est simple, sortir les nocturnes, les utiliser comme
 bloqueur ou bleeder, et bien sûr stealth bleeder avec govern/
 conditionning. Je n'ai pu tester le deck qu'une seule fois avant le
@@ -21,10 +22,10 @@ les weenie potence et autres tupdogs de ce monde.
 
 Crypt (12 cards, min=14 max=22 avg=4.67)
 ----------------------------------------
-2x Onaedo                  6  aus pot DOM OBT            Lasombra:4
-2x Andrew Emory            5  aus dom pot OBT   bishop   Lasombra:4
-2x Dame Hollerton          5  myt DOM OBT                Kiasyd:4
-2x Ermenegildo, The Rake   5  pot DOM OBT                Lasombra:4
+2x Onaedo                  6  DOM OBT aus pot            Lasombra:4
+2x Andrew Emory            5  OBT aus dom pot   bishop   Lasombra:4
+2x Dame Hollerton          5  DOM OBT myt                Kiasyd:4
+2x Ermenegildo, The Rake   5  DOM OBT pot                Lasombra:4
 2x Leila Monroe            4  dom obt pre                Lasombra:4
 2x Lucy Markowitz          3  dom obt                    Lasombra:4
 

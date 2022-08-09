@@ -8,8 +8,9 @@ Iñaki Puigdollers
 
 -- 3vp in the final
 
-"Pure Blue Council"
+Deck Name: "Pure Blue Council"
 
+Description:
 V.P. 3 + 2 + 0 + 3 (Final) = 8
 
 Builder and Player: Iñaki Puigdollers
@@ -20,15 +21,15 @@ political influence and the versatility DI provides could be priceless.
 
 Crypt (12 cards, min=37 max=44 avg=10.33)
 -----------------------------------------
-3x Arika              11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-3x Maris Streck        9  ani dem dom AUS OBF       justicar       Malkavian:3
-2x Etrius             11  pro AUS DOM OBF THA       inner circle   Tremere:2
-2x Leandro            11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-1x Lucinde, Alastor   10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
-1x Queen Anne         10  aus obf DOM FOR PRE       prince         Ventrue:2
+3x Arika              11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+3x Maris Streck        9  AUS OBF ani dem dom       justicar       Malkavian:3
+2x Etrius             11  AUS DOM OBF THA pro       inner circle   Tremere:2
+2x Leandro            11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+1x Lucinde, Alastor   10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
+1x Queen Anne         10  DOM FOR PRE aus obf       prince         Ventrue:2
 
 Library (70 cards)
-Master (20)
+Master (20; 7 trifle)
 1x Giant's Blood
 2x Information Highway
 1x Jake Washington

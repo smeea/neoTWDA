@@ -8,9 +8,7 @@ https://www.vekn.net/event-calendar/event/7929
 
 -- 4vp in the final
 
-Gehenna Imbued
-
-Unknown
+Deck Name: Gehenna Imbued
 
 Crypt (12 cards, min=14 max=20 avg=4.25)
 ----------------------------------------
@@ -23,7 +21,7 @@ Crypt (12 cards, min=14 max=20 avg=4.25)
 1x Marion "Teacher193" Perks    4  red jud          Redeemer:4
 
 Library (60 cards)
-Master (12)
+Master (12; 1 trifle)
 1x Angel of Berlin
 1x Archon Investigation
 1x Church of Vindicated Faith, The

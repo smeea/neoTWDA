@@ -8,8 +8,7 @@ Shaun McIssac
 
 -- Unknown
 
-Unknown
-
+Description:
 Title: Shaun McIssac's ICBM
 (Inner Circle Bloating Monstrosity)
 Focus:
@@ -17,14 +16,14 @@ OBF/DOM
 
 Crypt (12 cards, min=33 max=44 avg=9.75)
 ----------------------------------------
-2x Arika                      11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-2x Etrius                     11  pro AUS DOM OBF THA       inner circle   Tremere:2
-2x Lucian                     10  cel tha AUS DOM OBF       justicar       Malkavian:1
+2x Arika                      11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+2x Etrius                     11  AUS DOM OBF THA pro       inner circle   Tremere:2
+2x Lucian                     10  AUS DOM OBF cel tha       justicar       Malkavian:1
 2x Gilbert Duane               7  AUS DOM OBF               prince         Malkavian:1
-1x François Villon            10  chi obf pot AUS CEL PRE   prince         Toreador:2
-1x Nefertiti                  10  cel pot DOM OBF PRE SER                  Ministry:2
-1x Queen Anne                 10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Khay'tall, Snake of Eden    9  aus DOM OBF PRE SER                      Ministry:2
+1x François Villon            10  AUS CEL PRE chi obf pot   prince         Toreador:2
+1x Nefertiti                  10  DOM OBF PRE SER cel pot                  Ministry:2
+1x Queen Anne                 10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Khay'tall, Snake of Eden    9  DOM OBF PRE SER aus                      Ministry:2
 
 Library (77 cards)
 Master (26)

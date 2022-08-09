@@ -8,20 +8,21 @@ Leonardo Bensi
 
 -- Unknown
 
-Il Glorioso Piano Quinquennale
+Deck Name: Il Glorioso Piano Quinquennale
 
+Description:
 bleeding blood brothers with protean
 
 Crypt (12 cards, min=16 max=16 avg=4.0)
 ---------------------------------------
-3x Kyrylo    4  for SAN          Blood Brother:5
-3x Pavlo     4  pro SAN          Blood Brother:5
+3x Kyrylo    4  SAN for          Blood Brother:5
+3x Pavlo     4  SAN pro          Blood Brother:5
 2x Danylo    4  for pro san      Blood Brother:5
 2x Gavrylo   4  pot pro san      Blood Brother:5
-2x Volo      4  pro san POT      Blood Brother:5
+2x Volo      4  POT pro san      Blood Brother:5
 
 Library (90 cards)
-Master (16)
+Master (16; 2 trifle)
 1x Dark Influences
 6x Effective Management
 1x Hungry Coyote, The

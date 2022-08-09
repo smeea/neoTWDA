@@ -8,8 +8,9 @@ Ben Peal
 
 -- Unknown
 
-Team Amaravati
+Deck Name: Team Amaravati
 
+Description:
 Looking at Amaravati, I was inspired by Lasombra Jeff's
 Lasombra Creation Boon deck. Amaravati plays Governs to get out more
 guys. Guys get out Web of Knives Recruits. Weenie bleeding and
@@ -25,11 +26,11 @@ replace it with a Yoruba Shrine or something).
 
 Crypt (12 cards, min=11 max=32 avg=5.42)
 ----------------------------------------
-5x Amaravati           8  ani chi DOM OBF QUI      Banu Haqim:4
+5x Amaravati           8  DOM OBF QUI ani chi      Banu Haqim:4
 2x Ali Kar             3  obf qui                  Banu Haqim:3
-1x Catherine du Bois   5  for obf pre DOM          Ventrue:3
-1x Michael diCarlo     5  obf qui CEL              Banu Haqim:4
-1x Kamau Jafari        4  obf QUI                  Banu Haqim:4
+1x Catherine du Bois   5  DOM for obf pre          Ventrue:3
+1x Michael diCarlo     5  CEL obf qui              Banu Haqim:4
+1x Kamau Jafari        4  QUI obf                  Banu Haqim:4
 1x Robin Withers       4  dom obf pre              Ventrue:4
 1x Basir               1  qui                      Banu Haqim:4
 

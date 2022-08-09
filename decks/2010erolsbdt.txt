@@ -8,15 +8,16 @@ Ralf Lammert
 
 -- 3vp in the final
 
-Oh Pander My Pander
+Deck Name: Oh Pander My Pander
 
+Description:
 Some Pander deck.
 
 Crypt (14 cards, min=4 max=28 avg=3.29)
 ---------------------------------------
-2x Korah                      7  ani AUS DEM OBF   priscus      Malkavian antitribu:2
-2x Marie Faucigny             7  dem tha AUS OBF   archbishop   Malkavian antitribu:3
-1x Jimmy Dunn                 4  for CEL POT                    Pander:2
+2x Korah                      7  AUS DEM OBF ani   priscus      Malkavian antitribu:2
+2x Marie Faucigny             7  AUS OBF dem tha   archbishop   Malkavian antitribu:3
+1x Jimmy Dunn                 4  CEL POT for                    Pander:2
 1x Lena Rowe                  3  aus obf pre                    Pander:2
 1x Rex, The Necronomist       3  pot pro vic                    Pander:2
 1x Mitchell, The Headhunter   2  obt pot                        Pander:2
@@ -28,7 +29,7 @@ Crypt (14 cards, min=4 max=28 avg=3.29)
 1x Royce                      1  dom                            Pander:2
 
 Library (81 cards)
-Master (18)
+Master (18; 4 trifle)
 1x Coven, The
 1x Creepshow Casino
 2x Dreams of the Sphinx

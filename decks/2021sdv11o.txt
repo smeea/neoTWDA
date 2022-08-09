@@ -8,21 +8,19 @@ https://www.vekn.net/event-calendar/event/9852
 
 -- 1gw4 + 3vp in the final
 
-Desso sexudo
-
-Unknown
+Deck Name: Desso sexudo
 
 Crypt (12 cards, min=26 max=44 avg=9.17)
 ----------------------------------------
-4x Arika                         11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
+4x Arika                         11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
 2x Marcus Vitel                  10  DOM FOR OBF OBT PRE       prince         Ventrue:3
-2x J. Oswald "Ozzy" Hyde-White    8  dom pre AUS FOR OBF       primogen       Malkavian:3
-2x Catherine du Bois              5  for obf pre DOM                          Ventrue:3
-1x Lucinde, Alastor              10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
-1x Queen Anne                    10  aus obf DOM FOR PRE       prince         Ventrue:2
+2x J. Oswald "Ozzy" Hyde-White    8  AUS FOR OBF dom pre       primogen       Malkavian:3
+2x Catherine du Bois              5  DOM for obf pre                          Ventrue:3
+1x Lucinde, Alastor              10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
+1x Queen Anne                    10  DOM FOR PRE aus obf       prince         Ventrue:2
 
 Library (90 cards)
-Master (18)
+Master (18; 3 trifle)
 1x Creepshow Casino
 3x Minion Tap
 1x Monastery of Shadows

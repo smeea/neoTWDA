@@ -8,8 +8,9 @@ Izaak Havelaar
 
 -- Unknown
 
-Thrown Junk & Sexy Tricks (TM)
+Deck Name: Thrown Junk & Sexy Tricks (TM)
 
+Description:
 This deck doesn't really need a lot of description; it's full forward
 motion CEL/pot combat with a few sexy tricks (credit goes to Peter
 Bakija). It has decent bloat and small minions, so having 4 or 5 out
@@ -23,13 +24,13 @@ Sexy Trick #3: The Fast Hands
 
 Crypt (12 cards, min=15 max=24 avg=4.92)
 ----------------------------------------
-2x Jalal Sayad                    6  pot CEL QUI                Banu Haqim:2
-2x Black Cat                      5  pot pre CEL                Brujah:1
-2x Volker, The Puppet Prince      5  pot CEL           prince   Brujah:2
-1x Bianca                         6  pot pre CEL                Brujah:1
-1x Julian Sanders                 6  pot CEL PRE                Brujah antitribu:2
-1x Rigby, Crusade Vanguard        5  aus pot CEL PRE            Brujah antitribu:2
-1x Victor Tolliver                4  pot CEL                    Brujah antitribu:2
+2x Jalal Sayad                    6  CEL QUI pot                Banu Haqim:2
+2x Black Cat                      5  CEL pot pre                Brujah:1
+2x Volker, The Puppet Prince      5  CEL pot           prince   Brujah:2
+1x Bianca                         6  CEL pot pre                Brujah:1
+1x Julian Sanders                 6  CEL PRE pot                Brujah antitribu:2
+1x Rigby, Crusade Vanguard        5  CEL PRE aus pot            Brujah antitribu:2
+1x Victor Tolliver                4  CEL pot                    Brujah antitribu:2
 1x Dre, Leader of the Cold Dawn   3  cel pot                    Brujah:1
 1x Jacob Bragg                    3  cel pot                    Brujah antitribu:2
 

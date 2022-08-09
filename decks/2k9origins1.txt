@@ -8,15 +8,16 @@ Robyn Tatu
 
 -- Unknown
 
-Fortitude Anarchs
+Deck Name: Fortitude Anarchs
 
+Description:
 Trap / Undead Persistance for Group 3 4 Anarchs.
 Aranthebes should replace a Rapid Healing.
 
 Crypt (13 cards, min=4 max=15 avg=2.15)
 ---------------------------------------
 5x Anarch Convert       1                   Caitiff:ANY
-1x Neighbor John        5  dom for AUS      Ventrue antitribu:4
+1x Neighbor John        5  AUS dom for      Ventrue antitribu:4
 1x Katherine Stoddard   4  dom for          Ventrue antitribu:3
 1x Lana Butcher         3  dom for          Ventrue:3
 1x Mr. Noir             3  for obe          Salubri:4
@@ -26,7 +27,7 @@ Crypt (13 cards, min=4 max=15 avg=2.15)
 1x Andy                 1  for              Caitiff:4
 
 Library (90 cards)
-Master (11)
+Master (11; 1 trifle)
 1x Anarch Free Press, The
 2x Fame
 2x Fortitude

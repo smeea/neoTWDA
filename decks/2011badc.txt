@@ -8,8 +8,9 @@ Darby Keeney
 
 -- Unknown
 
-Govern is Weak Sauce
+Deck Name: Govern is Weak Sauce
 
+Description:
 (Guruhi Brutal Influence)
 First run though with adjustments after the Powerbase LA Win.
 Eze still runs low on blood. I guess sitting next to the Beast
@@ -19,12 +20,12 @@ A first-turn No Secrets ended up being critical sitting downwind of Una.
 
 Crypt (12 cards, min=30 max=44 avg=9.42)
 ----------------------------------------
-5x Eze, The Demon Prince   11  aus ANI NEC POT PRE THA   magaji   Guruhi:3
-2x Iniko, The Black Lion    9  cel ANI OBT POT PRE                Guruhi:4
+5x Eze, The Demon Prince   11  ANI NEC POT PRE THA aus   magaji   Guruhi:3
+2x Iniko, The Black Lion    9  ANI OBT POT PRE cel                Guruhi:4
 2x Nana Buruku              8  ANI POT PRE                        Guruhi:4
-1x Ugadja                  10  dom for ABO ANI POT PRE   magaji   Guruhi:4
-1x Aren, Priest of Eshu     7  ani obf POT PRE                    Guruhi:4
-1x Ubende                   7  for obf qui CEL PRE       magaji   Ishtarri:4
+1x Ugadja                  10  ABO ANI POT PRE dom for   magaji   Guruhi:4
+1x Aren, Priest of Eshu     7  POT PRE ani obf                    Guruhi:4
+1x Ubende                   7  CEL PRE for obf qui       magaji   Ishtarri:4
 
 Library (73 cards)
 Master (20; 16 trifle)
@@ -38,11 +39,11 @@ Master (20; 16 trifle)
 
 Action (19)
 10x Brutal Influence
-1x Entrancement -- useful in theory (steal Carlton / War Ghoul)
+1x Entrancement
 3x Exile
 1x Magic of the Smith
 2x No Secrets From the Magaji
-1x Revelations -- useful in theory (strip Archon Investigation)
+1x Revelations
 1x Rutor's Hand
 
 Ally (1)
@@ -51,7 +52,7 @@ Ally (1)
 Equipment (3)
 1x Heart of Nizchetus
 1x Kduva's Mask
-1x Nkishi -- very useful addition, thank you Ira
+1x Nkishi
 
 Political Action (9)
 1x Ancient Influence
@@ -67,7 +68,7 @@ Action Modifier (16)
 1x Enkil Cog
 2x Iron Glare
 2x Mirror Walk
-1x Perfect Clarity -- only used in 1 game of 7 so far.
+1x Perfect Clarity
 4x Perfect Paragon
 1x Strange Day
 2x Voter Captivation

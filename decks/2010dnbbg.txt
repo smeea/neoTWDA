@@ -8,20 +8,16 @@ Jörg Alten
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=19 max=32 avg=6.5)
 ---------------------------------------
-4x Vidal Jarbeaux            8  aus cel obf pot PRE              Toreador:5
-3x Philippe de Marseilles    7  dem pre AUS CEL       primogen   Toreador:5
-3x Eurayle Gelasia Mylonas   6  for pre AUS OBE                  Salubri:4
-1x Tyler McGill              4  pre AUS                          Toreador:5
+4x Vidal Jarbeaux            8  PRE aus cel obf pot              Toreador:5
+3x Philippe de Marseilles    7  AUS CEL dem pre       primogen   Toreador:5
+3x Eurayle Gelasia Mylonas   6  AUS OBE for pre                  Salubri:4
+1x Tyler McGill              4  AUS pre                          Toreador:5
 1x Andre LeRoux              3  aus                              Toreador:5
 
 Library (71 cards)
-Master (17)
+Master (17; 7 trifle)
 2x Art Museum
 3x Charisma
 1x Giant's Blood

@@ -8,9 +8,9 @@ Simon Reed
 
 -- 3vp in the final
 
-Unknown
+Deck Name: Assamite Bleed / Vote
 
-Deck: Assamite Bleed / Vote
+Description:
 Uses the Alamut as the key card vote defense and
 occasional vote calling, mainlys bleeds and bloats with Haqims LAw:
 Leadership. Based on a deck I saw at the Welsh ECQ a couple of years
@@ -18,16 +18,16 @@ ago, by Oortji I think, updated with the mighty new cards.
 
 Crypt (12 cards, min=9 max=30 avg=4.92)
 ---------------------------------------
-3x Amaravati            8  ani chi DOM OBF QUI      Banu Haqim:4
-2x Vardar Vardarian     6  cel pre OBF QUI          Banu Haqim:4
-2x Kamau Jafari         4  obf QUI                  Banu Haqim:4
+3x Amaravati            8  DOM OBF QUI ani chi      Banu Haqim:4
+2x Vardar Vardarian     6  OBF QUI cel pre          Banu Haqim:4
+2x Kamau Jafari         4  QUI obf                  Banu Haqim:4
 2x Alu                  2  obf                      Banu Haqim:5
-1x Hafsa, The Watcher   6  aus cel OBF QUI          Banu Haqim:5
+1x Hafsa, The Watcher   6  OBF QUI aus cel          Banu Haqim:5
 1x Sajid al Misbah      4  QUI                      Banu Haqim:5
 1x Basir                1  qui                      Banu Haqim:4
 
 Library (74 cards)
-Master (20)
+Master (20; 3 trifle)
 4x Alamut
 2x Archon Investigation
 1x Black Throne, The

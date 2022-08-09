@@ -8,23 +8,24 @@ https://www.vekn.net/event-calendar/event/9152
 
 -- 2gw9.5 + 2vp in the final
 
-German National Championship 2019: Blackturns
+Deck Name: German National Championship 2019: Blackturns
 
+Description:
 Just your run-of-the-mill Lasombra Stealth Bleed w/ Nocturns
 
 Crypt (12 cards, min=20 max=30 avg=6.33)
 ----------------------------------------
 3x Badr, Shadow of Granada   7  DOM OBT POT                    Lasombra:5
-2x Conrad Adoula             8  ani cel DOM OBT POT            Lasombra:4
-2x Ermenegildo, The Rake     5  pot DOM OBT                    Lasombra:4
+2x Conrad Adoula             8  DOM OBT POT ani cel            Lasombra:4
+2x Ermenegildo, The Rake     5  DOM OBT pot                    Lasombra:4
 1x Lord Vauxhall             7  DOM OBT POT THA                Lasombra:4
 1x Isanwayen                 6  DOM MYT OBT                    Kiasyd:4
-1x Onaedo                    6  aus pot DOM OBT                Lasombra:4
-1x Andrew Emory              5  aus dom pot OBT       bishop   Lasombra:4
-1x Dame Hollerton            5  myt DOM OBT                    Kiasyd:4
+1x Onaedo                    6  DOM OBT aus pot                Lasombra:4
+1x Andrew Emory              5  OBT aus dom pot       bishop   Lasombra:4
+1x Dame Hollerton            5  DOM OBT myt                    Kiasyd:4
 
 Library (84 cards)
-Master (17)
+Master (17; 5 trifle)
 1x Anarch Troublemaker
 1x Coven, The
 2x Dreams of the Sphinx

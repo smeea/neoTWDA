@@ -8,8 +8,9 @@ Nikica Novaković
 
 -- Unknown
 
-Salubri getting dirty
+Deck Name: Salubri getting dirty
 
+Description:
 Notes on deck:
 The main reason i've picked to play with this deck was that i was
 pretty sure what every player is gonna play.
@@ -27,12 +28,12 @@ Samson and Lana Bucher.
 
 Crypt (12 cards, min=22 max=31 avg=6.75)
 ----------------------------------------
-4x Matthias                    7  nec AUS FOR OBE          Salubri:2
-3x Owain Evans, The Wanderer   8  cel pre AUS DOM FOR      Ventrue antitribu:3
-2x Blanche Hill                6  aus FOR OBE              Salubri:2
+4x Matthias                    7  AUS FOR OBE nec          Salubri:2
+3x Owain Evans, The Wanderer   8  AUS DOM FOR cel pre      Ventrue antitribu:3
+2x Blanche Hill                6  FOR OBE aus              Salubri:2
 1x Blackhorse Tanner           7  AUS DOM FOR              Ventrue antitribu:3
-1x Vanessa                     6  aus pre DOM FOR          Ventrue antitribu:2
-1x Ingrid Russo                4  for DOM                  Ventrue antitribu:2
+1x Vanessa                     6  DOM FOR aus pre          Ventrue antitribu:2
+1x Ingrid Russo                4  DOM for                  Ventrue antitribu:2
 
 Library (90 cards)
 Master (14)

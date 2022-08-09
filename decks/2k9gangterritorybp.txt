@@ -8,8 +8,9 @@ Marcin Watras
 
 -- 3vp in the final
 
-Enkidu the Great
+Deck Name: Enkidu the Great
 
+Description:
 Enter combat / block - torporize - burn with Nephandus.
 Mages were magnificent in game 3 where they blocked several bum's
 rushes / bleeds when I didn't have enough manouvers in my hand to
@@ -21,14 +22,14 @@ find some potential there.
 
 Crypt (12 cards, min=14 max=44 avg=7.0)
 ---------------------------------------
-5x Enkidu, The Noah    11  for ANI CEL OBF POT PRO      Gangrel antitribu:4
-4x Antonio d'Erlette    5  dom for pot THA              Tremere antitribu:4
+5x Enkidu, The Noah    11  ANI CEL OBF POT PRO for      Gangrel antitribu:4
+4x Antonio d'Erlette    5  THA dom for pot              Tremere antitribu:4
 1x Ember Wright         3  aus dom                      Tremere antitribu:3
 1x Keith Moody          3  DOM                          Tremere antitribu:4
 1x Saiz                 3  aus dom                      Tremere antitribu:3
 
 Library (76 cards)
-Master (18)
+Master (18; 6 trifle)
 6x Ashur Tablets
 1x Fame
 1x Guardian Angel

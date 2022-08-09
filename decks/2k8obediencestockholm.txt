@@ -8,23 +8,24 @@ Ivan Marin-Rivas
 
 -- Unknown
 
-Amarvati+Mata_Hari
+Deck Name: Amarvati+Mata_Hari
 
+Description:
 Amarvati and Mata Hari breed and vote
 
 Crypt (13 cards, min=14 max=32 avg=6.15)
 ----------------------------------------
-4x Amaravati          8  ani chi DOM OBF QUI             Banu Haqim:4
-3x Mata Hari          7  aus for qui CHI OBF   2 votes   Ravnos:4
-1x Olugbenga          7  ani cel OBF QUI       magaji    Banu Haqim:4
-1x Vardar Vardarian   6  cel pre OBF QUI                 Banu Haqim:4
+4x Amaravati          8  DOM OBF QUI ani chi             Banu Haqim:4
+3x Mata Hari          7  CHI OBF aus for qui   2 votes   Ravnos:4
+1x Olugbenga          7  OBF QUI ani cel       magaji    Banu Haqim:4
+1x Vardar Vardarian   6  OBF QUI cel pre                 Banu Haqim:4
 1x Janni              5  cel for obf qui                 Banu Haqim:4
-1x Michael diCarlo    5  obf qui CEL                     Banu Haqim:4
+1x Michael diCarlo    5  CEL obf qui                     Banu Haqim:4
 1x Ali Kar            3  obf qui                         Banu Haqim:3
 1x Basir              1  qui                             Banu Haqim:4
 
 Library (90 cards)
-Master (16)
+Master (16; 1 trifle)
 5x Blood Doll
 1x Coven, The
 1x Demonstration

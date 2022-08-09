@@ -8,8 +8,9 @@ Mark Loughman
 
 -- Unknown
 
-Chameleon Snakes
+Deck Name: Chameleon Snakes
 
+Description:
 Credit where credit is due. I had built a Chamelon module
 into a Ayo-Anarch deck a while back, and as such was familiar with the
 mechanics of it, but Matt Wedge took it to a new level. He proposed a
@@ -24,9 +25,9 @@ Crypt (12 cards, min=4 max=40 avg=5.83)
 ---------------------------------------
 5x Anarch Convert                 1                           Caitiff:ANY
 4x Nakhthorheb                   10  OBF PRE SER              Ministry:4
-1x Porphyrion                     9  for CHI OBF PRE SER      Ministry:5
-1x Arnulf Jormungandrsson         8  aus cel OBF PRE SER      Ministry:5
-1x Cagliostro, The Grand Copht    8  nec pot OBF PRE SER      Ministry:4
+1x Porphyrion                     9  CHI OBF PRE SER for      Ministry:5
+1x Arnulf Jormungandrsson         8  OBF PRE SER aus cel      Ministry:5
+1x Cagliostro, The Grand Copht    8  OBF PRE SER nec pot      Ministry:4
 
 Library (60 cards)
 Master (13)

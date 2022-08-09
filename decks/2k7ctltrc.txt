@@ -8,22 +8,23 @@ Jonathan Long
 
 -- Unknown
 
-Are you agitated yet?
+Deck Name: Are you agitated yet?
 
+Description:
 Mid Cap Settite Vote/Reckless Agitation
 
 Crypt (12 cards, min=18 max=26 avg=5.5)
 ---------------------------------------
-2x Ogwon                    7  for OBF PRE SER          Ministry:5
-2x Ankh-sen-Sutekh          6  obf PRE SER              Ministry:4
-2x Clea Auguste d'Holford   6  pre ser OBF POT          Ministry:5
+2x Ogwon                    7  OBF PRE SER for          Ministry:5
+2x Ankh-sen-Sutekh          6  PRE SER obf              Ministry:4
+2x Clea Auguste d'Holford   6  OBF POT pre ser          Ministry:5
 2x Abdelsobek               5  for nec obf pre ser      Ministry:5
-2x Renenet                  5  ser OBF PRE              Ministry:4
+2x Renenet                  5  OBF PRE ser              Ministry:4
 1x Sahira Siraj             4  obf ser tha              Ministry:4
 1x Sisocharis               4  cel obf pre              Ministry:5
 
 Library (90 cards)
-Master (11)
+Master (11; 6 trifle)
 1x Opium Den
 3x Presence
 1x Temple Hunting Ground

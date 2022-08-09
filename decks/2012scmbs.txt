@@ -8,21 +8,19 @@ Soufiane Bouzouf
 
 -- Unknown
 
-Porque esto es África
-
-Unknown
+Deck Name: Porque esto es África
 
 Crypt (12 cards, min=26 max=39 avg=8.25)
 ----------------------------------------
-3x Ayo Igoli          10  obf tha AUS CEL FOR PRE              Ishtarri:4
-3x Undele              9  obf pre ser CEL FOR       magaji     Ishtarri:5
-3x Ubende              7  for obf qui CEL PRE       magaji     Ishtarri:4
-1x Dmitra Ilyanova     9  obf CEL FOR POT PRE       justicar   Brujah:5
-1x Mukhtar Bey         7  obf pot FOR PRE QUI       prince     Caitiff:4
-1x Victor Pelletier    5  cel dom for PRE                      Ventrue:4
+3x Ayo Igoli          10  AUS CEL FOR PRE obf tha              Ishtarri:4
+3x Undele              9  CEL FOR obf pre ser       magaji     Ishtarri:5
+3x Ubende              7  CEL PRE for obf qui       magaji     Ishtarri:4
+1x Dmitra Ilyanova     9  CEL FOR POT PRE obf       justicar   Brujah:5
+1x Mukhtar Bey         7  FOR PRE QUI obf pot       prince     Caitiff:4
+1x Victor Pelletier    5  PRE cel dom for                      Ventrue:4
 
 Library (90 cards)
-Master (15)
+Master (15; 6 trifle)
 1x Ancestor Spirit
 1x Bleeding the Vine
 1x Dreams of the Sphinx

@@ -8,21 +8,19 @@ Jakub Serafin
 
 -- Unknown
 
-FOR Tremere
-
-Unknown
+Deck Name: FOR Tremere
 
 Crypt (12 cards, min=23 max=36 avg=7.58)
 ----------------------------------------
 4x Gerald Windham            9  AUS DOM FOR THA                    Tremere:5
-2x Polly Kay Fisher          8  for pot AUS DOM THA   archbishop   Ventrue antitribu:4
-2x Troius                    8  cel AUS DOM THA       prince       Tremere:4
-2x Lord Ephraim Wainwright   6  for pre AUS THA                    Tremere:5
-1x Jefferson Foster          6  for tha AUS DOM       bishop       Ventrue antitribu:4
-1x Claus Wegener             5  aus for tha DOM                    Tremere:5
+2x Polly Kay Fisher          8  AUS DOM THA for pot   archbishop   Ventrue antitribu:4
+2x Troius                    8  AUS DOM THA cel       prince       Tremere:4
+2x Lord Ephraim Wainwright   6  AUS THA for pre                    Tremere:5
+1x Jefferson Foster          6  AUS DOM for tha       bishop       Ventrue antitribu:4
+1x Claus Wegener             5  DOM aus for tha                    Tremere:5
 
 Library (90 cards)
-Master (14)
+Master (14; 7 trifle)
 1x Arcane Library
 1x Dreams of the Sphinx
 1x Giant's Blood

@@ -8,17 +8,13 @@ Burt Sheldon
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=10 max=20 avg=3.75)
 ----------------------------------------
-1x Amelia, The Blood Red Tears   5  ani obf POT          Nosferatu:3
+1x Amelia, The Blood Red Tears   5  POT ani obf          Nosferatu:3
 1x Bernard, the Scourge          5  ani for pre pro      Gangrel:4
-1x Gemini                        5  ani obt pot OBF      Nosferatu:3
-1x Petra                         5  aus ANI OBF          Nosferatu:4
-1x Beetleman                     4  obf ANI              Nosferatu:4
+1x Gemini                        5  OBF ani obt pot      Nosferatu:3
+1x Petra                         5  ANI OBF aus          Nosferatu:4
+1x Beetleman                     4  ANI obf              Nosferatu:4
 1x Gustavo Morales               4  ani cel for          Gangrel:3
 1x Jezebelle                     4  ani for pro          Gangrel:4
 1x Bothwell                      3  ani for              Gangrel:3
@@ -28,7 +24,7 @@ Crypt (12 cards, min=10 max=20 avg=3.75)
 1x Zip                           2  ani                  Ravnos:3
 
 Library (90 cards)
-Master (32)
+Master (32; 8 trifle)
 4x Anarch Revolt
 9x Animalism
 1x Blood Puppy

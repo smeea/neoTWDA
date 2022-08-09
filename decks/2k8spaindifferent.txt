@@ -8,24 +8,22 @@ Frances Ros
 
 -- 2.5vp in the final
 
-Nakhthorheb Power
-
-Unknown
+Deck Name: Nakhthorheb Power
 
 Crypt (12 cards, min=12 max=36 avg=5.83)
 ----------------------------------------
 3x Nakhthorheb             10  OBF PRE SER              Ministry:4
-2x Halim Bey                6  obf tha DOM SER          Ministry:4
-1x Ankh-sen-Sutekh          6  obf PRE SER              Ministry:4
+2x Halim Bey                6  DOM SER obf tha          Ministry:4
+1x Ankh-sen-Sutekh          6  PRE SER obf              Ministry:4
 1x Abdelsobek               5  for nec obf pre ser      Ministry:5
-1x Black Lotus              5  aus obf ser DOM          Ministry:4
-1x Marla Kenyon             4  ser PRE                  Ministry:4
+1x Black Lotus              5  DOM aus obf ser          Ministry:4
+1x Marla Kenyon             4  PRE ser                  Ministry:4
 1x Ahmose Chambers          3  obf ser                  Ministry:5
 1x Reverend Djoser Jones    3  pre ser                  Ministry:4
 1x Belle Equitone           2  ser                      Ministry:4
 
 Library (90 cards)
-Master (15)
+Master (15; 7 trifle)
 1x Cave of Apples
 1x Direct Intervention
 2x Dominate

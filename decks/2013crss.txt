@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/7426
 
 -- 2vp in the final
 
-Jag vill ha en bleedlek med mycket stealth...
+Deck Name: Jag vill ha en bleedlek med mycket stealth...
 
+Description:
 I built this deck for a friend who is kinda new.
 He had forgotten his decks in the morning before our weekly games.
 So i made him this deck and the morning of the tournament I took it
@@ -17,17 +18,17 @@ cus I had no idea what to play...
 
 Crypt (12 cards, min=21 max=32 avg=6.75)
 ----------------------------------------
-5x Titus Camille           8  for AUS DOM OBF              Ventrue antitribu:4
-1x Phillipe Rigaud         7  ani aus obt DOM OBF PRO      Gangrel antitribu:4
-1x Preston Varrick         7  aus nec DOM OBF THA          Tremere:4
-1x Dr. Douglas Netchurch   6  dem dom AUS OBF              Malkavian:3
-1x Halim Bey               6  obf tha DOM SER              Ministry:4
+5x Titus Camille           8  AUS DOM OBF for              Ventrue antitribu:4
+1x Phillipe Rigaud         7  DOM OBF PRO ani aus obt      Gangrel antitribu:4
+1x Preston Varrick         7  DOM OBF THA aus nec          Tremere:4
+1x Dr. Douglas Netchurch   6  AUS OBF dem dom              Malkavian:3
+1x Halim Bey               6  DOM SER obf tha              Ministry:4
 1x Assad Salhoum           5  aus dem dom obf              Malkavian:4
-1x Black Lotus             5  aus obf ser DOM              Ministry:4
-1x Louis de Maisonneuve    5  aus dom obf FOR              Ventrue antitribu:4
+1x Black Lotus             5  DOM aus obf ser              Ministry:4
+1x Louis de Maisonneuve    5  FOR aus dom obf              Ventrue antitribu:4
 
 Library (79 cards)
-Master (13)
+Master (13; 6 trifle)
 1x Anarch Troublemaker
 1x Coven, The
 3x Dreams of the Sphinx

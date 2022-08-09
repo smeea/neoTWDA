@@ -6,12 +6,11 @@ Unknown
 Alfred Behrends
 
 
--- Unknown
+-- 1GW5 (3rd seed), 1.5VP in final
 
-Govern the Gates
+Deck Name: Govern the Gates
 
-1GW5 (3rd seed), 1.5VP in final
-
+Description:
 IMHO G4/5 has an insanely good weenie to midcap crypt
 for POT and DOM/POT. Inspired by Tuomas Nyberg's TWD "Dr. Sutphens
 Dental Care" I used the new crypt, replaced Computer Hackings with
@@ -22,15 +21,15 @@ should probably go down to 80 or even 75 cards.
 
 Crypt (12 cards, min=14 max=24 avg=4.83)
 ----------------------------------------
-2x Virginie, Prodigy       6  obt DOM POT       bishop   Lasombra:4
-1x Accorri Giovanni        6  ani nec DOM POT            Giovanni:5
-1x Black Wallace           6  obt tha DOM POT            Lasombra:4
-1x Donatello Giovanni      5  aus pot pre DOM            Giovanni:4
-1x Ermenegildo, The Rake   5  pot DOM OBT                Lasombra:4
-1x Esoara                  5  aus for pot DOM            Tremere antitribu:4
-1x Gianmaria Giovanni      5  dom nec obt POT            Giovanni:5
-1x Patrick                 4  pre POT                    Brujah antitribu:4
-1x Volo                    4  pro san POT                Blood Brother:5
+2x Virginie, Prodigy       6  DOM POT obt       bishop   Lasombra:4
+1x Accorri Giovanni        6  DOM POT ani nec            Giovanni:5
+1x Black Wallace           6  DOM POT obt tha            Lasombra:4
+1x Donatello Giovanni      5  DOM aus pot pre            Giovanni:4
+1x Ermenegildo, The Rake   5  DOM OBT pot                Lasombra:4
+1x Esoara                  5  DOM aus for pot            Tremere antitribu:4
+1x Gianmaria Giovanni      5  POT dom nec obt            Giovanni:5
+1x Patrick                 4  POT pre                    Brujah antitribu:4
+1x Volo                    4  POT pro san                Blood Brother:5
 1x Almodo Giovanni         3  dom pot                    Giovanni:4
 1x Arriette Sylla          3  POT                        Osebo:4
 

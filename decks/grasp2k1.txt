@@ -8,21 +8,20 @@ Will Kristoff
 
 -- Unknown
 
-Unknown
-
+Description:
 Honor the Elders
 
 Crypt (12 cards, min=38 max=42 avg=10.0)
 ----------------------------------------
-2x Aziz, Dammar of Istanbul   10  ser CEL OBF PRE QUI       2 votes        Banu Haqim:2
-2x Cailean                    10  dom ANI OBF POT PRE       archbishop     Nosferatu antitribu:2
-2x Nehsi                      10  aus for OBF PRE PRO SER   2 votes        Ministry:2
-1x Arika                      11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-1x Leandro                    11  cel dom AUS OBF PRE       inner circle   Malkavian:2
-1x François Villon            10  chi obf pot AUS CEL PRE   prince         Toreador:2
-1x Queen Anne                 10  aus obf DOM FOR PRE       prince         Ventrue:2
-1x Khay'tall, Snake of Eden    9  aus DOM OBF PRE SER                      Ministry:2
-1x Klaus van der Veken         9  aus obf tha CEL PRE       prince         Toreador:2
+2x Aziz, Dammar of Istanbul   10  CEL OBF PRE QUI ser       2 votes        Banu Haqim:2
+2x Cailean                    10  ANI OBF POT PRE dom       archbishop     Nosferatu antitribu:2
+2x Nehsi                      10  OBF PRE PRO SER aus for   2 votes        Ministry:2
+1x Arika                      11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+1x Leandro                    11  AUS OBF PRE cel dom       inner circle   Malkavian:2
+1x François Villon            10  AUS CEL PRE chi obf pot   prince         Toreador:2
+1x Queen Anne                 10  DOM FOR PRE aus obf       prince         Ventrue:2
+1x Khay'tall, Snake of Eden    9  DOM OBF PRE SER aus                      Ministry:2
+1x Klaus van der Veken         9  CEL PRE aus obf tha       prince         Toreador:2
 
 Library (90 cards)
 Master (12)

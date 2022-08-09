@@ -8,18 +8,16 @@ Marcin Ruminski
 
 -- 5vp in the final
 
-"Enkidu and his little friends"
-
-Unknown
+Deck Name: "Enkidu and his little friends"
 
 Crypt (12 cards, min=14 max=44 avg=7.0)
 ---------------------------------------
-5x Enkidu, The Noah    11  for ANI CEL OBF POT PRO      Gangrel antitribu:4
-4x Antonio d'Erlette    5  dom for pot THA              Tremere antitribu:4
+5x Enkidu, The Noah    11  ANI CEL OBF POT PRO for      Gangrel antitribu:4
+4x Antonio d'Erlette    5  THA dom for pot              Tremere antitribu:4
 3x Keith Moody          3  DOM                          Tremere antitribu:4
 
 Library (77 cards)
-Master (13)
+Master (13; 4 trifle)
 6x Ashur Tablets
 1x Giant's Blood
 1x Monster

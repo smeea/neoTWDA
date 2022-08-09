@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9254
 
 -- 2gw6 + 2vp in the final
 
-Harringer of skulls mk II
+Deck Name: Harringer of skulls mk II
 
+Description:
 I upgraded the deck since last entry to have a few more combat ends since I was
 having a few problems with table hate/rush the rest remained the same. This
 deck is pretty much a toolbox deck with a lot of recursion with the
@@ -22,12 +23,12 @@ would make right now is a few delaying tactics if you expect a voting metagame.
 Crypt (12 cards, min=26 max=40 avg=7.83)
 ----------------------------------------
 4x Erlik                                 10  AUS CEL FOR NEC THN      Harbinger of Skulls:3
-4x Erebus                                 7  dem AUS FOR NEC          Harbinger of Skulls:3
-2x Egothha                                7  obf AUS FOR NEC          Harbinger of Skulls:2
-2x Agaitas, The Scholar of Antiquities    6  for AUS NEC              Harbinger of Skulls:2
+4x Erebus                                 7  AUS FOR NEC dem          Harbinger of Skulls:3
+2x Egothha                                7  AUS FOR NEC obf          Harbinger of Skulls:2
+2x Agaitas, The Scholar of Antiquities    6  AUS NEC for              Harbinger of Skulls:2
 
 Library (90 cards)
-Master (21)
+Master (21; 8 trifle)
 1x Archon Investigation
 3x Dreams of the Sphinx
 1x Fear of Mekhet

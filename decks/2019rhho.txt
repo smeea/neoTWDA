@@ -8,8 +8,9 @@ https://www.vekn.net/event-calendar/event/9470
 
 -- 0gw2 + 4vp in the final
 
-Farley Mowat V2.01
+Deck Name: Farley Mowat V2.01
 
+Description:
 Named after the author of the hilarious book "Never Cry Wolf," this is a
 twice-modified version of previously winning deck. This iteration seems more
 stable than previous versions. And I absolutely should have played this for the
@@ -24,7 +25,7 @@ Crypt (13 cards, min=4 max=14 avg=2.23)
 ---------------------------------------
 5x Anarch Convert                    1                   Caitiff:ANY
 1x Francesca Giovanni                4  dom nec pot      Giovanni:2
-1x Gloria Giovanni                   4  nec DOM          Giovanni:2
+1x Gloria Giovanni                   4  DOM nec          Giovanni:2
 1x Cristofero Giovanni               3  nec pot          Giovanni:2
 1x Lia Milliner                      3  dom nec          Giovanni:3
 1x Mario Giovanni                    3  nec pot          Giovanni:2
@@ -35,10 +36,10 @@ Crypt (13 cards, min=4 max=14 avg=2.23)
 Library (74 cards)
 Master (20)
 2x Anarch Railroad
-1x Anarch Troublemaker -- this can probably be omitted now.
+1x Anarch Troublemaker
 2x Creepshow Casino
 1x Direct Intervention
-1x Garibaldi-Meucci Museum -- unused this tournament
+1x Garibaldi-Meucci Museum
 2x Jake Washington
 5x Liquidation
 1x Pentex(TM) Subversion
@@ -48,15 +49,15 @@ Master (20)
 
 Action (18)
 4x Embrace, The
-9x Khazar's Diary (Endless Night) -- The "Moose Juice" of this deck.
-5x Sudario Refraction -- Recursion is dumb, dumb, dumb.
+9x Khazar's Diary (Endless Night)
+5x Sudario Refraction
 
 Ally (13)
 1x Carlton Van Wyk
-8x Cry Wolf -- extra entries in the Diary.
-1x Gianna di Canneto -- Burn guns, get an entry in the Diary.
+8x Cry Wolf
+1x Gianna di Canneto
 1x Ossian
-1x Tye Cooper -- synergy with Wolves, see also dumb, dumb, dumb.
+1x Tye Cooper
 1x Vivienne Géroux
 
 Equipment (1)

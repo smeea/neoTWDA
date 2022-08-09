@@ -8,22 +8,20 @@ Giulio Grimaldi
 
 -- 3vp in the final
 
-Arika chan
-
-Unknown
+Deck Name: Arika chan
 
 Crypt (12 cards, min=27 max=43 avg=9.0)
 ---------------------------------------
-3x Arika                  11  aus cel DOM FOR OBF PRE   inner circle   Ventrue:2
-2x Lucinde, Alastor       10  obf pot tha DOM FOR PRE   justicar       Ventrue:3
-2x Queen Anne             10  aus obf DOM FOR PRE       prince         Ventrue:2
-2x Victorine Lafourcade    8  tha DOM FOR PRE           prince         Ventrue:3
-1x Katarina Kornfeld       8  ani DOM FOR PRE           primogen       Ventrue:3
-1x Horatio Ballard         7  aus DOM FOR PRE                          Ventrue:3
+3x Arika                  11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2
+2x Lucinde, Alastor       10  DOM FOR PRE obf pot tha   justicar       Ventrue:3
+2x Queen Anne             10  DOM FOR PRE aus obf       prince         Ventrue:2
+2x Victorine Lafourcade    8  DOM FOR PRE tha           prince         Ventrue:3
+1x Katarina Kornfeld       8  DOM FOR PRE ani           primogen       Ventrue:3
+1x Horatio Ballard         7  DOM FOR PRE aus                          Ventrue:3
 1x Michael Luther          4  aus pre                                  Toreador:3
 
 Library (90 cards)
-Master (16)
+Master (16; 1 trifle)
 1x Creepshow Casino
 1x Direct Intervention
 3x Information Highway

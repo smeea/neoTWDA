@@ -8,8 +8,9 @@ Pascal Bertrand
 
 -- Unknown
 
-True Brujah Wall
+Deck Name: True Brujah Wall
 
+Description:
 The deck is fairly resilient. It's some kind of Una mono-vampire
 machine, with intercept provided by the Anima Gatherings (so, yes,
 it IS a True Brujah Wall deck). Enkil Cog is pretty much a GW-insurance.
@@ -23,12 +24,12 @@ Crypt (12 cards, min=12 max=40 avg=6.0)
 5x Shalmath       10  POT PRE TEM      True Brujah:6
 2x Kalila          3  aus obf          Malkavian:5
 2x Veejay Vinod    3  AUS              Nagaraja:6
-1x Tyler McGill    4  pre AUS          Toreador:5
+1x Tyler McGill    4  AUS pre          Toreador:5
 1x Andre LeRoux    3  aus              Toreador:5
 1x Gwen Brand      3  aus chi          Ravnos:5
 
 Library (71 cards)
-Master (16)
+Master (16; 6 trifle)
 1x Direct Intervention
 1x Guardian Angel
 1x Monastery of Shadows

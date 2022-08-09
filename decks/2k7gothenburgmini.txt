@@ -8,8 +8,9 @@ Erik Torstensson
 
 -- Unknown
 
-Imbused
+Deck Name: Imbused
 
+Description:
 Suggested post-tourney changes:
 -1 Channel 10
 -1 Forsee
@@ -31,7 +32,7 @@ Crypt (12 cards, min=13 max=20 avg=4.17)
 1x François "Warden" Loehr        3  def jud          Judge:4
 
 Library (89 cards)
-Master (25)
+Master (25; 2 trifle)
 4x Angel of Berlin
 1x Barrens, The
 1x Brothers Grimm

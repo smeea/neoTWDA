@@ -8,9 +8,7 @@ Tony Wedd
 
 -- Unknown
 
-Maelific
-
-Unknown
+Deck Name: Maelific
 
 Crypt (12 cards, min=12 max=40 avg=5.92)
 ----------------------------------------
@@ -18,7 +16,7 @@ Crypt (12 cards, min=12 max=40 avg=5.92)
 5x unnamed, The   10  CEL DAI OBF PRE PRO      Baali:6
 
 Library (78 cards)
-Master (24)
+Master (24; 10 trifle)
 1x Archon Investigation
 1x Direct Intervention
 9x Maleficia

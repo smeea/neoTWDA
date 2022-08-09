@@ -8,8 +8,9 @@ Asif Chaudhry
 
 -- Unknown
 
-Mordechai Ben Nun & Friends HATE THE IMBUED!
+Deck Name: Mordechai Ben Nun & Friends HATE THE IMBUED!
 
+Description:
 After snatching defeat from the jaws of victory one
 too many times while facing the imbued, I decided I wanted to make
 a deck that could effectively deal with them.
@@ -22,14 +23,14 @@ Mordechai is the super star. Want to:
 Crypt (12 cards, min=23 max=32 avg=7.08)
 ----------------------------------------
 5x Mordechai Ben-Nun   8  ANI AUS FOR NEC          Harbinger of Skulls:5
-3x Babalawo Alafin     7  ani AUS FOR NEC          Harbinger of Skulls:4
-1x Phagian             8  dom for AUS NEC THA      Harbinger of Skulls:4
-1x Zygodat             6  pot AUS NEC              Harbinger of Skulls:4
+3x Babalawo Alafin     7  AUS FOR NEC ani          Harbinger of Skulls:4
+1x Phagian             8  AUS NEC THA dom for      Harbinger of Skulls:4
+1x Zygodat             6  AUS NEC pot              Harbinger of Skulls:4
 1x Nicomedes           5  aus for nec vic          Harbinger of Skulls:4
-1x Solomon Batanea     5  nec AUS FOR              Harbinger of Skulls:4
+1x Solomon Batanea     5  AUS FOR nec              Harbinger of Skulls:4
 
 Library (90 cards)
-Master (9)
+Master (9; 2 trifle)
 2x Archon Investigation
 1x Direct Intervention
 1x Maabara

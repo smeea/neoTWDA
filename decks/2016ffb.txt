@@ -8,21 +8,19 @@ https://www.vekn.net/event-calendar/event/8315
 
 -- 4vp in the final
 
-Mautone Montano
-
-Unknown
+Deck Name: Mautone Montano
 
 Crypt (12 cards, min=34 max=44 avg=9.83)
 ----------------------------------------
 5x Montano                                  11  ANI DOM FOR OBT POT       2 votes      Lasombra:3
-2x Antonio Delgado                           9  tha DOM OBT POT           archbishop   Lasombra:2
-2x Gratiano                                  8  obf pot DOM OBT           priscus      Lasombra:2
-1x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal     Lasombra:2
+2x Antonio Delgado                           9  DOM OBT POT tha           archbishop   Lasombra:2
+2x Gratiano                                  8  DOM OBT obf pot           priscus      Lasombra:2
+1x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2
 1x Marcus Vitel                             10  DOM FOR OBF OBT PRE       prince       Ventrue:3
-1x Francisco Domingo de Polonia              9  pro DOM OBT POT PRE       archbishop   Lasombra:2
+1x Francisco Domingo de Polonia              9  DOM OBT POT PRE pro       archbishop   Lasombra:2
 
 Library (80 cards)
-Master (18)
+Master (18; 4 trifle)
 1x Direct Intervention
 1x Dreams of the Sphinx
 1x Elysian Fields

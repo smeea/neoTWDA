@@ -8,22 +8,21 @@ Greg Williams
 
 -- Unknown
 
-Unknown
-
+Description:
 DECK NAME: Children of the Damned
 By: Greg Williams
 
 Crypt (12 cards, min=15 max=25 avg=5.0)
 ---------------------------------------
-5x Antonio d'Erlette    5  dom for pot THA            Tremere antitribu:4
-2x Olugbenga            7  ani cel OBF QUI   magaji   Banu Haqim:4
-2x Kamau Jafari         4  obf QUI                    Banu Haqim:4
-1x Hafsa, The Watcher   6  aus cel OBF QUI            Banu Haqim:5
-1x Layla bint-Nadr      5  qui CEL OBF                Banu Haqim:4
+5x Antonio d'Erlette    5  THA dom for pot            Tremere antitribu:4
+2x Olugbenga            7  OBF QUI ani cel   magaji   Banu Haqim:4
+2x Kamau Jafari         4  QUI obf                    Banu Haqim:4
+1x Hafsa, The Watcher   6  OBF QUI aus cel            Banu Haqim:5
+1x Layla bint-Nadr      5  CEL OBF qui                Banu Haqim:4
 1x Alu                  2  obf                        Banu Haqim:5
 
 Library (90 cards)
-Master (18)
+Master (18; 2 trifle)
 7x Ascendance
 3x Dreams of the Sphinx
 1x KRCG News Radio

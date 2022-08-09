@@ -8,8 +8,7 @@ https://www.vekn.net/event-calendar/event/8300
 
 -- Unknown
 
-Unknown
-
+Description:
 Final table: Lauri (Vlad Tepes Toolbox) -> Tero (Ravnos week of nightmares) -> Teemu (Deck list under) -> Mikko (Muaziz combo) -> Jari (Ventrue AT stealth bleed)
 
 Teemu 3 vp
@@ -22,19 +21,19 @@ The finals started that I (Lauri) played crosstable banishment on Muaziz and the
 
 Crypt (12 cards, min=31 max=37 avg=8.67)
 ----------------------------------------
-3x Undele                9  obf pre ser CEL FOR       magaji     Ishtarri:5
-1x Mary Anne Blaire     10  ani pot AUS DOM FOR PRE   justicar   Ventrue:5
-1x Dmitra Ilyanova       9  obf CEL FOR POT PRE       justicar   Brujah:5
+3x Undele                9  CEL FOR obf pre ser       magaji     Ishtarri:5
+1x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot   justicar   Ventrue:5
+1x Dmitra Ilyanova       9  CEL FOR POT PRE obf       justicar   Brujah:5
 1x Gerald Windham        9  AUS DOM FOR THA                      Tremere:5
 1x Johannes Castelein    9  DEM DOM FOR PRE           prince     Ventrue:4
-1x Orlando Oriundus      9  obf AUS DOM THA           bishop     Tremere antitribu:4
-1x Carlak                8  dom pot CEL PRE           prince     Brujah:5
-1x Epikasta Rigatos      8  cel AUS DOM PRE           prince     Toreador:4
-1x Lodin (Olaf Holte)    8  aus pro DOM FOR PRE       prince     Ventrue:5
-1x Graham Gottesman      7  obf pre tha DOM FOR       prince     Ventrue:5
+1x Orlando Oriundus      9  AUS DOM THA obf           bishop     Tremere antitribu:4
+1x Carlak                8  CEL PRE dom pot           prince     Brujah:5
+1x Epikasta Rigatos      8  AUS DOM PRE cel           prince     Toreador:4
+1x Lodin (Olaf Holte)    8  DOM FOR PRE aus pro       prince     Ventrue:5
+1x Graham Gottesman      7  DOM FOR obf pre tha       prince     Ventrue:5
 
 Library (77 cards)
-Master (24)
+Master (24; 8 trifle)
 1x Creepshow Casino
 2x Dreams of the Sphinx
 1x Elysium: The Palace of Versailles

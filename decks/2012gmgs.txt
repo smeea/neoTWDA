@@ -8,8 +8,9 @@ Ida Olsson Bjärmark
 
 -- 3vp in the final
 
-Dreams of the Fae
+Deck Name: Dreams of the Fae
 
+Description:
 Winner: Ida Olsson Bjärmark
 and Alex Båskman
 we make expand then defense it but very hard if my enemy
@@ -17,18 +18,18 @@ make many deflection
 
 Crypt (12 cards, min=16 max=26 avg=5.25)
 ----------------------------------------
-2x Roderick Phillips March   7  cel obt tha DOM MYT      Kiasyd:4
+2x Roderick Phillips March   7  DOM MYT cel obt tha      Kiasyd:4
 2x Isanwayen                 6  DOM MYT OBT              Kiasyd:4
-2x Dame Hollerton            5  myt DOM OBT              Kiasyd:4
-1x Onaedo                    6  aus pot DOM OBT          Lasombra:4
-1x Banjoko                   5  obt pot DOM              Lasombra:3
-1x Ermenegildo, The Rake     5  pot DOM OBT              Lasombra:4
+2x Dame Hollerton            5  DOM OBT myt              Kiasyd:4
+1x Onaedo                    6  DOM OBT aus pot          Lasombra:4
+1x Banjoko                   5  DOM obt pot              Lasombra:3
+1x Ermenegildo, The Rake     5  DOM OBT pot              Lasombra:4
 1x Leila Monroe              4  dom obt pre              Lasombra:4
 1x Quincy, The Trapper       4  dom myt obt              Kiasyd:3
 1x Lucy Markowitz            3  dom obt                  Lasombra:4
 
 Library (60 cards)
-Master (23)
+Master (23; 3 trifle)
 6x Ashur Tablets
 1x Coven, The
 7x Dreams of the Sphinx

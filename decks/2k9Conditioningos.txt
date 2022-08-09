@@ -8,9 +8,7 @@ Ivan Marin-Rivas
 
 -- 3vp in the final
 
-Imbued the Eternal Struggle
-
-Unknown
+Deck Name: Imbued the Eternal Struggle
 
 Crypt (12 cards, min=14 max=21 avg=4.42)
 ----------------------------------------

@@ -8,20 +8,21 @@ Jeffrey Thompson
 
 -- Unknown
 
-Bloodform
+Deck Name: Bloodform
 
+Description:
 Concept: Tzimisce Bleed, Intercept, taking no damage during combat.
 
 Crypt (12 cards, min=22 max=38 avg=7.67)
 ----------------------------------------
-2x Lambach                            10  pre ANI AUS DOM VIC   cardinal     Tzimisce:2
-2x Stravinsky                          9  pot ANI AUS VIC       archbishop   Tzimisce:2
-2x Little Tailor of Prague             8  dem ANI AUS VIC                    Tzimisce:2
+2x Lambach                            10  ANI AUS DOM VIC pre   cardinal     Tzimisce:2
+2x Stravinsky                          9  ANI AUS VIC pot       archbishop   Tzimisce:2
+2x Little Tailor of Prague             8  ANI AUS VIC dem                    Tzimisce:2
 2x Caliban                             6  ANI AUS VIC                        Tzimisce:2
 1x Meshenka                            8  ANI AUS VIC           priscus      Tzimisce:2
-1x Sascha Vykos, The Angel of Caine    8  ani dom AUS THA VIC   priscus      Tzimisce:2
-1x Corine Marcón                       6  ani AUS VIC                        Tzimisce:2
-1x Lolita Houston                      4  aus VIC                            Tzimisce:2
+1x Sascha Vykos, The Angel of Caine    8  AUS THA VIC ani dom   priscus      Tzimisce:2
+1x Corine Marcón                       6  AUS VIC ani                        Tzimisce:2
+1x Lolita Houston                      4  VIC aus                            Tzimisce:2
 
 Library (90 cards)
 Master (13)

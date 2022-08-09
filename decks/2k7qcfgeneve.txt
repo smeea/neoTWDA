@@ -8,9 +8,7 @@ Olivier Perez
 
 -- Unknown
 
-imbued_dreams3
-
-Unknown
+Deck Name: imbued_dreams3
 
 Crypt (12 cards, min=16 max=20 avg=4.58)
 ----------------------------------------

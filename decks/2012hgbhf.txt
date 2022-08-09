@@ -8,23 +8,19 @@ Janne Lönnqvist
 
 -- Unknown
 
-Unknown
-
-Unknown
-
 Crypt (12 cards, min=20 max=32 avg=6.58)
 ----------------------------------------
-4x Paul Cordwood      8  obf pre AUS DOM THA   bishop   Tremere antitribu:4
-2x Preston Varrick    7  aus nec DOM OBF THA            Tremere:4
-1x Graham Gottesman   7  obf pre tha DOM FOR   prince   Ventrue:5
-1x Halim Bey          6  obf tha DOM SER                Ministry:4
-1x Jefferson Foster   6  for tha AUS DOM       bishop   Ventrue antitribu:4
+4x Paul Cordwood      8  AUS DOM THA obf pre   bishop   Tremere antitribu:4
+2x Preston Varrick    7  DOM OBF THA aus nec            Tremere:4
+1x Graham Gottesman   7  DOM FOR obf pre tha   prince   Ventrue:5
+1x Halim Bey          6  DOM SER obf tha                Ministry:4
+1x Jefferson Foster   6  AUS DOM for tha       bishop   Ventrue antitribu:4
 1x Andrew Stuart      5  AUS DOM THA                    Tremere:4
-1x Frondator          5  dom tha AUS           bishop   Tremere antitribu:4
+1x Frondator          5  AUS dom tha           bishop   Tremere antitribu:4
 1x Janine             4  aus dom tha                    Tremere antitribu:4
 
 Library (75 cards)
-Master (9)
+Master (9; 2 trifle)
 1x Anarch Troublemaker
 1x Coven, The
 1x Giant's Blood

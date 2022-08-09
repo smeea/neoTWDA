@@ -8,19 +8,17 @@ David Litwin
 
 -- 4vp in the final
 
-Armin Still Hammering
-
-Unknown
+Deck Name: Armin Still Hammering
 
 Crypt (12 cards, min=36 max=40 avg=9.33)
 ----------------------------------------
-4x Armin Brenner     10  ani obf CEL FOR POT PRE   archbishop   Brujah antitribu:4
-3x Hektor             9  for CEL POT PRE QUI       priscus      Brujah antitribu:4
-3x Undele             9  obf pre ser CEL FOR       magaji       Ishtarri:5
-2x Dmitra Ilyanova    9  obf CEL FOR POT PRE       justicar     Brujah:5
+4x Armin Brenner     10  CEL FOR POT PRE ani obf   archbishop   Brujah antitribu:4
+3x Hektor             9  CEL POT PRE QUI for       priscus      Brujah antitribu:4
+3x Undele             9  CEL FOR obf pre ser       magaji       Ishtarri:5
+2x Dmitra Ilyanova    9  CEL FOR POT PRE obf       justicar     Brujah:5
 
 Library (90 cards)
-Master (17)
+Master (17; 6 trifle)
 1x Black Forest Base
 3x Dreams of the Sphinx
 1x Giant's Blood

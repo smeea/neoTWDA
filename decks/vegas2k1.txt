@@ -8,8 +8,7 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vy6Acv8qbWA
 
 -- Unknown
 
-Unknown
-
+Description:
 Bird Man of Alcatraz
 
 Caleb said his goal is simple. Get 7 Raptors and Eternal Vigilance on Lambach,
@@ -19,8 +18,8 @@ It lasted 3 hours 15 minutes (yeesh!). Caleb said he would improve the
 
 Crypt (12 cards, min=38 max=40 avg=9.83)
 ----------------------------------------
-11x Lambach   10  pre ANI AUS DOM VIC   cardinal   Tzimisce:2
-1x  Anson      8  aus dom CEL PRE       prince     Toreador:1
+11x Lambach   10  ANI AUS DOM VIC pre   cardinal   Tzimisce:2
+1x  Anson      8  CEL PRE aus dom       prince     Toreador:1
 
 Library (60 cards)
 Master (20)

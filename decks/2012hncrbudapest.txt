@@ -8,25 +8,26 @@ Gergo Gyarmati
 
 -- 1.5vp in the final
 
-Mano negra illegal 2012
+Deck Name: Mano negra illegal 2012
 
+Description:
 "Babi neni" and friends.
 This deck is a renewed version of a deck I played on several
 tournaments with pretty good results.
 
 Crypt (12 cards, min=15 max=26 avg=5.42)
 ----------------------------------------
-4x Sennadurek              6  dom AUS NEC          Nagaraja:4
+4x Sennadurek              6  AUS NEC dom          Nagaraja:4
 2x Piotr Andreikov         2  aus                  Tzimisce:3
 1x Blackhorse Tanner       7  AUS DOM FOR          Ventrue antitribu:3
-1x Kazimir Savostin        7  ani pot AUS VIC      Tzimisce:3
-1x Dominique Santo Paulo   6  pot pre AUS CEL      Toreador antitribu:4
-1x Ingram Frizer           6  ani pot AUS OBF      Nosferatu antitribu:3
+1x Kazimir Savostin        7  AUS VIC ani pot      Tzimisce:3
+1x Dominique Santo Paulo   6  AUS CEL pot pre      Toreador antitribu:4
+1x Ingram Frizer           6  AUS OBF ani pot      Nosferatu antitribu:3
 1x Selena                  6  AUS DOM THA          Tremere antitribu:3
-1x Colonel, The            5  cel dem obf AUS      Malkavian antitribu:3
+1x Colonel, The            5  AUS cel dem obf      Malkavian antitribu:3
 
 Library (90 cards)
-Master (20)
+Master (20; 11 trifle)
 4x Corporal Reservoir
 2x Direct Intervention
 1x Lilith's Blessing

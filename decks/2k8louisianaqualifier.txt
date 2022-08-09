@@ -8,8 +8,9 @@ http://archonoftheswamp.tripod.com/rogue-nation.htm
 
 -- 4vp in the final
 
-Sheldon & Co 2008
+Deck Name: Sheldon & Co 2008
 
+Description:
 Standard Ugly Princes. Was preyed on by
 Jon Glas' Marcus Vitel & Hunters in 3 of the 4 rounds.
 I back ousted him in the 1st round, then was one of
@@ -22,18 +23,18 @@ Convergence, then there should be more than one in your deck.
 
 Crypt (12 cards, min=23 max=36 avg=7.5)
 ---------------------------------------
-3x Sheldon, Lord of the Clog   9  for ANI AUS OBF POT   justicar   Nosferatu:1
-2x Suhailah                    9  pot ser FOR OBF       prince     Ventrue:2
-1x Selma the Repugnant         8  ani for OBF POT       prince     Nosferatu:1
+3x Sheldon, Lord of the Clog   9  ANI AUS OBF POT for   justicar   Nosferatu:1
+2x Suhailah                    9  FOR OBF pot ser       prince     Ventrue:2
+1x Selma the Repugnant         8  OBF POT ani for       prince     Nosferatu:1
 1x Gilbert Duane               7  AUS DOM OBF           prince     Malkavian:1
-1x Murat                       7  ser OBF POT           prince     Nosferatu:2
-1x Nikolaus Vermeulen          7  ani for obf POT       prince     Nosferatu:2
-1x Rake                        6  aus cel pot PRE       prince     Brujah:1
-1x Calebros, The Martyr        5  obf pot ANI           prince     Nosferatu:2
-1x Volker, The Puppet Prince   5  pot CEL               prince     Brujah:2
+1x Murat                       7  OBF POT ser           prince     Nosferatu:2
+1x Nikolaus Vermeulen          7  POT ani for obf       prince     Nosferatu:2
+1x Rake                        6  PRE aus cel pot       prince     Brujah:1
+1x Calebros, The Martyr        5  ANI obf pot           prince     Nosferatu:2
+1x Volker, The Puppet Prince   5  CEL pot               prince     Brujah:2
 
 Library (90 cards)
-Master (16)
+Master (16; 1 trifle)
 1x Anachronism
 1x Archon Investigation
 5x Blood Doll

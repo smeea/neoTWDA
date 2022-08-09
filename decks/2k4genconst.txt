@@ -8,8 +8,9 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/oVShk-Cn-tA
 
 -- Unknown
 
-Kamut Krisp
+Deck Name: Kamut Krisp
 
+Description:
 Begin Ankur's comments]
 
 The deck name is from an unusually terrifying cereal of the same name.
@@ -131,17 +132,17 @@ c) eliminating dangerous votes from the table.
 
 Crypt (12 cards, min=13 max=29 avg=5.5)
 ---------------------------------------
-3x Ingram Frizer             6  ani pot AUS OBF          Nosferatu antitribu:3
-2x Teresita, The Godmother   7  for ANI OBF POT          Nosferatu antitribu:3
+3x Ingram Frizer             6  AUS OBF ani pot          Nosferatu antitribu:3
+2x Teresita, The Godmother   7  ANI OBF POT for          Nosferatu antitribu:3
 2x Piotr Andreikov           2  aus                      Tzimisce:3
-1x Tarbaby Jack              8  dom ser ANI OBF POT      Nosferatu antitribu:3
-1x Kazimir Savostin          7  ani pot AUS VIC          Tzimisce:3
-1x Quira, The Bitch Queen    6  obt tha AUS OBF          Malkavian antitribu:2
-1x Colonel, The              5  cel dem obf AUS          Malkavian antitribu:3
-1x Roger Farnsworth          4  aus OBF                  Malkavian antitribu:3
+1x Tarbaby Jack              8  ANI OBF POT dom ser      Nosferatu antitribu:3
+1x Kazimir Savostin          7  AUS VIC ani pot          Tzimisce:3
+1x Quira, The Bitch Queen    6  AUS OBF obt tha          Malkavian antitribu:2
+1x Colonel, The              5  AUS cel dem obf          Malkavian antitribu:3
+1x Roger Farnsworth          4  OBF aus                  Malkavian antitribu:3
 
 Library (90 cards)
-Master (15)
+Master (15; 3 trifle)
 1x Admonitions, The
 4x Blood Doll
 3x Corporal Reservoir

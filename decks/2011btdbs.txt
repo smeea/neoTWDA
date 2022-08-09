@@ -8,22 +8,20 @@ Soufiane Bouzouf
 
 -- Unknown
 
-Unexpected Coalition
-
-Unknown
+Deck Name: Unexpected Coalition
 
 Crypt (12 cards, min=20 max=39 avg=7.42)
 ----------------------------------------
-3x Armin Brenner          10  ani obf CEL FOR POT PRE   archbishop   Brujah antitribu:4
-3x Miguel Santo Domingo    7  cel for POT PRE                        Brujah antitribu:3
-2x Hektor                  9  for CEL POT PRE QUI       priscus      Brujah antitribu:4
-1x Ryszard                 6  pre pro CEL OBF           bishop       Gangrel antitribu:4
-1x Shawnda Dorrit          6  obt pot pre CEL           priscus      Brujah antitribu:4
-1x Axel Von Anders         5  cel obf pot PRE                        Brujah antitribu:4
+3x Armin Brenner          10  CEL FOR POT PRE ani obf   archbishop   Brujah antitribu:4
+3x Miguel Santo Domingo    7  POT PRE cel for                        Brujah antitribu:3
+2x Hektor                  9  CEL POT PRE QUI for       priscus      Brujah antitribu:4
+1x Ryszard                 6  CEL OBF pre pro           bishop       Gangrel antitribu:4
+1x Shawnda Dorrit          6  CEL obt pot pre           priscus      Brujah antitribu:4
+1x Axel Von Anders         5  PRE cel obf pot                        Brujah antitribu:4
 1x Smash                   3  pot pre                                Brujah antitribu:4
 
 Library (90 cards)
-Master (16)
+Master (16; 5 trifle)
 1x Anarch Troublemaker
 1x Black Forest Base
 1x Coven, The

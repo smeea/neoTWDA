@@ -8,8 +8,9 @@ Christian Chénard
 
 -- Unknown
 
-Striking at the Vitals
+Deck Name: Striking at the Vitals
 
+Description:
 Imbued deck using Target Vitals. Nothing fancy but
 effective like we know.
 

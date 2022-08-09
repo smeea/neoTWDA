@@ -8,8 +8,9 @@ Adam Esbjörnsson
 
 -- Unknown
 
-Girls will find inner peace
+Deck Name: Girls will find inner peace
 
+Description:
 Thanks to Teemu Sainomaa, Erik Torstensson, Isak
 Bjärmark Esbjörnsson and Alex Ek for perfecting and evolving the
 original deck by Teemu.
@@ -17,14 +18,14 @@ original deck by Teemu.
 Crypt (12 cards, min=36 max=44 avg=10.0)
 ----------------------------------------
 4x Cybele                  10  ANI DAI OBF PRE SER THA                  Baali:4
-4x Aksinya Daclau           9  cel tha ANI FOR PRE PRO                  Gangrel antitribu:4
-1x Adana de Sforza         11  aus CEL OBF POT PRE PRO   inner circle   Brujah:4
-1x Lutz von Hohenzollern   11  pot AUS DEM OBF PRE       inner circle   Malkavian:4
+4x Aksinya Daclau           9  ANI FOR PRE PRO cel tha                  Gangrel antitribu:4
+1x Adana de Sforza         11  CEL OBF POT PRE PRO aus   inner circle   Brujah:4
+1x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4
 1x Mistress Fanchon        11  AUS CEL DOM OBF THA VIC   inner circle   Tremere:4
 1x Rafael de Corazon       11  AUS CEL DOM OBF PRE       inner circle   Toreador:4
 
 Library (77 cards)
-Master (41)
+Master (41; 8 trifle)
 1x Anarch Troublemaker
 6x Ashur Tablets
 1x Blind Spot

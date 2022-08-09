@@ -8,23 +8,22 @@ Anthony Coleman
 
 -- Unknown
 
-Unknown
-
+Description:
 Tsunda - Return of the King
 Designers: Alex Ek and Anthony Coleman
 
 Crypt (12 cards, min=13 max=24 avg=4.83)
 ----------------------------------------
-5x Tsunda                        6  abo ani dem CHI   magaji   Ravnos:4
+5x Tsunda                        6  CHI abo ani dem   magaji   Ravnos:4
 2x Paul Forrest, False Prophet   5  chi for pre                Ravnos:4
-1x Callirus                      5  ani CHI FOR                Ravnos:4
+1x Callirus                      5  CHI FOR ani                Ravnos:4
 1x Devyn                         4  ani chi pre                Ravnos:4
-1x Gharston Roland               4  ani pot CHI                Ravnos:4
+1x Gharston Roland               4  CHI ani pot                Ravnos:4
 1x Marion French                 3  ani chi                    Ravnos:4
 1x Zip                           2  ani                        Ravnos:3
 
 Library (70 cards)
-Master (13)
+Master (13; 1 trifle)
 1x Coven, The
 1x Creepshow Casino
 2x Fortune Teller Shop

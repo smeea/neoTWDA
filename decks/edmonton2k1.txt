@@ -8,8 +8,9 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vuNbofBBPS0
 
 -- Unknown
 
-2k1.6.03 v0.6 (Edit)
+Deck Name: 2k1.6.03 v0.6 (Edit)
 
+Description:
 https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0sk7pwVY57Y
 
 
@@ -40,14 +41,14 @@ with four-plus minions.
 
 Crypt (12 cards, min=15 max=37 avg=6.67)
 ----------------------------------------
-2x Gratiano                                  8  obf pot DOM OBT           priscus      Lasombra:2
-1x Ambrosio Luis Monçada, Plenipotentiary   10  aus for DOM OBT POT PRE   cardinal     Lasombra:2
-1x Angelica, The Canonicus                  10  cel obf DOM OBT POT       cardinal     Lasombra:2
-1x Francisco Domingo de Polonia              9  pro DOM OBT POT PRE       archbishop   Lasombra:2
-1x Lucita                                    8  cel pot DOM FOR OBT                    Lasombra:2
-1x Aurora Van Brande, Paladin                6  dom for pot OBT                        Lasombra:2
-1x Talley, The Hound                         6  aus dom OBT POT                        Lasombra:2
-1x Guido Lucciano                            5  dom obf OBT                            Lasombra:2
+2x Gratiano                                  8  DOM OBT obf pot           priscus      Lasombra:2
+1x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2
+1x Angelica, The Canonicus                  10  DOM OBT POT cel obf       cardinal     Lasombra:2
+1x Francisco Domingo de Polonia              9  DOM OBT POT PRE pro       archbishop   Lasombra:2
+1x Lucita                                    8  DOM FOR OBT cel pot                    Lasombra:2
+1x Aurora Van Brande, Paladin                6  OBT dom for pot                        Lasombra:2
+1x Talley, The Hound                         6  OBT POT aus dom                        Lasombra:2
+1x Guido Lucciano                            5  OBT dom obf                            Lasombra:2
 1x Ignacio, The Black Priest                 4  dom obt pot                            Lasombra:2
 1x Ramiro                                    4  dom obt vic                            Lasombra:2
 1x Mitchell, The Headhunter                  2  obt pot                                Pander:2

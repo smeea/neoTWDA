@@ -8,8 +8,9 @@ Riccardo Fabiani
 
 -- Unknown
 
-Para Bailar la Bamba
+Deck Name: Para Bailar la Bamba
 
+Description:
 A breed and vote deck with Bamba and Amaravati,
 taking advantage of a good laibon spread into the Assamite clan.
 The main idea is to breed enough Bambas, bleed occasionally to
@@ -19,14 +20,14 @@ big votes like Reckless
 
 Crypt (12 cards, min=11 max=31 avg=5.58)
 ----------------------------------------
-4x Olugbenga      7  ani cel OBF QUI       magaji   Banu Haqim:4
-3x Amaravati      8  ani chi DOM OBF QUI            Banu Haqim:4
-3x Kamau Jafari   4  obf QUI                        Banu Haqim:4
+4x Olugbenga      7  OBF QUI ani cel       magaji   Banu Haqim:4
+3x Amaravati      8  DOM OBF QUI ani chi            Banu Haqim:4
+3x Kamau Jafari   4  QUI obf                        Banu Haqim:4
 1x Alu            2  obf                            Banu Haqim:5
 1x Basir          1  qui                            Banu Haqim:4
 
 Library (81 cards)
-Master (18)
+Master (18; 3 trifle)
 3x Alamut
 1x Ancestor Spirit
 1x Black Throne, The

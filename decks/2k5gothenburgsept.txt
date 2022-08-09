@@ -8,18 +8,16 @@ Erik Torstensson
 
 -- Unknown
 
-Summon the Serpent
-
-Unknown
+Deck Name: Summon the Serpent
 
 Crypt (12 cards, min=23 max=40 avg=8.33)
 ----------------------------------------
 6x Cybele                        10  ANI DAI OBF PRE SER THA              Baali:4
-1x Neferu                         9  dom nec OBF PRE SER THA   2 votes    Ministry:4
-1x Cagliostro, The Grand Copht    8  nec pot OBF PRE SER                  Ministry:4
-1x Amenophobis                    7  dom pre OBF SER           primogen   Ministry:4
-1x Allonzo Montoya                6  ani aus OBF SER                      Abomination:3
-1x Ankh-sen-Sutekh                6  obf PRE SER                          Ministry:4
+1x Neferu                         9  OBF PRE SER THA dom nec   2 votes    Ministry:4
+1x Cagliostro, The Grand Copht    8  OBF PRE SER nec pot                  Ministry:4
+1x Amenophobis                    7  OBF SER dom pre           primogen   Ministry:4
+1x Allonzo Montoya                6  OBF SER ani aus                      Abomination:3
+1x Ankh-sen-Sutekh                6  PRE SER obf                          Ministry:4
 1x Sahira Siraj                   4  obf ser tha                          Ministry:4
 
 Library (90 cards)
