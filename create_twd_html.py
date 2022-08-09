@@ -5,7 +5,7 @@ import textwrap
 
 
 def format_deck(id, entry):
-    STRING_LIMIT = 90
+    STRING_LIMIT = 100
 
     rows = [row.strip() for row in entry.splitlines()]
 

@@ -10,9 +10,6 @@ https://www.vekn.net/event-calendar/event/9897
 
 Deck Name: Desso Esmeralda
 
-Description:
-Crypt (12 cards; Capacity min=5 max=10 avg=7.25)
-
 Crypt (12 cards, min=24 max=40 avg=7.67)
 ----------------------------------------
 4x Erlik             10  AUS CEL FOR NEC THN      Harbinger of Skulls:3
