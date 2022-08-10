@@ -18,7 +18,7 @@ without too much effort.
 Crypt (15 cards, min=6 max=21 avg=3.73)
 ---------------------------------------
 3x Jennie "Cassie247" Orne        5  inn jud vis      Visionary:4
-3x Travis "Traveler72" Miller     5  mar def          Martyr:4
+3x Travis "Traveler72" Miller     5  def mar          Martyr:4
 3x Afifa, The Herald              1  dom              Caitiff:4
 2x Keith Moody                    3  DOM              Tremere antitribu:4
 1x Earl "Shaka74" Deams           6  jud mar vis      Visionary:4

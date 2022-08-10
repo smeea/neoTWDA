@@ -72,7 +72,7 @@ Intervention.
 
 Crypt (12 cards, min=12 max=21 avg=4.08)
 ----------------------------------------
-2x Travis "Traveler72" Miller      5  mar def          Martyr:4
+2x Travis "Traveler72" Miller      5  def mar          Martyr:4
 1x Earl "Shaka74" Deams            6  jud mar vis      Visionary:4
 1x Jennie "Cassie247" Orne         5  inn jud vis      Visionary:4
 1x Erick "Shophet125" Franco       4  inn jud          Judge:4

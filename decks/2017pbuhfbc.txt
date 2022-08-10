@@ -17,7 +17,7 @@ Crypt (12 cards, min=36 max=44 avg=10.17)
 -----------------------------------------
 5x Malgorzata       9  AUS DOM THA VIC pre       priscus   Tremere antitribu:4
 4x Capuchin, The   11  AUS DOM FOR NEC THA THN             Harbinger of Skulls:5
-3x Lord Tremere    11  ANI AUS DOM VIC THA obe             Tremere:5
+3x Lord Tremere    11  ANI AUS DOM THA VIC obe             Tremere:5
 
 Library (90 cards)
 Master (23; 7 trifle)

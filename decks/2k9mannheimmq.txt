@@ -17,7 +17,7 @@ Bisschen hart an alles zu denken Smile Und Glück braucht man auch.
 Crypt (13 cards, min=11 max=20 avg=3.92)
 ----------------------------------------
 3x Jennie "Cassie247" Orne      5  inn jud vis      Visionary:4
-2x Travis "Traveler72" Miller   5  mar def          Martyr:4
+2x Travis "Traveler72" Miller   5  def mar          Martyr:4
 2x Lia Milliner                 3  dom nec          Giovanni:3
 1x Erick "Shophet125" Franco    4  inn jud          Judge:4
 1x Jack "Hannibal137" Harmon    4  def jud          Defender:4

@@ -13,7 +13,7 @@ Deck Name: Paralyze This!
 Crypt (12 cards, min=14 max=20 avg=4.17)
 ----------------------------------------
 2x Jennie "Cassie247" Orne       5  inn jud vis      Visionary:4
-2x Travis "Traveler72" Miller    5  mar def          Martyr:4
+2x Travis "Traveler72" Miller    5  def mar          Martyr:4
 2x Maman Boumba                  4  inn mar          Martyr:4
 1x Jack "Hannibal137" Harmon     4  def jud          Defender:4
 1x John "Cop90" O'Malley         4  jud ven          Avenger:4

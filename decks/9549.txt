@@ -14,7 +14,7 @@ Crypt (12 cards, min=14 max=28 avg=5.42)
 ----------------------------------------
 2x Alexander Silverson   8  AUS DOM OBF pre   prince   Malkavian:6
 2x Andi Liu              6  DOM aus obf pre   prince   Malkavian:6
-2x Donny Kowalczyk       6  AUS obf dom cel   prince   Malkavian:6
+2x Donny Kowalczyk       6  AUS cel dom obf   prince   Malkavian:6
 1x Gelasia Fotiou        6  AUS DOM obf pre            Malkavian:6
 1x Colette               5  AUS OBF dom                Malkavian:6
 1x Dr. Stephen Norton    4  OBF aus                    Malkavian:6

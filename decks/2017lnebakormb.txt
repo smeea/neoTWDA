@@ -12,7 +12,7 @@ Deck Name: RETURN OF HADES
 
 Crypt (15 cards, min=28 max=44 avg=9.2)
 ---------------------------------------
-3x Lord Tremere            11  ANI AUS DOM VIC THA obe                  Tremere:5
+3x Lord Tremere            11  ANI AUS DOM THA VIC obe                  Tremere:5
 3x Gabrielle di Righetti   10  ANI AUS DOM THA obf pot   justicar       Tremere:5
 3x Dr. John Dee             9  ANI AUS DOM THA chi       prince         Tremere:4
 3x Malgorzata               9  AUS DOM THA VIC pre       priscus        Tremere antitribu:4

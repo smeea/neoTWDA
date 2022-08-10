@@ -13,7 +13,7 @@ Deck Name: Anti-Lording
 Crypt (12 cards, min=29 max=42 avg=8.92)
 ----------------------------------------
 3x Malgorzata            9  AUS DOM THA VIC pre       priscus      Tremere antitribu:4
-2x Lord Tremere         11  ANI AUS DOM VIC THA obe                Tremere:5
+2x Lord Tremere         11  ANI AUS DOM THA VIC obe                Tremere:5
 2x Lucubratio           10  AUS DOM POT PRE THA       archbishop   Tremere antitribu:4
 1x Orlando Oriundus      9  AUS DOM THA obf           bishop       Tremere antitribu:4
 1x Eric Kressida         8  AUS DOM PRO THA cel       bishop       Tremere antitribu:4

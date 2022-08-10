@@ -12,7 +12,7 @@ Deck Name: Cascaduuuuuura - all Brazilians will understand this one
 
 Crypt (12 cards, min=12 max=20 avg=4.0)
 ---------------------------------------
-3x Travis "Traveler72" Miller      5  mar def          Martyr:4
+3x Travis "Traveler72" Miller      5  def mar          Martyr:4
 2x Xian "DziDzat155" Quan          4  def inn          Defender:4
 1x Jennie "Cassie247" Orne         5  inn jud vis      Visionary:4
 1x Erick "Shophet125" Franco       4  inn jud          Judge:4

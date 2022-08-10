@@ -13,7 +13,7 @@ Dogs and Cats Living Together:
 
 Crypt (12 cards, min=14 max=20 avg=4.17)
 ----------------------------------------
-3x Travis "Traveler72" Miller     5  mar def          Martyr:4
+3x Travis "Traveler72" Miller     5  def mar          Martyr:4
 2x Jack "Hannibal137" Harmon      4  def jud          Defender:4
 2x Paul "Sixofswords29" Moreton   4  def vis          Visionary:4
 2x François "Warden" Loehr        3  def jud          Judge:4

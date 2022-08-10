@@ -26,7 +26,7 @@ Crypt (12 cards, min=21 max=32 avg=6.5)
 1x Gerald Windham           9  AUS DOM FOR THA                  Tremere:5
 1x Rutor                    7  AUS DOM THA pro vic              Tremere:5
 1x Inês Tristão             6  THA aus dom pre       prince     Tremere:6
-1x Lloyd Brooks             6  THA DOM aus pot       primogen   Tremere:6
+1x Lloyd Brooks             6  DOM THA aus pot       primogen   Tremere:6
 1x Chrysanthemum            5  AUS THA dom           primogen   Tremere:6
 1x Claus Wegener            5  DOM aus for tha                  Tremere:5
 1x Zane                     5  THA aus dom           primogen   Tremere:5

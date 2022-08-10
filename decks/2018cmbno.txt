@@ -17,7 +17,7 @@ was history.
 
 Crypt (12 cards, min=19 max=43 avg=8.33)
 ----------------------------------------
-3x Lord Tremere            11  ANI AUS DOM VIC THA obe              Tremere:5
+3x Lord Tremere            11  ANI AUS DOM THA VIC obe              Tremere:5
 3x Gabrielle di Righetti   10  ANI AUS DOM THA obf pot   justicar   Tremere:5
 3x Dr. John Dee             9  ANI AUS DOM THA chi       prince     Tremere:4
 1x Zane                     5  THA aus dom               primogen   Tremere:5

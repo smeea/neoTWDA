@@ -18,7 +18,7 @@ entirely possible someone else from the event has it.
 Crypt (12 cards, min=13 max=22 avg=4.5)
 ---------------------------------------
 3x Jennie "Cassie247" Orne       5  inn jud vis      Visionary:4
-2x Travis "Traveler72" Miller    5  mar def          Martyr:4
+2x Travis "Traveler72" Miller    5  def mar          Martyr:4
 2x Maman Boumba                  4  inn mar          Martyr:4
 1x Anna "Dictatrix11" Suljic     6  mar red vis      Martyr:4
 1x Earl "Shaka74" Deams          6  jud mar vis      Visionary:4

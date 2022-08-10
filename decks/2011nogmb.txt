@@ -21,9 +21,9 @@ Crypt (13 cards, min=14 max=20 avg=4.54)
 ----------------------------------------
 4x Luc                           5  OBF dem vic      Malkavian antitribu:4
 3x Jennie "Cassie247" Orne       5  inn jud vis      Visionary:4
-2x Travis "Traveler72" Miller    5  mar def          Martyr:4
+2x Travis "Traveler72" Miller    5  def mar          Martyr:4
 1x Jack "Hannibal137" Harmon     4  def jud          Defender:4
-1x Marion "Teacher193" Perks     4  red jud          Redeemer:4
+1x Marion "Teacher193" Perks     4  jud red          Redeemer:4
 1x François "Warden" Loehr       3  def jud          Judge:4
 1x Inez "Nurse216" Villagrande   3  inn              Innocent:4
 
