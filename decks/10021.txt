@@ -28,7 +28,7 @@ Crypt (12 cards, min=16 max=27 avg=5.5)
 1x Valeriya Zinovieva   7  POT cel pre pro   baron   Brujah:6
 1x Atiena               6  CEL obf pot pre   baron   Brujah:6
 1x Octane               6  CEL POT PRE               Brujah:6
-1x Brandon Grime        5  CEL pot pre tha           Brujah:6
+1x Brandon Grime        5  CEL pot pre tha           Brujah:6 -- comment
 1x Ariane               3  cel pot pre               Brujah:5
 1x Laura Goldman        3  cel pre                   Brujah:5
 
@@ -37,7 +37,7 @@ Master (12; 4 trifle)
 1x Anarch Railroad
 1x Club Illusion
 1x Coven, The
-2x Information Highway
+2x Information Highway -- comment
 1x Jake Washington
 2x New Carthage
 1x Pentex(TM) Subversion
