@@ -9,7 +9,6 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/iMKMHbqeThU
 -- Unknown
 
 Deck Name: Pander Votemonster deck
-
 Crypt (12 cards, min=4 max=10 avg=1.75)
 ---------------------------------------
 1x Lena Rowe                  3  aus obf pre      Pander:2

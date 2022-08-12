@@ -9,7 +9,6 @@ Peter Oh
 -- Unknown
 
 Deck Name: The P.O.D. People
-
 Crypt (12 cards, min=18 max=26 avg=5.42)
 ----------------------------------------
 2x Henri Lavenant             7  DOM OBT pot qui            Lasombra:3

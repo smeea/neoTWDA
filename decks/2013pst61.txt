@@ -9,7 +9,6 @@ Matti Palomäki
 -- 1GW7VP in the preliminary rounds and 3VP in final
 
 Deck Name: the unaligned revolutionaries
-
 Description:
 Tap-and-bleed deck that uses CrimethInc. at tha to take actions before bleeding.
 The key to the final was to sit away

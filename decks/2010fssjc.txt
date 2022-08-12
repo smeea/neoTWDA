@@ -9,7 +9,6 @@ Joel Marbella
 -- Unknown
 
 Deck Name: The Iggy & Laz Tag Team (with Groupies!)
-
 Description:
 Standard Bruise and Bleed deck.
 

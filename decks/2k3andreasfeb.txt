@@ -9,7 +9,6 @@ Andreas Nusser
 -- Unknown
 
 Deck Name: Tremere Second Tradition Deck
-
 Description:
 A little bit of toolboxing
 

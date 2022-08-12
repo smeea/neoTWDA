@@ -9,7 +9,6 @@ Jason Ryan
 -- Unknown
 
 Deck Name: Fear of the Dark
-
 Description:
 Lasombra S/B toolbox with a few curve-balls thrown in.
 As an interesting side-note, almost every vampire in this crypt has a

@@ -9,7 +9,6 @@ Jari Åkerström
 -- Unknown
 
 Deck Name: Ur-Shulgi - Gonna tear you down!!!
-
 Crypt (12 cards, min=10 max=44 avg=7.25)
 ----------------------------------------
 4x Ur-Shulgi, The Shepherd     11  CEL DOM OBF QUI THA aus   2 votes   Banu Haqim:2

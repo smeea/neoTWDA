@@ -9,7 +9,6 @@ Matthew Hirsch
 -- Unknown
 
 Deck Name: Lasombra Mamba 2008
-
 Description:
 This is a variant of the Lasombra obt/dom stealth/bleed deck that I've
 been playing for years. The primary function is stealth/bleed, but it

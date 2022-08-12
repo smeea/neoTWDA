@@ -9,7 +9,6 @@ Joerg Alten
 -- Unknown
 
 Deck Name: Undead Army
-
 Description:
 Shambling Hordes with obfuscate and some dirty tricks
 

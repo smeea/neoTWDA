@@ -9,7 +9,6 @@ Matti Palomäki
 -- Unknown
 
 Deck Name: Sovitteluvaliokunta ja sen paikallisosastot
-
 Description:
 by Matti Palomäki
 

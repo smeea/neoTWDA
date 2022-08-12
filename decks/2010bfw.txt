@@ -9,7 +9,6 @@ Hugh Angseesing
 -- Unknown
 
 Deck Name: Nana and friends
-
 Crypt (13 cards, min=10 max=32 avg=5.08)
 ----------------------------------------
 4x Nana Buruku          8  ANI POT PRE                Guruhi:4

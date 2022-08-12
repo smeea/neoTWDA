@@ -9,7 +9,6 @@ Simone Bianchi
 -- Unknown
 
 Deck Name: S&B Dem Tavolette 4
-
 Description:
 slim s&b deck
 

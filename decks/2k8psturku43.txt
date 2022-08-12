@@ -9,7 +9,6 @@ Seppo Lipponen
 -- 3vp in the final
 
 Deck Name: Ugly secrets
-
 Description:
 Vote, bleed and BLOCK
 

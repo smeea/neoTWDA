@@ -9,7 +9,6 @@ Vincent Ripoll
 -- Unknown
 
 Deck Name: Aim and Chain
-
 Description:
 An easy to play bruise'n'bleed deck. Get out the 5-caps,
 Govern down on the small ones, you should quickly have 5 vamps out

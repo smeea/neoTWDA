@@ -9,7 +9,6 @@ Marek Strzelczyk
 -- Unknown
 
 Deck Name: Malgorzata
-
 Crypt (16 cards, min=33 max=41 avg=9.12)
 ----------------------------------------
 6x Malgorzata               9  AUS DOM THA VIC pre       priscus        Tremere antitribu:4

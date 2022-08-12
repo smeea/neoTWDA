@@ -9,7 +9,6 @@ Antti Tirilä
 -- Unknown
 
 Deck Name: Jacob's Pack
-
 Description:
 Radoslaw Staszewski's recent deck from the news group.
 Little tweaks here and there, especially taking more out of Jacob's

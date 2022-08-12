@@ -9,7 +9,6 @@ Dennis Lien
 -- Unknown
 
 Deck Name: Diary of a Dead Man
-
 Description:
 "Those who know what's best for us, must rise and save us from ourselves" - Neil Peart
 

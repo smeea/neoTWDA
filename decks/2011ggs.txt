@@ -9,7 +9,6 @@ Stefan Karlsson
 -- Unknown
 
 Deck Name: Glöggansiktet Gerald
-
 Description:
 This is some sort of Freak Show but I can not
 stress enough that this is no one-turn deck. Ankara Citadel

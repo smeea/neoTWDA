@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7936
 -- GW4 + 0 + 1 + 4VP in final
 
 Deck Name: Tupdogs Combate V3.0
-
 Crypt (26 cards, min=4 max=16 avg=1.62)
 ---------------------------------------
 20x Tupdog         1  POT VIS              Gargoyle:3

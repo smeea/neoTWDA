@@ -9,7 +9,6 @@ Demetrios Papadatos
 -- Unknown
 
 Deck Name: PETRA'S BROOD
-
 Crypt (12 cards, min=11 max=24 avg=4.42)
 ----------------------------------------
 2x Petra                         5  ANI OBF aus                  Nosferatu:4

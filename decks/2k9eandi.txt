@@ -9,7 +9,6 @@ Raul Baza
 -- Unknown
 
 Deck Name: New Ventrue
-
 Description:
 4gw15
 

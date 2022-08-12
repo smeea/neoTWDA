@@ -9,6 +9,7 @@ Jakub Baranski
 -- 4vp in the final
 
 Deck Name: Tryphosa Block&Bleed
+Author: Jakub Baranski, based on Erol Hammer deck
 
 Crypt (12 cards, min=21 max=40 avg=7.67)
 ----------------------------------------

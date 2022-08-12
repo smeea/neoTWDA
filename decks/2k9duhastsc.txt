@@ -9,7 +9,6 @@ Guillermo Gutierrez
 -- Unknown
 
 Deck Name: Brujah Trophy Hunter (29-08-2009)
-
 Description:
 Trophy hunter deck
 

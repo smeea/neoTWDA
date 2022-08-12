@@ -9,7 +9,7 @@ Henrik Ericsson
 -- Unknown
 
 Deck Name: Anatole joins the Force
-
+Author: ity. He can also do the polisgrepp (Chiram's Hold) to
 Description:
 This deck is all about our dear prophet Anatole
 becoming a police officer, and trying to advance in the ranks.

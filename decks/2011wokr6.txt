@@ -9,7 +9,6 @@ Leonardo Villela
 -- 3vp in the final
 
 Deck Name: Snake
-
 Crypt (12 cards, min=14 max=27 avg=5.25)
 ----------------------------------------
 3x Bupe Kuila                7  OBF POT SER pre      Ministry:4

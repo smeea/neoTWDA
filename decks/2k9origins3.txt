@@ -9,7 +9,6 @@ Mark Merlin Petersen
 -- Unknown
 
 Deck Name: Rodolfo's Friendly Spirits
-
 Crypt (12 cards, min=21 max=32 avg=7.08)
 ----------------------------------------
 3x Persephone Tar-Anis        8  AUS DEM OBF cel pot              Malkavian antitribu:4

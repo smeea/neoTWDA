@@ -9,7 +9,6 @@ Raul Olvera
 -- Unknown
 
 Deck Name: Brujah con sigilo natural
-
 Crypt (12 cards, min=9 max=22 avg=3.75)
 ---------------------------------------
 2x Rake                                6  PRE aus cel pot   prince   Brujah:1

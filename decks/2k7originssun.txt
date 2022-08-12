@@ -9,7 +9,6 @@ Ben Peal
 -- 4vp in the final
 
 Deck Name: Cybelotron
-
 Description:
 This deck was originally based on Erik Torstensson's Summon the Serpent
 deck, which won a tournament in Gothenburg, Sweden in 2005. His deck

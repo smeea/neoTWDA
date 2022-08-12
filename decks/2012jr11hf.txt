@@ -9,7 +9,6 @@ Heikki Palomäki
 -- 5vp in the final
 
 Deck Name: Heavy duty
-
 Description:
 Shameless obf dom S&B. A lot of titles for table control
 and vote protection. There is also a sizable reaction package for bleed

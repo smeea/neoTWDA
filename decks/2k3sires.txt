@@ -9,7 +9,6 @@ Scott Gomes
 -- Unknown
 
 Deck Name: Fortitude weenies of the world unite
-
 Description:
 Bring out weenies and over whelm your prey.
 If your prey has weak combat, press to continue. If your

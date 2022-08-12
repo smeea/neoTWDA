@@ -9,7 +9,6 @@ Ke Carlton
 -- Unknown
 
 Deck Name: Eternal Abuse
-
 Description:
 Switched Legal's to Intimidation for blood management,
 also added 1x covern and jake - reduced Lilyth's to 1x copy as not

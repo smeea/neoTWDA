@@ -9,7 +9,6 @@ Marcin Szybkowski
 -- Unknown
 
 Deck Name: Along comes the spider
-
 Description:
 This deck won the mini qualifier in Torun, a local
 tournament in Warsaw, and managed to get into the final round during

@@ -9,7 +9,6 @@ Jon Sushinsky
 -- 4vp in the final
 
 Deck Name: Malgorzata
-
 Crypt (13 cards, min=25 max=38 avg=8.15)
 ----------------------------------------
 3x Malgorzata                   9  AUS DOM THA VIC pre   priscus      Tremere antitribu:4

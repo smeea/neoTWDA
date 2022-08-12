@@ -9,7 +9,6 @@ Jesse Cross-Nickerson
 -- Unknown
 
 Deck Name: Ninja Parade
-
 Crypt (12 cards, min=9 max=28 avg=4.25)
 ---------------------------------------
 4x Djuhah, The Bronze Bow   7  OBF QUI aus cel pre      Banu Haqim:5

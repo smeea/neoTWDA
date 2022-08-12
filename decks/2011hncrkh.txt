@@ -9,7 +9,6 @@ Péter Botos
 -- Unknown
 
 Deck Name: Cats and Dogs
-
 Crypt (12 cards, min=4 max=11 avg=1.58)
 ---------------------------------------
 8x Tupdog              1  POT VIS      Gargoyle:3

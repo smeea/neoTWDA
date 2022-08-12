@@ -9,7 +9,6 @@ Aaron Clark
 -- 3vp in the final
 
 Deck Name: Watch Your Back
-
 Description:
 Potence rush with Obfuscate support
 

@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: The Guests
-
 Description:
 Inspired by the Leonard Cohen song "the Guests"... A
 neo-stealth/bleed with a nice twist of gehenna. Get one or two VP's and

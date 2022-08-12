@@ -9,7 +9,6 @@ Victor Kemp
 -- Unknown
 
 Deck Name: Victor's Deck of Dominate
-
 Description:
 This was our national constructed tournament event held at Upcon 2008.
 There was a good attendence at this tournament and the metagame was

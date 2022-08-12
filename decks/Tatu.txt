@@ -9,7 +9,6 @@ David Tatu
 -- Unknown
 
 Deck Name: Wind Dance Atlanta
-
 Crypt (12 cards, min=11 max=18 avg=3.75)
 ----------------------------------------
 1x Isabel Giovanni           5  DOM NEC pot          Giovanni:2

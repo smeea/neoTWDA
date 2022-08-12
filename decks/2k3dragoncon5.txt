@@ -9,7 +9,6 @@ Ben Peal
 -- Unknown
 
 Deck Name: The Stay-Puft Marshmallow Deck
-
 Description:
 Based on Ethan Burrow's prototype, which used Hungry Coyote and
 the Sabbat trifle, except that I didn't have any Hungry Coyotes, so I choose

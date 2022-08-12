@@ -9,7 +9,7 @@ Dan Apholz
 -- 4vp in the final
 
 Deck Name: Mr Clean
-
+Author: Dan Apholz feat Pagan
 Description:
 Modified from an early deck borrowed from David it provides
 enough stealth to beat light intercept and voting power to

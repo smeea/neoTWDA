@@ -9,7 +9,6 @@ Steven McRoy
 -- Unknown
 
 Deck Name: Arika Turbo
-
 Description:
 Well the run is you get Arika out, wait a turn
 (hopefully no pentex, smash, or her getting torped), next

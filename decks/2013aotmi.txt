@@ -9,7 +9,6 @@ Mario Testa
 -- 3vp in the final
 
 Deck Name: Ignazio & Friends
-
 Description:
 B&B DOM/POT
 

@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: EC 2010 Legendary Vampire: Girls will find Inner Peace
-
 Description:
 1st win during the EC 2010
 

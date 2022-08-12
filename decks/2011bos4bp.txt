@@ -9,7 +9,6 @@ Marcin Watras
 -- Unknown
 
 Deck Name: Brujah Debate 60 cards
-
 Description:
 Deck based on Johannes Walch's Brujah Debate deck
 he played during WoN in June. I added 3 cards to the original deck -

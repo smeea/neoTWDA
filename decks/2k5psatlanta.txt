@@ -9,7 +9,6 @@ Jeffrey Thompson
 -- Unknown
 
 Deck Name: Tzimisce Vote
-
 Description:
 Velya the Flayer leads the Tzimisce into the fray with
 political actions doing the lions share of the work in ousting your prey.

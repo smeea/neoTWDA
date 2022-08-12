@@ -9,7 +9,6 @@ Magnus Karlström AKA Ober
 -- Unknown
 
 Deck Name: Pander vote
-
 Description:
 Weenie vote
 

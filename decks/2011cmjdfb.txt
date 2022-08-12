@@ -9,7 +9,6 @@ Danilo Fernandes
 -- Unknown
 
 Deck Name: Laibons AyeAyeAye
-
 Crypt (12 cards, min=20 max=39 avg=7.92)
 ----------------------------------------
 3x Ayo Igoli     10  AUS CEL FOR PRE obf tha            Ishtarri:4

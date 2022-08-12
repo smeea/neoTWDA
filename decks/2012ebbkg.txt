@@ -9,7 +9,6 @@ Johannes Walch
 -- Unknown
 
 Deck Name: Ahrimane Recruitment Center
-
 Description:
 The basic idea is to bloat as much as possible
 to be able to afford recruitment of allies and more vampires.

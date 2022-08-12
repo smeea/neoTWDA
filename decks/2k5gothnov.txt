@@ -9,7 +9,6 @@ Christoffer Arvidsson
 -- Unknown
 
 Deck Name: Strangers In The Night
-
 Crypt (12 cards, min=24 max=40 avg=8.42)
 ----------------------------------------
 2x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2

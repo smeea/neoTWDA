@@ -9,7 +9,7 @@ Jens Johansson
 -- Unknown
 
 Deck Name: It's a friendly deck, don't trust the setites
-
+Author: Randal Rudstam
 Description:
 When the Unaligned set was release I was very interested in some of the new FoS cards, I wanted to play reckless and parity shift in the same deck.
 After some time and much work on the deck, me and my good friend Stefan Karlsson, who also was working on a similar deck, built this deck, minor differences,

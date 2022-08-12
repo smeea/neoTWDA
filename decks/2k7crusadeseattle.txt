@@ -9,7 +9,6 @@ Fletcher Gibson
 -- Unknown
 
 Deck Name: Welcome to Valhalla
-
 Description:
 Torvus/Gangrel combat
 

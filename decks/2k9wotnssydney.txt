@@ -9,7 +9,6 @@ Steve Harris
 -- Unknown
 
 Deck Name: Owain is everybody's friend
-
 Crypt (12 cards, min=21 max=32 avg=6.83)
 ----------------------------------------
 5x Owain Evans, The Wanderer   8  AUS DOM FOR cel pre            Ventrue antitribu:3

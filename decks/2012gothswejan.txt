@@ -9,7 +9,6 @@ Erik Torstensson
 -- 4vp in the final
 
 Deck Name: Gothenburg: Drogögon mitt i ansiktet - Wall Ghoul
-
 Crypt (12 cards, min=8 max=19 avg=3.17)
 ---------------------------------------
 3x Piotr Andreikov      2  aus                  Tzimisce:3

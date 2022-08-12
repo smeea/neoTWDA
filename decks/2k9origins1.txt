@@ -9,7 +9,6 @@ Robyn Tatu
 -- Unknown
 
 Deck Name: Fortitude Anarchs
-
 Description:
 Trap / Undead Persistance for Group 3 4 Anarchs.
 Aranthebes should replace a Rapid Healing.

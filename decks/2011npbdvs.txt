@@ -9,7 +9,6 @@ Oriol Pubill
 -- 8vp in the final
 
 Deck Name: Gorditos Power Again
-
 Description:
 Modified by: Oriol Pubill
 

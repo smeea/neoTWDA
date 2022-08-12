@@ -9,7 +9,6 @@ Aaron Clark
 -- 2.5vp in the final
 
 Deck Name: Basilia Gives Aids
-
 Description:
 Get out big vampires with ANI/FOR. Minion Tap 'em,
 refill 'em a bit. Do stuff, block stuff, fight stuff. Watch out

@@ -9,7 +9,6 @@ https://www.vekn.net/player-registry/event/9887
 -- 4vp in the final
 
 Deck Name: Ghede be
-
 Crypt (12 cards, min=4 max=40 avg=6.17)
 ---------------------------------------
 6x Ghede            10  FOR OBF POT PRE SER      Ministry:6

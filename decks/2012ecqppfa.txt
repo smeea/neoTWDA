@@ -9,7 +9,6 @@ Vincent Ripoll
 -- 3vp in the final
 
 Deck Name: Enkidu PRO CEL
-
 Description:
 I got some inspiration from Aleksi Nuora's TWD to build this one.
 Protean and Celerity are great costless polyvalent combat

@@ -9,7 +9,6 @@ Rémy Auclair
 -- Unknown
 
 Deck Name: Shadowrun
-
 Description:
 The strength of the deck is the Spying Mission, even if it does only 3
 with 2 actions. Temptation were very useful and so was the Enticement.

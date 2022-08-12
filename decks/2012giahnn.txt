@@ -9,7 +9,6 @@ Martin Schumacher
 -- 2GW8.5 (1st seed) + 1.5VP
 
 Deck Name: Gehenna is a Hoax: Triple B (Bleed, Bruise, Block)
-
 Description:
 Latest additions are Haven Uncovered, which is gold as the action to
 remove the haven is basically another rush. Finally replaced Walk of

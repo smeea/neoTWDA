@@ -9,7 +9,6 @@ Haig Bobis
 -- Unknown
 
 Deck Name: The Mongols
-
 Crypt (19 cards, min=7 max=17 avg=3.0)
 --------------------------------------
 1x Olivia                         5  OBF POT vic   bishop   Nosferatu antitribu:2

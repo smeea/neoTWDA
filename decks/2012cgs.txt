@@ -9,7 +9,6 @@ Alexander Båskman
 -- 4vp in the final
 
 Deck Name: So long, and thanks for all the governs
-
 Description:
 Inspired by Adam Esbjörnsson, Randal Rudstam and Jonas Ståhle.
 

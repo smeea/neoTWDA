@@ -9,7 +9,6 @@ Antero Leppänen
 -- Unknown
 
 Deck Name: The Warlocks' Revenge.
-
 Description:
 !Tremere intercept-combat toolbox
 

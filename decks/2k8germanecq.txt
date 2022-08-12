@@ -9,7 +9,6 @@ Kristian Willenbacher
 -- 4vp in the final
 
 Deck Name: Dreams & Dementation
-
 Description:
 Dementation Stealth-Bleed
 

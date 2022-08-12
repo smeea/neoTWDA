@@ -9,7 +9,6 @@ Henrik Isaksson
 -- Unknown
 
 Deck Name: Lazverinus and his little friends
-
 Description:
 Get Lazverinus out, block and kill everybody, then bleed
 your prey out with the small guys...

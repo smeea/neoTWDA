@@ -9,7 +9,6 @@ Ginés Quiñonero
 -- Unknown
 
 Deck Name: Kindred Spirits S&B
-
 Crypt (12 cards, min=16 max=31 avg=5.92)
 ----------------------------------------
 1x Anatole, Prophet of Gehenna    8  AUS DEM OBF dom for              Malkavian:2

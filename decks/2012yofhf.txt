@@ -9,7 +9,6 @@ Matias Frosterus
 -- Unknown
 
 Deck Name: This Isn't That Kind of a Deck, Honest!
-
 Description:
 No Mytherceria other than the 5 Gremlins this deck relies on simply
 Obtenebration and Dominate. No way of taking blood off of Vampires

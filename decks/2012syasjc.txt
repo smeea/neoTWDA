@@ -9,7 +9,6 @@ Brett Schofield
 -- Unknown
 
 Deck Name: Third Party Politics - Velya for President
-
 Description:
 A somewhat traditional "tap and cap" deck backed up with
 the stealth offered by Vicissitude. I was pretty fortunate

@@ -9,7 +9,6 @@ http://home.no.net/oymo/decks/!Malkavian_Bleeders.html
 -- Unknown
 
 Deck Name: !Malkavian bleeders
-
 Description:
 Stealth bleed with Wake/Voice of Madness defence.
 Winning deck in "On hostile ground"- tournament 2-3. May 2003

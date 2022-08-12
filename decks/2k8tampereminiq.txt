@@ -9,7 +9,6 @@ Heikki Palomäki
 -- 3vp in the final
 
 Deck Name: Shame of deckbuilding
-
 Crypt (12 cards, min=19 max=28 avg=5.83)
 ----------------------------------------
 2x Gilbert Duane          7  AUS DOM OBF       prince   Malkavian:1

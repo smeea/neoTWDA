@@ -9,7 +9,6 @@ Enrico De Stefano
 -- Unknown
 
 Deck Name: Dear diary, today I feel like a wraith..
-
 Description:
 Really funny deck..
 

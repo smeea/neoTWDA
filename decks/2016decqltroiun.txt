@@ -9,7 +9,6 @@ Martin Schumacher
 -- 2gw8 + 3vp in the final
 
 Deck Name: Hard boiled
-
 Crypt (12 cards, min=42 max=44 avg=10.83)
 -----------------------------------------
 4x Saulot, The Wanderer      11  AUS FOR OBE THA VAL dai      Salubri:4

@@ -9,7 +9,6 @@ Danilo Torrisi
 -- Unknown
 
 Deck Name: Captain, oh my captain!
-
 Description:
 Combo deck focused on Ivan Krenyenko and the Soul Gem of Etrius
 

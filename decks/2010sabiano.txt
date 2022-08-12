@@ -9,7 +9,6 @@ Rodd Closson
 -- Unknown
 
 Deck Name: The Mistresses' Men
-
 Crypt (12 cards, min=30 max=43 avg=9.17)
 ----------------------------------------
 3x Mistress Fanchon        11  AUS CEL DOM OBF THA VIC   inner circle   Tremere:4

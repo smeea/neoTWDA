@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7420
 -- 4vp in the final
 
 Deck Name: Nocturn-bleed
-
 Crypt (12 cards, min=17 max=29 avg=5.75)
 ----------------------------------------
 2x Onaedo                  6  DOM OBT aus pot                Lasombra:4

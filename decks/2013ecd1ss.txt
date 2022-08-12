@@ -9,7 +9,6 @@ Martin Weinmayer
 -- 2gw8, + 4vp in the final
 
 Deck Name: EC 2013 Day 1: Stanislava & Friends Dom/For Bleed/Vote
-
 Crypt (12 cards, min=38 max=44 avg=10.33)
 -----------------------------------------
 4x Stanislava                11  ANI CEL DOM FOR PRO       inner circle   Gangrel:2

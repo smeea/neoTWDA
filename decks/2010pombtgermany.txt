@@ -9,7 +9,6 @@ Ralf Weppner
 -- 4vp in the final
 
 Deck Name: Cats with Guns
-
 Crypt (12 cards, min=16 max=26 avg=5.17)
 ----------------------------------------
 3x Muricia                   7  ANI PRE SPI                  Ahrimane:4

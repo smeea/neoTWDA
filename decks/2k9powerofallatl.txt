@@ -9,7 +9,6 @@ Matt Guinn
 -- 3vp in the final
 
 Deck Name: Return of the Brujah
-
 Crypt (12 cards, min=24 max=38 avg=7.75)
 ----------------------------------------
 2x Jann Berger       10  CEL POT PRE dem for   prince     Brujah:4

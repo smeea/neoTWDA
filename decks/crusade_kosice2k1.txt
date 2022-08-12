@@ -9,7 +9,6 @@ Karol Magda
 -- Unknown
 
 Deck Name: Omaya
-
 Description:
 Your aim is to get last 3VP on the table , agitate the
 table to slow things down so you can build up your force , bring out

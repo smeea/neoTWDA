@@ -9,7 +9,6 @@ Anton Dudko
 -- Unknown
 
 Deck Name: French Aggression
-
 Description:
 The idea was taken from one of French Tournament decks.
 

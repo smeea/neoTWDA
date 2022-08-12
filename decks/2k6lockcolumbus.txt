@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: Blocking is Pain, We Bring the Pain
-
 Description:
 Fairly straightforward; stacking Cam Exemplary, Archon,
 and Aching Beauty followed up with Croc Tongue punishes blockers.

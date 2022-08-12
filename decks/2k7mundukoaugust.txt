@@ -9,7 +9,6 @@ Txus Alútiz Lizarraga
 -- Unknown
 
 Deck Name: Los chicos Llongueras
-
 Crypt (14 cards, min=9 max=22 avg=3.93)
 ---------------------------------------
 2x Rake                                6  PRE aus cel pot   prince   Brujah:1

@@ -9,7 +9,6 @@ Dionisio Garcia Weyzig
 -- Unknown
 
 Deck Name: Weenie obfuscate
-
 Description:
 Weenie obfuscate speaks for itself. Went from the
 principle that i didn't want to clog so much with obfuscate.

@@ -9,7 +9,6 @@ Pawel Kosz
 -- 2gw5.5 + 4vp in the final
 
 Deck Name: rety rety rolety!
-
 Crypt (12 cards, min=14 max=24 avg=4.83)
 ----------------------------------------
 2x Morel                          6  AUS DEM OBF          Malkavian:4

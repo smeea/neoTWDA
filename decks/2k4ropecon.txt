@@ -9,7 +9,6 @@ Riku Niittymäki
 -- Unknown
 
 Deck Name: Fix Me, Please
-
 Description:
 Anson based master deck that just bloats & kills with
 Anarch Revolts.

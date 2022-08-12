@@ -9,7 +9,6 @@ Rob Treasure
 -- Unknown
 
 Deck Name: Lasombra evil shit.
-
 Crypt (12 cards, min=11 max=29 avg=5.0)
 ---------------------------------------
 2x Gratiano                        8  DOM OBT obf pot   priscus   Lasombra:2

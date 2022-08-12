@@ -9,7 +9,6 @@ Sebastian Fredenberg
 -- Unknown
 
 Deck Name: Magic Cocktail
-
 Crypt (12 cards, min=12 max=20 avg=3.83)
 ----------------------------------------
 4x Antonio d'Erlette               5  THA dom for pot      Tremere antitribu:4

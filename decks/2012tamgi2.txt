@@ -9,7 +9,6 @@ Luca Turicchi
 -- 4vp in the final
 
 Deck Name: Nosfe Royal
-
 Crypt (12 cards, min=30 max=36 avg=8.42)
 ----------------------------------------
 3x Sheldon, Lord of the Clog   9  ANI AUS OBF POT for   justicar   Nosferatu:1

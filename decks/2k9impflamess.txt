@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: Punmatra Lutzonance
-
 Crypt (12 cards, min=40 max=44 avg=10.42)
 -----------------------------------------
 4x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4

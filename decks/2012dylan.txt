@@ -9,7 +9,6 @@ Manuel Segatori
 -- Unknown
 
 Deck Name: The Unnamed and the howler monkeys
-
 Description:
 The Unnamed leading an infernal horde
 

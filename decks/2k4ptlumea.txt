@@ -9,7 +9,7 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: Ratman on the balcony
-
+Author: Erik Torstensson & Christoffer Arvidsson
 Description:
 Block deck with the best vampire in the game. Key cards:
 deflection, army of rats, direct intervention & pentex subversion.

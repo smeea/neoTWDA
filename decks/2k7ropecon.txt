@@ -9,7 +9,6 @@ Kalle Cederström
 -- Unknown
 
 Deck Name: Nocturne
-
 Description:
 Lasombra plays with shadows to reign control of night.
 This is the deck I played at and win Ropecon in 2007.

@@ -9,7 +9,6 @@ Aleksi Nuora
 -- Unknown
 
 Deck Name: Toreador Power Bleed
-
 Description:
 Use Enkidu for block denial and defense, monster
 bleed with Andre, other weenies and the Codex once the coast is

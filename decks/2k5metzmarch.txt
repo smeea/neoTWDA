@@ -9,7 +9,6 @@ Sébastien Varrette
 -- Unknown
 
 Deck Name: Corine has a changeling tongue
-
 Description:
 Simple toolbox tzimisce, clearly oriented toward bleed thanks to
 Fiendish Tongue (marvellous card for the clan) and changeling.

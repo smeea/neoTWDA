@@ -9,7 +9,6 @@ Matthew Hirsch
 -- Unknown
 
 Deck Name: 15 Minutes of Fame
-
 Description:
 Dominate/fortitude/protean with the dual capability of bruise 'n bleed
 and rush/fame. Defensive mechanisms are deflection and upstream

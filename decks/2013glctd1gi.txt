@@ -9,7 +9,6 @@ Gabriele Bugliani
 -- 5vp in the final
 
 Deck Name: il maestro dei bahari
-
 Crypt (12 cards, min=10 max=35 avg=6.25)
 ----------------------------------------
 4x Miller Delmardigan, Teacher of Bahari   8  CEL PRE aus pro       bishop     Toreador antitribu:2

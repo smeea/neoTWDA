@@ -9,7 +9,6 @@ Allan Birket
 -- Unknown
 
 Deck Name: Shifting The Pranks
-
 Crypt (12 cards, min=26 max=42 avg=8.17)
 ----------------------------------------
 2x Leandro                11  AUS OBF PRE cel dom   inner circle   Malkavian:2

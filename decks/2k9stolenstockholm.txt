@@ -9,7 +9,6 @@ Ivan Marin-Rivas
 -- Unknown
 
 Deck Name: Goratix Jailhouse
-
 Description:
 Goratrix gets Anima Gathering and the weenies go to jail
 to feed Goratrix.

@@ -9,7 +9,7 @@ Randal Rudstam
 -- 3vp in the final
 
 Deck Name: Singing in the ground v2.0
-
+Author: Randyman
 Description:
 Deep song earth meld deck of doom!
 Did some last changes, as one always does, removed one Archon Invetigation

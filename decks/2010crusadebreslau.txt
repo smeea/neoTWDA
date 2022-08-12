@@ -9,7 +9,6 @@ Pawel Kukielczynski
 -- 3gw9.5 + 1.5vp in the final
 
 Deck Name: Nephandi in Drop Pods
-
 Description:
 Designed by: Pawel Kukielczynski & Tomasz Pietkiewicz
 

@@ -9,7 +9,6 @@ Marko Lindroos
 -- 5vp in the final
 
 Deck Name: I <3 Petra
-
 Description:
 Based on Erik Torstensson's Punmatra Lutzonance.
 

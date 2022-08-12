@@ -9,7 +9,6 @@ Leonardo Munoz
 -- Unknown
 
 Deck Name: Malk! bleeder
-
 Crypt (12 cards, min=25 max=39 avg=8.17)
 ----------------------------------------
 2x Hannibal (ADV)                10  AUS DEM OBF cel dom   cardinal     Malkavian antitribu:2

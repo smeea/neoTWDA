@@ -9,7 +9,6 @@ Hans Nemeczek
 -- Unknown
 
 Deck Name: Pekka-Giovanni
-
 Description:
 bleed-oust-win
 

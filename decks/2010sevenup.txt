@@ -9,7 +9,6 @@ Yannick Gibert
 -- 1GW3.5 (1st seed) + 0.5VP in final
 
 Deck Name: A biothaumaturgic to govern them...
-
 Crypt (12 cards, min=14 max=31 avg=5.83)
 ----------------------------------------
 3x Uta Kovacs                  8  AUS DOM THA ser              Tremere antitribu:4

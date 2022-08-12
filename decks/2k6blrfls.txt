@@ -9,7 +9,6 @@ Denis Gérard
 -- Unknown
 
 Deck Name: Everlasting Richter
-
 Crypt (12 cards, min=16 max=29 avg=6.0)
 ---------------------------------------
 3x Miguel Santo Domingo              7  POT PRE cel for                      Brujah antitribu:3

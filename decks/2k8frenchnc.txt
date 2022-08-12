@@ -9,7 +9,6 @@ Noel Giménez Infante
 -- Unknown
 
 Deck Name: Kindred Spirits
-
 Crypt (12 cards, min=18 max=30 avg=6.08)
 ----------------------------------------
 2x Persia, The Beautiful Statue   5  DEM aus obf                     Malkavian:3

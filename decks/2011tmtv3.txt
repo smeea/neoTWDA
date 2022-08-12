@@ -9,6 +9,7 @@ Luis Fonseca
 -- Unknown
 
 Deck Name: The Ingrid Rossler Show
+Author: Manuel Diehm (+Gangrel Justicar card added from Luis)
 
 Crypt (12 cards, min=17 max=36 avg=6.75)
 ----------------------------------------

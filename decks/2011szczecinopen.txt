@@ -9,7 +9,6 @@ Robert Cieslarczyk
 -- Unknown
 
 Deck Name: Ahrimanes Wall
-
 Crypt (12 cards, min=15 max=28 avg=5.42)
 ----------------------------------------
 4x Muricia           7  ANI PRE SPI          Ahrimane:4

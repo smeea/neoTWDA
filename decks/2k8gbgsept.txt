@@ -9,7 +9,6 @@ Christoffer Arvidsson
 -- 3vp in the final
 
 Deck Name: Akunanse
-
 Crypt (12 cards, min=16 max=34 avg=6.67)
 ----------------------------------------
 3x Nkule Galadima    8  ABO FOR ani aus pre       magaji   Akunanse:4

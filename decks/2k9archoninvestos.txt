@@ -9,7 +9,7 @@ Henrik Ericsson
 -- 3vp in the final
 
 Deck Name: Tjockisar som bleedar på ett
-
+Author: Henrik Ericsson and Alex Ek
 Description:
 Lägg upp en tjockis och bleeda på ett!
 

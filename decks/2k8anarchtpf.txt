@@ -9,7 +9,6 @@ Orian Gissler
 -- 5vp in the final
 
 Deck Name: tu joues, tu joues pas, tu crèves quand même
-
 Description:
 first version of the deck, the crypt can be largely more
 efficient and the combo is not locking enough

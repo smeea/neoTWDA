@@ -9,7 +9,6 @@ Sebastià Giralt
 -- Unknown
 
 Deck Name: El Sebas también sabe tantear
-
 Crypt (12 cards, min=26 max=41 avg=8.25)
 ----------------------------------------
 5x Anson                        8  CEL PRE aus dom           prince         Toreador:1

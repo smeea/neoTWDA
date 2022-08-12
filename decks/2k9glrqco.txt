@@ -9,7 +9,6 @@ Mark Loughman
 -- 3vp in the final
 
 Deck Name: Traditional Princess
-
 Description:
 I re-tooled my Carna deck after KoT came out.
 Eyes of Argus is _SO_ efficient for this scheme that I was

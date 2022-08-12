@@ -9,7 +9,6 @@ Alberto Muñoz
 -- Unknown
 
 Deck Name: Burst of Rotschreck
-
 Description:
 Burst + Rotschreck..
 nephandus and graverobbing do the dirty job.

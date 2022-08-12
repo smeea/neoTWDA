@@ -9,7 +9,7 @@ Marcin Watras
 -- 2gw7 + 4vp in the final
 
 Deck Name: Antonio - Ashur Tablets Nephandus swarm
-
+Author: P.Kukielczynski's and T.Pietkiewicz's version
 Description:
 with some changes in the crypt (added 4 tupdogs)
 Easy to play, extremly effective

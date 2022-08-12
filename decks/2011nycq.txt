@@ -9,7 +9,7 @@ Selen Turkay
 -- 5vp in the final
 
 Deck Name: Weenie Dem, Ruben mostly
-
+Author: Ruben feldman
 Description:
 A slightly modified version of Ruben Feldman's weenie Dementation deck.
 I think the Last Stand might have been the only addition. I don't think it was worth it.

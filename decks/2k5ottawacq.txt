@@ -9,7 +9,6 @@ David Wilson
 -- Unknown
 
 Deck Name: Mata's Renegade War Ghouls
-
 Crypt (12 cards, min=6 max=28 avg=4.42)
 ---------------------------------------
 5x Mata Hari         7  CHI OBF aus for qui   2 votes   Ravnos:4

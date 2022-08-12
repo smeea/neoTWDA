@@ -9,6 +9,7 @@ Lander Ladislao
 -- 1vp in the final
 
 Deck Name: Nehemia MiNitzeto Politico
+Author: Enrique Lopez & Lander Ladislao
 
 Crypt (12 cards, min=24 max=36 avg=7.83)
 ----------------------------------------

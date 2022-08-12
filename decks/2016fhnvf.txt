@@ -9,7 +9,6 @@ Niina Lindroos
 -- 3vp in the final
 
 Deck Name: Velvet vote
-
 Description:
 A deck that I made in 2015 inspired by the new set. Played it first time at
 Finnish ECQ 2015 (Ropecon) and made a few tweaks based on that tournament for this second go.

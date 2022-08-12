@@ -9,7 +9,6 @@ http://calendar.yahoo.com/YYY,14638/srt,0/vtesrep?v=4&t=1033203600&i=1338&pv=2
 -- Unknown
 
 Deck Name: Turd Too
-
 Crypt (13 cards, min=34 max=44 avg=10.0)
 ----------------------------------------
 4x Anneke      10  AUS CEL PRE dom           justicar       Toreador:1

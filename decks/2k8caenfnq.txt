@@ -9,7 +9,6 @@ Orian Gissler
 -- Unknown
 
 Deck Name: 2008 Wraiths
-
 Crypt (12 cards, min=9 max=24 avg=4.17)
 ---------------------------------------
 2x Andrea Giovanni                   7  DOM NEC pot vic      Giovanni:2

@@ -9,7 +9,6 @@ Marcin Szybkowski
 -- 5vp in the final
 
 Deck Name: Guedado Ghouls
-
 Description:
 This deck is designed to bring out War Ghouls at extra
 speed - cutting the deck size to 50 and using D'habi revenants does

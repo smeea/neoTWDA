@@ -9,7 +9,6 @@ November 3rd 2007
 -- Unknown
 
 Deck Name: Ayo Padami
-
 Description:
 Ishtarri Vote/Bleed
 

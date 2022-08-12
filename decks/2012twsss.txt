@@ -9,7 +9,6 @@ Alexander Båskman
 -- Unknown
 
 Deck Name: Geezers will find powerbleed
-
 Description:
 Inspired by Stefan Karlssons Geezers will find deck
 and of course the Girls will find deck by Teemu Sainomaa.

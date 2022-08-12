@@ -9,7 +9,7 @@ Sergio Gracia
 -- 3vp in the final
 
 Deck Name: Ventrue Guardian Elisio
-
+Author: Sergio Gracia & Iñaki Puigdollers
 Description:
 MATAR!
 

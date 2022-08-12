@@ -9,6 +9,7 @@ Martin Weinmayer
 -- 3vp in the final
 
 Deck Name: Jost on Vacation
+Author: Walter Paolini
 
 Crypt (12 cards, min=12 max=24 avg=4.5)
 ---------------------------------------

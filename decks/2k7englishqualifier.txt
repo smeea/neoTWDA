@@ -9,7 +9,6 @@ Robert Thompson
 -- Unknown
 
 Deck Name: For Gypsy Queen & Country
-
 Description:
 Fairly toolboxy Ravnos deck, the three deflections were enough to
 bring about survival long enough in the final to take the only VP.

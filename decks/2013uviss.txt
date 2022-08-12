@@ -9,7 +9,6 @@ Alberto Sánchez
 -- 4vp in the final
 
 Deck Name: Gatitos con alas
-
 Crypt (21 cards, min=4 max=16 avg=1.71)
 ---------------------------------------
 15x Tupdog                            1  POT VIS          Gargoyle:3

@@ -9,7 +9,6 @@ Ruben Van Cauwenberghe
 -- Unknown
 
 Deck Name: Anneke+Anson
-
 Crypt (12 cards, min=10 max=40 avg=6.83)
 ----------------------------------------
 4x Anneke           10  AUS CEL PRE dom   justicar   Toreador:1

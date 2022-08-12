@@ -9,7 +9,6 @@ Pat Lusk
 -- Unknown
 
 Deck Name: Massassi's Horror
-
 Crypt (12 cards, min=14 max=34 avg=5.92)
 ----------------------------------------
 3x Massassi          9  AUS CEL POT QUI obf      Osebo:4

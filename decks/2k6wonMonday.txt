@@ -9,7 +9,6 @@ Hugh Angseesing
 -- Unknown
 
 Deck Name: Cross Atlantic Angst
-
 Crypt (12 cards, min=10 max=32 avg=5.67)
 ----------------------------------------
 4x Howler             8  ANI PRE SPI obf      Ahrimane:2

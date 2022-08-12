@@ -9,7 +9,6 @@ Emiliano Imeroni
 -- 4vp in the final
 
 Deck Name: Utrecht Influence
-
 Description:
 My old Undue Influence deck updated for the Dutch ECQ 2013
 

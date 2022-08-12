@@ -9,6 +9,7 @@ https://www.vekn.net/event-calendar/event/7461
 -- 4vp in the final
 
 Deck Name: TUP DOG
+Author: Davi e Iorio
 
 Crypt (24 cards, min=4 max=20 avg=1.67)
 ---------------------------------------

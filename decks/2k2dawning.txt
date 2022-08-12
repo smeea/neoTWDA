@@ -9,7 +9,6 @@ Johan Carlsson
 -- Unknown
 
 Deck Name: Howler leads the way
-
 Crypt (12 cards, min=24 max=31 avg=6.83)
 ----------------------------------------
 1x Howler                                  8  ANI PRE SPI obf                Ahrimane:2

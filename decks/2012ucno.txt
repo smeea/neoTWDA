@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: Brad's Angry Dragon
-
 Description:
 Deck idea shamelessly stolen from a deck Mattias
 played at last year's NAC. I made some alterations mainly in

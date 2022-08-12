@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8422
 -- 3vp in the final
 
 Deck Name: Magneto - DK Nephandus deck
-
 Crypt (13 cards, min=12 max=20 avg=3.77)
 ----------------------------------------
 5x Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4

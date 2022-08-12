@@ -9,7 +9,6 @@ Ivor Blockley
 -- Unknown
 
 Deck Name: Sempiternal Setites
-
 Crypt (12 cards, min=12 max=23 avg=4.58)
 ----------------------------------------
 2x Halim Bey               6  DOM SER obf tha      Ministry:4

@@ -9,7 +9,6 @@ Sten Düring
 -- Unknown
 
 Deck Name: Masking the Unblockable
-
 Description:
 Combining Aching Beauty and Toreador Grand Ball may look
 like a strange strategy. Add in Mask of a thousand Faces and it makes

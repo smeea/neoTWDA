@@ -9,7 +9,6 @@ Andrea Ravera
 -- Unknown
 
 Deck Name: [Lasombra] Turbo Lucita
-
 Description:
 Put the soul gem on Lucita ASAP, she's a 8 cap, untap
 with freak drive (costs 1 blood). Employ camarilla vitae slave (costs

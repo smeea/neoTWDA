@@ -9,7 +9,6 @@ Alejandro Hernandez Molina
 -- Unknown
 
 Deck Name: CS Ventrue
-
 Description:
 Vote Deck with a twist.
 

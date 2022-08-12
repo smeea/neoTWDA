@@ -9,7 +9,6 @@ Michael Heyder
 -- Unknown
 
 Deck Name: Laibon Rule the World
-
 Crypt (12 cards, min=23 max=36 avg=7.58)
 ----------------------------------------
 4x Nangila Were   9  ANI POT PRE obf ser      Guruhi:4

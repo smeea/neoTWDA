@@ -9,7 +9,6 @@ Jorge Delgado
 -- Unknown
 
 Deck Name: Girls will find... Inner Circles
-
 Crypt (12 cards, min=36 max=44 avg=10.0)
 ----------------------------------------
 4x Cybele                  10  ANI DAI OBF PRE SER THA                  Baali:4

@@ -9,7 +9,6 @@ David Litwin
 -- 4vp in the final
 
 Deck Name: Armin Still Hammering
-
 Crypt (12 cards, min=36 max=40 avg=9.33)
 ----------------------------------------
 4x Armin Brenner     10  CEL FOR POT PRE ani obf   archbishop   Brujah antitribu:4

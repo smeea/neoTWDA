@@ -9,7 +9,6 @@ Mike Zajac
 -- Unknown
 
 Deck Name: Obey Redux
-
 Description:
 Vote and bleed down prey, and reassign pool via Parity Shifts to keep
 others from being ousted; bounce with Deflections and reduce combat

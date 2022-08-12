@@ -9,7 +9,6 @@ Marcin Watras
 -- Unknown
 
 Deck Name: Tegyrius & Tariq - wall deck
-
 Description:
 Block, send to torpor, burn......
 

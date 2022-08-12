@@ -9,7 +9,6 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: Ayo Stuffs the Ballot Box
-
 Description:
 Gain massive vote dominance with Ayo's special. Vote at 5
 stealth or more. Gain pool. Kill.

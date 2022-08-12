@@ -9,7 +9,6 @@ Dane Smith
 -- 2gw8 + 4vp in the final
 
 Deck Name: Lasombra Hyperdrive V3.0
-
 Crypt (12 cards, min=18 max=34 avg=6.5)
 ---------------------------------------
 2x Julia Prima                  7  DOM OBT aus myt                 Kiasyd:2

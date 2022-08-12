@@ -9,7 +9,6 @@ Alex Ek
 -- Unknown
 
 Deck Name: Neo-Lawfirm
-
 Description:
 There are now 3 different lawfirm crypts and this one is
 probably the weakest of the three. Something that makes people

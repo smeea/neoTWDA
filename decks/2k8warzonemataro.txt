@@ -9,7 +9,6 @@ Albert Dulcet Bellmonte
 -- 3vp in the final
 
 Deck Name: weenie obfuscate vote
-
 Crypt (12 cards, min=6 max=13 avg=2.58)
 ---------------------------------------
 1x Agrippina                          4  OBF pot      Nosferatu:1

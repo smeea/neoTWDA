@@ -9,7 +9,6 @@ Adam Esbjörnsson
 -- Unknown
 
 Deck Name: 13 is the new 12
-
 Description:
 AA(A)
 

@@ -9,7 +9,6 @@ Henrik Oscarsson
 -- Unknown
 
 Deck Name: Crusher!
-
 Description:
 Crush...
 

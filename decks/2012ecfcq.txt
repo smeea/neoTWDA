@@ -9,7 +9,6 @@ Tomek Kowalewski
 -- 2.5vp in the final
 
 Deck Name: EC 2012 FCQ: Goratrix/Omaya Wall
-
 Crypt (12 cards, min=4 max=40 avg=5.92)
 ---------------------------------------
 4x Goratrix             10  ANI AUS DOM THA vic              Tremere antitribu:2

@@ -9,7 +9,6 @@ Patrick Lusk
 -- Unknown
 
 Deck Name: Got Confusion?
-
 Crypt (12 cards, min=17 max=28 avg=5.58)
 ----------------------------------------
 1x Anatole, Prophet of Gehenna    8  AUS DEM OBF dom for              Malkavian:2

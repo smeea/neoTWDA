@@ -9,7 +9,6 @@ Norbert Flasko
 -- Unknown
 
 Deck Name: You shall not pass!!!
-
 Crypt (12 cards, min=24 max=32 avg=6.92)
 ----------------------------------------
 4x Howler           8  ANI PRE SPI obf      Ahrimane:2

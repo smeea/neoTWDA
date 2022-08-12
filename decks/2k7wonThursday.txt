@@ -9,7 +9,6 @@ Ian Lee
 -- Unknown
 
 Deck Name: Pale Panda Warriors
-
 Description:
 In theory, this fat Pander deck taps people with various
 special abilities and Majesty's and supposedly does pool

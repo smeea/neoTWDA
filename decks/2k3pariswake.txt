@@ -9,7 +9,6 @@ Kamel Senni
 -- Unknown
 
 Deck Name: Kindred Spirit
-
 Crypt (12 cards, min=16 max=27 avg=5.5)
 ---------------------------------------
 1x Kite                           7  AUS DEM obf pre       bishop     Malkavian antitribu:2

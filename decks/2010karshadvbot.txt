@@ -9,7 +9,6 @@ Mariusz Suchanecki
 -- Unknown
 
 Deck Name: Nosferatu Burton
-
 Crypt (12 cards, min=28 max=38 avg=8.17)
 ----------------------------------------
 3x Sheldon, Lord of the Clog    9  ANI AUS OBF POT for       justicar   Nosferatu:1

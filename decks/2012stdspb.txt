@@ -9,7 +9,6 @@ Ricardo Molina Sobreira
 -- Unknown
 
 Deck Name: Tremere
-
 Crypt (12 cards, min=29 max=38 avg=8.25)
 ----------------------------------------
 3x Lucas Halton                10  AUS CEL DOM THA qui   prince     Tremere:3

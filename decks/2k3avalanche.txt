@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: Jake Washington eats the world
-
 Crypt (12 cards, min=8 max=17 avg=3.17)
 ---------------------------------------
 5x Horatio          2  vic              Tzimisce:2

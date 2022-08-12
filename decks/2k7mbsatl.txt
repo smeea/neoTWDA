@@ -9,7 +9,6 @@ John Newquist
 -- 1GW4 (2nd seed) + 4VP in final
 
 Deck Name: Champion is Weak
-
 Description:
 Daneel is correct - if a card is weak, I should stop playing it.
 There should be one additional Flash Grenade in the deck - it's

@@ -9,7 +9,6 @@ Rodd Closson
 -- 4vp in the final
 
 Deck Name: Hall of Fame
-
 Description:
 Kindred Spirits Shark
 

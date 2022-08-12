@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7808
 -- 4vp in the final
 
 Deck Name: Sisters of Mercy
-
 Crypt (12 cards, min=10 max=26 avg=4.67)
 ----------------------------------------
 2x Sayshila            7  FOR MEL PRE dem          Daughter of Cacophony:4

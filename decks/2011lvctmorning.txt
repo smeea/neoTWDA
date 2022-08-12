@@ -9,7 +9,6 @@ David Litwin
 -- 4vp in the final
 
 Deck Name: Armin Hammer
-
 Description:
 The deck plays generally the same as any stealth/vote deck with a more
 interesting stealth module. Ideally Armin Brenner is your first

@@ -9,7 +9,6 @@ Adam Esbjörnsson
 -- 4vp in the final
 
 Deck Name: Arsemite syrups
-
 Description:
 Thanks to Mathias Olsson for the inspiration
 

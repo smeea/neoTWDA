@@ -9,7 +9,6 @@ Régis Laubry
 -- Unknown
 
 Deck Name: Eurobrujah feat. Theo
-
 Description:
 Combat part with no blood cost very good, need some bleed modifier
 

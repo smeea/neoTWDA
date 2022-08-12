@@ -9,7 +9,6 @@ Martin Laganière
 -- Unknown
 
 Deck Name: Avantage Numérique
-
 Description:
 The goal is to have a horde of minions that bleed as
 much as possible. Use the Enchant Kindred to get out free vampires

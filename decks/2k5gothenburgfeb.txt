@@ -9,7 +9,6 @@ Archibald Zimonyi
 -- Unknown
 
 Deck Name: Brujahlicous
-
 Description:
 This deck won the February monthly tournament in
 Gothenburg. The point of the deck is to dish out more damage then you

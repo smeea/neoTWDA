@@ -9,7 +9,6 @@ Sten Düring
 -- Unknown
 
 Deck Name: Firepower
-
 Crypt (12 cards, min=18 max=39 avg=7.58)
 ----------------------------------------
 3x François Villon       10  AUS CEL PRE chi obf pot   prince   Toreador:2

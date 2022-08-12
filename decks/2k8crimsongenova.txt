@@ -8,6 +8,7 @@ Patrizio Zippone
 
 -- Unknown
 
+Author: Patrizio Zippone (heavily based on the winning deck of
 Description:
 Guillaume Lefebvre http://www.veknfrance.com/decks/twd.htm#2k7quebecchamp)
 lasombra and nocturn

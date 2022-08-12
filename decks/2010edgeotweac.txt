@@ -9,7 +9,6 @@ Thomas Solway
 -- 2.5vp in the final
 
 Deck Name: DOM PRO Gio
-
 Crypt (12 cards, min=19 max=32 avg=6.75)
 ----------------------------------------
 4x Giovanni del Georgio   8  DOM NEC POT PRO                    Giovanni:5

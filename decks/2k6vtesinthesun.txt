@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: The reincarnation of an ornithologist, mark II
-
 Description:
 Here's the updated version of the deck for the archive:
 

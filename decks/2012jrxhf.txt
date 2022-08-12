@@ -9,7 +9,6 @@ Juha Nyholm
 -- Unknown
 
 Deck Name: Fast lunch
-
 Description:
 A casual deck built back when I started playing. Haven't really updated
 it much since. I guess the deck would fair better if I swapped out the

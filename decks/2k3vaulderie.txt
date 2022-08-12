@@ -9,7 +9,6 @@ Pierre Tran-Van
 -- Unknown
 
 Deck Name: Draught of Betrayal
-
 Crypt (12 cards, min=12 max=30 avg=5.33)
 ----------------------------------------
 4x Tariq, The Silent                  7  AUS FOR OBF QUI cel      Banu Haqim:2

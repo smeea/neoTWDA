@@ -9,7 +9,6 @@ Patrick Benoit
 -- Unknown
 
 Deck Name: Plan 9 from outer space
-
 Crypt (13 cards, min=15 max=27 avg=5.15)
 ----------------------------------------
 3x Le Dinh Tho          5  NEC aus dom          Nagaraja:2

@@ -9,7 +9,6 @@ Hernán Rodríguez
 -- Unknown
 
 Deck Name: Tzimisce ganador Qualy
-
 Description:
 Un mazo de control clasico electo mis que nada por la
 lectura de metagame que iba a haber en el Qualy.

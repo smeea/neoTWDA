@@ -9,7 +9,6 @@ Alex Parcero
 -- Unknown
 
 Deck Name: Malki de Presencia
-
 Crypt (12 cards, min=20 max=38 avg=7.58)
 ----------------------------------------
 2x Esau                     10  AUS DEM DOM OBF PRE                Malkavian:3

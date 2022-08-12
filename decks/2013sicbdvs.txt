@@ -9,6 +9,7 @@ Tomàs López Jiménez
 -- Unknown
 
 Deck Name: Panders votos con 2 Inners
+Author: Based on a Peter Talmasci deck
 
 Crypt (12 cards, min=4 max=27 avg=3.0)
 --------------------------------------

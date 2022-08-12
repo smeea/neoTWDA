@@ -9,7 +9,6 @@ Ian Lee
 -- Unknown
 
 Deck Name: Silent Sympathy
-
 Description:
 Deck Design: Colin Riggs, tweaked & played by Ian Lee
 Use weenies to Honor the Elders many times, swarm bleed with Elders.

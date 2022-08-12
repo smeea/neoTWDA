@@ -9,7 +9,6 @@ Riccardo Fabiani
 -- 5vp in the final
 
 Deck Name: Malgorzata's Little Shop of Horror
-
 Crypt (13 cards, min=20 max=36 avg=7.31)
 ----------------------------------------
 5x Malgorzata     9  AUS DOM THA VIC pre   priscus   Tremere antitribu:4

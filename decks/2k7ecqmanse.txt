@@ -9,7 +9,6 @@ Jaakko Liemola
 -- 2gw9 + 1.5vp in the final
 
 Deck Name: ECQ-Lasombra
-
 Crypt (13 cards, min=32 max=40 avg=9.31)
 ----------------------------------------
 2x Bruce de Guy                10  AUS DOM FOR OBT           cardinal     Ventrue antitribu:4

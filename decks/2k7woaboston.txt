@@ -9,7 +9,6 @@ D.J. Chagnon
 -- 4vp in the final
 
 Deck Name: Darby Dance of the Seven Veils
-
 Description:
 An adaptation of various Darby Dance decks, particularly John
 Newquist's 12/17/06 Razorbat: Atlanta winner (at least, that was the

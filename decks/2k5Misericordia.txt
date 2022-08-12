@@ -9,7 +9,6 @@ Ginés Quiñonero
 -- Unknown
 
 Deck Name: We are legion
-
 Crypt (15 cards, min=4 max=5 avg=1.07)
 --------------------------------------
 1x Hanna Redmonds         2  obf tha      Caitiff:3

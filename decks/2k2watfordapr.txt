@@ -9,7 +9,6 @@ Rob Treasure
 -- Unknown
 
 Deck Name: The Turd
-
 Description:
 A real abomination of a deck, constructed initially taking advantage
 of Anneke's brilliant special to control the table but evolving into

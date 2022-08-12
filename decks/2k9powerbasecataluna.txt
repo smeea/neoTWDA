@@ -9,7 +9,6 @@ Sergio Gracia
 -- 3GW & 12VP
 
 Deck Name: Los pricipes de siempre
-
 Crypt (12 cards, min=16 max=33 avg=6.33)
 ----------------------------------------
 2x Emerson Bridges                   8  DOM FOR PRE pot       prince     Ventrue:1

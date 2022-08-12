@@ -9,7 +9,6 @@ Bram Vink
 -- Unknown
 
 Deck Name: Jost on GHB
-
 Crypt (12 cards, min=12 max=24 avg=4.83)
 ----------------------------------------
 4x Jost Werner                   6  AUS PRE ani                Toreador antitribu:2

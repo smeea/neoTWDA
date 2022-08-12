@@ -9,7 +9,6 @@ David Baker
 -- Unknown
 
 Deck Name: Baker's Late Night Express
-
 Crypt (12 cards, min=29 max=38 avg=8.5)
 ---------------------------------------
 3x Orlando Oriundus    9  AUS DOM THA obf           bishop         Tremere antitribu:4

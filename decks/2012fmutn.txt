@@ -9,7 +9,6 @@ Jelmer Wedholm
 -- 3vp in the final
 
 Deck Name: Ira Wall
-
 Description:
 Ira's special is great. Let's you flush cards easy. The same goes for Aura Reading,
 or even combined. Aura Reading is also great at inferior.

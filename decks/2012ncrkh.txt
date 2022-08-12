@@ -9,7 +9,6 @@ Milos Krstic
 -- 9VP/3GWs prefinals,9.5VP/3GWs total
 
 Deck Name: N.W.A v1.2
-
 Description:
 Old story of Nana with ANI support.
 This time i added Narrow Minds in order to reduce

@@ -9,7 +9,6 @@ Gonzalo Rojas
 -- Unknown
 
 Deck Name: Ventrue At control & Bleed
-
 Description:
 A classic deck Ventrue At Control/ Bleed
 

@@ -9,7 +9,6 @@ Mikko Tervonen
 -- 3vp in the final
 
 Deck Name: The Ghosts of Your Loss
-
 Description:
 My first Harbinger deck. Everything worked like a dream.
 Card cycle was awesome with all the vampire specials, Maabara, Fragment,

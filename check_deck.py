@@ -72,6 +72,7 @@ for file in argv[1:]:
         link = lines[6].rstrip()
         score = lines[8].rstrip().replace("-- ", "")
         deck_name = None
+        author = None
         description = []
         crypt = []
         library = []
@@ -88,6 +89,9 @@ for file in argv[1:]:
 
             if m := re.match(r"^Deck Name: (.*)\n", line):
                 deck_name = m.group(1)
+
+            if m := re.match(r"^Author: (.*)\n", line):
+                author = m.group(1)
 
         for i, line in enumerate(lines[description_offset:]):
             if re.match(r"^Crypt \(\d+ cards.*\)", line):
@@ -127,5 +131,7 @@ for file in argv[1:]:
         check_min_max_size(library, 60, 90)
         if not deck_name:
             print(" > NO DECK NAME")
+        if winner == author:
+            print(" > SAME AUTHOR AND WINNER")
         if not description:
             print(" > NO DESCRIPTION")

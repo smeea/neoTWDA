@@ -9,6 +9,7 @@ Juanma Sorrotxe
 -- 2gw8 + 3vp in the final
 
 Deck Name: Big Malkavian Deck
+Author: Iker Feliu
 
 Crypt (13 cards, min=21 max=37 avg=7.54)
 ----------------------------------------

@@ -9,7 +9,6 @@ Ben Peal
 -- Unknown
 
 Deck Name: Howler and Friends
-
 Description:
 This is a fairly toolboxy wall deck, getting out assorted
 allies and retainers, with Howler minding the fort. A few years ago,

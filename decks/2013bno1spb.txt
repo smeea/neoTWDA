@@ -9,7 +9,6 @@ Pedro Coelho
 -- Unknown
 
 Deck Name: Nadima Wall
-
 Crypt (13 cards, min=13 max=32 avg=5.62)
 ----------------------------------------
 4x Nadima                 8  FOR PRO SER ani aus            Gangrel:3

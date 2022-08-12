@@ -9,7 +9,6 @@ Lincoln Figueredo
 -- Unknown
 
 Deck Name: Lincoln's setite deck
-
 Crypt (16 cards, min=13 max=40 avg=5.81)
 ----------------------------------------
 8x Aabbt Kindred      4  for pre ser                  Ministry:2

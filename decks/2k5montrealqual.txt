@@ -9,7 +9,6 @@ François Déziel
 -- Unknown
 
 Deck Name: Arhimanes gone wild
-
 Description:
 a somewhat-weird Ahrimanes
 anarch votes deck

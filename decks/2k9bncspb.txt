@@ -9,7 +9,6 @@ Fernando Cesar
 -- Unknown
 
 Deck Name: Tremere Bleed
-
 Crypt (12 cards, min=17 max=28 avg=5.75)
 ----------------------------------------
 2x Selena                              6  AUS DOM THA                            Tremere antitribu:3

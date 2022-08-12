@@ -9,7 +9,6 @@ Erol Hammer
 -- Unknown
 
 Deck Name: Black Hand Arts v1.0
-
 Description:
 Build up like a normal !Tor Breed Deck, bring out Banjoko for
 enhanced Seraph Tech. Black Hand Emissary and Watchtower: Wolves Feed will

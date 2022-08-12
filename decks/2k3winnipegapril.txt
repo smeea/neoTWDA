@@ -9,7 +9,6 @@ John Pattie
 -- Unknown
 
 Deck Name: Blood Hoover
-
 Description:
 Basically a cel/tha blood draining and burning deck. Anathema for
 pool gain.

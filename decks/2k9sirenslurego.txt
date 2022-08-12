@@ -9,7 +9,6 @@ Jay Kristoff
 -- Unknown
 
 Deck Name: Stolen Truth
-
 Description:
 My friend Karl "The Truth" Schaefer introduced the
 Toreador!/Undue Influence decktype to me years ago. This is my version

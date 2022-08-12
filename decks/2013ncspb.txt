@@ -9,7 +9,6 @@ Fernanda Nunes
 -- 5vp in the final
 
 Deck Name: Dança das Borboletas
-
 Crypt (12 cards, min=22 max=32 avg=6.83)
 ----------------------------------------
 3x Arcadian, The       8  DOM MYT OBT chi for             Kiasyd:5

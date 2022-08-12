@@ -9,7 +9,6 @@ David Wittmann
 -- Unknown
 
 Deck Name: I like to Rumble
-
 Crypt (12 cards, min=12 max=39 avg=7.08)
 ----------------------------------------
 4x Hektor                  9  CEL POT PRE QUI for       priscus      Brujah antitribu:4

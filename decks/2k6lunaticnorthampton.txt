@@ -9,7 +9,6 @@ Scott Gomes
 -- Unknown
 
 Deck Name: Undue Influence
-
 Description:
 Undue Influence Stealth bleed with some Serpentis
 

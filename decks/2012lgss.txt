@@ -9,7 +9,7 @@ Jens Johansson
 -- 3vp in the final
 
 Deck Name: Govern down...
-
+Author: Jens Johansson with help from Randal Rudstam
 Description:
 Superior govern deck of doom!
 

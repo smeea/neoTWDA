@@ -9,7 +9,6 @@ Marcus Berg
 -- Unknown
 
 Deck Name: Yet another Imbued deck winning a tournament
-
 Description:
 Too many cards, should be slimmed about 15 cards.
 All Enchant Kindred should be Entrancement. One or both Kiss of

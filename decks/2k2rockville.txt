@@ -9,7 +9,6 @@ Josh Duffin
 -- Unknown
 
 Deck Name: "Mona Lisa Overdrive" (for the Smiling, and for the book.)
-
 Crypt (12 cards, min=22 max=36 avg=7.08)
 ----------------------------------------
 3x Omaya            7  ANI AUS FOR pro                  Gangrel antitribu:2

@@ -9,7 +9,7 @@ Frédéric Dacquin
 -- Unknown
 
 Deck Name: Classic Eurobrujah with some tasty Beast touch
-
+Author: Genuine deck from Stone, Jerôme Vandeplasse tweaked it a little,
 Description:
 and Fred won with it (again)
 

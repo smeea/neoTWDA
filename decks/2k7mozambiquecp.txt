@@ -9,7 +9,6 @@ Robert Kihn
 -- 3vp in the final
 
 Deck Name: Ventrue Law Firm
-
 Crypt (12 cards, min=16 max=40 avg=7.25)
 ----------------------------------------
 3x Natasha Volfchek                   9  FOR PRE cel dom pot       primogen       Ventrue:1

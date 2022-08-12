@@ -9,7 +9,7 @@ Peter Bouwman
 -- 5vp in the final
 
 Deck Name: Junta
-
+Author: Jeroen van Oort, Peter Bouwman
 Description:
 Laibon politics starring Ayo Igoli.
 

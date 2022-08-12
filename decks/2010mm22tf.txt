@@ -9,7 +9,6 @@ Ville Kaijasaari
 -- Unknown
 
 Deck Name: No Rules Vignes
-
 Crypt (12 cards, min=17 max=26 avg=5.33)
 ----------------------------------------
 3x Edward Vignes       6  DOM PRE for                Ventrue:3

@@ -9,7 +9,6 @@ Hugh Angseesing
 -- Unknown
 
 Deck Name: It's too good
-
 Description:
 Hugh's holiday deck.
 Snb wall. Trying to block forward to do maximum damage to prey.

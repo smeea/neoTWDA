@@ -9,7 +9,6 @@ Lukasz Wasylow
 -- 3vp in the final
 
 Deck Name: Rachel Madness
-
 Crypt (12 cards, min=27 max=40 avg=8.83)
 ----------------------------------------
 7x Rachel Brandywine   10  AUS DEM OBF PRO ani   prince     Malkavian:3

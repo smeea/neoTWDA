@@ -9,7 +9,6 @@ Ruben Feldman
 -- Unknown
 
 Deck Name: Pander Division
-
 Crypt (12 cards, min=4 max=12 avg=1.75)
 ---------------------------------------
 2x Royce                      1  dom              Pander:2

@@ -9,7 +9,6 @@ Jim Suh
 -- Unknown
 
 Deck Name: Setites can kiss my ra
-
 Description:
 How did this deck win? Luck.
 

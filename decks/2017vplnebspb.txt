@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8670
 -- 4vp in the final
 
 Deck Name: UnnaDelicia
-
 Crypt (13 cards, min=12 max=40 avg=6.0)
 ---------------------------------------
 7x Horde, The                 3  dai obf pre              Baali:6

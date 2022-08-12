@@ -9,7 +9,7 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: Imbused
-
+Author: Alex Ek & Erik Torstensson based on a deck by Joshua Duffin
 Description:
 Suggested post-tourney changes:
 -1 Channel 10

@@ -9,7 +9,6 @@ Erik Gustafsson
 -- Unknown
 
 Deck Name: Blood of the Rabbat
-
 Crypt (12 cards, min=19 max=38 avg=7.08)
 ----------------------------------------
 3x Rabbat, The Sewer Goddess    7  ANI FOR OBF pot              Nosferatu:4

@@ -9,7 +9,7 @@ Ginés Quiñonero
 -- Unknown
 
 Deck Name: What Ghoul?
-
+Author: Cameron Roberts (modified and played by Ginés Quiñonero)
 Description:
 Coordinator:	Ferran Bádenas & Ginés Quiñonero
 

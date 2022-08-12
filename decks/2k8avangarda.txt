@@ -9,7 +9,6 @@ Marcin Watras
 -- Unknown
 
 Deck Name: ANI+PRO Earth Meld Wall
-
 Crypt (12 cards, min=15 max=26 avg=5.25)
 ----------------------------------------
 4x Janey Pickman        6  ANI PRO for              Gangrel antitribu:4

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8839
 -- 4vp in the final
 
 Deck Name: !Ventrue Toolbox
-
 Description:
 The classic !Ventrue grinder, but geared towards Under Siege. Fortitude to
 deal with the occasional nasty combat deck, bounce for bleed or blocking,

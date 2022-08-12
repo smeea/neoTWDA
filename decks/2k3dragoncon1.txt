@@ -9,7 +9,6 @@ Matt Guinn
 -- Unknown
 
 Deck Name: Who Needs Stealth
-
 Crypt (12 cards, min=16 max=32 avg=6.08)
 ----------------------------------------
 1x Donatien                      9  AUS PRE cel pot       cardinal     Toreador antitribu:2

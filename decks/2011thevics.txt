@@ -9,7 +9,6 @@ Ivor Blockley
 -- Unknown
 
 Deck Name: Feeling Lutzy
-
 Crypt (12 cards, min=30 max=44 avg=9.67)
 ----------------------------------------
 4x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot   inner circle   Malkavian:4

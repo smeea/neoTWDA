@@ -9,7 +9,6 @@ Rui Rato
 -- Unknown
 
 Deck Name: Nosferatu/!Nosferatu Wall Deck
-
 Description:
 Type: Wall/Intercept Group 1/2
 

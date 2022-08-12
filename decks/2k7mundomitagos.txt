@@ -9,6 +9,7 @@ Iñaki Jimenez
 -- Unknown
 
 Deck Name: Marchas Cortas
+Author: Iñaki Jimenez (Based on a deck by Linus Garriga)
 
 Crypt (12 cards, min=23 max=40 avg=8.0)
 ---------------------------------------

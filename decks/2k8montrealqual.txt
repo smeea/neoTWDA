@@ -9,7 +9,6 @@ Christian Chénard
 -- Unknown
 
 Deck Name: Amavarati et ses amis
-
 Description:
 My take on what is becoming a classic breed-bleed/vote
 archetype. Inspired largely by the latest TWDA version of Inaki

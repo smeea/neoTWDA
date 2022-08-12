@@ -9,7 +9,6 @@ Yoann Guyader
 -- Unknown
 
 Deck Name: Vulture's Song
-
 Crypt (12 cards, min=13 max=27 avg=5.08)
 ----------------------------------------
 3x Muricia                   7  ANI PRE SPI          Ahrimane:4

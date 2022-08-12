@@ -9,7 +9,6 @@ Jonas Ståhle
 -- Unknown
 
 Deck Name: Tangled Powerbleed
-
 Crypt (12 cards, min=13 max=27 avg=5.08)
 ----------------------------------------
 2x Gillespi Giovanni                 7  DOM NEC POT aus      Giovanni:2

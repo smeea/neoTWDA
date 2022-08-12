@@ -9,7 +9,6 @@ James Messer
 -- 3vp in the final
 
 Deck Name: If You Can't Beat Ashur, Play Them
-
 Crypt (13 cards, min=32 max=40 avg=9.08)
 ----------------------------------------
 4x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2

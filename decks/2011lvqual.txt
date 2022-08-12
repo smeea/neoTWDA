@@ -9,7 +9,7 @@ David Tatu
 -- 3vp in the final
 
 Deck Name: Ira
-
+Author: Matt Guinn, modified by David Tatu
 Description:
 Matt Guinn gave me this deck that he won Guide and Mentor: Atlanta
 with last month. I made a few changes but the cards I put in never

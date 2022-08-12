@@ -9,7 +9,6 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: Fuzzface
-
 Description:
 This deck has solid offense but obviously should drop the
 Dual Forms for more stealth/Freak/whatever. Another take on the deck

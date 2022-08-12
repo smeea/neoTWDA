@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9723
 -- Unknown
 
 Deck Name: Lasombra presence
-
 Crypt (12 cards, min=35 max=43 avg=9.83)
 ----------------------------------------
 3x Montano                                  11  ANI DOM FOR OBT POT       2 votes      Lasombra:3

@@ -9,7 +9,6 @@ Andreas Stjernfelt
 -- Unknown
 
 Deck Name: Stoneface
-
 Crypt (12 cards, min=10 max=26 avg=4.5)
 ---------------------------------------
 2x Ferox, The Rock Lord      7  FOR POT VIS ani      Gargoyle:2

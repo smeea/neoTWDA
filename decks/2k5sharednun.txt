@@ -9,7 +9,6 @@ Jeroen van Oort
 -- Unknown
 
 Deck Name: Deeper Underground
-
 Description:
 "Look in the sky, it's a raven. No, it's a bat.
 No, it's a crow, No it's a swarm of them all!!!"

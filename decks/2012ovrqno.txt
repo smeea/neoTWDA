@@ -9,7 +9,6 @@ Will Kristoff
 -- Unknown
 
 Deck Name: Inter-Galactic Slime Belt
-
 Crypt (12 cards, min=16 max=24 avg=5.33)
 ----------------------------------------
 2x Dr. Douglas Netchurch   6  AUS OBF dem dom      Malkavian:3

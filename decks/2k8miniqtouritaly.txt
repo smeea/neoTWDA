@@ -9,7 +9,6 @@ Axel Zaminga
 -- Unknown
 
 Deck Name: Smiling Sasha
-
 Description:
 Tzimisce wall with Horrid Forms
 

@@ -9,7 +9,6 @@ Eric Chiang
 -- Unknown
 
 Deck Name: The !Tremere Make Their Presence Known
-
 Description:
 A !Tremere vote deck that
 utilizes Presence. Alfred, Ayelea, and Bryan already

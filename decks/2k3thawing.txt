@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: Die Kuchenfrau goes mad
-
 Description:
 someone has stolen rachel's sneakers (or something).
 Probably your prey. She wants it back. By killing. Bleed, oust, win.

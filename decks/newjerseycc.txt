@@ -9,7 +9,6 @@ Ben Peal
 -- Unknown
 
 Deck Name: Short Leash Bleed
-
 Description:
 Obf/Dom stealth/bleed. Typically bleeding for no more
 than 3. If bleeds are bounced, use "media outlets" to give opposing

@@ -9,7 +9,6 @@ Carlos Martín Guerra
 -- 3vp in the final
 
 Deck Name: Anson Pistolero
-
 Crypt (12 cards, min=16 max=32 avg=5.67)
 ----------------------------------------
 4x Anson                       8  CEL PRE aus dom   prince   Toreador:1

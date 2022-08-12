@@ -9,7 +9,6 @@ Michal Faldyna
 -- Unknown
 
 Deck Name: Tremere "Last minute" toolbox
-
 Crypt (12 cards, min=12 max=38 avg=6.5)
 ---------------------------------------
 1x Cassandra, Magus Prime             10  AUS DOM THA cel pre       primogen   Tremere:1

@@ -9,7 +9,6 @@ Francesco Gallareto
 -- 3vp in the final
 
 Deck Name: AUS Wall
-
 Crypt (12 cards, min=4 max=17 avg=2.67)
 ---------------------------------------
 3x Anarch Convert   1                   Caitiff:ANY

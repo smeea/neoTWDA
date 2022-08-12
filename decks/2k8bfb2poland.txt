@@ -9,7 +9,6 @@ Aleksander Idziak
 -- Unknown
 
 Deck Name: Giovanni - Sudario Refraction
-
 Crypt (12 cards, min=12 max=39 avg=6.58)
 ----------------------------------------
 3x Lady Constancia                10  AUS DOM FOR NEC POT   2 votes   Giovanni:4

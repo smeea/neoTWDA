@@ -9,7 +9,6 @@ Hugh Angseesing
 -- Unknown
 
 Deck Name: Myrddin's Magicians
-
 Description:
 Nothing too out of the ordinary in this deck,
 has a few issues if draws all 4 of the vampires

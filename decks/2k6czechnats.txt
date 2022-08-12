@@ -9,7 +9,6 @@ Roman Kedzior
 -- Unknown
 
 Deck Name: Marijava Thuggee
-
 Crypt (12 cards, min=14 max=24 avg=4.67)
 ----------------------------------------
 3x Roger Farnsworth     4  OBF aus              Malkavian antitribu:3

@@ -9,7 +9,6 @@ Robert Goudie
 -- Unknown
 
 Deck Name: Draba Jack
-
 Description:
 Based on Ference Vasadi's Ravnos Deck
 Resilient Deck that just refused to die. In the finals I

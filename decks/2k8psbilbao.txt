@@ -9,7 +9,6 @@ Iñaki Jimenez
 -- Unknown
 
 Deck Name: Gangrel Wall
-
 Description:
 This is the second tournament win with the deck. Should
 include 2-3 vessels but everything else seems to work really well. The

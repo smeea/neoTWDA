@@ -9,7 +9,6 @@ Sten Düring
 -- Unknown
 
 Deck Name: CE Firepower
-
 Description:
 Camarilla Edition version of an older tournament winner
 based on Toreadors with Obfuscate.

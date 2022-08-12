@@ -9,7 +9,6 @@ John McGlynn
 -- Unknown
 
 Deck Name: Carna Takes the Subway to Work
-
 Description:
 Carna tools up with equipment and sometimes plays Govern the Unaligned
 at superior. The other minions stay untapped or provide light pressure

@@ -9,7 +9,6 @@ Matthew Hirsch
 -- 3vp in the final
 
 Deck Name: Hannibalism
-
 Description:
 The main strategy of the deck is to get the best use out of
 Hannibal(A)'s untap ability to act twice on my own turn, then be able

@@ -9,7 +9,6 @@ Marc Desaulniers
 -- Unknown
 
 Deck Name: AAA
-
 Crypt (13 cards, min=20 max=44 avg=8.46)
 ----------------------------------------
 4x Alexandra        11  ANI AUS CEL PRE dom   inner circle   Toreador:2

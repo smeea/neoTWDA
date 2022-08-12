@@ -9,7 +9,6 @@ Viktor Lazarev
 -- Unknown
 
 Deck Name: Viktor's Brujahs
-
 Crypt (12 cards, min=20 max=40 avg=8.33)
 ----------------------------------------
 4x Jann Berger       10  CEL POT PRE dem for   prince     Brujah:4

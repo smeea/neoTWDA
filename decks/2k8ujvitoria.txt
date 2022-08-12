@@ -9,7 +9,7 @@ Leonardo Ribeiro Dias
 -- Unknown
 
 Deck Name: Guillaume Turbo-Hand
-
+Author: Leonardo Ribeiro Dias - Mineirinho (a.k.a. Tio Chico)
 Description:
 Using the Guillaume's Advantage. Why not?
 

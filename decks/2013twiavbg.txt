@@ -9,7 +9,6 @@ Martin Schumacher
 -- Unknown
 
 Deck Name: A question of honor
-
 Crypt (12 cards, min=38 max=44 avg=10.17)
 -----------------------------------------
 4x Stanislava       11  ANI CEL DOM FOR PRO       inner circle   Gangrel:2

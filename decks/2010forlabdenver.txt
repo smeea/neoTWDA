@@ -9,7 +9,6 @@ Jon Sushinsky
 -- Unknown
 
 Deck Name: Corrupt Construction
-
 Description:
 Player: Jon Sushinsky
 

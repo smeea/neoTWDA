@@ -9,7 +9,6 @@ Frances Ros
 -- 2.5vp in the final
 
 Deck Name: Nakhthorheb Power
-
 Crypt (12 cards, min=12 max=36 avg=5.83)
 ----------------------------------------
 3x Nakhthorheb             10  OBF PRE SER              Ministry:4

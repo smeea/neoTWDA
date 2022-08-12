@@ -9,7 +9,7 @@ Darby Keeney
 -- Unknown
 
 Deck Name: Balls of Stihl
-
+Author: Darby Keeney, based on a John Eno design.
 Description:
 (Imbued Chainsaw Rush)
 

@@ -9,7 +9,6 @@ Joakim Rapp
 -- Unknown
 
 Deck Name: Rulers of the Old Land
-
 Crypt (12 cards, min=24 max=40 avg=8.42)
 ----------------------------------------
 3x Lambach                                  10  ANI AUS DOM VIC pre   cardinal     Tzimisce:2

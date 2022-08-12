@@ -9,7 +9,6 @@ Ferenc Vasadi
 -- 4vp in the final
 
 Deck Name: aniweenie
-
 Crypt (12 cards, min=8 max=21 avg=3.5)
 --------------------------------------
 2x Stick                3  ANI                        Nosferatu antitribu:4

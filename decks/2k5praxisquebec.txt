@@ -9,7 +9,6 @@ Michel-Étienne Fortin
 -- Unknown
 
 Deck Name: Mage Power
-
 Description:
 Weenie ally swarm using one of the most versatile ally in
 the game. Put out a couple vamps, recruit like crazy and start the

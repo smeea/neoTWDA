@@ -9,7 +9,6 @@ Gregory Galyanov
 -- 1gw4 + 5vp in the final
 
 Deck Name: "The Man"
-
 Description:
 Wacky Stealth/Vote with two giant vamps, Designed for
 ousting weenies

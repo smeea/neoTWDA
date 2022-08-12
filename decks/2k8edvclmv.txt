@@ -9,7 +9,6 @@ Fernando Pedraza
 -- Unknown
 
 Deck Name: Old School Mages
-
 Crypt (12 cards, min=23 max=32 avg=6.92)
 ----------------------------------------
 2x Rebekka, Chantry Elder of Munich   8  AUS PRE THA pot                  Tremere:2

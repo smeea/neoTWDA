@@ -9,7 +9,6 @@ Jan Kroeze
 -- Unknown
 
 Deck Name: The Geeks' Revenge
-
 Description:
 !Ventrue PRO/FOR/DOM/AUS.
 

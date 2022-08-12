@@ -9,6 +9,7 @@ Mathieu Guimond
 -- Unknown
 
 Deck Name: Mon chien est mort à Montréal
+Author: Christian Chénard
 
 Crypt (12 cards, min=14 max=20 avg=4.5)
 ---------------------------------------

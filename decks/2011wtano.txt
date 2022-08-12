@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: Sudden Reversal Monstrosity
-
 Description:
 Probably one of more vicious and aggressive decks I have built.
 The idea is denying opponents key resources in the form of their

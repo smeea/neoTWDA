@@ -9,7 +9,6 @@ BJ Conant
 -- Unknown
 
 Deck Name: PROdom
-
 Crypt (12 cards, min=14 max=40 avg=7.0)
 ---------------------------------------
 3x Ingrid Rossler         9  ANI FOR PRO dom       prince         Gangrel:2

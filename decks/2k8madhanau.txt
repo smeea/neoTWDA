@@ -9,7 +9,6 @@ Rudolf Scholz
 -- Unknown
 
 Deck Name: Thank You Vlada
-
 Crypt (12 cards, min=15 max=30 avg=5.92)
 ----------------------------------------
 3x Iliana                   7  DOM FOR PRO tha                Gangrel:2

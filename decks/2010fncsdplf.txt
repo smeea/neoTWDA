@@ -9,7 +9,7 @@ Pierre Tran-Van
 -- Unknown
 
 Deck Name: !Ventrue pour CF 2010
-
+Author: Stone
 Description:
 à l'origine, un !Ventrue avec un module Concealed / Desert Eagle /
 Magazine / Scattershot, testé une fois en amicale et 4 fois lors d'un tournoi à 5.

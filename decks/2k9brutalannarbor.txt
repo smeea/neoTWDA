@@ -9,7 +9,6 @@ David Wilson
 -- Unknown
 
 Deck Name: Eternal Masquers
-
 Description:
 Transfer out Cybele, get burned, come back with Eternal
 mask, get a skill card, get your soulgem, burn on someone's untap,

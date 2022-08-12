@@ -9,7 +9,6 @@ Gonzalo Andrés del Río Díaz
 -- Unknown
 
 Deck Name: !Ventrue
-
 Crypt (12 cards, min=24 max=33 avg=7.25)
 ----------------------------------------
 3x Owain Evans, The Wanderer   8  AUS DOM FOR cel pre                Ventrue antitribu:3

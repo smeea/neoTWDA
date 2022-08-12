@@ -9,7 +9,7 @@ Ignasi Vilagrasa
 -- Unknown
 
 Deck Name: The Bleeding Vignes
-
+Author: Ruben Feldman (remastered by Ignasi Villagrasa)
 Description:
 Go ahead!
 

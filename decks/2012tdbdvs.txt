@@ -9,6 +9,7 @@ Soufiane Bouzouf
 -- Unknown
 
 Deck Name: Porque Esto Es África
+Author: Melkor1984 (Noel Giménez) (with slight modification)
 
 Crypt (12 cards, min=25 max=38 avg=7.75)
 ----------------------------------------

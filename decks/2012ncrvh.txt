@@ -9,7 +9,6 @@ Balázs Kalóczkai
 -- Unknown
 
 Deck Name: Ventrue toolbox
-
 Description:
 This deck is the real toolbox: Block & vote & bleed & combat & bloat.
 

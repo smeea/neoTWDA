@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8226
 -- 3vp in the final
 
 Deck Name: Giovanni Locations
-
 Crypt (12 cards, min=21 max=36 avg=7.33)
 ----------------------------------------
 5x Guillaume Giovanni             9  CEL DOM NEC POT obt             Giovanni:4

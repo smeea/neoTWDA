@@ -9,7 +9,6 @@ Roberto Mautone Junior
 -- 4vp in the final
 
 Deck Name: Carthage is the New Rome!
-
 Description:
 Deck Vote / Rush Deck that uses the pool of other players to buy weapons,
 and rush all vampires. After that, bleed with New Carthage. Persistent block always

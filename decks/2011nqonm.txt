@@ -9,7 +9,7 @@ Hugh Angseesing
 -- 1.5vp in the final
 
 Deck Name: Girls on Tour: Girls give Aids to Norway
-
+Author: Isak Esbjörnsson Bjärmark and Erik Torstensson
 Description:
 with amendments by Hugh Angseesing
 Ashur/liquidation and Villein/Lilliths are broken.

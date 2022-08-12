@@ -9,7 +9,6 @@ Iñaki Puigdollers
 -- Unknown
 
 Deck Name: Menú: Paella y Tortilla de Patata (Menu: Paella & Potato
-
 Description:
 Omelette)
 

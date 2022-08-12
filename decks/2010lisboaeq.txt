@@ -9,7 +9,6 @@ Hugh Angseesing
 -- 3GW10 including 4VP in final
 
 Deck Name: Dominating the Shadows with
-
 Description:
 Basic plan: Govern out some guys, use nocturns for a cheeky bleed of
 1 to move the edge or to block nasty mean deepsong and shambling

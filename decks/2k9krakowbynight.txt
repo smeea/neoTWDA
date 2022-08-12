@@ -9,7 +9,6 @@ Tomasz Kowalewski
 -- Unknown
 
 Deck Name: Dmitra 1.02
-
 Crypt (12 cards, min=24 max=37 avg=7.83)
 ----------------------------------------
 4x Dmitra Ilyanova    9  CEL FOR POT PRE obf   justicar   Brujah:5

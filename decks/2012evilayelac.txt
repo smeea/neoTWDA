@@ -9,7 +9,6 @@ Michael Summers
 -- Unknown
 
 Deck Name: Talbot's Renegade Garou v3
-
 Description:
 Pretty straight forward.
 Changes I'd make include -1 Ossian, -1 Trap, +1 Pulled Fangs, +1 Renegade Garou

@@ -9,7 +9,6 @@ Djordje Bjelajac
 -- Unknown
 
 Deck Name: Nobody expects the Shattering Crescendo.
-
 Description:
 Original deck by Otso Saariluoma. Tweaked to handle a little bit more
 intercept. I saw the idea on TWDA and since it featured two of my

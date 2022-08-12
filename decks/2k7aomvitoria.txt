@@ -9,7 +9,6 @@ Iñaki Jimenez
 -- Unknown
 
 Deck Name: CEL Guns
-
 Crypt (12 cards, min=15 max=20 avg=4.5)
 ---------------------------------------
 1x Brachah                     5  CEL PRE for                Brujah:2

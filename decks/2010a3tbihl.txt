@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: inhale the blinded eyes that see
-
 Crypt (12 cards, min=4 max=15 avg=2.5)
 --------------------------------------
 4x Anarch Convert                    1                   Caitiff:ANY

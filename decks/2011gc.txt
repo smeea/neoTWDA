@@ -9,7 +9,6 @@ Martin Schumacher
 -- Unknown
 
 Deck Name: Triple B (Bleed,Bruise & Block)
-
 Description:
 Did some of the changes I talked
 about after Arnheim last week. Ditched the Governs

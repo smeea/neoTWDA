@@ -9,7 +9,6 @@ Ben Swainbank
 -- Unknown
 
 Deck Name: Fauberge's Eggs
-
 Crypt (12 cards, min=13 max=30 avg=5.25)
 ----------------------------------------
 3x Étienne Fauberge        8  ANI CEL CHI FOR      Ravnos:3

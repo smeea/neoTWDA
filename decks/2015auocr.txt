@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7960
 -- 2vp in the final
 
 Deck Name: Stanislava 3.0
-
 Crypt (12 cards, min=24 max=44 avg=8.83)
 ----------------------------------------
 4x Stanislava       11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2

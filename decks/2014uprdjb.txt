@@ -9,7 +9,6 @@ Davi Pereira da Cunha
 -- Unknown
 
 Deck Name: Assamita
-
 Crypt (12 cards, min=17 max=31 avg=6.0)
 ---------------------------------------
 3x Bakr              8  CEL OBF QUI dem pro            Banu Haqim:5

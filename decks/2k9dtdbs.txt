@@ -9,7 +9,6 @@ Iñaki Puigdollers
 -- Unknown
 
 Deck Name: Gossips at the Playground v2.0 (a.k.a. Total Immortal)
-
 Description:
 Points 3 + 3 + 3 + 2 = 11 V.P. (winning the final for being first in
 previous rounds)

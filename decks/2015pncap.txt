@@ -9,7 +9,7 @@ Marisa Borda d'Água
 -- Unknown
 
 Deck Name: Nana anarch, low crypt, Portuguese version
-
+Author: Sandro Rodrigues
 Description:
 Fill the table with anarch revolt, and then deep song in prey's anarch.
 Also control our predator game

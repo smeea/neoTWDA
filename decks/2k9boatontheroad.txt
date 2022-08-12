@@ -9,7 +9,6 @@ Peter Modzelewski
 -- Unknown
 
 Deck Name: New Brujah Progeny
-
 Crypt (12 cards, min=18 max=34 avg=6.5)
 ---------------------------------------
 3x Tara              6  POT PRE cel           prince     Brujah:5

@@ -9,7 +9,6 @@ Ruben Feldman
 -- Unknown
 
 Deck Name: Multi-deflect
-
 Description:
 3GW14.5
 

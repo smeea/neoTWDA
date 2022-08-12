@@ -9,7 +9,6 @@ Thyelles Yoshitomi
 -- Unknown
 
 Deck Name: Chuck de bigode sinistro (Sinister Chuck with mustache)
-
 Crypt (13 cards, min=16 max=34 avg=6.46)
 ----------------------------------------
 3x Meshenka            8  ANI AUS VIC           priscus    Tzimisce:2

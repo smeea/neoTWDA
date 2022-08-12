@@ -9,7 +9,6 @@ Martin Major
 -- 2gw5 + 3vp in the final
 
 Deck Name: Broken Brujah vol. II
-
 Crypt (12 cards, min=25 max=36 avg=7.75)
 ----------------------------------------
 5x Dmitra Ilyanova   9  CEL FOR POT PRE obf   justicar   Brujah:5

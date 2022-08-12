@@ -9,7 +9,6 @@ Francesco D'alessio
 -- Unknown
 
 Deck Name: il Fakiro d'Alessio
-
 Crypt (12 cards, min=26 max=44 avg=9.0)
 ---------------------------------------
 5x Fakir al Sidi    11  ANI FOR PRE PRO THA abo      Gangrel:4

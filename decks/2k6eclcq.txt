@@ -9,7 +9,6 @@ Ruben Feldman
 -- Unknown
 
 Deck Name: The Bleeding Vignes
-
 Description:
 3GW13
 

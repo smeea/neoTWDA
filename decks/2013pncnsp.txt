@@ -9,7 +9,6 @@ Jakub Baranowski
 -- 2vp in the final
 
 Deck Name: Goratrix by Boboosh
-
 Crypt (12 cards, min=17 max=40 avg=6.75)
 ----------------------------------------
 4x Goratrix                          10  ANI AUS DOM THA vic      Tremere antitribu:2

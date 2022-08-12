@@ -9,7 +9,6 @@ Matti Palomäki
 -- 4vp in the final
 
 Deck Name: pienempi paha(lainen) [lesser (d)evil]
-
 Description:
 Third of the cards in the deck I never managed to play to any
 beneficial effect, but in most games the combination of having very

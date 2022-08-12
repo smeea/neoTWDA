@@ -9,7 +9,7 @@ https://www.vekn.net/event-calendar/event/8078
 -- 4vp in the final
 
 Deck Name: Malkavian Antitribu S&B
-
+Author: Tzimisce
 Description:
 Classic Dementation S&B.
 

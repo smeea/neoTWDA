@@ -9,7 +9,6 @@ Ben Peal
 -- Unknown
 
 Deck Name: Unacceptable Boon
-
 Description:
 Yet another in my line of breed-boon decks. This one
 was born from a conversation with Brian Moritz at the 2006 NAC, where

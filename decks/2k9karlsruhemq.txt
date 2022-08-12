@@ -9,7 +9,6 @@ Johannes Walch
 -- 4vp in the final
 
 Deck Name: Johannes Commands the Legion
-
 Description:
 Basic idea was to use Command the Legion in any deck. I
 made a G4/5 Ventrue, but was not too happy about it. Consulted the TWDA

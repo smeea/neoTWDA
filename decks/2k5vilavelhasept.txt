@@ -9,7 +9,6 @@ Ravel Zorzal
 -- Unknown
 
 Deck Name: Brujah!!
-
 Crypt (12 cards, min=27 max=40 avg=8.42)
 ----------------------------------------
 2x Jaroslav Pascek   10  CEL POT PRE for obf       justicar     Brujah:3

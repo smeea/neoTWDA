@@ -9,7 +9,6 @@ Tomasz Pietkiewicz
 -- 2gw8 + 3vp in the final
 
 Deck Name: Khazar's Diary
-
 Description:
 Super consistent and super resilient tier 1 staple
 with no fancy tech.

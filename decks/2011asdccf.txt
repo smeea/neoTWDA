@@ -9,7 +9,6 @@ Michel Briand
 -- Unknown
 
 Deck Name: Cardano !!
-
 Description:
 Hyper classic Tremere deck, with, by order of priority:
 Intercept - Combat - Bloat - Bleed

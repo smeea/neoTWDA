@@ -9,7 +9,7 @@ Simone Zanni
 -- 3vp in the final
 
 Deck Name: Guillaume for rent
-
+Author: thelonius_reloaded
 Description:
 It's a toolbox recursive deck, with some situational strong
 defense and a light necrobleed module to oust. Extremely valuable had been

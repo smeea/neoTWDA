@@ -9,7 +9,6 @@ Hernán Rodríguez
 -- Unknown
 
 Deck Name: Guns n' Roses
-
 Description:
 A deck based in Anneke and Toreador princes, using cards
 like Second Tradition, .44 Magnum and a lot of intercept. This deck

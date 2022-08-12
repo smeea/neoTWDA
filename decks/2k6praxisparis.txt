@@ -8,6 +8,8 @@ Kamel Senni
 
 -- Enters 1st in final with 3GW8, wins the final with 4VP
 
+Author: Vincent Ripoll
+
 Crypt (12 cards, min=37 max=44 avg=10.25)
 -----------------------------------------
 3x Huitzilopochtli   10  AUS DAI DOM OBF POT PRE                  Baali:2

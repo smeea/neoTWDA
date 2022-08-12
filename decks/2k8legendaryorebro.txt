@@ -9,7 +9,6 @@ Henrik Ericsson
 -- 3vp in the final
 
 Deck Name: Nu går vi i trappan
-
 Description:
 Guess what...
 

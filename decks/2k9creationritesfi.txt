@@ -9,7 +9,6 @@ Giulio Roffi
 -- Unknown
 
 Deck Name: Samedi !!!
-
 Description:
 Samedi reanimated corpses/bloat deck
 

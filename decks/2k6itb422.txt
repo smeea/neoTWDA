@@ -9,7 +9,6 @@ Jeff Lamothe
 -- Unknown
 
 Deck Name: Indomptable et persistent
-
 Description:
 Un deck rapide.
 Bleeder autant que possible. Rusher les vampires qui bounce chez sa

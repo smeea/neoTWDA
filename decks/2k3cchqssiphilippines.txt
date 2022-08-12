@@ -9,7 +9,6 @@ http://calendar.yahoo.com/YYY,57034/srt,0/vtesrep?v=4&t=1049540400&i=1887&pv=2
 -- Unknown
 
 Deck Name: For Those About to Die, We Salubri
-
 Crypt (13 cards, min=15 max=39 avg=6.77)
 ----------------------------------------
 1x Arika                                 11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2

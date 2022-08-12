@@ -9,7 +9,6 @@ Gyula Erdõs
 -- 3vp in the final
 
 Deck Name: Tzimish
-
 Crypt (12 cards, min=18 max=38 avg=7.25)
 ----------------------------------------
 2x Lambach                            10  ANI AUS DOM VIC pre   cardinal     Tzimisce:2

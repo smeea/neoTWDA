@@ -9,7 +9,6 @@ Sebestyén Balázs
 -- 4vp in the final
 
 Deck Name: Lodin
-
 Crypt (12 cards, min=14 max=32 avg=5.83)
 ----------------------------------------
 4x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro   prince     Ventrue:5

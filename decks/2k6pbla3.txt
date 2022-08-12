@@ -9,7 +9,6 @@ Nat Hammond
 -- Unknown
 
 Deck Name: Toreador Elders
-
 Crypt (14 cards, min=30 max=42 avg=9.0)
 ---------------------------------------
 2x Alexandra             11  ANI AUS CEL PRE dom       inner circle   Toreador:2

@@ -9,7 +9,6 @@ Dan Macahonic
 -- 4vp in the final
 
 Deck Name: Foolproof Malk/Malk!
-
 Crypt (12 cards, min=13 max=22 avg=4.5)
 ---------------------------------------
 2x Persia, The Beautiful Statue   5  DEM aus obf                  Malkavian:3

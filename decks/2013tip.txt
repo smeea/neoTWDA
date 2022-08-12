@@ -9,7 +9,6 @@ Ronan Seal Castro
 -- Unknown
 
 Deck Name: Van Helsing's Tricks
-
 Description:
 Imbued Toolbox
 

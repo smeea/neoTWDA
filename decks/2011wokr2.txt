@@ -9,7 +9,6 @@ Flavio Valente
 -- 3vp in the final
 
 Deck Name: Akunanse No Secrets From the Magaji
-
 Crypt (12 cards, min=29 max=36 avg=8.25)
 ----------------------------------------
 3x Matata           9  ABO ANI FOR aus cel obf            Akunanse:3

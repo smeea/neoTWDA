@@ -9,7 +9,6 @@ Denny Bruset
 -- Unknown
 
 Deck Name: Il sommo imperatore Karsh
-
 Crypt (12 cards, min=20 max=40 avg=7.67)
 ----------------------------------------
 3x Karsh                10  ANI CEL FOR POT PRO      Gangrel:3

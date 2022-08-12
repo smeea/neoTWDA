@@ -9,7 +9,6 @@ Stewart MacLeod
 -- Unknown
 
 Deck Name: Illusions of Madness
-
 Crypt (12 cards, min=18 max=28 avg=5.75)
 ----------------------------------------
 4x Tsunda                        6  CHI abo ani dem       magaji   Ravnos:4

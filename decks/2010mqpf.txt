@@ -9,7 +9,6 @@ Reyda Seddiki
 -- Unknown
 
 Deck Name: Ahrimane Assault
-
 Description:
 Toolbox ahrimane. Lots of untap. Lots of carrion,
 but no aid from bats ! The point is not to destroy the vampire you are

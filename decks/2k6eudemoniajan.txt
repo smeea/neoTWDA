@@ -9,7 +9,6 @@ Ian Lee
 -- Unknown
 
 Deck Name: "When in doubt ... Win."
-
 Description:
 Osebo stealth bleed.
 

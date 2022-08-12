@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8141
 -- 3vp in the final
 
 Deck Name: "Loving you was like loving the dead"
-
 Crypt (12 cards, min=12 max=26 avg=5.0)
 ---------------------------------------
 2x Luke Fellows      7  CEL OBF PRO                Gangrel antitribu:4

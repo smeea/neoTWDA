@@ -9,7 +9,6 @@ Rubén Vidaña Ramos
 -- Unknown
 
 Deck Name: War Ghouls
-
 Crypt (12 cards, min=9 max=22 avg=4.08)
 ---------------------------------------
 2x Lolita Houston       4  VIC aus              Tzimisce:2

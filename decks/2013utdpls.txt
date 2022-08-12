@@ -9,6 +9,7 @@ Jonatan Reino
 -- 3vp in the final
 
 Deck Name: el amor de los feos
+Author: Juha Nyholm minor modifications by Jonatan Reino
 
 Crypt (12 cards, min=7 max=24 avg=3.92)
 ---------------------------------------

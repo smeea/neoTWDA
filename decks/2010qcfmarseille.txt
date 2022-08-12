@@ -9,6 +9,7 @@ Rodolphe Danac
 -- Unknown
 
 Deck Name: K2000
+Author: K1000swaaAAaan
 
 Crypt (12 cards, min=7 max=20 avg=3.67)
 ---------------------------------------

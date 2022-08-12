@@ -9,7 +9,6 @@ Izaak Havelaar
 -- 3vp in the final
 
 Deck Name: The wall that is not really a wall
-
 Description:
 This deck originally started as mono Auspex deck with guns and Black
 Hand-tech for bloating purposes, but evolved into something that can

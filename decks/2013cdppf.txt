@@ -9,6 +9,7 @@ Kamel Senni
 -- 3vp in the final
 
 Deck Name: Kamel deck
+Author: Romain Naim
 
 Crypt (12 cards, min=26 max=36 avg=7.67)
 ----------------------------------------

@@ -9,7 +9,6 @@ Noel Giménez Infante
 -- Unknown
 
 Deck Name: ¡Me pareció ver un lindo gatito!
-
 Crypt (12 cards, min=10 max=16 avg=3.17)
 ----------------------------------------
 4x Fidus, The Shrunken Beast   4  for tha vis      Gargoyle:2

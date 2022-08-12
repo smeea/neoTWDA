@@ -9,7 +9,6 @@ Gabriel Waichert
 -- Unknown
 
 Deck Name: A revolução do proletariado
-
 Crypt (22 cards, min=4 max=8 avg=1.36)
 --------------------------------------
 2x Igo the Hungry       1  pre pro      Caitiff:1

@@ -9,7 +9,6 @@ Dennis Lien
 -- Unknown
 
 Deck Name: When Sonja gets Blue
-
 Crypt (12 cards, min=20 max=23 avg=5.25)
 ----------------------------------------
 5x Sonja Blue          5  CEL FOR PRE dom pot            Ventrue:4

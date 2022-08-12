@@ -9,7 +9,6 @@ Norbert Flasko
 -- Unknown
 
 Deck Name: Presence Bleed
-
 Description:
 Martin Weinmayer, tweaked by Martin "Mephistopheles" Major (NF edit)
 

@@ -9,7 +9,6 @@ Robyn Tatu
 -- Unknown
 
 Deck Name: Nosferatu bestial
-
 Crypt (12 cards, min=20 max=28 avg=5.92)
 ----------------------------------------
 2x Calebros, The Martyr                     5  ANI obf pot           prince     Nosferatu:2

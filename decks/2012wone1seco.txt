@@ -9,7 +9,6 @@ Mikkel Petersen
 -- Unknown
 
 Deck Name: Team Jacob
-
 Description:
 thanks to Brian Moritz for the name
 

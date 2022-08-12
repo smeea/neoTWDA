@@ -9,7 +9,6 @@ Julian Gatt
 -- Unknown
 
 Deck Name: I like Dirt 2007
-
 Description:
 Earth Meld wall with a splash of stealth bleed
 

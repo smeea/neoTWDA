@@ -9,7 +9,6 @@ Danilo Torrisi
 -- Unknown
 
 Deck Name: Master of Puppets
-
 Description:
 big cap bloat/votes/master intensive deck
 (based on Erik Torsteson's "Girls will find Inner Peace" deck)

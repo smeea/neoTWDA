@@ -9,7 +9,6 @@ S. Andy Smith
 -- Unknown
 
 Deck Name: Crazy Bird Lady
-
 Crypt (12 cards, min=18 max=32 avg=6.33)
 ----------------------------------------
 4x Howler             8  ANI PRE SPI obf          Ahrimane:2

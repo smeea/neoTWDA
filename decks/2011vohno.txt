@@ -9,7 +9,6 @@ Brad Cashdollar
 -- 3vp in the final
 
 Deck Name: LittleBob's Angry Dragon
-
 Crypt (12 cards, min=22 max=31 avg=6.58)
 ----------------------------------------
 3x Diego Giovanni       8  CHI DOM NEC POT ani      Giovanni:5

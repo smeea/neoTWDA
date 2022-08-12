@@ -9,7 +9,6 @@ Roberto Mautone Junior
 -- 4vp in the final
 
 Deck Name: Zoólogico 2013
-
 Description:
 Mono Animalism Setup Deck
 

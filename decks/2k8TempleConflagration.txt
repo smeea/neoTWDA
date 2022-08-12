@@ -9,7 +9,6 @@ Ben Swainbank
 -- Unknown
 
 Deck Name: Dear Diary
-
 Crypt (12 cards, min=10 max=18 avg=3.33)
 ----------------------------------------
 2x Isabel Giovanni                   5  DOM NEC pot      Giovanni:2

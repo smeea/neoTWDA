@@ -9,7 +9,6 @@ Iñaki Jimenez
 -- Unknown
 
 Deck Name: Cuando el Grajo Vuela Bajo...
-
 Crypt (12 cards, min=15 max=28 avg=5.33)
 ----------------------------------------
 2x Bobby Lemon           4  ANI pro                        Gangrel:3

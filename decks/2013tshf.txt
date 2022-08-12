@@ -9,7 +9,6 @@ Mikko Hyvärinen
 -- 4vp in the final
 
 Deck Name: The Tremere War Chantry
-
 Description:
 The Tremere War Chantry; New York (after succesfull Sabbath siege)
 

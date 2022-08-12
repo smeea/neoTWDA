@@ -9,7 +9,6 @@ Goran Damjanic
 -- Unknown
 
 Deck Name: Le Giovanni
-
 Description:
 Giovanni Powerbleed
 

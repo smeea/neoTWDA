@@ -9,7 +9,6 @@ Leon Tranter
 -- Unknown
 
 Deck Name: Teresita's toolbox
-
 Description:
 Nosferatu Anitribu black hand toolbox deck where
 Teresita gets some fresh young cadets to join her black hand cult. Has

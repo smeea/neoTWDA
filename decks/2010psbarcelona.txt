@@ -9,7 +9,7 @@ Yannick Gibert
 -- 13vp in the final
 
 Deck Name: Cuir, cuir, cuir moustache.
-
+Author: Hugh Angseesing, with a some little tweak
 Description:
 This deck turned to be very effective there, with 4GW and
 

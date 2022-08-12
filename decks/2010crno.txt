@@ -9,7 +9,6 @@ John Bell
 -- 2.5vp in the final
 
 Deck Name: Putting "The Dominate" in Indominatability
-
 Description:
 I played a similar deck a number of years ago at Origins. That deck revolved
 more around the combat aspect itself, using Animalism for Drawing Out the Beast.

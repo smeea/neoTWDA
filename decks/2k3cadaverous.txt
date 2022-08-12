@@ -9,7 +9,6 @@ Grant Garvin
 -- Unknown
 
 Deck Name: Beyond the Veil
-
 Crypt (12 cards, min=18 max=31 avg=6.17)
 ----------------------------------------
 3x Howler             8  ANI PRE SPI obf          Ahrimane:2

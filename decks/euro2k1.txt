@@ -9,7 +9,6 @@ Josha Düll
 -- Unknown
 
 Deck Name: Derange
-
 Crypt (12 cards, min=17 max=30 avg=6.0)
 ---------------------------------------
 3x Korah           7  AUS DEM OBF ani       priscus   Malkavian antitribu:2

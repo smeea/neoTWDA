@@ -9,7 +9,6 @@ Ginés Quiñonero
 -- 4vp in the final
 
 Deck Name: The Remarkable Beauty of the Dog/Warghoul Synergy
-
 Crypt (12 cards, min=4 max=34 avg=4.17)
 ---------------------------------------
 4x Anarch Convert       1                               Caitiff:ANY

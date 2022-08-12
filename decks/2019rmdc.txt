@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9446
 -- Unknown
 
 Deck Name: (2019 2Q) Flay the Game V2 (feat. Xipe Totec)
-
 Description:
 Leverages two [ANI][VIC][aus+][pro+] vampires to screw with the current ally-based and location-dependent metagame. A few flexible elements support a basically bad stealth bleed deck, resulting in more than the sum of the pieces.
 

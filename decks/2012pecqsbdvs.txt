@@ -9,7 +9,6 @@ Txus Alútiz Lizarraga
 -- 0 + GW3.5 + GW3 + 4VP in final
 
 Deck Name: Bankia (@@todoloquepuedas.com)
-
 Crypt (12 cards, min=11 max=24 avg=4.75)
 ----------------------------------------
 4x Eurayle Gelasia Mylonas   6  AUS OBE for pre      Salubri:4

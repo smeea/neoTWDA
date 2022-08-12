@@ -9,7 +9,6 @@ Emiliano Arnotti
 -- Unknown
 
 Deck Name: Henry ti presento Jennie
-
 Description:
 Henry Taylor recursion deck (Imbued variant)
 

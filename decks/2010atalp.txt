@@ -9,6 +9,7 @@ André Catarino
 -- Unknown
 
 Deck Name: Stick Men
+Author: Hugh Angseesing (copied by Hugh's Stick Men)
 
 Crypt (12 cards, min=16 max=30 avg=5.75)
 ----------------------------------------

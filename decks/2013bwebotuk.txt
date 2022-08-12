@@ -9,7 +9,6 @@ John Best
 -- Unknown
 
 Deck Name: Challenge accepted - Anarch Ravnos Multirush
-
 Crypt (12 cards, min=4 max=31 avg=4.92)
 ---------------------------------------
 4x Anarch Convert       1                       Caitiff:ANY

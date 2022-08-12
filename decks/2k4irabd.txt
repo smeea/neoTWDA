@@ -9,7 +9,6 @@ David Steel
 -- Unknown
 
 Deck Name: Malk/Anti Stealth-Bleed
-
 Description:
 The deck is really straightforward: it bleeds it's prey, hopes to
 avoid being killed in combat, and uses some telepathic cards to try to

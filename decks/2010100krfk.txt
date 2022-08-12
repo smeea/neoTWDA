@@ -9,7 +9,6 @@ Jonatan Sjöberg
 -- Unknown
 
 Deck Name: Lasse Royaltys
-
 Crypt (12 cards, min=34 max=40 avg=9.33)
 ----------------------------------------
 4x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2

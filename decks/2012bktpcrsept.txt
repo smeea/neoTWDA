@@ -9,7 +9,7 @@ Michal Hrebejk
 -- Unknown
 
 Deck Name: Anti-Ventrue-Grinder
-
+Author: Yneth
 Description:
 good deck.
 

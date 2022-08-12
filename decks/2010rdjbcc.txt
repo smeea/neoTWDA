@@ -9,7 +9,6 @@ Chrisitano Santos
 -- Unknown
 
 Deck Name: Malk 94
-
 Crypt (12 cards, min=9 max=25 avg=4.5)
 --------------------------------------
 3x Didi Meyers            5  DOM aus cel obf            Malkavian:1

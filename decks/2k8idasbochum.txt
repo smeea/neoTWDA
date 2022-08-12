@@ -9,7 +9,6 @@ Ralf Lammert
 -- Unknown
 
 Deck Name: Dominate Is Broken
-
 Description:
 DOM nastiness w/ combat.
 

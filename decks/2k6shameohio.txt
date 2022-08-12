@@ -9,7 +9,6 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: Horrific Shame
-
 Description:
 This deck was designed to be played in a tournament
 called Shame. It is very shameful and should not be played ever

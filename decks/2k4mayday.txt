@@ -9,7 +9,6 @@ Cameron Domer
 -- Unknown
 
 Deck Name: I wish I was. torpor bound
-
 Crypt (12 cards, min=30 max=40 avg=9.0)
 ---------------------------------------
 5x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal   Lasombra:2

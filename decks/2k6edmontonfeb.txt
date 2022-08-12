@@ -9,7 +9,6 @@ Lee Zinnick
 -- Unknown
 
 Deck Name: Time to pull out the Zombie Survival Handbook!!!
-
 Crypt (12 cards, min=14 max=28 avg=5.67)
 ----------------------------------------
 4x Andrea Giovanni     7  DOM NEC pot vic      Giovanni:2

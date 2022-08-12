@@ -9,7 +9,6 @@ Tomàs López Jiménez
 -- 3vp in the final
 
 Deck Name: Kiasyd bleed tipica
-
 Crypt (12 cards, min=17 max=31 avg=6.17)
 ----------------------------------------
 2x Arcadian, The             8  DOM MYT OBT chi for             Kiasyd:5

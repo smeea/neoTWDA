@@ -9,7 +9,6 @@ Dennis Floreano
 -- 2.5vp in the final
 
 Deck Name: [Giovanni] The Little Diary
-
 Crypt (12 cards, min=10 max=19 avg=3.58)
 ----------------------------------------
 2x Primo Giovanni       4  dom nec pot          Giovanni:4

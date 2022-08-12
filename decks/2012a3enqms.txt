@@ -9,7 +9,7 @@ Txus Alútiz Lizarraga
 -- GW4 (4 players table) + 2 (4 players table) + 3VP in final
 
 Deck Name: True Nergal
-
+Author: Tristán Endriss (Dr Mafrune) & Txus Alútiz Lizarraga (Kakarot)
 Description:
 quicksilver contemplation...a very great card!
 

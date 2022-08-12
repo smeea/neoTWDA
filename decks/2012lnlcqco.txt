@@ -9,7 +9,6 @@ Peter Oh
 -- Unknown
 
 Deck Name: Howler Gets Married
-
 Crypt (12 cards, min=15 max=32 avg=6.08)
 ----------------------------------------
 4x Howler           8  ANI PRE SPI obf          Ahrimane:2

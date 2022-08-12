@@ -9,7 +9,6 @@ Raymond Harnack
 -- 3vp in the final
 
 Deck Name: Not So Unexpected Anymore in Flint
-
 Crypt (12 cards, min=15 max=38 avg=6.58)
 ----------------------------------------
 2x Hektor               9  CEL POT PRE QUI for       priscus      Brujah antitribu:4

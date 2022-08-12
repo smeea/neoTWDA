@@ -9,7 +9,6 @@ Josh Duffin
 -- Unknown
 
 Deck Name: B.A. DeSalle and the B-Team
-
 Crypt (12 cards, min=16 max=28 avg=5.58)
 ----------------------------------------
 2x DeSalle                7  CEL POT PRE                  Brujah antitribu:4

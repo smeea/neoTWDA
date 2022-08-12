@@ -9,7 +9,6 @@ Tony Wedd
 -- Unknown
 
 Deck Name: Maelific
-
 Crypt (12 cards, min=12 max=40 avg=5.92)
 ----------------------------------------
 7x Horde, The      3  dai obf pre              Baali:6

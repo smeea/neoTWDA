@@ -9,7 +9,6 @@ Csaba Greguss
 -- 4gw on the day, 5VP in final
 
 Deck Name: EC 2010 LCQ: Rising Dementia
-
 Crypt (12 cards, min=12 max=24 avg=4.67)
 ----------------------------------------
 2x Morel          6  AUS DEM OBF          Malkavian:4

@@ -9,7 +9,6 @@ Geir Jerstad
 -- Unknown
 
 Deck Name: Toreador Antribu
-
 Crypt (12 cards, min=17 max=26 avg=5.5)
 ---------------------------------------
 2x Jost Werner                   6  AUS PRE ani                  Toreador antitribu:2

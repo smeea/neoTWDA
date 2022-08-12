@@ -9,6 +9,7 @@ Christoffer Arvidsson
 -- Unknown
 
 Deck Name: Corporate Ecstasy
+Author: Christoffer Arvidsson and Alex Ek
 
 Crypt (12 cards, min=16 max=27 avg=5.5)
 ---------------------------------------

@@ -9,7 +9,6 @@ Kevin J. Wiebe
 -- Unknown
 
 Deck Name: Anarch Revolt (Mixed Clans)
-
 Description:
 This Anarch Revolt deck is extremely nasty and
 aggressive. The key to its success is to get The Parthenon, Anson,

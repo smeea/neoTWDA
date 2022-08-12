@@ -9,7 +9,7 @@ Johannes Walch
 -- 2gw7.5 + 1.5vp in the final
 
 Deck Name: AAAAA (Quintuple A)
-
+Author: Johannes Walch <- Florian Prosper <- Matthew Morgan
 Description:
 Anson, Alexandra, Anneke, Aching Beauty and Ambulance
 I got the original idea from Matthew Morgan (called Love Doctor), Florian

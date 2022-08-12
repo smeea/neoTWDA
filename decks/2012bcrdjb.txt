@@ -9,7 +9,6 @@ Roberto Mautone Junior
 -- Unknown
 
 Deck Name: Pascek's Hounds
-
 Crypt (14 cards, min=12 max=26 avg=4.86)
 ----------------------------------------
 2x Céleste Lamontagne   5  ANI PRO for                Gangrel antitribu:4

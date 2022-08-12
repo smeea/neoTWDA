@@ -9,7 +9,6 @@ Oscar Murillo
 -- Unknown
 
 Deck Name: Tremere anti vote
-
 Description:
 THA PRE DOM
 

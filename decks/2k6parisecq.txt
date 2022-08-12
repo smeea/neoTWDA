@@ -9,7 +9,6 @@ Olivier Perez
 -- Unknown
 
 Deck Name: SpeedShambling
-
 Crypt (12 cards, min=12 max=25 avg=4.42)
 ----------------------------------------
 2x Andrea Giovanni       7  DOM NEC pot vic      Giovanni:2

@@ -9,7 +9,6 @@ Jorge Verdi
 -- 4vp in the final
 
 Deck Name: The Path of Pain
-
 Crypt (12 cards, min=24 max=38 avg=7.83)
 ----------------------------------------
 2x Matteus, Flesh Sculptor                 10  AUS CEL PRE VIC   priscus      Toreador antitribu:2

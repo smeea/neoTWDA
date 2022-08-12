@@ -9,7 +9,6 @@ Jim Miller
 -- 4vp in the final
 
 Deck Name: Fran and Alex
-
 Crypt (12 cards, min=31 max=43 avg=9.5)
 ---------------------------------------
 3x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2

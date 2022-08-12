@@ -9,7 +9,6 @@ Charles Lechasseur
 -- Unknown
 
 Deck Name: Erase Me (V4.0)
-
 Description:
 Here is my winning deck. In this tournament, I've met more political decks than
 I've ever seen in a single tourney and most of them were built using big-cap vamps.

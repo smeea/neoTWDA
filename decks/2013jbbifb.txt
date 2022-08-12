@@ -9,7 +9,7 @@ Matt Wedge
 -- 5vp in the final
 
 Deck Name: Revolutionist Uprising
-
+Author: Matt Wedge and Robert Scythe
 Description:
 Stealth bleed and vote with the Rising
 I made some last minute changes, but failed to adjust the crypt to fit.

@@ -9,7 +9,7 @@ Alex Ek
 -- Unknown
 
 Deck Name: Foul Play
-
+Author: Alex Ek, inspired by a Nosferatu deck made by Jay Kristoff
 Description:
 Weenie malk voter. Use malk justicar and cryptic rider
 to vote in a vote heavy environment. Adding Victoria and Greger Andersen

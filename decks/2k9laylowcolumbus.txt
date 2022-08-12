@@ -9,7 +9,6 @@ Brad Cashdollar
 -- Unknown
 
 Deck Name: Jay's Angry Dragon
-
 Crypt (12 cards, min=4 max=12 avg=1.75)
 ---------------------------------------
 1x Jimmy Dunn                 4  CEL POT for      Pander:2

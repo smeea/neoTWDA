@@ -9,7 +9,6 @@ Tomasz Izydorczyk
 -- Unknown
 
 Deck Name: Miscegenation
-
 Crypt (12 cards, min=22 max=36 avg=7.67)
 ----------------------------------------
 4x Dmitra Ilyanova     9  CEL FOR POT PRE obf   justicar   Brujah:5

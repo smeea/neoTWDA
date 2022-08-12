@@ -9,7 +9,6 @@ Miklós Szilvester
 -- Unknown
 
 Deck Name: Imbued Silver
-
 Crypt (12 cards, min=12 max=20 avg=4.08)
 ----------------------------------------
 3x Jennie "Cassie247" Orne       5  inn jud vis      Visionary:4

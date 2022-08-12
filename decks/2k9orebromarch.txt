@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: girls will find...
-
 Description:
 Much based/stolen from Teemu Sainomaa's deck, so credit should go that
 way. Biggest difference is the Liquidation+Ashur Tablets combo, which is kinda decent:o

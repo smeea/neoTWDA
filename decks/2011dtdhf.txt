@@ -9,7 +9,6 @@ Marko Saari
 -- 2.5vp in the final
 
 Deck Name: Lessons in the Steel
-
 Description:
 Decription: !Ventrue grinder
 

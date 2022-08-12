@@ -9,7 +9,6 @@ Richard Aumann
 -- 3vp in the final
 
 Deck Name: Outrun the Worms 1.3
-
 Description:
 Speed is the game.. Require wormwood turn 2. Using
 Afifa's special text to go forward with Gehenna cards and Anna's text

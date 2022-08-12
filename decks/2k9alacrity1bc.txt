@@ -9,7 +9,6 @@ Ira Fay
 -- Unknown
 
 Deck Name: Team Africa
-
 Description:
 Try to build up without looking like a huge threat, which
 is tricky. Decrypt even while you have unique vampires in the

@@ -9,7 +9,6 @@ Antoine Franqueville-Roy
 -- 3gw9 + 4vp in the final
 
 Deck Name: Maleficia
-
 Crypt (12 cards, min=33 max=40 avg=9.17)
 ----------------------------------------
 5x Cybele                    10  ANI DAI OBF PRE SER THA             Baali:4

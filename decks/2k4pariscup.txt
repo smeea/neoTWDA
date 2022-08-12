@@ -9,7 +9,6 @@ Arnaud Clavel
 -- Unknown
 
 Deck Name: Winner Cup of Paris 4th edition
-
 Description:
 Black Hand rules the world, or "officially, this deck cannot win;-)"
 

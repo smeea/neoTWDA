@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7706
 -- Unknown
 
 Deck Name: toreador anneke: trimmed 1.1
-
 Crypt (12 cards, min=23 max=40 avg=7.92)
 ----------------------------------------
 4x Anneke            10  AUS CEL PRE dom   justicar   Toreador:1

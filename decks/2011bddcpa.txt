@@ -9,7 +9,6 @@ Aleksander Idziak
 -- Unknown
 
 Deck Name: Malkavian - Obedience
-
 Crypt (12 cards, min=18 max=37 avg=6.92)
 ----------------------------------------
 3x Lucian             10  AUS DOM OBF cel tha   justicar   Malkavian:1

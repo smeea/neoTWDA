@@ -9,7 +9,6 @@ Trey Morita
 -- Unknown
 
 Deck Name: Moncada's Army
-
 Description:
 Lasombra votey-bleedy stuff. Always get your
 biggest vampire first (yes, that's usually Moncada) and use

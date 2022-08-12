@@ -9,7 +9,6 @@ Nils-Johan Andreasson
 -- Unknown
 
 Deck Name: Talley's Night Out
-
 Description:
 Lasombra S&B with light intercept & combat.
 

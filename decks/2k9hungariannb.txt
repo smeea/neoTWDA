@@ -9,7 +9,6 @@ Gyula Erdõs
 -- Unknown
 
 Deck Name: Lambatchku!
-
 Description:
 Thanks goes to Stefan Ferenci for the idea
 

@@ -9,7 +9,6 @@ Csaba Greguss
 -- 2gw8.5 + 4vp in the final
 
 Deck Name: Uta's Gang
-
 Crypt (12 cards, min=15 max=28 avg=5.17)
 ----------------------------------------
 2x Uta Kovacs       8  AUS DOM THA ser                  Tremere antitribu:4

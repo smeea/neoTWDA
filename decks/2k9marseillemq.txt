@@ -9,7 +9,6 @@ Yannick Gibert
 -- Unknown
 
 Deck Name: Mais où vas-tu, mon gros Lulu ?
-
 Description:
 You shall not pass
 

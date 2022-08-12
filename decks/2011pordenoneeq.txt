@@ -9,7 +9,6 @@ Alessandro Donati
 -- Unknown
 
 Deck Name: Temptation of Greater Power
-
 Description:
 big cap bloat/votes deck,
 based on Erik Torstensson's "girls will find.."

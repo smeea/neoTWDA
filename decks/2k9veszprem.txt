@@ -9,7 +9,6 @@ Csaba Greguss
 -- Unknown
 
 Deck Name: Chaos & Confusion ver 02
-
 Crypt (12 cards, min=19 max=32 avg=6.75)
 ----------------------------------------
 3x Fleurdumal                8  AUS DEM PRE cel tha   prince   Toreador:3

@@ -9,7 +9,6 @@ Michal Kazmierczak
 -- 1gw6 + 3vp in the final
 
 Deck Name: Prevent & Press V01
-
 Crypt (12 cards, min=30 max=42 avg=9.0)
 ---------------------------------------
 3x Hardestadt         11  DOM FOR POT PRE cel pro   inner circle   Ventrue:4

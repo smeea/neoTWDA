@@ -9,7 +9,6 @@ Régis Laubry
 -- 3GW8.5 + 0.5 in final
 
 Deck Name: So, it's a Girl, a bat and a crow...
-
 Description:
 Classic Nana (Thanks Erik, Martin...) with few reactions
 

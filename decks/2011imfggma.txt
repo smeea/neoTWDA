@@ -9,7 +9,6 @@ Simon Reed
 -- 2vp in the final
 
 Deck Name: Nos Princes
-
 Description:
 My take on the classic nos princes.
 

@@ -9,7 +9,6 @@ Kleber Souza
 -- Unknown
 
 Deck Name: Nocturn
-
 Crypt (12 cards, min=15 max=23 avg=4.83)
 ----------------------------------------
 2x Onaedo                     6  DOM OBT aus pot            Lasombra:4

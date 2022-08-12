@@ -9,7 +9,6 @@ Pierre-Denis Brouillet
 -- Unknown
 
 Deck Name: Brujah Debate
-
 Crypt (12 cards, min=8 max=22 avg=3.67)
 ---------------------------------------
 3x Volker, The Puppet Prince           5  CEL pot           prince   Brujah:2

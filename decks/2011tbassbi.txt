@@ -9,7 +9,6 @@ Alessandro Donati
 -- Unknown
 
 Deck Name: Ahrimane Protectorate
-
 Description:
 New Ahrimanes Wall Deck with Anarch Tricks.
 

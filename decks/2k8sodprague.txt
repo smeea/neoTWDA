@@ -9,7 +9,6 @@ Martin Varga
 -- 3vp in the final
 
 Deck Name: Akunanse Trophy
-
 Crypt (12 cards, min=13 max=31 avg=5.67)
 ----------------------------------------
 3x Nkule Galadima   8  ABO FOR ani aus pre   magaji   Akunanse:4

@@ -9,6 +9,7 @@ Hugh Angseesing
 -- 1gw2.5 + 3vp in the final
 
 Deck Name: What Is and What Should Never Be
+Author: David Litwin (Pagan)
 
 Crypt (12 cards, min=20 max=36 avg=7.25)
 ----------------------------------------

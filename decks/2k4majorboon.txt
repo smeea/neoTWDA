@@ -9,7 +9,6 @@ Jordan Beall
 -- Unknown
 
 Deck Name: !Tremere with Obtenebration
-
 Crypt (12 cards, min=24 max=40 avg=8.0)
 ---------------------------------------
 4x Ayelea, The Manipulator   10  AUS DOM OBT THA pre   cardinal   Tremere antitribu:2

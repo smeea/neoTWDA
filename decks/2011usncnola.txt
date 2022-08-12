@@ -9,7 +9,6 @@ Morgan Tomlinson
 -- Unknown
 
 Deck Name: Weenie Wizards
-
 Crypt (12 cards, min=10 max=22 avg=4.0)
 ---------------------------------------
 1x Muaziz, Archon of Ulugh Beg   7  THA aus dom for      Tremere:2

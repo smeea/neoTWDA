@@ -9,7 +9,6 @@ Chris Arthur
 -- Unknown
 
 Deck Name: Kiss of the Brujah
-
 Description:
 Fairly standard Brujah princes deck. Bleed with every vamp every round, if
 they block put them in torpor. Use the 2nds to wake and block your prey's

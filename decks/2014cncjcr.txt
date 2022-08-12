@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7779
 -- Unknown
 
 Deck Name: Malkavian Bleed/Vote
-
 Crypt (12 cards, min=19 max=37 avg=7.0)
 ---------------------------------------
 3x Lucian                 10  AUS DOM OBF cel tha   justicar   Malkavian:1

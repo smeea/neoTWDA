@@ -9,7 +9,6 @@ Serge Cirri
 -- Unknown
 
 Deck Name: Vote of madness
-
 Crypt (12 cards, min=26 max=34 avg=7.33)
 ----------------------------------------
 3x Maris Streck            9  AUS OBF ani dem dom   justicar     Malkavian:3

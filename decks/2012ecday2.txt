@@ -9,7 +9,6 @@ Isak Esbjörnsson Bjärmark
 -- 1gw5.5 + 1.5vp in the final
 
 Deck Name: EC 2012 Day 2: Girls Will Find Inner Sleaze
-
 Crypt (12 cards, min=36 max=44 avg=10.0)
 ----------------------------------------
 4x Cybele                  10  ANI DAI OBF PRE SER THA                  Baali:4

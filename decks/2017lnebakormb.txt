@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8567
 -- 4vp in the final
 
 Deck Name: RETURN OF HADES
-
 Crypt (15 cards, min=28 max=44 avg=9.2)
 ---------------------------------------
 3x Lord Tremere            11  ANI AUS DOM THA VIC obe                  Tremere:5

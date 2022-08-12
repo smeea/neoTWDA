@@ -9,7 +9,6 @@ Gianluca Scala
 -- Unknown
 
 Deck Name: Lutz e la pazza politica
-
 Description:
 big politics
 

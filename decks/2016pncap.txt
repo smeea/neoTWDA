@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8518
 -- 4vp in the final
 
 Deck Name: Tupdog
-
 Crypt (29 cards, min=4 max=14 avg=1.48)
 ---------------------------------------
 23x Tupdog         1  POT VIS          Gargoyle:3

@@ -9,7 +9,6 @@ Alexander Loginov
 -- 3vp in the final
 
 Deck Name: Cats That Walked By Themselves
-
 Crypt (12 cards, min=4 max=32 avg=4.83)
 ---------------------------------------
 4x Howler           8  ANI PRE SPI obf      Ahrimane:2

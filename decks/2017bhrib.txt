@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8569
 -- 3vp in the final
 
 Deck Name: Eat the rich
-
 Description:
 The idea is to force the bleed of 1 to use Propaganda with the anarchs. Then
 call the political action with the propagandas if needed. The strong of the

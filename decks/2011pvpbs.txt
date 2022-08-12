@@ -9,7 +9,6 @@ Milos Krstic
 -- 2gw11 + 3vp in the final
 
 Deck Name: Nana Buruku with ani weenies
-
 Description:
 Pretty straight-forward ANI deck based on
 Erik Torstensson's and Martin Major's decks with Nana.

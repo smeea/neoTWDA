@@ -9,7 +9,6 @@ Daniel Boud
 -- 7vp in the final
 
 Deck Name: Weenie Tremere
-
 Crypt (12 cards, min=9 max=22 avg=3.75)
 ---------------------------------------
 1x Muaziz, Archon of Ulugh Beg   7  THA aus dom for      Tremere:2

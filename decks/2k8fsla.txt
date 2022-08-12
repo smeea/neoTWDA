@@ -9,7 +9,6 @@ Darby Keeney
 -- Unknown
 
 Deck Name: Lord Ashton's Animalism
-
 Description:
 Animalism Wall, but can also bleed for 4.
 

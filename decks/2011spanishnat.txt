@@ -9,7 +9,6 @@ Noel Giménez Infante
 -- Unknown
 
 Deck Name: El sereto debe mantenerse
-
 Description:
 Este es el deck con el que pude ganar el nacional,
 la verdad es que no me tocó ninguna mesa fácil y me tocó remar

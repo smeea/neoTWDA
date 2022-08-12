@@ -9,7 +9,6 @@ Mark Loughman
 -- 3vp in the final
 
 Deck Name: Great Googly-Moogly
-
 Description:
 Another Malkavian wall abusing Madness Network
 and an untap mechanism for mutli-bleeding, in this case

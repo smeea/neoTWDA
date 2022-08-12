@@ -9,7 +9,7 @@ Aldo Bosmn
 -- Unknown
 
 Deck Name: Its true, I play Temptations and Comdemnations
-
+Author: Rafa Bonnin
 Description:
 Player: Aldo BOSMN
 Setite deck based in Huitzilopochtli with some temptations to

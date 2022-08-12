@@ -9,6 +9,7 @@ Henrik Ericsson
 -- 5vp in the final
 
 Deck Name: Pre
+Author: Erik Torstensson
 
 Crypt (12 cards, min=7 max=17 avg=3.25)
 ---------------------------------------

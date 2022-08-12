@@ -9,7 +9,6 @@ Nikolaj Wendt
 -- 4vp in the final
 
 Deck Name: Princes, Parities, Potence and then some
-
 Crypt (12 cards, min=27 max=39 avg=8.33)
 ----------------------------------------
 2x Cock Robin             10  ANI OBF POT aus for   justicar   Nosferatu:3

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8611
 -- 4vp in the final
 
 Deck Name: Anson Gunz #JeSuisAnthelios
-
 Crypt (13 cards, min=17 max=32 avg=6.85)
 ----------------------------------------
 5x Anson                       8  CEL PRE aus dom   prince   Toreador:1

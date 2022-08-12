@@ -9,7 +9,6 @@ David Buerger
 -- Unknown
 
 Deck Name: Giovanni Block Denial/Bleed
-
 Crypt (12 cards, min=18 max=32 avg=6.17)
 ----------------------------------------
 2x Ambrogino Giovanni   9  DOM NEC POT THA aus   1 vote   Giovanni:2

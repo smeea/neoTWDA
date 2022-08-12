@@ -9,7 +9,6 @@ John Newquist
 -- 3vp in the final
 
 Deck Name: Paralyze This!
-
 Crypt (12 cards, min=14 max=20 avg=4.17)
 ----------------------------------------
 2x Jennie "Cassie247" Orne       5  inn jud vis      Visionary:4

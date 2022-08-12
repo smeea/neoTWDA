@@ -9,7 +9,6 @@ Nikolaj Wendt
 -- Unknown
 
 Deck Name: PPP - Princes, Parities and Potence
-
 Crypt (12 cards, min=24 max=39 avg=8.08)
 ----------------------------------------
 2x Casino Reeds                 9  ANI OBF POT cel dem       prince     Nosferatu:3

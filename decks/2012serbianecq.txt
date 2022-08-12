@@ -9,7 +9,6 @@ Djordje Bjelajac
 -- 4vp in the final
 
 Deck Name: Lasombra Minute-Made Voting Deck
-
 Description:
 Standard Lasombra voting deck.
 

@@ -9,7 +9,6 @@ Patrick Benoit
 -- Unknown
 
 Deck Name: Mozambiqué
-
 Description:
 I'm not sure that's the shilmulo tarot is usefull. It could be
 replaced by a last stand, but I'm not sure it won't create flow

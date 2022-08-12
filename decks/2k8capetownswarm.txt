@@ -9,7 +9,6 @@ Adrianna Pinska
 -- Unknown
 
 Deck Name: Saulot the Puppeteer
-
 Description:
 The deck is fairly straight-forward. Take over your
 prey's minions to bleed themselves out. Keep Saulot and your pool

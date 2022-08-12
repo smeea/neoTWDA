@@ -9,7 +9,6 @@ Christoffer Arvidsson
 -- Unknown
 
 Deck Name: Trick or Treat
-
 Crypt (12 cards, min=10 max=25 avg=4.17)
 ----------------------------------------
 1x Gabrin                       8  ANI CHI dom for      Ravnos:2

@@ -9,7 +9,6 @@ Péter Botos
 -- 4vp in the final
 
 Deck Name: Cybele's Curse
-
 Description:
 Inspired by "Snakes on the Plane" by Ivan Marin-Rivas. This deck, however,
 relies more on Maleficia for defensive purposes as well. Rather slow to

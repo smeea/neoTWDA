@@ -9,7 +9,6 @@ Tomas Wallmur
 -- Unknown
 
 Deck Name: Henry's Influence
-
 Description:
 A light bleed/block deck with free vampires and Henry and Aksinya for
 defense.

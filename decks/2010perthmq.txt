@@ -9,7 +9,6 @@ Lukasz Wasylow
 -- 4vp in the final
 
 Deck Name: Gargoyle Swarm Combat
-
 Description:
 Deck was designed to breed and get into combat by acting
 tremere than using slave ability. I've noticed one Tribute too many,

@@ -9,7 +9,6 @@ Darby Keeney
 -- 3vp in the final
 
 Deck Name: Weepy Bleed V4
-
 Description:
 Fairly straightforward, archetypical weenie [pre] bleed
 with 4-cylinder crypt engine.

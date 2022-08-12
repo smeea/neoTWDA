@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: EC 2010 Day 1: Girls will find Inner Peace
-
 Description:
 2nd win during the EC 2010.
 

@@ -9,7 +9,6 @@ Robyn Tatu
 -- Unknown
 
 Deck Name: Cryptic Mission
-
 Description:
 Group 2 / 3 Cryptic Mission.
 Designed to take out deflectors because I was sick of being ousted by them.

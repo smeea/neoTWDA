@@ -9,7 +9,6 @@ Konstantin Prischepa
 -- Unknown
 
 Deck Name: Malkavian bleed and fire
-
 Crypt (12 cards, min=12 max=36 avg=5.67)
 ----------------------------------------
 2x Gravitnir             10  AUS CEL DEM OBF VIC   priscus   Malkavian antitribu:4

@@ -9,6 +9,7 @@ Arild Mehn Andersen
 -- Unknown
 
 Deck Name: Zero Possibility
+Author: Chris Meland
 
 Crypt (12 cards, min=17 max=34 avg=6.42)
 ----------------------------------------

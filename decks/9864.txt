@@ -9,7 +9,6 @@ https://www.vekn.net/player-registry/event/9864
 -- 4vp in the final
 
 Deck Name: Lasombra Vote and Bleed
-
 Description:
 Vote and Bleed Deck with survive base
 

@@ -9,7 +9,6 @@ Roger Carhult
 -- Unknown
 
 Deck Name: The Rats in Sheep's Clothing
-
 Crypt (12 cards, min=8 max=28 avg=5.33)
 ---------------------------------------
 8x Aisata Swanou   7  ANI FOR VIC abo      Akunanse:5

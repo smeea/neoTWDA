@@ -9,7 +9,6 @@ John Flournoy
 -- Unknown
 
 Deck Name: Uglier Jack
-
 Description:
 A very slight tweak to my Ugly Jack deck featured in the
 !Nos newsletter a few months back. I swapped out Calebos for a second

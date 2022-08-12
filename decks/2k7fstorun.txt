@@ -9,7 +9,6 @@ Pawel Kukielczynski
 -- Unknown
 
 Deck Name: Stanislava rapes the world
-
 Crypt (12 cards, min=32 max=44 avg=9.67)
 ----------------------------------------
 5x Stanislava       11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2

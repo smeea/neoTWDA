@@ -9,7 +9,6 @@ David Tatu
 -- Unknown
 
 Deck Name: Dragon Con 2001 Ventrue
-
 Description:
 I built this deck the morning of the tournament because
 I had not seen any Ventrue decks the night before and I wanted to play

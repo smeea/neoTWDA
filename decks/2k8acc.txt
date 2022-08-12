@@ -9,7 +9,6 @@ Simon Reed
 -- 3vp in the final
 
 Deck Name: Assamite Bleed / Vote
-
 Description:
 Uses the Alamut as the key card vote defense and
 occasional vote calling, mainlys bleeds and bloats with Haqims LAw:

@@ -9,7 +9,6 @@ Luca Turicchi
 -- 5vp in the final
 
 Deck Name: Resist Seduction
-
 Crypt (12 cards, min=22 max=32 avg=6.92)
 ----------------------------------------
 3x Constanza Vinti             8  CEL DOM POT           prince     Brujah:2

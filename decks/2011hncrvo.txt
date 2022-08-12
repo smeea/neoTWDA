@@ -9,7 +9,6 @@ Róbert László
 -- Unknown
 
 Deck Name: Alliance of factions
-
 Description:
 Greetings from Hungary
 

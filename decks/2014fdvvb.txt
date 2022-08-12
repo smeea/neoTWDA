@@ -9,7 +9,6 @@ Thiago Sousa
 -- 1.5vp in the final
 
 Deck Name: Helena
-
 Crypt (12 cards, min=24 max=40 avg=8.08)
 ----------------------------------------
 4x Helena                 10  AUS CEL DOM obf pre tha              Toreador:3

@@ -9,7 +9,6 @@ Patrick van der Reest
 -- Unknown
 
 Deck Name: Gratiano's Prima Donna
-
 Description:
 Lasombra S&B for the tournament in Pittsburgh, 3/27/04
 

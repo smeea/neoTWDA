@@ -9,7 +9,7 @@ Jonas Eriksson
 -- GW5 + 1 + 5VP in final
 
 Deck Name: DEM bleed
-
+Author: Idea by Donk, corrected by Randyman
 Description:
 "The idea is that in our current meta there are many
 slow decks that relies on Zillah's, and when I always have a Sudden

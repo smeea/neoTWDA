@@ -9,7 +9,6 @@ Jonas Hovmark
 -- Unknown
 
 Deck Name: Ventrue Anti Grind
-
 Crypt (12 cards, min=10 max=30 avg=4.83)
 ----------------------------------------
 2x Owain Evans, The Wanderer   8  AUS DOM FOR cel pre      Ventrue antitribu:3

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7359
 -- 3vp in the final
 
 Deck Name: Anson Guns
-
 Crypt (12 cards, min=26 max=36 avg=7.83)
 ----------------------------------------
 4x Anson                        8  CEL PRE aus dom   prince     Toreador:1

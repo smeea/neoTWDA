@@ -9,7 +9,6 @@ Robyn Tatu
 -- Unknown
 
 Deck Name: Viable 3rd Party
-
 Description:
 Tzimisce Vote and Bruise
 

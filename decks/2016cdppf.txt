@@ -9,7 +9,6 @@ Vincent Ripoll
 -- 2vp in the final
 
 Deck Name: Princess Pitch
-
 Description:
 After going back and forth between versions with or without Dominate, with or without Villein+Perfectionist,
 I finally tried the highly aggressive way of doing things: no deflection, 2 more Shattering Crescendos and Daring the Dawn

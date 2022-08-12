@@ -9,7 +9,6 @@ Troy Kevill
 -- Unknown
 
 Deck Name: Mark 2
-
 Crypt (12 cards, min=12 max=25 avg=4.67)
 ----------------------------------------
 4x Camille Devereux, The Raven   5  FOR PRO ani                  Gangrel:1

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9867
 -- 3vp in the final
 
 Deck Name: Guillaume's property management
-
 Description:
 Classic Guillaume power bleed. This is a variant of a deck designed by Erik Torstensson and tweaked by Tomasz Pietkiewicz.
 Suggestions after the tournament: -1 scourge, -1 acquired assets, -2 dominate kine, +1 uncoiling, +1 deflection, +2 slaughtering the herd.

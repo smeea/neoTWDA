@@ -9,7 +9,6 @@ Gergo Gyarmati
 -- Unknown
 
 Deck Name: We Bring Vengeance!
-
 Crypt (12 cards, min=10 max=30 avg=4.67)
 ----------------------------------------
 2x Dela Eden                 8  AUS FOR VAL cel dom      Salubri antitribu:3

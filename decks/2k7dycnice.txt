@@ -9,6 +9,7 @@ Orian Gissler
 -- Unknown
 
 Deck Name: Gepetto Giovanni
+Author: Tweak of Orian Gissler on a deck of Jayant Sen Gupta
 
 Crypt (12 cards, min=10 max=26 avg=4.58)
 ----------------------------------------

@@ -9,7 +9,6 @@ Gerentt Chan
 -- 3vp in the final
 
 Deck Name: Dmitra Alastor v. 3 - Always Bring a Gun to a Bloodfeud
-
 Crypt (12 cards, min=26 max=36 avg=7.83)
 ----------------------------------------
 5x Dmitra Ilyanova   9  CEL FOR POT PRE obf   justicar   Brujah:5

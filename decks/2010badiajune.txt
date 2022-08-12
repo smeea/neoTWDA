@@ -9,7 +9,6 @@ Sergio Gracia
 -- Unknown
 
 Deck Name: CrewCuervos
-
 Crypt (12 cards, min=4 max=29 avg=4.17)
 ---------------------------------------
 4x Anarch Convert       1                   Caitiff:ANY

@@ -9,6 +9,7 @@ Norbert Bróda
 -- Unknown
 
 Deck Name: Mistress Fanchion
+Author: Ferenc Vasadi "Frankie" / Norbert "Winnie" Bróda
 
 Crypt (12 cards, min=33 max=44 avg=9.58)
 ----------------------------------------

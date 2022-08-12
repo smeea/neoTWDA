@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9647
 -- 3vp in the final
 
 Deck Name: Unnamed_Evil Eye
-
 Crypt (12 cards, min=12 max=40 avg=5.92)
 ----------------------------------------
 7x Horde, The      3  dai obf pre              Baali:6

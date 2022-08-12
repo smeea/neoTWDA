@@ -9,7 +9,6 @@ Matthew Hirsch
 -- Unknown
 
 Deck Name: Akunanse Safari Kingdom
-
 Description:
 A fairly defensive deck using Pack Alpha to tool up a Magaji with many
 retainers, maybe tack on a Guardian Angel or Ivory Bow, and then put on

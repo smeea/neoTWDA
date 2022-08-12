@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8656
 -- 0.5vp in the final
 
 Deck Name: German ECQ 2017 (1st place): Matasuntha's unbound heart
-
 Description:
 This deck is a modified version of the one I played at the Grand-Prix in Budapest 2016 (https://www.secretlibrary.info/index.php?deck=view&id=22512).
 It is very hard to force a GW (or sometimes even a VP) with it.

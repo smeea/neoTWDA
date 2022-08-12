@@ -9,7 +9,6 @@ Maile Walker
 -- Unknown
 
 Deck Name: Indifference
-
 Crypt (12 cards, min=12 max=36 avg=5.83)
 ----------------------------------------
 5x Alvaro, The Scion of Angelica   9  OBT POT dom pre   archbishop   Lasombra:2

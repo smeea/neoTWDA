@@ -9,7 +9,6 @@ Mark Loughman
 -- Unknown
 
 Deck Name: Wall of Madness
-
 Crypt (12 cards, min=15 max=40 avg=6.75)
 ----------------------------------------
 4x Lucian                 10  AUS DOM OBF cel tha   justicar   Malkavian:1

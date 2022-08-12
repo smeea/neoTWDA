@@ -9,6 +9,7 @@ Tomáš Kubec
 -- Unknown
 
 Deck Name: Stanislava
+Author: Robie
 
 Crypt (13 cards, min=16 max=44 avg=8.23)
 ----------------------------------------

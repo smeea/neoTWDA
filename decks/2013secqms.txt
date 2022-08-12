@@ -9,7 +9,6 @@ Noel Giménez Infante
 -- 3vp in the final
 
 Deck Name: Rock cats & friends
-
 Crypt (12 cards, min=11 max=16 avg=3.33)
 ----------------------------------------
 4x Fidus, The Shrunken Beast   4  for tha vis      Gargoyle:2

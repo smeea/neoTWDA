@@ -9,7 +9,6 @@ Sebestyén Balázs
 -- Unknown
 
 Deck Name: Az örültek hálozata (Network of the Insane)
-
 Crypt (13 cards, min=8 max=22 avg=3.85)
 ---------------------------------------
 3x Victoria       5  AUS cel obf          Malkavian:2

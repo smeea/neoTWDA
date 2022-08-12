@@ -9,7 +9,6 @@ Janne Hägglund
 -- Unknown
 
 Deck Name: Imbued nerds no longer worship Satan
-
 Description:
 I've been playing variations of this same deck
 since my 2007 "Twist with Conviction".

@@ -9,7 +9,6 @@ Cam Nicholas
 -- Unknown
 
 Deck Name: Bones Blood and Tongues
-
 Description:
 Tzimisce Wall
 

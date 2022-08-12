@@ -9,7 +9,6 @@ Rodd Closson
 -- 3vp in the final
 
 Deck Name: Orlando Magic
-
 Crypt (12 cards, min=31 max=36 avg=8.42)
 ----------------------------------------
 4x Orlando Oriundus           9  AUS DOM THA obf       bishop       Tremere antitribu:4

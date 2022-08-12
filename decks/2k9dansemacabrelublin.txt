@@ -9,7 +9,6 @@ Radoslaw Staszewski
 -- Unknown
 
 Deck Name: Gangrel Assault ver.3.1.
-
 Crypt (12 cards, min=8 max=18 avg=3.17)
 ---------------------------------------
 2x Jacob Fermor       5  PRO ani tha      Gangrel:4

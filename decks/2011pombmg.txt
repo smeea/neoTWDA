@@ -9,7 +9,6 @@ Rudolf Scholz
 -- Unknown
 
 Deck Name: Announce your PRE
-
 Description:
 PRE tap & bleed with Ashur Tablets/Liquidation
 engine. Inspired by "Kyasid Stealth Bleed" by Michael Holmström.

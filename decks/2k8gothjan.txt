@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: The reincarnation of an ornithologist
-
 Crypt (12 cards, min=17 max=27 avg=5.42)
 ----------------------------------------
 3x Muricia              7  ANI PRE SPI          Ahrimane:4

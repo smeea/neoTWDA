@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9054
 -- 3gw8.5 + 1.5vp in the final
 
 Deck Name: Girls will find... Liquidity
-
 Description:
 With Martin's and Bram's success with the Black Jack deck, I wanted to build my own (post-Anthelios) Girls deck to try out the archetype. The way I see it, with Anthelios gone, you'll probably want more than the traditional 9 Ashurs to ensure that you won't be milling your last set. But with too many Ashurs you'll never get to the point where you can really alter your deck composition in a meaningful way with your recursion. So my answer was to go up in Liquidations. The pool gain is also helpful especially considering the nerfing of Villein.
 I ended up trying out several silver bullet kind of cards that I knew would be only marginally useful, but with the idea being to mill them to the ash heap and only bring them back if needed, I thought the opportunity cost was pretty low. None of them were really critical and if I play the deck again I'll probably try to cut the deck size down to 80-ish.

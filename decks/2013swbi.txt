@@ -9,7 +9,6 @@ Giulio De Cicco
 -- Unknown
 
 Deck Name: Dmitra con il Mitra
-
 Crypt (12 cards, min=25 max=36 avg=7.75)
 ----------------------------------------
 5x Dmitra Ilyanova   9  CEL FOR POT PRE obf   justicar   Brujah:5

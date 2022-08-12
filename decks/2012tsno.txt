@@ -9,7 +9,6 @@ James Messer
 -- Unknown
 
 Deck Name: Gabrielle's Angry Dragon(bound)
-
 Crypt (13 cards, min=18 max=40 avg=7.77)
 ----------------------------------------
 4x Gabrielle di Righetti   10  ANI AUS DOM THA obf pot   justicar   Tremere:5

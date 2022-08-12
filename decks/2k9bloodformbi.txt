@@ -9,7 +9,6 @@ Christian Cannizzaro
 -- Unknown
 
 Deck Name: Gangrel Dominate
-
 Crypt (12 cards, min=22 max=44 avg=8.33)
 ----------------------------------------
 4x Stanislava            11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2

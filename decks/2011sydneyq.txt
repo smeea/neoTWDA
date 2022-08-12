@@ -9,7 +9,6 @@ Stewart MacLeod
 -- 3vp in the final
 
 Deck Name: Unrealpolitik
-
 Crypt (12 cards, min=9 max=35 avg=5.75)
 ---------------------------------------
 3x Lydia, Grand Praetor          9  AUS FOR POT TEM dom pre   1 vote   True Brujah:6

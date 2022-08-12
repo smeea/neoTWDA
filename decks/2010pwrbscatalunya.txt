@@ -9,7 +9,6 @@ Pere Garcia
 -- Unknown
 
 Deck Name: Egyptian Gangrels
-
 Description:
 Based on a deck by Gabriel Ron
 

@@ -9,7 +9,6 @@ Frédérick Thouin
 -- Unknown
 
 Deck Name: The Survivor
-
 Crypt (12 cards, min=17 max=38 avg=6.83)
 ----------------------------------------
 2x François Villon             10  AUS CEL PRE chi obf pot   prince     Toreador:2

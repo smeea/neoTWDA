@@ -9,7 +9,7 @@ Régis Laubry
 -- Unknown
 
 Deck Name: 30 Millions d'amis Dragos
-
+Author: Régis LAUBRY aka Kramble & Sasha
 Description:
 Full Rush Dragos
 

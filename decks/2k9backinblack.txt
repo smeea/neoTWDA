@@ -9,7 +9,6 @@ Waldo Peyrau
 -- Unknown
 
 Deck Name: Ishtarri Sangrando
-
 Crypt (12 cards, min=12 max=22 avg=4.33)
 ----------------------------------------
 2x Agru Kabera         6  FOR cel nec pre      Ishtarri:4

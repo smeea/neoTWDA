@@ -9,7 +9,6 @@ Ian Lee
 -- 3vp in the final
 
 Deck Name: Evanescent
-
 Description:
 If you aren't playing Trainer, why are you even bothering with Animalism?
 

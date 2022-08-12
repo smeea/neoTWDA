@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8951
 -- 3gw10 + 4vp in the final
 
 Deck Name: Dear diary, today I feel like a wraith.. Liquidation
-
 Crypt (12 cards, min=8 max=18 avg=3.17)
 ---------------------------------------
 2x Marciana Giovanni, Investigator   2  dom              Giovanni:2

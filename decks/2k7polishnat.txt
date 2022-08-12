@@ -9,7 +9,6 @@ Tomasz Pietkiewicz
 -- Unknown
 
 Deck Name: Speedy Imbued
-
 Crypt (12 cards, min=15 max=20 avg=4.5)
 ---------------------------------------
 4x Travis "Traveler72" Miller     5  def mar          Martyr:4

@@ -9,7 +9,6 @@ Randal Rudstam
 -- Unknown
 
 Deck Name: Gubbarna
-
 Description:
 A bleed deck that I tweaked for the RopeCon meta by using less bleed
 and more stealth and reaction cards. Original Stefan Karlsson, latest

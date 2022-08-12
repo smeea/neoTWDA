@@ -9,7 +9,6 @@ http://calendar.yahoo.com/YYY,14227/srt,0/vtesrep?v=4&t=1026550800&i=915&pv=2
 -- Unknown
 
 Deck Name: Blue Cheese
-
 Crypt (12 cards, min=10 max=22 avg=4.0)
 ---------------------------------------
 2x Dolphin Black                    6  AUS DEM OBF      Malkavian antitribu:2

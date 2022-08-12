@@ -9,7 +9,7 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: Saulot and Nergal dating
-
+Author: Isak Esbjörnsson Bjärmark
 Description:
 This deck is based on a deck constructed by Marko Lindroos.
 Marko plays his deck with Possesion and Sargon fragment to

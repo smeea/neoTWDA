@@ -9,7 +9,6 @@ Forrest Hyppa
 -- 5vp in the final
 
 Deck Name: Brujah vote
-
 Description:
 Standard vote base with the ability to achieve
 consistent +2 stealth on votes. Combat is mainly deterrence combat.

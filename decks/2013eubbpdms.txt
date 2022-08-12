@@ -9,7 +9,6 @@ Moisés Ferrer Gallegos
 -- Unknown
 
 Deck Name: Lasombra Nocturns
-
 Description:
 The second Unmasking should have been replaced either by a
 Bitter and Sweet Story or by The Barrens, but I forgot to do

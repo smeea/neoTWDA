@@ -9,7 +9,6 @@ Aaron Clark
 -- Unknown
 
 Deck Name: Angelica Ascendant
-
 Description:
 It won a tournament, but can it win a game?
 Angelica's special means that Ascendances can be used for

@@ -9,7 +9,6 @@ Ivan Marin-Rivas
 -- Unknown
 
 Deck Name: Der Räuber und der Prinz
-
 Description:
 First combat is to cycle in to necessary cards, both in
 graveyard and in hand. After that play Ashurs and recycle the necessary

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7582
 -- Unknown
 
 Deck Name: Lorrie's 1st armored division
-
 Crypt (12 cards, min=16 max=22 avg=4.67)
 ----------------------------------------
 4x Lorrie Dunsirn      4  POT for nec          Abomination:4

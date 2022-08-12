@@ -9,7 +9,6 @@ Gianluca Bianco
 -- Unknown
 
 Deck Name: Toreador Beauty Ball
-
 Description:
 Classic Toreador deck.
 

@@ -9,7 +9,6 @@ Péter Botos
 -- Unknown
 
 Deck Name: Cybele's Curse v2
-
 Description:
 Inspired by "Snakes on the Plane" by Ivan Marin-Rivas.
 This deck, however, relies more on Maleficia for defensive

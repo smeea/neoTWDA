@@ -9,7 +9,6 @@ Pierre Tran-Van
 -- Unknown
 
 Deck Name: EC 2012 LCQ: Toreador Triple-A
-
 Crypt (12 cards, min=19 max=43 avg=8.17)
 ----------------------------------------
 3x Alexandra         11  ANI AUS CEL PRE dom   inner circle   Toreador:2

@@ -9,7 +9,6 @@ Giulio Roffi
 -- Unknown
 
 Deck Name: Caitiff for President
-
 Crypt (12 cards, min=4 max=5 avg=1.08)
 --------------------------------------
 1x Dr. Solomon Grey    2  dom pre      Caitiff:5

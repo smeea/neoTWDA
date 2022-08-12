@@ -9,7 +9,6 @@ Jérôme Bauzon
 -- Unknown
 
 Deck Name: Unacceptable Boon
-
 Description:
 Tribute to Mr. Peal
 

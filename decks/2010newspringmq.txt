@@ -9,7 +9,6 @@ Isak Esbjörnsson Bjärmark
 -- Unknown
 
 Deck Name: Vindarna viskar ditt namn
-
 Crypt (12 cards, min=5 max=22 avg=3.33)
 ---------------------------------------
 3x Anarch Convert   1                   Caitiff:ANY

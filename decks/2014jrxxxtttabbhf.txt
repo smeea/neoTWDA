@@ -9,7 +9,6 @@ Matti Palomäki
 -- Unknown
 
 Deck Name: mökä
-
 Crypt (12 cards, min=32 max=40 avg=8.67)
 ----------------------------------------
 2x Jason, The World's Voice    8  AUS DEM OBF for       primogen       Malkavian:3

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9872
 -- 5vp in the final
 
 Deck Name: Mono auspex
-
 Crypt (12 cards, min=10 max=17 avg=3.25)
 ----------------------------------------
 1x Anne-Marie Bourgeois, Inconnu Recruiter   5  AUS cel pre      Toreador:5

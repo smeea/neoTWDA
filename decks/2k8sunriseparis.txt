@@ -9,7 +9,6 @@ Jérôme Goyet
 -- 3vp in the final
 
 Deck Name: Grooming the spirit
-
 Crypt (12 cards, min=13 max=26 avg=4.92)
 ----------------------------------------
 2x Uncle George            5  DEM aus dom obf                 Malkavian antitribu:3

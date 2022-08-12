@@ -9,7 +9,6 @@ Randal Rudstam
 -- Unknown
 
 Deck Name: EC 2012 Day 1: Unmada and Lutz
-
 Description:
 I won the EC day one in 2012 with this deck, it is a version of the
 deck I used to win the NAC day one but with even more crypt acceleration

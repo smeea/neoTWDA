@@ -9,7 +9,7 @@ Matthew Morgan
 -- 3gw10 + 1.5vp in the final
 
 Deck Name: Torelando
-
+Author: Matthew Morgan and Kevin J. Mergen
 Description:
 Won DC qualifier September 22, 2012.
 

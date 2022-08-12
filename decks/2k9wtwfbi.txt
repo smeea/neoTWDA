@@ -9,7 +9,6 @@ Davide Antoni
 -- Unknown
 
 Deck Name: Muro
-
 Description:
 Tzmisce Auspex Wall with Hard Combat and Smiling Jack
 

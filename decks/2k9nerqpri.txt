@@ -9,7 +9,6 @@ John Eno
 -- 3vp in the final
 
 Deck Name: Patience Is a Virtue
-
 Crypt (12 cards, min=19 max=30 avg=5.83)
 ----------------------------------------
 2x Owain Evans, The Wanderer   8  AUS DOM FOR cel pre      Ventrue antitribu:3

@@ -9,7 +9,6 @@ Rob Treasure
 -- Unknown
 
 Deck Name: Brick in a sock
-
 Description:
 Ummmm... pretty obvious bleed or rush with lots of Pot
 minions. Use Computer Hacks to force blocks or bleed for steady twos.

@@ -9,7 +9,6 @@ Tobias op den Brouw
 -- Unknown
 
 Deck Name: Serial Killer (VNV)
-
 Crypt (12 cards, min=9 max=19 avg=3.5)
 --------------------------------------
 1x Banjoko                    5  DOM obt pot          Lasombra:3

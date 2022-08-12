@@ -9,7 +9,6 @@ Adam Esbjörnsson
 -- 3vp in the final
 
 Deck Name: Terrorists in mountains
-
 Description:
 A merge of decks by Michael Homlström and Vincent Ripoll.
 

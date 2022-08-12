@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/2745
 -- 4vp in the final
 
 Deck Name: Descent into Bleeds
-
 Description:
 Influence Appius. Put all Corporal Reservoirs you can on him
 Master Phase: Minion Tap to Appius (with previos Corporal if you have one)

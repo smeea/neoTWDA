@@ -9,7 +9,6 @@ Daan Broekhof
 -- Unknown
 
 Deck Name: Tempting Ranters
-
 Crypt (13 cards, min=25 max=40 avg=8.38)
 ----------------------------------------
 2x Aziz, Dammar of Istanbul             10  CEL OBF PRE QUI ser       2 votes   Banu Haqim:2

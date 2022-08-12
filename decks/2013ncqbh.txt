@@ -9,7 +9,6 @@ Gyula Erdõs
 -- 3.5vp in the final
 
 Deck Name: Goratrix 1.3
-
 Crypt (12 cards, min=8 max=40 avg=6.33)
 ---------------------------------------
 3x Goratrix             10  ANI AUS DOM THA vic              Tremere antitribu:2

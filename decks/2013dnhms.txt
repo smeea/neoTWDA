@@ -9,7 +9,6 @@ Miguel Martorell
 -- 3vp in the final
 
 Deck Name: Brujah Outsiders
-
 Crypt (12 cards, min=13 max=36 avg=6.75)
 ----------------------------------------
 4x Lydia, Grand Praetor          9  AUS FOR POT TEM dom pre   1 vote   True Brujah:6

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9045
 -- 2gw7.5 + 1.5vp in the final
 
 Deck Name: Meet the Khurshid
-
 Crypt (13 cards, min=19 max=32 avg=6.85)
 ----------------------------------------
 5x Khurshid            8  AUS FOR NEC POT      Harbinger of Skulls:6

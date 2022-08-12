@@ -9,7 +9,7 @@ Kym Alishahi
 -- 3vp in the final
 
 Deck Name: Kym Alishahi's Drace IS The unnamed
-
+Author: Drace Zhan
 Description:
 "The deck that made Drace quit VTES"
 

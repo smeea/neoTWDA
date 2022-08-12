@@ -9,7 +9,6 @@ Jérôme Goyet
 -- Unknown
 
 Deck Name: lazve's protégés
-
 Description:
 toolbox deck, pleasant to play. The output is fast and
 lazverinus' bleeds are impressive thanks to its strength bonus.

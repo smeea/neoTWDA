@@ -9,7 +9,7 @@ Alejandro Pérez Rosselló
 -- 3vp in the final
 
 Deck Name: Nephandus Swarm
-
+Author: Lukasz Modzelewski
 Description:
 Played and modified by: Alejandro Pérez Rosselló
 

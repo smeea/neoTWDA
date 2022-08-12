@@ -9,6 +9,7 @@ Bartosz Wroblewski
 -- Unknown
 
 Deck Name: !Ventrue Grinder
+Author: based on Hugh Angseesing "Stick Men"
 
 Crypt (12 cards, min=17 max=30 avg=5.83)
 ----------------------------------------

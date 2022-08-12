@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9846
 -- Unknown
 
 Deck Name: Broccolini
-
 Description:
 This deck was developed independently from (but about the same time as) Esa-Matti Smolander's 17 Sept 2019 winner. The designs turned out similar because there's a single logical path for development with these vampires:
 1) Get too many MPA and discard options,

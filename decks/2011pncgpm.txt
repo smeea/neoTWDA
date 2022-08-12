@@ -9,7 +9,6 @@ Tomasz Kowalewski
 -- Unknown
 
 Deck Name: Classic Rachel v.1.1
-
 Crypt (12 cards, min=16 max=40 avg=7.25)
 ----------------------------------------
 5x Rachel Brandywine   10  AUS DEM OBF PRO ani   prince   Malkavian:3

@@ -9,7 +9,6 @@ François de Champlain
 -- Unknown
 
 Deck Name: Godzilla
-
 Description:
 This deck is a mass bruise bleed deck. The secret is to threaten
 your predator (even torporise a few of his minions) and keep him

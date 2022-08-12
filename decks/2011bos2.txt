@@ -9,7 +9,6 @@ Sylwester Dziembowski
 -- Unknown
 
 Deck Name: Chaundice and Antonio go to War
-
 Crypt (12 cards, min=14 max=32 avg=5.67)
 ----------------------------------------
 4x Chaundice           8  FOR POT VIS vic      Gargoyle:4

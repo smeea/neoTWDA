@@ -9,7 +9,6 @@ Danilo Torrisi
 -- Unknown
 
 Deck Name: Happy Hordes
-
 Crypt (12 cards, min=12 max=26 avg=4.17)
 ----------------------------------------
 8x Horde, The                3  dai obf pre                    Baali:6

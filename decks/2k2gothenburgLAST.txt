@@ -9,7 +9,6 @@ Simon Carlsson
 -- Unknown
 
 Deck Name: Malk antitribu slowbleeder
-
 Description:
 A simple to use bleed deck, usually bleeds for 2 or 3 and
 bloats with Kindred spirits and Blood of the sabbat. The key to

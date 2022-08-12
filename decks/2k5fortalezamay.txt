@@ -9,7 +9,6 @@ Everton Biel
 -- Unknown
 
 Deck Name: Catch me if you can
-
 Crypt (12 cards, min=8 max=34 avg=5.92)
 ---------------------------------------
 4x Gabrin                            8  ANI CHI dom for          Ravnos:2

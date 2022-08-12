@@ -9,7 +9,6 @@ Erik Torstensson
 -- 5vp in the final
 
 Deck Name: The White House
-
 Description:
 Created by Alex Ek and Erik Torstensson.
 Won the tournament in Gothenburg on the 8 January, 2005. It took 1GW,

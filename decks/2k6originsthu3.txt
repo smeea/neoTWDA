@@ -9,7 +9,6 @@ Josh Duffin
 -- Unknown
 
 Deck Name: 2006_06_25_all_powerful
-
 Description:
 Here's the list as played - it was intended to be a 90-card deck
 but one of the React with Convictions apparently fell out before

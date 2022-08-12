@@ -9,7 +9,6 @@ Selen Turkay
 -- 5vp in the final
 
 Deck Name: Ousted? Dem's the Breaks
-
 Crypt (12 cards, min=6 max=18 avg=3.0)
 --------------------------------------
 2x Jackie                         3  DEM                  Malkavian antitribu:4

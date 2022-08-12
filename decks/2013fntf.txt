@@ -9,7 +9,6 @@ Ville Kaijasaari
 -- Unknown
 
 Deck Name: Mutapaini
-
 Crypt (12 cards, min=6 max=38 avg=6.33)
 ---------------------------------------
 3x Nangila Were          9  ANI POT PRE obf ser                  Guruhi:4

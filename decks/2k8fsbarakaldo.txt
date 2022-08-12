@@ -9,7 +9,6 @@ Iñaki Jimenez
 -- Unknown
 
 Deck Name: Assamite Breed & Boon
-
 Description:
 Just droped some cards from the previous version
 

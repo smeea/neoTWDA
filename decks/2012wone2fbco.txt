@@ -9,7 +9,6 @@ Bob Joseph
 -- 2vp in the final
 
 Deck Name: temptation2012
-
 Crypt (12 cards, min=12 max=27 avg=5.08)
 ----------------------------------------
 2x Qufur am-Heru               7  OBF PRE SER cel tha      Ministry:2

@@ -9,7 +9,6 @@ Csaba Greguss
 -- Unknown
 
 Deck Name: Modern Daughters
-
 Description:
 "A liitle bit of this, a little bit of that... I missed
 one or two Conductors for the deck, never used the Reinforcements,

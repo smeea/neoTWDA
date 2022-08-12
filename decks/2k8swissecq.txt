@@ -9,6 +9,7 @@ Kamel Senni
 -- Unknown
 
 Deck Name: Miami Vice
+Author: Romain Naïm
 
 Crypt (12 cards, min=6 max=18 avg=3.08)
 ---------------------------------------

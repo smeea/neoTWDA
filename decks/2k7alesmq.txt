@@ -9,7 +9,6 @@ Christophe Chevalier
 -- Unknown
 
 Deck Name: l'équipe de Rigby
-
 Crypt (12 cards, min=11 max=22 avg=4.25)
 ----------------------------------------
 2x Julian Sanders            6  CEL PRE pot          Brujah antitribu:2

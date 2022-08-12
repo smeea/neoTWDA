@@ -9,7 +9,6 @@ Gyula Erdõs
 -- Unknown
 
 Deck Name: Nana Buruku & Friends Ani Rush
-
 Crypt (12 cards, min=8 max=28 avg=4.08)
 ---------------------------------------
 3x Nana Buruku         8  ANI POT PRE      Guruhi:4

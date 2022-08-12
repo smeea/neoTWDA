@@ -9,7 +9,6 @@ Misty Martin
 -- Unknown
 
 Deck Name: Misty's Malkavians
-
 Description:
 Basic Malkavian preconstructed deck with a few tweaks.
 

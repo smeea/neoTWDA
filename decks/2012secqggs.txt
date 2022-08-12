@@ -9,7 +9,6 @@ Adam Esbjörnsson
 -- 3vp in the final
 
 Deck Name: Earth Intruders
-
 Description:
 Courtesy of Erik
 

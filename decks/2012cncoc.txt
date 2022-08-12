@@ -9,7 +9,6 @@ Slaven Karakas
 -- Unknown
 
 Deck Name: Kyassid Fancy School
-
 Description:
 Bleed your prey gradually and gain advantage
 over the pool he is gaining, wait patiently and strike quickly

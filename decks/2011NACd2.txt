@@ -9,7 +9,7 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: Salmon Fishstick
-
+Author: Matthew Morgan, based on Martin Major's deck
 Description:
 It's rush combat with a strong master module. Master cards
 are the best in the game. I'd always rather have too many than too few.

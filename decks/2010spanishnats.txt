@@ -9,7 +9,6 @@ https://www.vekn.net/player-registry/event/5803
 -- 4vp in the final
 
 Deck Name: Guerrero Cansino
-
 Crypt (12 cards, min=21 max=35 avg=7.0)
 ---------------------------------------
 3x Gotsdam, The Tired Warrior   9  AUS DOM FOR PRE ani            Ventrue:4

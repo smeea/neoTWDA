@@ -9,7 +9,7 @@ Isak Esbjörnsson Bjärmark
 -- Unknown
 
 Deck Name: thoughts acquires stains lips acquire speed
-
+Author: Adam Esbjörnsson
 Description:
 it is by will alone i set my car in motion
 block and kill deck with weenie support

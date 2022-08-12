@@ -9,7 +9,6 @@ Peter Vabulas
 -- Unknown
 
 Deck Name: Nosferatu
-
 Description:
 nossie princes bring out 3rd trad weenies
 bleed with computer hacks, stealth, night moves

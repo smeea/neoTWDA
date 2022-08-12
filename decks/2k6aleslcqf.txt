@@ -9,7 +9,6 @@ Olivier Perez
 -- Unknown
 
 Deck Name: Nosferoyalties
-
 Crypt (12 cards, min=17 max=35 avg=6.83)
 ----------------------------------------
 3x Suhailah               9  FOR OBF pot ser   prince   Ventrue:2

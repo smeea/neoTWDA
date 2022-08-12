@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7482
 -- 4vp in the final
 
 Deck Name: Nihil est novum sub sole, Hastur's version
-
 Crypt (12 cards, min=15 max=28 avg=5.25)
 ----------------------------------------
 2x Isabel Giovanni                            5  DOM NEC pot              Giovanni:2

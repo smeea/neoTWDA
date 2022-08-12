@@ -9,7 +9,6 @@ Tommi Hakomaa
 -- Unknown
 
 Deck Name: NIGHTWISH - Amaranth
-
 Description:
 Note: Sepastian Meurer's deck with moderate modifications.
 

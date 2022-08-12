@@ -9,7 +9,6 @@ Rob Thompson
 -- Unknown
 
 Deck Name: Blood Vacuum
-
 Crypt (12 cards, min=32 max=40 avg=9.08)
 ----------------------------------------
 3x Lucas Halton         10  AUS CEL DOM THA qui       prince     Tremere:3

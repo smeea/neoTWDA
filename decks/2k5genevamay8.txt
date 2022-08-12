@@ -9,7 +9,7 @@ Ruben Feldman
 -- Unknown
 
 Deck Name: Ugly Aggression
-
+Author: Ruben Feldman (and Amiel Feldman)
 Description:
 2GW9.5
 

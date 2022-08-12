@@ -9,7 +9,6 @@ Randal Rudstam
 -- Unknown
 
 Deck Name: Girls in the Pentex(TM) boardroom
-
 Description:
 3gw
 I got the original idea from Anders Löf. He was running it

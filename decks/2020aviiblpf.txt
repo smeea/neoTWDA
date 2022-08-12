@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9578
 -- Unknown
 
 Deck Name: Shattering Crescendo 2020
-
 Crypt (12 cards, min=12 max=24 avg=4.58)
 ----------------------------------------
 3x Yseult                           6  FOR MEL PRE          Daughter of Cacophony:3

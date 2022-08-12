@@ -9,7 +9,6 @@ Daniel Boud
 -- Unknown
 
 Deck Name: Game, Set, Match
-
 Description:
 A very straight forward Settite stealth/bleed deck
 with a smattering of vampire stealing and general utility goodies.

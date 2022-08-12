@@ -9,7 +9,6 @@ Desso Alastor
 -- 2gw7 + 3vp in the final
 
 Deck Name: Farda Preta PNP
-
 Crypt (12 cards, min=33 max=43 avg=9.67)
 ----------------------------------------
 3x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2

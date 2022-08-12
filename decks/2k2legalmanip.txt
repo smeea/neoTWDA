@@ -9,7 +9,6 @@ Colin Riggs
 -- Unknown
 
 Deck Name: Guns and Butter
-
 Crypt (12 cards, min=4 max=16 avg=2.5)
 --------------------------------------
 2x Parmenides           4  CEL qui      Banu Haqim:2

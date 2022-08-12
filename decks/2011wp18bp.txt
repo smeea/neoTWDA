@@ -9,7 +9,6 @@ Arkadiusz Modzelewski
 -- Unknown
 
 Deck Name: Rachel Madness
-
 Description:
 Classic Rachel Madness with some improvements:
 - cut to 80 and add heart of nizchetus (works great with

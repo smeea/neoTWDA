@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: An Offer You Can't Refuse
-
 Crypt (12 cards, min=16 max=28 avg=5.42)
 ----------------------------------------
 3x Gillespi Giovanni   7  DOM NEC POT aus      Giovanni:2

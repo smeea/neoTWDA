@@ -9,7 +9,6 @@ Raul Lara Algarra
 -- Unknown
 
 Deck Name: Cara Roja
-
 Crypt (12 cards, min=22 max=36 avg=7.42)
 ----------------------------------------
 4x Gerald Windham     9  AUS DOM FOR THA                    Tremere:5

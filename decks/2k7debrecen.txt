@@ -9,7 +9,6 @@ Csaba Greguss
 -- Unknown
 
 Deck Name: Justine and the Others
-
 Crypt (12 cards, min=17 max=31 avg=6.0)
 ---------------------------------------
 3x Justine, Elder of Dallas   8  AUS DOM THA obf   primogen   Tremere:1

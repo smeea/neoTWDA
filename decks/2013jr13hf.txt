@@ -9,7 +9,6 @@ Tom Lindberg
 -- Unknown
 
 Deck Name: Ondine has hell to pay
-
 Crypt (12 cards, min=4 max=36 avg=4.58)
 ---------------------------------------
 4x Ondine "Boudicca" Sinclair   9  AUS CEL PRE PRO obt      Toreador antitribu:5

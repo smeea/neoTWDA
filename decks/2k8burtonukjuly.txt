@@ -9,7 +9,6 @@ Hugh Angseesing
 -- 2.5vp in the final
 
 Deck Name: Bleeding Fairies
-
 Crypt (12 cards, min=23 max=32 avg=6.92)
 ----------------------------------------
 4x Pherydima                 8  DOM MYT NEC obt pot   bishop    Kiasyd:4

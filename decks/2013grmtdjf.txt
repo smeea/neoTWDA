@@ -9,7 +9,7 @@ Tomi Sillanpää
 -- 4vp in the final
 
 Deck Name: Gubbarna
-
+Author: Randal Rudstam (couple small changes made by Tomi Sillanpää)
 Description:
 A bleed deck
 

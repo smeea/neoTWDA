@@ -9,7 +9,6 @@ Andrew Kashpar
 -- 3vp in the final
 
 Deck Name: Una Freak Show
-
 Crypt (12 cards, min=4 max=36 avg=5.0)
 --------------------------------------
 6x Una                  9  ANI FOR PRE PRO dem   archbishop   Gangrel antitribu:3

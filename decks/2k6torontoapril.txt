@@ -9,7 +9,6 @@ Peter Muto
 -- Unknown
 
 Deck Name: Tzi Tongue
-
 Crypt (13 cards, min=9 max=24 avg=4.38)
 ---------------------------------------
 2x Caliban              6  ANI AUS VIC          Tzimisce:2

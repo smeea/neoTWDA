@@ -9,7 +9,6 @@ Luiz Fernando K. Ferreira
 -- Unknown
 
 Deck Name: Campeão da Copa do Brasil
-
 Crypt (12 cards, min=37 max=44 avg=10.08)
 -----------------------------------------
 4x Arika                  11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2

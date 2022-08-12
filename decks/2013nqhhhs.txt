@@ -9,7 +9,6 @@ Gyula Erdõs
 -- Unknown
 
 Deck Name: GORA
-
 Crypt (12 cards, min=13 max=40 avg=7.08)
 ----------------------------------------
 3x Goratrix             10  ANI AUS DOM THA vic              Tremere antitribu:2

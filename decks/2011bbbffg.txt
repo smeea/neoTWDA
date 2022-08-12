@@ -9,7 +9,6 @@ Gerold Preinfalk
 -- Unknown
 
 Deck Name: Still waiting for better times
-
 Description:
 Classic block deck with some nice extras.
 

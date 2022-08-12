@@ -9,7 +9,6 @@ Miguel Pascual
 -- Unknown
 
 Deck Name: Kholó y GOOOOOL
-
 Description:
 While not (Library is empty)
 Case have

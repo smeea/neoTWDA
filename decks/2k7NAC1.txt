@@ -9,7 +9,6 @@ Jay Kristoff
 -- 3vp in the final
 
 Deck Name: SoCalspex
-
 Description:
 This deck was designed to take advantage of the usual championship
 day one desperation. I was disappointed when I had no stealth/bleed

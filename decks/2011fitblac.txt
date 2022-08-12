@@ -9,7 +9,6 @@ David Litwin
 -- Unknown
 
 Deck Name: Dirty Sinks
-
 Description:
 This was a rehash of an older deck I had dismantled before KOT that I redesigned
 with some newer cards and the hope that it played enough S:CE to survive Deep Song.

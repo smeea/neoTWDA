@@ -9,7 +9,6 @@ Lucas Bonroy
 -- Unknown
 
 Deck Name: Lasombra presence slim fast
-
 Crypt (12 cards, min=27 max=39 avg=8.42)
 ----------------------------------------
 3x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2

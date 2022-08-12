@@ -9,7 +9,6 @@ Michal Kochanowski
 -- Unknown
 
 Deck Name: FoS Mind Rape ver 1.3
-
 Description:
 Designed by: Marcin Watras
 

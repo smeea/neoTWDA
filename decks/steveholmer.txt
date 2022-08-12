@@ -9,7 +9,6 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/QH7QDtPHiic
 -- Unknown
 
 Deck Name: Weenies with Blazing Guns
-
 Crypt (14 cards, min=4 max=9 avg=1.36)
 --------------------------------------
 1x Isabel de Leon         3  AUS          Toreador:2

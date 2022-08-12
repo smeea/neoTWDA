@@ -9,7 +9,6 @@ Marc Pittermann
 -- Unknown
 
 Deck Name: !Ventrue Block and Bleed
-
 Description:
 Block important actions, bounce big bleeds and wait
 for the right moment to put three or four solid bleeds through.

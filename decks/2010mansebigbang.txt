@@ -9,7 +9,6 @@ Tuomas Nyberg
 -- Unknown
 
 Deck Name: Lost in Manse
-
 Description:
 Dom/Ani bruise bleed with some prince cards to keep
 others guessing. Should have at least few thaumaturgy cards in for

@@ -9,7 +9,6 @@ Jörg Alten
 -- Unknown
 
 Deck Name: Shape and Gnaw 3.0 (Post-LotN)
-
 Description:
 Modified variant with cards from Lords of the Night
 

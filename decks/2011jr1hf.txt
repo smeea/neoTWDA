@@ -9,7 +9,6 @@ Heikki Palomäki
 -- 3vp in the final
 
 Deck Name: Hot wings
-
 Crypt (12 cards, min=13 max=31 avg=5.67)
 ----------------------------------------
 1x Anton                     8  ANI AUS cel obf vic             Tzimisce:2

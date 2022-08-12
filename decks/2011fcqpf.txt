@@ -9,7 +9,6 @@ David Lusven
 -- 5vp in the final
 
 Deck Name: Pokemon Rock Cats
-
 Crypt (12 cards, min=4 max=12 avg=1.92)
 ---------------------------------------
 5x Tupdog              1  POT VIS      Gargoyle:3

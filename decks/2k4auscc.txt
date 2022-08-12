@@ -9,7 +9,6 @@ Dominic Catanzariti
 -- Unknown
 
 Deck Name: The Montreal Chant
-
 Crypt (12 cards, min=6 max=12 avg=2.33)
 ---------------------------------------
 2x Royce                1  dom          Pander:2

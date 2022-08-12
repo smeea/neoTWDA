@@ -9,7 +9,6 @@ Aldo Bosmn
 -- Unknown
 
 Deck Name: Y Johnny cogió su fusil
-
 Description:
 Blocker Deck based around Lucas Halton with Assault Rifle
 via magic of the smith, young vamps to either bleed or diablerie.

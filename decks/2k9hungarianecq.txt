@@ -9,6 +9,7 @@ Gyula Erdõs
 -- Unknown
 
 Deck Name: Ashur CEL
+Author: Péter Korsós
 
 Crypt (12 cards, min=13 max=32 avg=5.33)
 ----------------------------------------

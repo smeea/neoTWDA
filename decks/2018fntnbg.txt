@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9004
 -- 0gw1 + 5vp in the final
 
 Deck Name: Just another nasty bleeddeck
-
 Description:
 This is the very focused bleeddeck with a few very simple principles.
 1 Hand management: have minimum amout of cards that can clog, and cards that increase card options. low amount of masters also helps.

@@ -9,6 +9,7 @@ Erik Torstensson
 -- 4GW and 13VP
 
 Deck Name: Mouchoir de l'enfer
+Author: Orian Gissler
 
 Crypt (12 cards, min=8 max=15 avg=2.92)
 ---------------------------------------

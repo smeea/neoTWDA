@@ -9,7 +9,6 @@ Ben Peal
 -- Unknown
 
 Deck Name: Nevermore
-
 Description:
 This deck started as an experiment in defending against
 stealth-bleed decks without the aid of bleed bounce. The idea is to

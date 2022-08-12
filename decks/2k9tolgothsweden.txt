@@ -9,7 +9,6 @@ Adam Esbjörnsson
 -- 2.5vp in the final
 
 Deck Name: Nörth Mäld
-
 Description:
 Special thanks to Erik Torstensson for his previous
 inspiring versions of this deck.

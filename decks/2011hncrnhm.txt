@@ -9,7 +9,6 @@ Csaba Greguss
 -- Unknown
 
 Deck Name: The Geisha
-
 Crypt (12 cards, min=16 max=40 avg=7.0)
 ---------------------------------------
 5x Thucimia             10  CEL DEM OBF QUI for pro   1 vote   Banu Haqim:4

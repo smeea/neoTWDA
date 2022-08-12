@@ -9,7 +9,6 @@ Mats Ingdal
 -- Unknown
 
 Deck Name: where did that anarch go?
-
 Crypt (14 cards, min=4 max=19 avg=2.79)
 ---------------------------------------
 4x Anarch Convert         1                   Caitiff:ANY

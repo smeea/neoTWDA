@@ -9,7 +9,6 @@ Timo Rekola
 -- 3vp in the final
 
 Deck Name: asguresh.can.ver.1.4
-
 Description:
 Slightly modified Asguresh can - deck from JR -tournament...
 

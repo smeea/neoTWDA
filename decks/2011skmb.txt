@@ -9,7 +9,6 @@ Dmitriy Konstantinov
 -- 3vp in the final
 
 Deck Name: Samedi eat your brain
-
 Crypt (12 cards, min=20 max=34 avg=6.67)
 ----------------------------------------
 4x Lithrac                         5  OBF for thn                     Samedi:2

@@ -9,7 +9,6 @@ Ben Peal
 -- 4vp in the final
 
 Deck Name: Angellore (Live In LA)
-
 Description:
 This is a modified version of the deck I used to win the 2007 Origins
 qualifier. I chose this version of breed-boon for the 2007 NAC (and

@@ -9,7 +9,7 @@ Hugh Angseesing
 -- 3vp in the final
 
 Deck Name: Dualism in America
-
+Author: Hugh Angseesing & Marko Lindroos
 Description:
 Very flexible deck based upon Marko's Dualism deck.
 Main changes are reducing the dual forms by three

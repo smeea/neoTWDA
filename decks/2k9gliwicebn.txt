@@ -9,7 +9,6 @@ Tomasz Izydorczyk
 -- Unknown
 
 Deck Name: tempt me plox
-
 Crypt (12 cards, min=11 max=30 avg=5.33)
 ----------------------------------------
 3x Synesios           8  POT PRE TEM obf ser   2 votes   True Brujah:2

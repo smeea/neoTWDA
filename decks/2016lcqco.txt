@@ -9,7 +9,6 @@ Randal Rudstam
 -- Unknown
 
 Deck Name: Reflections on life and death
-
 Crypt (12 cards, min=40 max=44 avg=10.33)
 -----------------------------------------
 4x Josef von Bauren   11  ANI DEM OBF POT cel       inner circle   Nosferatu:4

@@ -9,7 +9,6 @@ Robyn Tatu
 -- Unknown
 
 Deck Name: Samedi after Ben Peal
-
 Crypt (12 cards, min=25 max=36 avg=7.75)
 ----------------------------------------
 4x Baron, The                      9  FOR NEC OBF THN dom       2 votes   Samedi:2

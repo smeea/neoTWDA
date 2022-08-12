@@ -9,7 +9,6 @@ Steve Van Nus
 -- Unknown
 
 Deck Name: Brujah Mass Debate
-
 Description:
 Deck designed to get weenies princes out quick, parity's for
 pool damage/gain which also gives strong deal making power. Brujah Debates

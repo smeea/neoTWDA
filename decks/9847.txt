@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9847
 -- 3vp in the final
 
 Deck Name: Farley Mowat V2.01
-
 Crypt (13 cards, min=4 max=14 avg=2.23)
 ---------------------------------------
 5x Anarch Convert                    1                   Caitiff:ANY

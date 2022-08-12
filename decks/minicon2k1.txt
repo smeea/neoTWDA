@@ -9,7 +9,6 @@ Matt Green
 -- Unknown
 
 Deck Name: Rough Night at the Palla Grande
-
 Description:
 Playing the deck: Never discard any of the 12 kill cards. Counter
 Blood gain with the Suddens. Use Revelations to remove Deflections or

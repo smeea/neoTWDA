@@ -9,7 +9,6 @@ Stefan Ferenci
 -- Unknown
 
 Deck Name: Just say NO
-
 Description:
 Tzimisce denial deck
 

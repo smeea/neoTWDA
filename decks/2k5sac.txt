@@ -9,7 +9,6 @@ Davi Pereira da Cunha
 -- Unknown
 
 Deck Name: SAC - 1o - Weenie Politics
-
 Crypt (18 cards, min=4 max=8 avg=1.22)
 --------------------------------------
 1x Brazil                 2  aus          Malkavian:1

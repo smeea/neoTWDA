@@ -9,7 +9,6 @@ Fernanda Nunes
 -- 3vp in the final
 
 Deck Name: MINI AUS ANARCH
-
 Crypt (12 cards, min=4 max=16 avg=2.42)
 ---------------------------------------
 4x Anarch Convert                   1                   Caitiff:ANY

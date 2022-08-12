@@ -9,7 +9,6 @@ Simon Reed
 -- Unknown
 
 Deck Name: I love the Tremere
-
 Description:
 This deck is all about being flexible and tooling up with whatever the
 game situation dictates. Constant pressure forward and bring out the

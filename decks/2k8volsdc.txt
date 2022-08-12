@@ -9,7 +9,6 @@ Richard Cortes
 -- Unknown
 
 Deck Name: Ventrue 3.0
-
 Crypt (12 cards, min=20 max=30 avg=6.33)
 ----------------------------------------
 2x Emerson Bridges                    8  DOM FOR PRE pot   prince   Ventrue:1

@@ -9,7 +9,6 @@ David Quiñonero-Santiago
 -- Unknown
 
 Deck Name: Ahrimanes_4
-
 Crypt (12 cards, min=20 max=28 avg=5.83)
 ----------------------------------------
 4x Muricia              7  ANI PRE SPI      Ahrimane:4

@@ -9,7 +9,6 @@ Fernando Grossi
 -- 3vp in the final
 
 Deck Name: Deck Campeão Sulamericano
-
 Crypt (19 cards, min=31 max=43 avg=9.0)
 ---------------------------------------
 5x Al-Muntathir, God's Witness    8  AUS FOR PRE TEM obf qui                  True Brujah:5

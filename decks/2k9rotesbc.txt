@@ -9,7 +9,6 @@ Ira Fay
 -- Unknown
 
 Deck Name: Mummify 1
-
 Crypt (12 cards, min=29 max=40 avg=8.83)
 ----------------------------------------
 3x Alonso Petrodon         10  ANI DOM OBF POT for tha   justicar   Nosferatu:5

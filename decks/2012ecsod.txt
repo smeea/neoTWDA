@@ -9,7 +9,6 @@ László Walter
 -- 5vp in the final
 
 Deck Name: EC 2012 Silence of Death: Toreador Aching Beauty
-
 Crypt (12 cards, min=34 max=43 avg=9.75)
 ----------------------------------------
 3x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2

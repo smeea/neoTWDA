@@ -9,7 +9,6 @@ John McGlynn
 -- 0.5vp in the final
 
 Deck Name: Northwest Qualifier 2016: Woke
-
 Description:
 Weenie animalism wall with a splash of deflection and conditioning for the oust.
 

@@ -9,7 +9,6 @@ Yannick Gibert
 -- Unknown
 
 Deck Name: Germaine is back. And he's angry.
-
 Crypt (12 cards, min=20 max=32 avg=7.0)
 ---------------------------------------
 4x Count Germaine             8  CEL FOR POT PRE obf                  Brujah:4

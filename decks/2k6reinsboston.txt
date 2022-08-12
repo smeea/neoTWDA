@@ -9,7 +9,6 @@ Scott Gomes
 -- Unknown
 
 Deck Name: Bats Cats and Yuri's mustache
-
 Crypt (12 cards, min=8 max=19 avg=3.25)
 ---------------------------------------
 1x Lord Ashton            5  ANI for pro                Gangrel:3

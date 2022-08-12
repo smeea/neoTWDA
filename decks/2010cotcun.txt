@@ -9,7 +9,6 @@ Axel Kleinschmidt
 -- Unknown
 
 Deck Name: Horrid Ghouls
-
 Description:
 A combination of some Tzimisce Walls on the TWDA
 with a few twists here and there. Thanks a lot to Emime and

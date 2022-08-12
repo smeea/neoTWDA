@@ -9,7 +9,6 @@ Izaak Havelaar
 -- Unknown
 
 Deck Name: Pancake Mix
-
 Description:
 Ever since cards like Reunion Kamut and Art of Memory
 were printed, I have been wanting to build a deck with all these

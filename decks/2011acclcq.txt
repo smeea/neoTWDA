@@ -9,7 +9,6 @@ Jon Darbro
 -- Unknown
 
 Deck Name: Flicks, Sticks and Dirty Tricks: A Salubri Antitribu Deck
-
 Crypt (12 cards, min=19 max=30 avg=5.92)
 ----------------------------------------
 3x Langa                       5  VAL for                  Salubri antitribu:4

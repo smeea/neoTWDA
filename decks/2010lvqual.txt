@@ -9,7 +9,6 @@ Mark Loughman
 -- 4vp in the final
 
 Deck Name: Watch Me Pull a Rabbit Outta My Hat
-
 Description:
 The !Tremere have some awesome special abilities, so
 I built a deck trying to utilize them. Thanks to Darby for meta-game

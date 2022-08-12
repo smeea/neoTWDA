@@ -9,7 +9,6 @@ Adam Hulse
 -- 3vp in the final
 
 Deck Name: Earth Feeder
-
 Crypt (12 cards, min=20 max=40 avg=7.5)
 ---------------------------------------
 4x Troglodytia                 10  AUS FOR NEC THN obf pot      Samedi:4

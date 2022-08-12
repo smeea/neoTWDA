@@ -9,7 +9,6 @@ Ivan Chebunin
 -- Unknown
 
 Deck Name: Bilderberg group
-
 Description:
 Based on deck of VEKN user Blooded Sand. So all credit goes to him.
 Just modified it a little.

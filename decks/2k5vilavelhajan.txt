@@ -9,7 +9,6 @@ Marcelo Vieira
 -- Unknown
 
 Deck Name: Traditional Ventrue Voter Deck
-
 Description:
 This is a Ventrue voter deck group 1-2. We have some
 votes, some bleed and, my personal touch, some Traditions.

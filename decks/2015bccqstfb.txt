@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7918
 -- 4vp in the final
 
 Deck Name: Malkavian JW
-
 Crypt (12 cards, min=21 max=32 avg=6.42)
 ----------------------------------------
 3x Morel         6  AUS DEM OBF                      Malkavian:4

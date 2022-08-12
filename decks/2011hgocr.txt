@@ -9,7 +9,6 @@ Jan Kacor
 -- Unknown
 
 Deck Name: Female Attack
-
 Description:
 Daughter of Cacophony with Shattering Crescendo
 

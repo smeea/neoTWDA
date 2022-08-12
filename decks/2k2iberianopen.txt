@@ -9,7 +9,6 @@ Iñaki Puigdollers
 -- Unknown
 
 Deck Name: So vicious song
-
 Crypt (12 cards, min=14 max=26 avg=5.17)
 ----------------------------------------
 2x Jost Werner                      6  AUS PRE ani                Toreador antitribu:2

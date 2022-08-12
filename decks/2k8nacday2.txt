@@ -9,7 +9,6 @@ Ben Peal
 -- 4vp in the final
 
 Deck Name: The Death Star
-
 Description:
 73 cards from Matthew Morgan
 

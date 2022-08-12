@@ -9,7 +9,6 @@ Jiri Paska
 -- Unknown
 
 Deck Name: AAA
-
 Crypt (12 cards, min=20 max=43 avg=8.25)
 ----------------------------------------
 3x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2

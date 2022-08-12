@@ -9,7 +9,6 @@ Andrzej Jagla
 -- Unknown
 
 Deck Name: rambo shambo
-
 Crypt (12 cards, min=12 max=26 avg=4.5)
 ---------------------------------------
 2x Andrea Giovanni       7  DOM NEC pot vic      Giovanni:2

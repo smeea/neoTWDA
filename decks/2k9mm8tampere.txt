@@ -9,7 +9,6 @@ Heikki Palomäki
 -- Unknown
 
 Deck Name: Within the spirit
-
 Crypt (12 cards, min=16 max=31 avg=5.83)
 ----------------------------------------
 1x Lazarus James                  8  AUS DEM PRE obf tha              Malkavian:4

@@ -9,7 +9,6 @@ Pierre Tran-Van
 -- Unknown
 
 Deck Name: Back from Torpor
-
 Description:
 description: This deck won the "Hand Contract", 23 players, Paris,
 May 26th 2007. Since Imbued aren't popular, might as well draw table

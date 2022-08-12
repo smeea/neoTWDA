@@ -9,7 +9,6 @@ Attila Suhajda
 -- 3vp in the final
 
 Deck Name: Bigcap Vote
-
 Crypt (12 cards, min=39 max=43 avg=10.17)
 -----------------------------------------
 2x Lucinde, Alastor           10  DOM FOR PRE obf pot tha   justicar       Ventrue:3

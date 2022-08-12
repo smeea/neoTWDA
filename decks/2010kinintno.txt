@@ -9,7 +9,6 @@ Todd Holland
 -- 3vp in the final
 
 Deck Name: I'm Not Supposed To Be Here Today
-
 Crypt (12 cards, min=14 max=21 avg=4.5)
 ---------------------------------------
 4x Travis "Traveler72" Miller   5  def mar          Martyr:4

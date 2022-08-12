@@ -9,7 +9,6 @@ Charles Lechasseur
 -- Unknown
 
 Deck Name: All in Favor, Howl "Yea"
-
 Description:
 Here is my winning deck. This deck was built before Anarchs came out and I
 didn't have time to tweak it before the tournament. It doesn't have a lot

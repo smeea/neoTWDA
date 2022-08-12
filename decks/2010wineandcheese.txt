@@ -9,7 +9,6 @@ Henrik Klippström
 -- Unknown
 
 Deck Name: You have to kill it before it kills you!
-
 Description:
 No surprises. No funny bizniz. You have to kill it
 before it kills you.

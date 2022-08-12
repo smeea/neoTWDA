@@ -9,7 +9,6 @@ Matias Frosterus
 -- Unknown
 
 Deck Name: Mora AKA Princes Outsource Their Stealth
-
 Description:
 The idea is to be able to consistently bleed for
 four at three stealth and then I added the ridiculously good

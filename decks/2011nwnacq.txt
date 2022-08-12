@@ -9,7 +9,6 @@ Grayson Nootenboom
 -- Unknown
 
 Deck Name: Call of Denial
-
 Description:
 Group 2-3 Giovanni bleed/block denial
 (CotHD and Seduction). With Sudario Refraction for

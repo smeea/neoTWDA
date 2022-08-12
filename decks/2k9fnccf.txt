@@ -9,7 +9,7 @@ Pierre Tran-Van
 -- Unknown
 
 Deck Name: CF Caen 27 septembre 2009
-
+Author: Stone
 Description:
 deck de pinpin
 

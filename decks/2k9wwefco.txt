@@ -9,7 +9,6 @@ Cory Busch-Kendall
 -- Unknown
 
 Deck Name: Guns + CEL + THA
-
 Crypt (12 cards, min=26 max=40 avg=8.17)
 ----------------------------------------
 4x Lucas Halton         10  AUS CEL DOM THA qui   prince     Tremere:3

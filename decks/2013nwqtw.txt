@@ -9,7 +9,6 @@ Brian Moritz
 -- 3vp in the final
 
 Deck Name: Tzimisce Starvation
-
 Crypt (12 cards, min=19 max=35 avg=6.5)
 ---------------------------------------
 2x Caliban             6  ANI AUS VIC                      Tzimisce:2

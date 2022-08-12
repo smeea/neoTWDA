@@ -9,7 +9,6 @@ François Morand
 -- Unknown
 
 Deck Name: Chicken Eyes
-
 Crypt (12 cards, min=6 max=16 avg=2.92)
 ---------------------------------------
 1x Idalia, Prophet of Guadalajara    4  AUS dem          Malkavian antitribu:2

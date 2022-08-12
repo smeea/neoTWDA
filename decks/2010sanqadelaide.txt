@@ -9,7 +9,6 @@ Ivor Blockley
 -- 4vp in the final
 
 Deck Name: Achieving Parity
-
 Crypt (12 cards, min=32 max=44 avg=9.5)
 ---------------------------------------
 4x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2

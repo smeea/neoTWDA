@@ -9,7 +9,6 @@ Jay Kristoff
 -- Unknown
 
 Deck Name: The Pattie Melt
-
 Description:
 My version of my favorite John Pattie deck
 

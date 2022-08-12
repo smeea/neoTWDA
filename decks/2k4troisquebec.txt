@@ -9,7 +9,6 @@ Marc Desaulniers
 -- Unknown
 
 Deck Name: mALK_!mALK protean party
-
 Crypt (12 cards, min=25 max=40 avg=8.25)
 ----------------------------------------
 4x Rachel Brandywine   10  AUS DEM OBF PRO ani   prince       Malkavian:3

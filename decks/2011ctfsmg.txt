@@ -9,7 +9,6 @@ Matt Guinn
 -- 4vp in the final
 
 Deck Name: Return to Carthage
-
 Description:
 Won all three of its games. 3VP, 2.5VP, 4VP
 

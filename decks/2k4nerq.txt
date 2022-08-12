@@ -9,7 +9,6 @@ Jonathan Mason
 -- Unknown
 
 Deck Name: Semi-Responsible Bleed
-
 Description:
 the basic idea is somewhat responsible sneak and bleed with slightly
 more defense than an all out S&B deck might have, since they're all

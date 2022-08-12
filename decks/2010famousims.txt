@@ -9,7 +9,6 @@ Sergio Gracia
 -- 2gw8.5 + 1.5vp in the final
 
 Deck Name: NO taste NO vitae
-
 Crypt (12 cards, min=13 max=20 avg=4.08)
 ----------------------------------------
 2x Jennie "Cassie247" Orne        5  inn jud vis      Visionary:4

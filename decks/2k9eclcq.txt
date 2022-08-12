@@ -9,7 +9,6 @@ Pascal Bertrand
 -- Unknown
 
 Deck Name: LCQ 2009 Winner
-
 Crypt (12 cards, min=5 max=17 avg=2.75)
 ---------------------------------------
 2x Victoria         5  AUS cel obf      Malkavian:2

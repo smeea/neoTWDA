@@ -9,7 +9,6 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: Call me Julio
-
 Description:
 POT/DOM is always good. Let's add permanent rush, +strength,
 Nosferatu Kingdom and a bad attitude!

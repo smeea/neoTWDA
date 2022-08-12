@@ -9,7 +9,6 @@ Ivan Chebunin
 -- Unknown
 
 Deck Name: Vigilant Luc
-
 Description:
 Slow Darby-dance deck with some stealth.
 Luc is key minion. His stealth and card cycling ability are crucial.

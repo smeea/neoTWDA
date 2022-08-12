@@ -9,7 +9,6 @@ Marko Saari
 -- Unknown
 
 Deck Name: Don't tease a cat or dog or pull its tail or ears
-
 Description:
 block things & eat guns (Ahrimanes wall)
 

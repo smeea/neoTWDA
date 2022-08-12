@@ -9,7 +9,6 @@ Riccardo Fabiani
 -- Unknown
 
 Deck Name: Para Bailar la Bamba
-
 Description:
 A breed and vote deck with Bamba and Amaravati,
 taking advantage of a good laibon spread into the Assamite clan.

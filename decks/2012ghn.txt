@@ -9,7 +9,6 @@ Michael Bartsch
 -- Unknown
 
 Deck Name: Gehenna: Matata Wall
-
 Crypt (12 cards, min=21 max=36 avg=7.33)
 ----------------------------------------
 4x Matata           9  ABO ANI FOR aus cel obf            Akunanse:3

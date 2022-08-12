@@ -9,7 +9,6 @@ Danilo Torrisi
 -- Unknown
 
 Deck Name: tupdogs+nephandi
-
 Description:
 tupdogs+nephandi
 

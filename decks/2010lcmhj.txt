@@ -9,7 +9,6 @@ Gyula Erdõs
 -- 4vp in the final
 
 Deck Name: Owain Evens has You again
-
 Crypt (12 cards, min=16 max=30 avg=5.75)
 ----------------------------------------
 2x Owain Evans, The Wanderer   8  AUS DOM FOR cel pre            Ventrue antitribu:3

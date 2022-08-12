@@ -9,7 +9,6 @@ Daniel Boud
 -- Unknown
 
 Deck Name: Klaus but no cigar
-
 Description:
 Like most reactionary builds this deck is fairly slow moving. The idea
 is to get the tag-team combo of Venere and Klaus out, block key

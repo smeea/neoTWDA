@@ -9,7 +9,6 @@ Olivier Perez
 -- Unknown
 
 Deck Name: imbued_dreams3
-
 Crypt (12 cards, min=16 max=20 avg=4.58)
 ----------------------------------------
 4x Travis "Traveler72" Miller     5  def mar          Martyr:4

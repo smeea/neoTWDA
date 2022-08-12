@@ -9,7 +9,6 @@ Mirko Anconitani
 -- Unknown
 
 Deck Name: Nephandus's Club
-
 Description:
 very nasty deck with Nephandi and events.
 

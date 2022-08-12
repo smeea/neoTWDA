@@ -9,7 +9,6 @@ Robert Scythe
 -- Unknown
 
 Deck Name: Superior Presents
-
 Description:
 This deck is a weenie PRE bleeder. It ousted its first
 prey in 16 minutes, and the table was over by minute 36.

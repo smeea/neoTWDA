@@ -9,7 +9,6 @@ John Alston-Campbell
 -- Unknown
 
 Deck Name: Bleed Like Me, Responsibly
-
 Description:
 Not quite weenie OBF AUS DEM. Concept was to bleed for 2 or 3 each turn and
 avoid stealth jam but still have enough of it if need be; thus most of the

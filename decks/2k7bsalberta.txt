@@ -9,7 +9,6 @@ Michael Holmberg
 -- 2gw8 + 3vp in the final
 
 Deck Name: City of Champions
-
 Crypt (12 cards, min=13 max=19 avg=4.0)
 ---------------------------------------
 3x Jennie "Cassie247" Orne     5  inn jud vis      Visionary:4

@@ -9,7 +9,6 @@ Martin Schumacher
 -- Unknown
 
 Deck Name: Me Doctor, you Patient ver. 2.0
-
 Description:
 duh!
 

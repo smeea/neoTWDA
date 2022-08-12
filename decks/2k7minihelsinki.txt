@@ -9,7 +9,6 @@ Otso Turunen
 -- Unknown
 
 Deck Name: Donate!
-
 Crypt (12 cards, min=16 max=24 avg=5.0)
 ---------------------------------------
 3x Earl "Shaka74" Deams         6  jud mar vis      Visionary:4

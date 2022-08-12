@@ -9,7 +9,6 @@ Mike Perlman
 -- Unknown
 
 Deck Name: Law Firm says "Get off my lawn!" II
-
 Description:
 This is a minimally tweaked version of a Millenium Cultist Storyline Tournament Winning Deck.
 One game win 3VP to get into finals, one game win 3VP in final.

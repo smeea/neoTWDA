@@ -9,7 +9,6 @@ Henrik Tegman
 -- Unknown
 
 Deck Name: smooth ride
-
 Crypt (12 cards, min=18 max=28 avg=5.67)
 ----------------------------------------
 2x Jost Werner                   6  AUS PRE ani                    Toreador antitribu:2

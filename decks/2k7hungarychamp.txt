@@ -9,7 +9,6 @@ Jozsef Kuminka
 -- Unknown
 
 Deck Name: Netdecking Rulez
-
 Crypt (12 cards, min=12 max=43 avg=7.42)
 ----------------------------------------
 3x Alexandra                     11  ANI AUS CEL PRE dom       inner circle   Toreador:2

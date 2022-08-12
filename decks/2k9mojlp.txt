@@ -9,7 +9,6 @@ Teresa Neves
 -- Unknown
 
 Deck Name: Classic Giovanni Tap and Bleed
-
 Description:
 Classic design block denial bleed deck. From the times of
 Luis Duarte up until today, little changed. Completely ignored combat.

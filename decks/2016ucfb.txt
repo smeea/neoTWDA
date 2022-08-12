@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8523
 -- 2gw6 + 4vp in the final
 
 Deck Name: War Ghoul
-
 Crypt (12 cards, min=20 max=36 avg=7.33)
 ----------------------------------------
 4x Little Tailor of Prague               8  ANI AUS VIC dem                        Tzimisce:2

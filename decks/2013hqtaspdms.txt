@@ -9,7 +9,6 @@ Moisés Ferrer Gallegos
 -- 5vp in the final
 
 Deck Name: Toreador! Palla Grande
-
 Crypt (12 cards, min=16 max=26 avg=5.5)
 ---------------------------------------
 3x Jost Werner                   6  AUS PRE ani                Toreador antitribu:2

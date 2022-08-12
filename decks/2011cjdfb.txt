@@ -9,6 +9,7 @@ Kleber Souza
 -- 3vp in the final
 
 Deck Name: Honors Ashur Tablets
+Author: Pedro Paulo de Sousa Mendes
 
 Crypt (14 cards, min=33 max=44 avg=9.71)
 ----------------------------------------

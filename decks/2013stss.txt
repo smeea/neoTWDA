@@ -9,7 +9,6 @@ Christofer Lindholm
 -- 4vp in the final
 
 Deck Name: Christofers Kindred Spirits
-
 Crypt (12 cards, min=11 max=26 avg=4.92)
 ----------------------------------------
 2x Korah                    7  AUS DEM OBF ani       priscus   Malkavian antitribu:2

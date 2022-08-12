@@ -9,7 +9,6 @@ Matt Leahy
 -- Unknown
 
 Deck Name: Corruption Part 2
-
 Crypt (13 cards, min=10 max=26 avg=4.23)
 ----------------------------------------
 3x Nepata                 4  obf pre ser                  Ministry:2

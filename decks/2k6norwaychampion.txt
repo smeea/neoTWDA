@@ -9,7 +9,6 @@ Hugo S. Skarsten Larsen
 -- Unknown
 
 Deck Name: Tupdog / Weenie horde
-
 Crypt (17 cards, min=4 max=15 avg=2.18)
 ---------------------------------------
 8x Tupdog              1  POT VIS              Gargoyle:3

@@ -9,7 +9,6 @@ Matti Palomäki
 -- Unknown
 
 Deck Name: Hannibal X
-
 Description:
 Deranges for lockdown and title removal. Enkil Cog to get
 three actions out of Hannibal once around the table.

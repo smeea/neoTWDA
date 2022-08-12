@@ -9,7 +9,6 @@ Aaron Clark
 -- Unknown
 
 Deck Name: Tremere 1.5
-
 Description:
 I gave the deck that name because it earned me 1.5VP
 in each game I played in the tournament. Apparently that is good

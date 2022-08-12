@@ -9,7 +9,6 @@ Rob Treasure
 -- Unknown
 
 Deck Name: The Master's Voice (AKA The Turd returns).
-
 Crypt (12 cards, min=32 max=44 avg=9.67)
 ----------------------------------------
 4x Alexandra   11  ANI AUS CEL PRE dom   inner circle   Toreador:2

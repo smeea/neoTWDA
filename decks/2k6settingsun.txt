@@ -9,7 +9,6 @@ Magnus Hultin
 -- Unknown
 
 Deck Name: Antimalk
-
 Crypt (12 cards, min=15 max=28 avg=5.33)
 ----------------------------------------
 2x Marie Faucigny          7  AUS OBF dem tha   archbishop   Malkavian antitribu:3

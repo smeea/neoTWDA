@@ -9,7 +9,6 @@ Tomàs López Jiménez
 -- Unknown
 
 Deck Name: Turbo Nergal
-
 Description:
 Original idea: Acbishop
 Nergal Bleed, Nergal call the Great Beast, Nergal

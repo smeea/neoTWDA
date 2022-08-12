@@ -9,7 +9,6 @@ Marcus Simoni
 -- 3vp in the final
 
 Deck Name: Void Speed Shambling
-
 Crypt (12 cards, min=12 max=23 avg=4.25)
 ----------------------------------------
 2x Le Dinh Tho           5  NEC aus dom          Nagaraja:2

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8638
 -- 1.5vp in the final
 
 Deck Name: Corey vs Monsters
-
 Crypt (12 cards, min=14 max=18 avg=4.0)
 ---------------------------------------
 3x John "Cop90" O'Malley       4  jud ven          Avenger:4

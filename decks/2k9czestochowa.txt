@@ -9,7 +9,6 @@ Tomasz Pietkiewicz
 -- Unknown
 
 Deck Name: Guillaume Powerbleed
-
 Description:
 This is a modified version of a deck designed by Erik
 Torstensson. Martinelli's Ring was a metagame choice (it appeared I

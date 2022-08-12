@@ -9,7 +9,6 @@ Bill Troxel
 -- 4vp in the final
 
 Deck Name: Pure Nos '94
-
 Description:
 All Jyhad-backed, crypt and library, weenie Nos cheesy breed/boon with lots of stealth.
 

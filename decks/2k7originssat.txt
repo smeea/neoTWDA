@@ -9,7 +9,6 @@ Ben Peal
 -- Unknown
 
 Deck Name: Angellore
-
 Description:
 This is yet another breed boon deck from me, inspired by a similar deck by
 Wes Weston. You've got Bastille Opera House and Conductor to pass Con

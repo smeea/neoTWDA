@@ -9,6 +9,7 @@ https://www.vekn.net/event-calendar/event/8984
 -- 1gw5 + 4vp in the final
 
 Deck Name: Nana superstar
+Author: Ole Andreas Gresholt (Based on Orian Gissler's French NC 2018 deck)
 
 Crypt (12 cards, min=4 max=29 avg=4.08)
 ---------------------------------------

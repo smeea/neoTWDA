@@ -9,7 +9,7 @@ Marc-Etienne Beinio
 -- 3vp in the final
 
 Deck Name: Meow Bang Bang
-
+Author: M@rc00_L
 Description:
 G1/2 Cel-Gun Low Caps
 

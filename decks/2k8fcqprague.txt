@@ -9,7 +9,6 @@ Isak Esbjörnsson Bjärmark
 -- 3vp in the final
 
 Deck Name: Sudario Hordes
-
 Crypt (12 cards, min=12 max=20 avg=3.83)
 ----------------------------------------
 3x Isabel Giovanni       5  DOM NEC pot      Giovanni:2

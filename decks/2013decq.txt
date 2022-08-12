@@ -9,7 +9,6 @@ Hugh Angseesing
 -- 4vp in the final
 
 Deck Name: Sennadurek - and friends v3
-
 Crypt (13 cards, min=21 max=26 avg=5.92)
 ----------------------------------------
 5x Sennadurek                  6  AUS NEC dom                  Nagaraja:4

@@ -9,7 +9,6 @@ Brad Cashdollar
 -- Unknown
 
 Deck Name: James "The Knife" Angry Dragon
-
 Description:
 Baali vote/bloat/bleed goodness
 

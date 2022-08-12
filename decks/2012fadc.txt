@@ -9,7 +9,6 @@ Kevin Mergen
 -- Unknown
 
 Deck Name: Cryptic Moon v3.2
-
 Description:
 Get out as many guys as you can, Vessel off,
 Cryptic lockdown, get cool allies, bleed + deflect.

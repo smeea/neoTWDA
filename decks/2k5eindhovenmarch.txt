@@ -9,7 +9,6 @@ Peter Bouwman
 -- Unknown
 
 Deck Name: I never thought of a name for the deck
-
 Crypt (12 cards, min=23 max=34 avg=7.08)
 ----------------------------------------
 3x Greta Kircher       7  AUS CEL PRE obf                    Toreador antitribu:2

@@ -9,7 +9,6 @@ Matt Green
 -- 3vp in the final
 
 Deck Name: Snakes with a Chain (v3.1)
-
 Crypt (12 cards, min=16 max=39 avg=7.08)
 ----------------------------------------
 3x Nefertiti                  10  DOM OBF PRE SER cel pot            Ministry:2

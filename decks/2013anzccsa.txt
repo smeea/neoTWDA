@@ -9,7 +9,6 @@ Peter Rophail
 -- Unknown
 
 Deck Name: The Quiet Achiever 2013
-
 Description:
 A 2013 incarnation of the deck I used to
 win the 2005 Australian Championships. This deck never

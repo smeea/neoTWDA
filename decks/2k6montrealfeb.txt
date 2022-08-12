@@ -9,7 +9,6 @@ Yann Arseneault
 -- Unknown
 
 Deck Name: Henry Taylor Twister
-
 Description:
 Version personnelle avec mes cartes disponibles
 (Personal version with the cards i have)

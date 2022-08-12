@@ -9,7 +9,6 @@ Ivor Blockley
 -- 3vp in the final
 
 Deck Name: VP_Prophecy
-
 Crypt (12 cards, min=20 max=32 avg=6.42)
 ----------------------------------------
 5x Al-Muntathir, God's Witness   8  AUS FOR PRE TEM obf qui      True Brujah:5

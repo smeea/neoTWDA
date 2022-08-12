@@ -9,7 +9,6 @@ Eetu Rautiainen
 -- 3vp in the final
 
 Deck Name: Amaravati
-
 Crypt (12 cards, min=10 max=32 avg=5.58)
 ----------------------------------------
 4x Amaravati         8  DOM OBF QUI ani chi          Banu Haqim:4

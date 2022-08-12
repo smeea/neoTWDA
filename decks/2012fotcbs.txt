@@ -9,7 +9,6 @@ Vedran Simunec
 -- 4vp in the final
 
 Deck Name: Dem bleed 2
-
 Description:
 Standard DEM s&b.
 

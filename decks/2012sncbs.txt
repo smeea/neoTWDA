@@ -9,7 +9,6 @@ Milos Krstic
 -- I had 2GWs/8VP pre-finals, 2GWs/10VP total
 
 Deck Name: White Wedding
-
 Description:
 This deck,even tho it looks like standard spirit
 marionette hijacker,is in fact stealth & bleed deck that uses

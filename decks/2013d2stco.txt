@@ -9,7 +9,6 @@ Tiago Brum
 -- Unknown
 
 Deck Name: Better Gents, Same Sticks, In America
-
 Description:
 Same as my E2012 Day2 deck, with two more cards
 

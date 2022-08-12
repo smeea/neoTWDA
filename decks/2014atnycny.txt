@@ -9,7 +9,6 @@ Adam Hulse
 -- Unknown
 
 Deck Name: Rule of Four
-
 Description:
 An AUS CEL PRE "four-card limit" deck (Obviously the name of the deck
 ruins the surprise). While that may be considering limiting, I liked that the deck

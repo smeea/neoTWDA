@@ -9,7 +9,6 @@ Mike Ooi
 -- Unknown
 
 Deck Name: !Gangrel Read & Bleed [SL]
-
 Description:
 PRO - DOM - AUS - ANI. Bleed, and when blocked, read your
 prey's hand to know whether or not to Form of Mist. Qualified in

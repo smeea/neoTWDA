@@ -9,7 +9,6 @@ http://web.archive.org/web/20030118091821fw_/http://www.oricom.ca/melkor/vekn_qu
 -- Unknown
 
 Deck Name: GAGNER SANS DOMINATE NI PRESENCE (Montreal version)
-
 Description:
 This is the winning deck of Hugues Bertrand for the tournament Theo Bell
 Invitational, held in Montreal on September 8, 2001.  It's a new version of the deck he

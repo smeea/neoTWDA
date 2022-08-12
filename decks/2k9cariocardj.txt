@@ -9,7 +9,6 @@ Rafael Ramos
 -- Unknown
 
 Deck Name: Tup Dog
-
 Crypt (28 cards, min=4 max=14 avg=1.57)
 ---------------------------------------
 21x Tupdog         1  POT VIS          Gargoyle:3

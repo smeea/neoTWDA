@@ -9,7 +9,6 @@ Marc Desaulniers
 -- Unknown
 
 Deck Name: Serial Mind Rapists
-
 Crypt (12 cards, min=13 max=40 avg=7.25)
 ----------------------------------------
 4x Nefertiti                            10  DOM OBF PRE SER cel pot             Ministry:2

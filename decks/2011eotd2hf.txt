@@ -9,7 +9,6 @@ Heikki Palomäki
 -- Unknown
 
 Deck Name: Unbreakable
-
 Crypt (12 cards, min=27 max=40 avg=8.58)
 ----------------------------------------
 4x Gabrielle di Righetti   10  ANI AUS DOM THA obf pot   justicar   Tremere:5

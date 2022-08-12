@@ -9,7 +9,6 @@ Martin Collins
 -- Unknown
 
 Deck Name: No Secrets from the Osebo
-
 Crypt (12 cards, min=19 max=40 avg=7.25)
 ----------------------------------------
 2x Cesewayo         10  AUS CEL DOM POT THA ani   magaji   Osebo:4

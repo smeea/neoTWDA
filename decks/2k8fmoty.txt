@@ -9,7 +9,6 @@ Esa-Matti Smolander
 -- Unknown
 
 Deck Name: Tremere/!Tremere toolbox
-
 Crypt (12 cards, min=20 max=36 avg=7.08)
 ----------------------------------------
 1x Lucas Halton                        10  AUS CEL DOM THA qui       prince     Tremere:3

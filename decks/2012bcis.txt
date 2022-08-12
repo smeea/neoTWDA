@@ -9,7 +9,6 @@ Hugh Angseesing
 -- 4vp in the final
 
 Deck Name: Dmitri's Eyes
-
 Description:
 Deck from Hugh Angseesing and Isak Esbjörnsson Bjärmark
 Used in FCQ @ Origins reached finals with 2GW7 and 1VP in final.

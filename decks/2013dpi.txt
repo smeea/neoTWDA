@@ -9,7 +9,6 @@ Giulio De Cicco
 -- Unknown
 
 Deck Name: We hare not the "Winx"
-
 Crypt (12 cards, min=22 max=32 avg=6.75)
 ----------------------------------------
 3x Arcadian, The             8  DOM MYT OBT chi for             Kiasyd:5

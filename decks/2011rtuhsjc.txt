@@ -9,7 +9,6 @@ Eric Haas
 -- Unknown
 
 Deck Name: Superstar at the Gay Bar
-
 Crypt (12 cards, min=15 max=20 avg=4.25)
 ----------------------------------------
 3x Travis "Traveler72" Miller     5  def mar          Martyr:4

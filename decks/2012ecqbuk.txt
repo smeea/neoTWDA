@@ -9,7 +9,6 @@ Hugh Angseesing
 -- 0.5vp in the final
 
 Deck Name: Pandering to Anson
-
 Description:
 loosely based on the Toreador master gun decks flying about
 but now using improved Panders

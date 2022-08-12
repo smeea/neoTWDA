@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: Break Stuff
-
 Description:
 Notes:
 Only pool gain in for this deck is 6 going forward; going backward is

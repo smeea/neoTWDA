@@ -9,7 +9,6 @@ Gianluca Scala
 -- Unknown
 
 Deck Name: Team Leandro
-
 Crypt (12 cards, min=39 max=44 avg=10.5)
 ----------------------------------------
 4x Leandro            11  AUS OBF PRE cel dom       inner circle   Malkavian:2

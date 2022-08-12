@@ -9,7 +9,6 @@ Marco Vassallo
 -- Unknown
 
 Deck Name: Ruba vampiri
-
 Crypt (12 cards, min=10 max=44 avg=6.83)
 ----------------------------------------
 4x Leandro            11  AUS OBF PRE cel dom   inner circle   Malkavian:2

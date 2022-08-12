@@ -9,7 +9,6 @@ Norbert Broda
 -- 4vp in the final
 
 Deck Name: Matata-Fakir
-
 Crypt (12 cards, min=18 max=40 avg=7.33)
 ----------------------------------------
 3x Matata            9  ABO ANI FOR aus cel obf            Akunanse:3

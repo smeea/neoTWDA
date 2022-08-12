@@ -9,7 +9,6 @@ Jonathan Scherer
 -- Unknown
 
 Deck Name: Gangrel
-
 Crypt (12 cards, min=13 max=36 avg=6.08)
 ----------------------------------------
 4x Ingrid Rossler                9  ANI FOR PRO dom   prince   Gangrel:2

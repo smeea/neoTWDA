@@ -9,7 +9,6 @@ François Nadeau-Labrecque
 -- Unknown
 
 Deck Name: Lazveristar
-
 Description:
 Based on the deck by Ben Swainbank, Laz-man standing.
 Ignazio helped me get 1GW, 3VP in the first round but never showed

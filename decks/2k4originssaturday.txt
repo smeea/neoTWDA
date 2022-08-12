@@ -9,7 +9,6 @@ Ben Peal
 -- Unknown
 
 Deck Name: The Thugginator
-
 Description:
 Aus-Obf weenies, some of which start off as Black Hand
 and some of which use Blooding to become so, getting out a few

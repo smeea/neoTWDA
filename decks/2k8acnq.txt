@@ -9,6 +9,7 @@ Brett Tassell
 -- Unknown
 
 Deck Name: !Toreador Wall
+Author: Roger Atkins and Brett Tassell
 
 Crypt (12 cards, min=20 max=34 avg=6.67)
 ----------------------------------------

@@ -9,7 +9,6 @@ Colin McGuigan
 -- Unknown
 
 Deck Name: Dangerously Cheesy
-
 Description:
 Weenies seize Praxis and call damaging votes. Hilarity ensues.
 

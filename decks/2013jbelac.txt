@@ -9,7 +9,6 @@ Brandon Haas
 -- 5vp in the final
 
 Deck Name: Budget Stanislava
-
 Description:
 Inspired by old school Gangrel bleed decks, tailored for the
 LA environment. Great way to bleed for 8 on a budget. 5VP in

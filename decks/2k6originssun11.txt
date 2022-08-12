@@ -9,7 +9,6 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: Akunanse bleed and block v2
-
 Description:
 Bleed forward and block backward. No Secrets From the
 Magaji and Guardian Angel (or a gun of some sort) will stop many decks

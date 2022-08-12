@@ -9,7 +9,6 @@ Lasse Pöyry
 -- Unknown
 
 Deck Name: Lasombra capitalists
-
 Description:
 Trying to bleed without spending all the blood from
 my vampires. It is good to be blocked every now and then so you

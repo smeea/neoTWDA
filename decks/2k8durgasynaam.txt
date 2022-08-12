@@ -9,7 +9,6 @@ David Wilson
 -- Unknown
 
 Deck Name: Gabrin is so Real man.
-
 Crypt (12 cards, min=16 max=30 avg=5.75)
 ----------------------------------------
 3x Gabrin                  8  ANI CHI dom for      Ravnos:2

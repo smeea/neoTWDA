@@ -9,7 +9,6 @@ Anthony Coleman
 -- 4vp in the final
 
 Deck Name: Bridges, Coleman & Nash
-
 Crypt (12 cards, min=15 max=31 avg=5.83)
 ----------------------------------------
 3x Emerson Bridges                   8  DOM FOR PRE pot   prince   Ventrue:1

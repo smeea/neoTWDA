@@ -9,7 +9,6 @@ Emanuele Sinagra
 -- Unknown
 
 Deck Name: Allies Parties
-
 Description:
 A fast Tzimisce allies deck.
 

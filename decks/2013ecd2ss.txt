@@ -9,7 +9,6 @@ Hugh Angseesing
 -- 3GW9 -- 2VP
 
 Deck Name: Better Gents with Sticks
-
 Crypt (12 cards, min=18 max=31 avg=6.08)
 ----------------------------------------
 3x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro   prince     Ventrue:5

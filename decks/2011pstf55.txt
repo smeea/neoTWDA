@@ -9,7 +9,6 @@ Otso Saariluoma
 -- Unknown
 
 Deck Name: Anger Management
-
 Description:
 Osebo intercept/combat with Andre added as an opportunistic
 ousting mechanism. In order to get GWs, this deck needs

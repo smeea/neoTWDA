@@ -9,7 +9,6 @@ Sebastian Fredenberg
 -- Unknown
 
 Deck Name: Cats and Dogs...and Mages
-
 Crypt (19 cards, min=4 max=19 avg=2.11)
 ---------------------------------------
 12x Tupdog              1  POT VIS              Gargoyle:3

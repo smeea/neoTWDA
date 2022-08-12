@@ -9,7 +9,6 @@ Martin Schumacher
 -- 3vp in the final
 
 Deck Name: Wax on, Wax off
-
 Crypt (12 cards, min=27 max=36 avg=7.92)
 ----------------------------------------
 4x Nana Buruku          8  ANI POT PRE                        Guruhi:4

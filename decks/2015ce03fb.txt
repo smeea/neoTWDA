@@ -8,6 +8,8 @@ https://www.vekn.net/event-calendar/event/8103
 
 -- 3vp in the final
 
+Author: Mailton Silva
+
 Crypt (12 cards, min=4 max=26 avg=3.67)
 ---------------------------------------
 4x Anarch Convert       1                   Caitiff:ANY

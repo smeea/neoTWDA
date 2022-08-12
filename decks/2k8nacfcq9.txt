@@ -9,7 +9,7 @@ Christian Chénard
 -- Unknown
 
 Deck Name: Striking at the Vitals
-
+Author: Christian Chénard with some wise advice from Samuel Guilbault
 Description:
 Imbued deck using Target Vitals. Nothing fancy but
 effective like we know.

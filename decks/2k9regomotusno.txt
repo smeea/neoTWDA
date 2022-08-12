@@ -9,7 +9,6 @@ Rodd Closson
 -- Unknown
 
 Deck Name: Law and Order
-
 Description:
 New group Ventrue featuring Mary Anne Blaire and her
 associates. Basic idea is to keep to yourself while using Mary Anne

@@ -9,7 +9,6 @@ Teemu Sainomaa
 -- Unknown
 
 Deck Name: Masters of the Grand Ball vol 2.0
-
 Description:
 Don't get blocked and block key actions.
 

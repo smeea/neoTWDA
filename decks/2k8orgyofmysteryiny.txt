@@ -9,7 +9,6 @@ James Rodriguez
 -- 5vp in the final
 
 Deck Name: "Your tongues can't repel flavor of that magnitude!"
-
 Crypt (12 cards, min=4 max=25 avg=3.5)
 --------------------------------------
 4x Anarch Convert       1                           Caitiff:ANY

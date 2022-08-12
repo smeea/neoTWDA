@@ -9,7 +9,7 @@ Sebastian Meurer
 -- Unknown
 
 Deck Name: Les grandes dames des vicissitudes
-
+Author: Sebastian Meurer, minor changes by Erol who played it on EC Day2
 Description:
 Very good vampires, cheap but effective combat module, good
 defense. If buildup works rather strong, else the ousting power can be

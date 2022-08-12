@@ -9,7 +9,6 @@ Noel Giménez Infante
 -- GW3 + GW3 + 2 + 0.5VP in final
 
 Deck Name: El secreto debe mantenerse
-
 Crypt (12 cards, min=22 max=35 avg=7.25)
 ----------------------------------------
 3x Umdava           9  ABO ANI FOR PRE vic   magaji   Akunanse:4

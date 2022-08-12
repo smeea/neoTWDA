@@ -9,7 +9,7 @@ Krzysztof Szwed
 -- Unknown
 
 Deck Name: Ravnos LCQ by Ferenc Vasadi
-
+Author: Krzysztof Szwed based on deck designed by Ferenc Vasadi
 Description:
 I played this deck for six months. During that time
 I have been trying to improve it, but there is no need to do so.

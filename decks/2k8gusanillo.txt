@@ -9,7 +9,6 @@ Noel Giménez Infante
 -- 3vp in the final
 
 Deck Name: Si te paro te vas al hoyo
-
 Crypt (12 cards, min=10 max=30 avg=5.17)
 ----------------------------------------
 2x Sascha Vykos, The Angel of Caine   8  AUS THA VIC ani dom   priscus   Tzimisce:2

@@ -9,7 +9,6 @@ David Litwin
 -- 5vp in the final
 
 Deck Name: All of a Sudden
-
 Description:
 After getting obliterated in the first tournament by
 voting decks I broke out one of mine I had been trying on JOL with

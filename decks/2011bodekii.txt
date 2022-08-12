@@ -9,7 +9,6 @@ Marcin Szybkowski
 -- Unknown
 
 Deck Name: Mummies
-
 Description:
 Lay low and do your stuff most of the time, recruit a few allies
 to defend, put 5 spells in play and profit.

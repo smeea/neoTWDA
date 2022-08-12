@@ -9,7 +9,6 @@ Antero Leppänen
 -- 2GW6 (2nd seed) + 2VP in final
 
 Deck Name: The Birds
-
 Description:
 ANI/pro intercept/combat
 I quite much copied Peter D. Bakija's "Bats With Birds In Their Mouths"

@@ -9,7 +9,6 @@ Maciej Kozlowski
 -- 3vp in the final
 
 Deck Name: Owain's Grindhouse
-
 Description:
 This deck was based on Mathieu Rivero's TWD, limited by my access to cards
 (one more copy of the HoN should really be here) and slightly optimised

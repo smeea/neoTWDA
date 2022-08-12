@@ -9,7 +9,6 @@ Dávid Wittmann
 -- 2.5vp in the final
 
 Deck Name: Uta & Ash coop
-
 Crypt (12 cards, min=16 max=31 avg=5.92)
 ----------------------------------------
 3x Uta Kovacs     8  AUS DOM THA ser            Tremere antitribu:4

@@ -9,7 +9,6 @@ Aleksander Idziak
 -- Unknown
 
 Deck Name: Kiasyd - Earth Swords v 2.0
-
 Crypt (12 cards, min=18 max=30 avg=6.08)
 ----------------------------------------
 3x Isanwayen                 6  DOM MYT OBT                     Kiasyd:4

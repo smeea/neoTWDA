@@ -9,7 +9,7 @@ Roberto Venturi
 -- Unknown
 
 Deck Name: Khazar Diary
-
+Author: Axel Zaminga
 Description:
 anarch/allies/khazar diary deck
 

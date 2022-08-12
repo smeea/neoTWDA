@@ -9,7 +9,6 @@ Jeffrey Thompson
 -- 3vp in the final
 
 Deck Name: I am I
-
 Description:
 1st round, sweep, 4VP
 2nd round, tied, 2VP / 2vp with prey

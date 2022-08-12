@@ -9,7 +9,6 @@ Heikki Palomäki
 -- Unknown
 
 Deck Name: Marble cake
-
 Crypt (12 cards, min=6 max=16 avg=2.5)
 --------------------------------------
 1x Agrippina            4  OBF pot          Nosferatu:1

@@ -9,7 +9,6 @@ Leslie Tatel
 -- 3vp in the final
 
 Deck Name: Death comes (at) every turn
-
 Crypt (12 cards, min=28 max=32 avg=7.33)
 ----------------------------------------
 4x Dónal O'Connor                      8  CEL DOM POT           prince   Brujah:2

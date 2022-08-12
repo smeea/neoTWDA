@@ -9,7 +9,6 @@ Robert Goudie
 -- Unknown
 
 Deck Name: Nike Cult
-
 Description:
 The cool trick of the deck is to use the play of a Heaven's Gate
 to reset the Trap counters and continue the combat (the minions

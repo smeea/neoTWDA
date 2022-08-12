@@ -9,7 +9,6 @@ Louis Gourdin
 -- 4vp in the final
 
 Deck Name: Lasombra S&B
-
 Crypt (12 cards, min=17 max=26 avg=5.33)
 ----------------------------------------
 2x Onaedo                  6  DOM OBT aus pot            Lasombra:4

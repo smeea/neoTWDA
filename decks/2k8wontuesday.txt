@@ -9,7 +9,7 @@ Hugh Angseesing
 -- 3vp in the final
 
 Deck Name: Canadian Mafiaoso
-
+Author: Hugh Angseesing & Ze Germans
 Description:
 Generally pretty strong - doesn't like too much
 combat (lost 3 Nephandus in the final to crows).

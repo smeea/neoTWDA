@@ -9,7 +9,6 @@ Ethan Burrow
 -- Unknown
 
 Deck Name: Jost's Surprise
-
 Description:
 !Toreador power stealth bleed.
 

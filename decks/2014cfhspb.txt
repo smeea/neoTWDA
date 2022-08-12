@@ -9,7 +9,6 @@ Roberto Mautone Junior
 -- Unknown
 
 Deck Name: Zoologico 3 a Missão
-
 Crypt (13 cards, min=17 max=30 avg=5.62)
 ----------------------------------------
 2x Nana Buruku          8  ANI POT PRE                Guruhi:4

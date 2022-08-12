@@ -9,7 +9,6 @@ Tim Smith
 -- Unknown
 
 Deck Name: The Bleeding Vignes
-
 Description:
 A very slightly tweaked version of Ruben Feldman's original "The Bleeding
 Vignes" deck. Added Owain Evans for increased table talk, bargaining power

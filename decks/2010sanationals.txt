@@ -9,7 +9,6 @@ Daniel Boud
 -- 5vp in the final
 
 Deck Name: A Little Magic
-
 Description:
 This deck, like most weenie decks, is a numbers game. Keep churning
 out the vamps and chip away at your prey's pool.

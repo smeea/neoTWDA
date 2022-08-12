@@ -9,7 +9,6 @@ Jon Darbro
 -- 3vp in the final
 
 Deck Name: "I Have to Get This Cheese to Washington Immediately!"
-
 Description:
 Whittle down prey's vampires with Cryptic Missions, then bleed them out.
 Step 5: profit!

@@ -9,7 +9,6 @@ Claudio Gomes
 -- Unknown
 
 Deck Name: Monkey bashers
-
 Crypt (12 cards, min=4 max=26 avg=3.67)
 ---------------------------------------
 3x Anarch Convert                    1                       Caitiff:ANY

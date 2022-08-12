@@ -9,7 +9,7 @@ Goran Ivanovic
 -- Unknown
 
 Deck Name: Out of Africa
-
+Author: Milos Krstic
 Description:
 Standard Fakir/Matata deck with a lot of wakes.
 

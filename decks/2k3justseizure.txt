@@ -9,7 +9,6 @@ Jason Bell
 -- Unknown
 
 Deck Name: The Littlest Giant
-
 Description:
 Gangrel Bleed with FoM and Earth Control
 

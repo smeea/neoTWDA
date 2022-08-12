@@ -9,7 +9,6 @@ David Tatu
 -- Unknown
 
 Deck Name: Maris Streck - Prince with Animalism version
-
 Crypt (12 cards, min=26 max=37 avg=8.17)
 ----------------------------------------
 5x Maris Streck            9  AUS OBF ani dem dom   justicar   Malkavian:3

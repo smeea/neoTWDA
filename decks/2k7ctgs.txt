@@ -9,6 +9,7 @@ Martin Anderdahl
 -- Unknown
 
 Deck Name: Jaroslav Goes EuroTechno
+Author: Martin Anderdahl and Christoffer Arvidsson
 
 Crypt (12 cards, min=20 max=38 avg=7.42)
 ----------------------------------------

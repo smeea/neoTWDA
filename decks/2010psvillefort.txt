@@ -9,7 +9,6 @@ Patrick Benoit
 -- Unknown
 
 Deck Name: X.Y.U
-
 Description:
 Inspired from Council of Doom by "swiss academy" and Girls by Erik
 Torstensson. This is a slow deck, but very powerful in the end game.

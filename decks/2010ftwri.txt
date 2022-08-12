@@ -9,7 +9,6 @@ Jesse Cross-Nickerson
 -- 3vp in the final
 
 Deck Name: Facebook Stalker
-
 Description:
 A fairly self-explanatory crypt. My primary concern was to get POT on everybody
 so that they can fling superior gates. Calebros is the one exception, but he is

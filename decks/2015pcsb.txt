@@ -9,7 +9,6 @@ Bruno Patrício Silva Pontes
 -- 4vp in the final
 
 Deck Name: Giovanni Shambling Hordes
-
 Crypt (12 cards, min=13 max=32 avg=5.92)
 ----------------------------------------
 3x Andrea Giovanni     7  DOM NEC pot vic          Giovanni:2

@@ -9,7 +9,6 @@ Yannick Gibert
 -- Unknown
 
 Deck Name: Anarchs & Dragons 4
-
 Crypt (12 cards, min=4 max=13 avg=1.92)
 ---------------------------------------
 6x Anarch Convert    1                   Caitiff:ANY

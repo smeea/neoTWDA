@@ -9,7 +9,6 @@ David Baker
 -- Unknown
 
 Deck Name: my mind still numb
-
 Crypt (12 cards, min=6 max=16 avg=2.75)
 ---------------------------------------
 1x Jazz Wentworth                      5  PRE dom for      Ventrue:1

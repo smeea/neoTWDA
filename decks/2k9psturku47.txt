@@ -9,7 +9,6 @@ Ville Ruuskanen
 -- Unknown
 
 Deck Name: No Alchemy
-
 Description:
 Really simple Tremere Anathema deck, no alchemy needed...
 

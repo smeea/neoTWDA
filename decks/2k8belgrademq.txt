@@ -9,7 +9,6 @@ Djordje Sutic
 -- Unknown
 
 Deck Name: Omnipresent !Gangrel
-
 Crypt (12 cards, min=18 max=36 avg=7.5)
 ---------------------------------------
 4x Aksinya Daclau    9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4

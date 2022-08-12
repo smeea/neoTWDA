@@ -9,6 +9,7 @@ Sebestyén Balázs
 -- Unknown
 
 Deck Name: Gangrel Wall 1.1
+Author: Jovan Pavlovic
 
 Crypt (12 cards, min=20 max=32 avg=6.33)
 ----------------------------------------

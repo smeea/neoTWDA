@@ -9,7 +9,6 @@ Randal Rudstam
 -- Unknown
 
 Deck Name: The hot pot
-
 Description:
 This deck is a a remake of a deck that Ivan Marin-Rivas runs in Stockholm.
 I was a few cards short so I decided to add the Ashurs angle to it.

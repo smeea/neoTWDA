@@ -9,7 +9,6 @@ Sebestyén Balázs
 -- Unknown
 
 Deck Name: Weenie Auspex Anarch
-
 Crypt (17 cards, min=4 max=16 avg=2.24)
 ---------------------------------------
 5x Anarch Convert                    1                   Caitiff:ANY

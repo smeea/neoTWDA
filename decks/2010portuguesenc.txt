@@ -9,7 +9,6 @@ Eliseu Ângelo
 -- Unknown
 
 Deck Name: Lisboa Palace Hotel
-
 Crypt (12 cards, min=18 max=36 avg=6.92)
 ----------------------------------------
 5x Guillaume Giovanni   9  CEL DOM NEC POT obt      Giovanni:4

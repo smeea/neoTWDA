@@ -9,7 +9,6 @@ Dennis Lien
 -- Unknown
 
 Deck Name: Extremely Silent and Incredibly Far Away
-
 Description:
 This is a modification of an old deck idea where I tried to have
 Tariq "atone" and block everything. This version is much more

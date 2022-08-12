@@ -9,7 +9,7 @@ Yannick Gibert
 -- Unknown
 
 Deck Name: AC....célération...
-
+Author: Patrick Benoit & Yannick Gibert
 Description:
 Thinking about changing bewitch oration to Perfect Paragon.
 

@@ -9,7 +9,6 @@ Devin Villegas
 -- Unknown
 
 Deck Name: Crazy Weenie Bloat
-
 Description:
 Inspiration for the deck comes from Oscar Garza. We figured
 out the card list for this deck on paper before I touched a single card.

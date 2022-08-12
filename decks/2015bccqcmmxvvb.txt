@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8158
 -- 4vp in the final
 
 Deck Name: Wand's Brothers v2
-
 Crypt (12 cards, min=13 max=25 avg=5.0)
 ---------------------------------------
 3x Dr. Oliver Genet          6  DOM NEC pot          Giovanni:6

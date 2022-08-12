@@ -9,7 +9,6 @@ Jonatan Reino
 -- 3vp in the final
 
 Deck Name: Gabrin's Back
-
 Crypt (12 cards, min=11 max=30 avg=5.17)
 ----------------------------------------
 3x Gabrin                       8  ANI CHI dom for      Ravnos:2

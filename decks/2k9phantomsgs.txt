@@ -9,7 +9,7 @@ Adam Esbjörnsson
 -- Unknown
 
 Deck Name: Girls will find inner peace
-
+Author: Adam Esbjörnsson and friends
 Description:
 Thanks to Teemu Sainomaa, Erik Torstensson, Isak
 Bjärmark Esbjörnsson and Alex Ek for perfecting and evolving the

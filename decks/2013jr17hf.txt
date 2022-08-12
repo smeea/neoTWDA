@@ -9,7 +9,6 @@ Matias Frosterus
 -- Unknown
 
 Deck Name: Ahrimane Animalism Balanced Approach
-
 Description:
 Group 4 Ahrimanes make for an excellent Animalism focused,
 mid-cap crypt with good Spiritus defense and some Presence

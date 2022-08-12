@@ -9,7 +9,6 @@ Marc Pittermann
 -- 3vp in the final
 
 Deck Name: Deep Shoes
-
 Description:
 Bleed opponent and grind down their minion with Deep Song and
 Horse Shoes then eventually drop Dragonbound for the oust.

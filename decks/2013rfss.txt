@@ -9,7 +9,6 @@ Randal Rudstam
 -- Unknown
 
 Deck Name: Das deutsche Paar, ihrer Herrin, und der Rest der Familie.
-
 Description:
 A kinda classic version of a strong deck. I have not much experience with
 building or playing the !Toreador so after trying a version with foundation

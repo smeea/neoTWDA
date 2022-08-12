@@ -9,7 +9,6 @@ Robert Scythe
 -- Unknown
 
 Deck Name: Faerie Guardian
-
 Description:
 I've always disliked Archon Investigation because,
 though it takes a big bleeder off you, it hurts my predator too much

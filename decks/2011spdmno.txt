@@ -9,7 +9,6 @@ David Baker
 -- Unknown
 
 Deck Name: my mind is numb
-
 Description:
 inspired by Jay's "Frederick is not weak" deck that he won with in 2001
 

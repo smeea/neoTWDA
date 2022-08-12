@@ -9,7 +9,7 @@ Fernando Nieto Martín
 -- 4vp in the final
 
 Deck Name: AAA
-
+Author: Alberto Sanchez
 Description:
 Typical AAA. Never fails.
 

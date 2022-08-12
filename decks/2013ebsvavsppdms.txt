@@ -9,7 +9,6 @@ Ginés Quiñonero
 -- Unknown
 
 Deck Name: The Inert Circle
-
 Crypt (12 cards, min=36 max=44 avg=10.17)
 -----------------------------------------
 4x Huitzilopochtli           10  AUS DAI DOM OBF POT PRE                  Baali:2

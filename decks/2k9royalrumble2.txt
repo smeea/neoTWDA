@@ -9,7 +9,6 @@ Orian Gissler
 -- 4vp in the final
 
 Deck Name: Fear of the dard [A Marc Dorcel Production]
-
 Description:
 Tweak from the famous "Fear of the dark" from Florian
 Prosper, tournament finalist multiple times. The name comes from a

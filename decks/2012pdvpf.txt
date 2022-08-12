@@ -9,7 +9,7 @@ Jorge Delgado
 -- Unknown
 
 Deck Name: The Spanish Tornado
-
+Author: Soufiane Bouzouf, modifications by Jorge Delgado
 Description:
 Qualified last for the final (with only 2VP and no GWs). I think I had
 very bad luck with table positions in the whole tournament in general,

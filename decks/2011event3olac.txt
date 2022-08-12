@@ -9,7 +9,7 @@ Cameron Goudie
 -- 2vp in the final
 
 Deck Name: Training Malks
-
+Author: Robert Goudie
 Description:
 Created to be used by my sons as their first deck when
 learning to play. The same as the one he won with a few months ago.

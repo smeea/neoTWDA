@@ -9,7 +9,6 @@ Ginés Quiñonero
 -- 5vp in the final
 
 Deck Name: Mad Dancers
-
 Description:
 Bring out the highest capacity vampire in your uncontrolled
 region. Once he or she is in play, play Danse Macabre on him/her and have

@@ -9,7 +9,6 @@ Emiliano Arnotti
 -- Unknown
 
 Deck Name: Apocalypse NOW
-
 Description:
 Imbued heavy Gehenna deck.
 "They will hate you anyway, events or not.

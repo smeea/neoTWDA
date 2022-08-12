@@ -9,7 +9,6 @@ Gyula Erdõs
 -- Unknown
 
 Deck Name: Imbued
-
 Crypt (12 cards, min=14 max=20 avg=4.25)
 ----------------------------------------
 3x Jennie "Cassie247" Orne        5  inn jud vis      Visionary:4

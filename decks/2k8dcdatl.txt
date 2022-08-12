@@ -9,7 +9,6 @@ Simeon Nagel
 -- 1gw3 + 2vp in the final
 
 Deck Name: Neighbor John goes dancing
-
 Crypt (13 cards, min=20 max=34 avg=6.54)
 ----------------------------------------
 4x Neighbor John                5  AUS dom for                        Ventrue antitribu:4

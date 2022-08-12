@@ -9,7 +9,6 @@ Matias Frosterus
 -- 3vp in the final
 
 Deck Name: Pride, Presence, Princes and Prejudice
-
 Description:
 Mono PRE deck that uses cheap Princes for defense via
 Second Tradition and pool gain via Parity Shift.

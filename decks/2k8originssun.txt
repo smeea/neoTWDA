@@ -9,7 +9,6 @@ Matthew Morgan
 -- 2.5vp in the final
 
 Deck Name: DoC bleed
-
 Description:
 The challenge I gave myself was to create a good
 Daughters of Cacophony deck that wasn't a copy of

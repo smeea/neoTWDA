@@ -9,7 +9,6 @@ Hugh Angseesing
 -- Unknown
 
 Deck Name: Cryptic in Columbus or Magicians for 60 years of Queening
-
 Crypt (12 cards, min=11 max=20 avg=4.0)
 ---------------------------------------
 1x Aisling Sturbridge   5  AUS THA dom          Tremere:2

@@ -9,7 +9,6 @@ Tuomas Nyberg
 -- 2gw10 + 3vp in the final
 
 Deck Name: Dr. Sutphens Dental Care
-
 Description:
 Straightforward bleed deck with Computer Hackings. If
 blocked, knock their teeth out with potence. Deck contains light

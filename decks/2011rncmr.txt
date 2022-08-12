@@ -9,7 +9,6 @@ Kirill Samoilov
 -- Unknown
 
 Deck Name: Weenie Presence Bleed
-
 Crypt (12 cards, min=7 max=17 avg=3.33)
 ---------------------------------------
 1x Shasa Abu Badr           5  PRE cel for              Ishtarri:4

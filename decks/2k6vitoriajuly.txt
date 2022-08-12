@@ -9,7 +9,6 @@ http://planeta.terra.com.br/lazer/vtesvitoria
 -- Unknown
 
 Deck Name: The Brood
-
 Description:
 Put Virstania and the Gargoyles in play. Let them bleed.
 

@@ -9,7 +9,6 @@ Gene Martin
 -- Unknown
 
 Deck Name: Black Hand Aus
-
 Description:
 Black Hand vampires with Auspex win the tournament.
 

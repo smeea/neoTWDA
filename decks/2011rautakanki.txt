@@ -9,7 +9,6 @@ Beatrice Düring
 -- Unknown
 
 Deck Name: Aksinya's aggro poke gang
-
 Crypt (12 cards, min=12 max=36 avg=5.67)
 ----------------------------------------
 4x Aksinya Daclau           9  ANI FOR PRE PRO cel tha      Gangrel antitribu:4

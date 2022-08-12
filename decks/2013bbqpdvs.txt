@@ -9,7 +9,6 @@ February 17th 2013
 -- Unknown
 
 Deck Name: Desangradores Baalitas
-
 Crypt (13 cards, min=12 max=40 avg=6.23)
 ----------------------------------------
 6x Horde, The                 3  dai obf pre                        Baali:6

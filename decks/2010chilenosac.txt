@@ -9,7 +9,6 @@ Hernán Rodríguez
 -- 5vp in the final
 
 Deck Name: Elimelech & friends
-
 Description:
 !Ventrue with Elimelech and Obfuscate
 

@@ -9,7 +9,6 @@ Matt Guinn
 -- Unknown
 
 Deck Name: 1994
-
 Description:
 Old School Ventrue
 

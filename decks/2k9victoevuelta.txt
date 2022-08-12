@@ -9,7 +9,6 @@ Sergio Gracia
 -- Unknown
 
 Deck Name: Victor has a plan (a.k.a. W)
-
 Description:
 Deck Player: Sergio Gracia
 Deck Builder: Iñaki Puigdollers

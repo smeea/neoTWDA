@@ -9,7 +9,6 @@ Henrik Isaksson
 -- Unknown
 
 Deck Name: The Big Eye sees you!
-
 Description:
 Intercept everything!
 

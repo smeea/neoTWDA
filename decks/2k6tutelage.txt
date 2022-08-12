@@ -9,7 +9,6 @@ Charles Lechasseur
 -- Unknown
 
 Deck Name: Henry: The Gathering
-
 Description:
 A deck inspired by Ben Peal's Henry Twister deck. Tool up
 Henry with Anima Gathering and others, drop lots of permanents and

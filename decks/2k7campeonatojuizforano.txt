@@ -9,7 +9,6 @@ Pedro Paulo de Sousa Mendes
 -- Unknown
 
 Deck Name: Imbued at Last
-
 Description:
 The deck's goal is to setup as fast as you can by
 depleting your library and to use Unity/Anthelios to cycle back

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9828
 -- 3vp in the final
 
 Deck Name: Antonio anarch
-
 Crypt (13 cards, min=4 max=20 avg=3.0)
 --------------------------------------
 5x Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4

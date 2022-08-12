@@ -9,7 +9,6 @@ Hugh Angseesing
 -- 2.5vp in the final
 
 Deck Name: Anglicisation of Randy Rudstam
-
 Description:
 Copied Randy's super quick lutz/unmada deck - made fit
 for Mukhtar and a UK environment (look some combat defence) 2, 4GW, 2.5GW

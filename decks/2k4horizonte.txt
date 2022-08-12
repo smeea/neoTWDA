@@ -9,7 +9,6 @@ Patrick Costa
 -- Unknown
 
 Deck Name: !Ventrue
-
 Crypt (12 cards, min=15 max=31 avg=6.0)
 ---------------------------------------
 3x Owain Evans, The Wanderer   8  AUS DOM FOR cel pre      Ventrue antitribu:3

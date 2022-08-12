@@ -9,7 +9,6 @@ Iñaki Jimenez
 -- Unknown
 
 Deck Name: Nosfe-Rat-Tools
-
 Crypt (12 cards, min=26 max=40 avg=8.5)
 ---------------------------------------
 4x Cock Robin             10  ANI OBF POT aus for   justicar   Nosferatu:3

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9755
 -- 3vp in the final
 
 Deck Name: War ghoul anarch
-
 Crypt (12 cards, min=4 max=18 avg=2.5)
 --------------------------------------
 5x Anarch Convert     1                       Caitiff:ANY

@@ -9,7 +9,6 @@ Tuomas Vuokko
 -- Unknown
 
 Deck Name: Annis Loves You
-
 Description:
 Black Annis "cycles" your combat while the others
 graverob vampires and bleed with potence stealth.

@@ -9,7 +9,6 @@ Scott Gomes
 -- Unknown
 
 Deck Name: I think someone called me a .....
-
 Crypt (12 cards, min=22 max=34 avg=7.0)
 ---------------------------------------
 2x Izhim abd Azrael             9  CEL OBF QUI THA pot            Banu Haqim:5

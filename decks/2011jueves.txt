@@ -9,6 +9,7 @@ Tomàs López Jiménez
 -- Unknown
 
 Deck Name: Salubri Blocker toolbox
+Author: Glinlos
 
 Crypt (12 cards, min=13 max=36 avg=6.25)
 ----------------------------------------

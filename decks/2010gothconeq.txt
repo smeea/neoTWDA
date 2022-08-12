@@ -9,7 +9,6 @@ Erik Torstensson
 -- 4gw12 including 3VP in final
 
 Deck Name: Girls!
-
 Crypt (12 cards, min=36 max=44 avg=10.0)
 ----------------------------------------
 4x Cybele                  10  ANI DAI OBF PRE SER THA                  Baali:4

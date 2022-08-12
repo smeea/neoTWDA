@@ -9,7 +9,6 @@ Jean-François Lamothe
 -- Unknown
 
 Deck Name: Black Eyes V2
-
 Crypt (12 cards, min=18 max=26 avg=5.5)
 ---------------------------------------
 2x Kite                     7  AUS DEM obf pre   bishop   Malkavian antitribu:2

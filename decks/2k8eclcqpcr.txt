@@ -9,7 +9,6 @@ Orian Gissler
 -- Unknown
 
 Deck Name: Sudario Diary
-
 Crypt (12 cards, min=8 max=17 avg=3.08)
 ---------------------------------------
 2x Gloria Giovanni                   4  DOM nec          Giovanni:2

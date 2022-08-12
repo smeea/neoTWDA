@@ -9,7 +9,6 @@ Martin Major
 -- Unknown
 
 Deck Name: Hardestadt eats the world
-
 Description:
 1. Kill titled vampires.
 2. Kill everything else.

@@ -9,7 +9,6 @@ Lukasz Modzelewski
 -- 3vp in the final
 
 Deck Name: Nephandus Swarm
-
 Crypt (12 cards, min=4 max=20 avg=3.17)
 ---------------------------------------
 5x Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4

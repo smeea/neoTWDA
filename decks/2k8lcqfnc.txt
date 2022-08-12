@@ -8,6 +8,8 @@ Orian Gissler
 
 -- Unknown
 
+Author: TTCMaster aka La Faucheuse
+
 Crypt (13 cards, min=8 max=18 avg=3.23)
 ---------------------------------------
 2x Gloria Giovanni                   4  DOM nec              Giovanni:2

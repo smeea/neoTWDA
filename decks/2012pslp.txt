@@ -9,7 +9,6 @@ Patrick Gordo
 -- Unknown
 
 Deck Name: Shadowfang
-
 Crypt (12 cards, min=18 max=24 avg=5.5)
 ---------------------------------------
 3x Morel               6  AUS DEM OBF                  Malkavian:4

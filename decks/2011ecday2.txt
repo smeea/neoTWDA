@@ -9,7 +9,6 @@ Otso Saariluoma
 -- Unknown
 
 Deck Name: Nana
-
 Crypt (12 cards, min=22 max=35 avg=7.42)
 ----------------------------------------
 4x Nana Buruku          8  ANI POT PRE                      Guruhi:4

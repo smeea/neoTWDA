@@ -9,7 +9,6 @@ Luciano Mariucci
 -- 4vp in the final
 
 Deck Name: Celeritous Ventrue
-
 Crypt (12 cards, min=25 max=42 avg=8.58)
 ----------------------------------------
 2x Arika              11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2

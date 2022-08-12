@@ -9,7 +9,6 @@ Sten Düring
 -- Unknown
 
 Deck Name: Master Madness
-
 Description:
 Getting as many master-phase-actions as possible. Empty
 your vamps and don't be shy to use Rosslers speacial and Information

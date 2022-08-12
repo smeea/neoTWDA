@@ -9,6 +9,7 @@ Mehdi Mazni
 -- Unknown
 
 Deck Name: nephandus
+Author: Julien Ohler (derjudge)
 
 Crypt (12 cards, min=8 max=20 avg=3.5)
 --------------------------------------

@@ -9,7 +9,6 @@ Michael Jorgensen
 -- Unknown
 
 Deck Name: Number of the beast
-
 Crypt (12 cards, min=11 max=32 avg=5.83)
 ----------------------------------------
 4x Howler           8  ANI PRE SPI obf      Ahrimane:2

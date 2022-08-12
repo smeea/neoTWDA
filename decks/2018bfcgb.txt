@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9075
 -- 2gw9 + 4vp in the final
 
 Deck Name: Gangrel
-
 Crypt (12 cards, min=29 max=40 avg=8.58)
 ----------------------------------------
 3x Karsh                   10  ANI CEL FOR POT PRO                 Gangrel:3

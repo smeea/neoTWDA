@@ -9,7 +9,6 @@ Cirleno Nicácio
 -- Unknown
 
 Deck Name: Deck do Cirleno
-
 Crypt (13 cards, min=8 max=24 avg=4.0)
 --------------------------------------
 2x Carlotta Giovanni                 7  NEC POT dom obf      Giovanni:2

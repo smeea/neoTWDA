@@ -9,7 +9,6 @@ Danilo Torrisi
 -- 4vp in the final
 
 Deck Name: tupdog
-
 Crypt (28 cards, min=4 max=19 avg=1.75)
 ---------------------------------------
 21x Tupdog              1  POT VIS              Gargoyle:3

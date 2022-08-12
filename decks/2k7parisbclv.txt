@@ -9,7 +9,6 @@ Reyda Seddiki
 -- Unknown
 
 Deck Name: Uta, Selena, Yasmin, y otras chicas del monton (Uta, Selena, Yasmin and other girls from the heap)
-
 Crypt (12 cards, min=20 max=31 avg=6.42)
 ----------------------------------------
 3x Uta Kovacs                          8  AUS DOM THA ser              Tremere antitribu:4

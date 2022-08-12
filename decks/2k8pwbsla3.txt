@@ -9,7 +9,6 @@ Robyn Tatu
 -- 4vp in the final
 
 Deck Name: Forced Vigilance
-
 Description:
 Ventrue Anti Toolbox
 

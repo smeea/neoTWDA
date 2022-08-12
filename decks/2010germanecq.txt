@@ -9,7 +9,6 @@ Alfred Behrends
 -- 1GW5 (3rd seed), 1.5VP in final
 
 Deck Name: Govern the Gates
-
 Description:
 IMHO G4/5 has an insanely good weenie to midcap crypt
 for POT and DOM/POT. Inspired by Tuomas Nyberg's TWD "Dr. Sutphens

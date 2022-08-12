@@ -9,7 +9,6 @@ Timo Rekola
 -- Unknown
 
 Deck Name: MM.tha&for.ver.1.5
-
 Description:
 I tried to combine the awesome block & bleed power of the Ventrue
 antitribu and durability of Tremere in combat against animalism

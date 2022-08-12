@@ -9,7 +9,6 @@ Martin Randers
 -- Unknown
 
 Deck Name: For lækker
-
 Crypt (12 cards, min=32 max=43 avg=9.42)
 ----------------------------------------
 5x Anson              8  CEL PRE aus dom           prince         Toreador:1

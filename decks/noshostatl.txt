@@ -9,7 +9,6 @@ Jeffrey Thompson
 -- Unknown
 
 Deck Name: Nocturns turn the Cog
-
 Description:
 Appius Claudius Corvus loves to reveal his Enkil Cog to the world.
 There are plenty of Nocturns to ensure that some bleeds of one get

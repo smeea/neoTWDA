@@ -9,7 +9,6 @@ Gregory Stuart Pettigrew
 -- Unknown
 
 Deck Name: Your Block Fails
-
 Description:
 Notes:
 Crocodile's Tongue prevents a player from blocking, not just a minion, so the

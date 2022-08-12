@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9592
 -- 3gw10 + 2.5vp in the final
 
 Deck Name: Tariq Wall Rush 2.0
-
 Description:
 In previous version I had problem with cost of the flamethrowers.
 So, adding Ashur Tablets was essential to solve this problem

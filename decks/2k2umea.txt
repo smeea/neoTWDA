@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: Some shit from the internet that I tweaked
-
 Crypt (12 cards, min=19 max=31 avg=6.5)
 ---------------------------------------
 1x Baron, The                            9  FOR NEC OBF THN dom   2 votes   Samedi:2

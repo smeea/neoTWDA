@@ -9,7 +9,6 @@ Bruno Keiti Tamane
 -- Unknown
 
 Deck Name: Ventrue - Little Princes
-
 Crypt (12 cards, min=20 max=30 avg=6.17)
 ----------------------------------------
 2x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro   prince     Ventrue:5

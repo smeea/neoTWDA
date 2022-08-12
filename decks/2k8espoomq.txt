@@ -9,7 +9,6 @@ Teemu Sainomaa
 -- Unknown
 
 Deck Name: Girls will find your blind spot vol2
-
 Crypt (12 cards, min=36 max=40 avg=9.58)
 ----------------------------------------
 5x Aksinya Daclau    9  ANI FOR PRE PRO cel tha      Gangrel antitribu:4

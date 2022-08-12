@@ -9,7 +9,6 @@ Timo Rekola
 -- 3vp in the final
 
 Deck Name: asguresh.can.ver.1.1
-
 Crypt (12 cards, min=8 max=24 avg=4.5)
 --------------------------------------
 4x Asguresh                6  CEL NEC aus          Nagaraja:5

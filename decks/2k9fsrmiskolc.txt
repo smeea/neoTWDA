@@ -9,7 +9,6 @@ Gergely Bako
 -- 4GW, 12VP
 
 Deck Name: Nosferatu voter
-
 Crypt (12 cards, min=24 max=35 avg=7.33)
 ----------------------------------------
 3x Sheldon, Lord of the Clog   9  ANI AUS OBF POT for   justicar   Nosferatu:1

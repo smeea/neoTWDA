@@ -9,7 +9,6 @@ Brendan Healy
 -- Unknown
 
 Deck Name: The Art of Undue Influence
-
 Description:
 !Toreador Undue Influence Deck
 

@@ -9,7 +9,6 @@ Hernán Rodríguez
 -- Unknown
 
 Deck Name: Enkidu & Friends
-
 Description:
 A deck that enter in combat with Enkidu or another
 vampire support like Karsh and Hrothulf, and bleed or use Dominate

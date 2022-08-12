@@ -9,7 +9,6 @@ Otso Saariluoma
 -- Unknown
 
 Deck Name: Victoria's Secret
-
 Description:
 Weenie auspex with some anarch/madness network tech. This deck owes
 to Pascal Bertrand for perfecting the deck concept.

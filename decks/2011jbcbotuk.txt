@@ -9,7 +9,6 @@ Sven Helmer
 -- 4vp in the final
 
 Deck Name: Ishtarri Vote
-
 Crypt (12 cards, min=21 max=36 avg=7.08)
 ----------------------------------------
 2x Ayo Igoli           10  AUS CEL FOR PRE obf tha              Ishtarri:4

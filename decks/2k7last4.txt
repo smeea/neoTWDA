@@ -9,7 +9,6 @@ Christoffer Arvidsson
 -- Unknown
 
 Deck Name: Path of Pommes Frittes
-
 Description:
 Please bleed responsibly
 

@@ -9,7 +9,6 @@ Richard Blais
 -- Unknown
 
 Deck Name: Blast from the Past
-
 Description:
 EuroBrujah deck with a little spicy Beast. Not a strong actual
 archetype but if well played you can manage TW and crawl your way to

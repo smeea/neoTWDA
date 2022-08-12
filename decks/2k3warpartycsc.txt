@@ -9,7 +9,6 @@ Jeffrey Thompson
 -- Unknown
 
 Deck Name: Lasombra Governing
-
 Description:
 This deck won the War Party: Charleston, South Carolina
 tournament on April 26th, 2003. There were 14 players, two rounds and

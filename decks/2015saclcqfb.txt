@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8173
 -- 3vp in the final
 
 Deck Name: Cidade em Chamas
-
 Crypt (12 cards, min=4 max=29 avg=4.08)
 ---------------------------------------
 4x Anarch Convert       1                   Caitiff:ANY

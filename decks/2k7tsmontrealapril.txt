@@ -9,7 +9,6 @@ Marc Desaulniers
 -- Unknown
 
 Deck Name: B2B (Back to Basics)
-
 Crypt (13 cards, min=16 max=40 avg=7.0)
 ---------------------------------------
 4x Lucian             10  AUS DOM OBF cel tha   justicar   Malkavian:1

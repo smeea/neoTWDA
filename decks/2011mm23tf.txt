@@ -9,7 +9,6 @@ Heikki Palomäki
 -- Unknown
 
 Deck Name: Blue blood
-
 Crypt (12 cards, min=17 max=36 avg=6.83)
 ----------------------------------------
 2x Emerson Bridges                    8  DOM FOR PRE pot       prince     Ventrue:1

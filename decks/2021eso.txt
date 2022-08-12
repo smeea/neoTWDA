@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9724
 -- 1gw6.5 + 1.5vp in the final
 
 Deck Name: Isabel Giovanni - EC Day 1
-
 Crypt (12 cards, min=15 max=27 avg=5.17)
 ----------------------------------------
 3x Isabel Giovanni            5  DOM NEC pot          Giovanni:2

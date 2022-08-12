@@ -9,7 +9,6 @@ Heikki Palomäki
 -- 4vp in the final
 
 Deck Name: manse 07 - Beware of your gpredator
-
 Description:
 Dirty and irresponsible malk S&B. There were too much
 masters in this deck. After actually playing this deck I would have

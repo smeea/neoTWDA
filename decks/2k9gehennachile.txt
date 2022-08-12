@@ -9,7 +9,6 @@ Leonardo Munoz
 -- Unknown
 
 Deck Name: Locos en la Corte
-
 Crypt (12 cards, min=25 max=44 avg=8.75)
 ----------------------------------------
 4x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot   inner circle   Malkavian:4

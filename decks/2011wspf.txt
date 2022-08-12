@@ -9,7 +9,6 @@ Vincent Ripoll
 -- Unknown
 
 Deck Name: Shattering test Villein Perfectionist
-
 Description:
 This was a test version of my previous SC deck
 introducing some Villein + Perfectionist to improve survivability.

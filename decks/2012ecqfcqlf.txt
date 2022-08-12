@@ -9,6 +9,7 @@ Mathieu Rivero
 -- 1GW4 (5th seed) + 1.5VP in final
 
 Deck Name: Embrace moi si tu peux !!
+Author: Mathias Skubich (Mousnich)
 
 Crypt (12 cards, min=9 max=19 avg=3.5)
 --------------------------------------

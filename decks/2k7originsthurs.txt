@@ -9,7 +9,7 @@ Josh Duffin
 -- Unknown
 
 Deck Name: One Nergal To Rule Them All (American Style)
-
+Author: Gines Quinonero (modified by Josh Duffin)
 Description:
 Sweeps the finals
 

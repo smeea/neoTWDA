@@ -9,7 +9,6 @@ Matt Flint
 -- Unknown
 
 Deck Name: Nakthorhebordhthorbhenhakthorb
-
 Description:
 Comment: Nakhthorheb is key. It's worth digging for
 him if he doesn't show up in the initial crypt draw.

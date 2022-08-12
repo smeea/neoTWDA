@@ -9,7 +9,6 @@ Rob Treasure
 -- Unknown
 
 Deck Name: EuroBrujah 2001
-
 Description:
 It's a reworked version of the old classic, built to handle most
 threats but a field of pure focus would not be the best. Other than

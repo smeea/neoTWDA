@@ -9,7 +9,6 @@ Robyn Tatu
 -- Unknown
 
 Deck Name: Patterns in the Chaos
-
 Crypt (13 cards, min=13 max=28 avg=5.31)
 ----------------------------------------
 2x Dolphin Black                  6  AUS DEM OBF                 Malkavian antitribu:2

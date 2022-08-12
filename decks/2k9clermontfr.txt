@@ -9,7 +9,6 @@ Jonathan Bonnet
 -- 3vp in the final
 
 Deck Name: Nephandog
-
 Crypt (23 cards, min=4 max=18 avg=1.78)
 ---------------------------------------
 17x Tupdog              1  POT VIS              Gargoyle:3

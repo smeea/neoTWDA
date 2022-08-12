@@ -9,7 +9,6 @@ François Morand
 -- Unknown
 
 Deck Name: Little Monster Pander
-
 Crypt (13 cards, min=4 max=20 avg=2.38)
 ---------------------------------------
 1x Korah                      7  AUS DEM OBF ani   priscus      Malkavian antitribu:2

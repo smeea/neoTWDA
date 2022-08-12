@@ -9,7 +9,6 @@ Robin Pong
 -- 3vp in the final
 
 Deck Name: Rachel Brandywine Madness Network
-
 Crypt (12 cards, min=23 max=39 avg=7.83)
 ----------------------------------------
 3x Rachel Brandywine   10  AUS DEM OBF PRO ani   prince     Malkavian:3

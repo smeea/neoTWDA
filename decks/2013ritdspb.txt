@@ -9,7 +9,6 @@ Francisco Mantovanini Carvalho
 -- Unknown
 
 Deck Name: Power to the People
-
 Crypt (12 cards, min=4 max=16 avg=2.33)
 ---------------------------------------
 3x Anarch Convert         1               Caitiff:ANY

@@ -9,6 +9,7 @@ Olivier Perez
 -- Unknown
 
 Deck Name: SpeedShambling
+Author: Amiel Feldman
 
 Crypt (12 cards, min=12 max=25 avg=4.42)
 ----------------------------------------

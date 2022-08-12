@@ -9,7 +9,7 @@ Jérôme Schwartz
 -- 2vp in the final
 
 Deck Name: Full Forward
-
+Author: Mathieu Ourmières
 Description:
 No brake no need !
 

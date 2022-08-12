@@ -9,7 +9,6 @@ Felipe Fiuza
 -- 4vp in the final
 
 Deck Name: La ostia
-
 Description:
 Just Be cool, Block, and Wait.
 

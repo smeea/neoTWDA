@@ -9,7 +9,7 @@ Goran Ivanovic
 -- 2.5vp in the final
 
 Deck Name: Deep Earth
-
+Author: Milos Krstic
 Description:
 Standard tap & bleed deck with deep song/earth meld
 combo to avoid blockers.

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7833
 -- Unknown
 
 Deck Name: Meshenka/dragos horridform wall
-
 Crypt (12 cards, min=21 max=32 avg=6.92)
 ----------------------------------------
 4x Meshenka                  8  ANI AUS VIC       priscus   Tzimisce:2

@@ -9,7 +9,6 @@ Antoine Franqueville-Roy
 -- Unknown
 
 Deck Name: See Rome and die
-
 Description:
 What's saved in stealth slots is used for defense.
 

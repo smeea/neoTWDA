@@ -9,7 +9,6 @@ Daniel Gargulák
 -- Unknown
 
 Deck Name: Brujah Alastors
-
 Crypt (12 cards, min=22 max=36 avg=7.33)
 ----------------------------------------
 4x Dmitra Ilyanova   9  CEL FOR POT PRE obf   justicar   Brujah:5

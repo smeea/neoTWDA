@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7824
 -- 4vp in the final
 
 Deck Name: Lasombra Nocturns
-
 Crypt (12 cards, min=17 max=29 avg=5.67)
 ----------------------------------------
 2x Onaedo                  6  DOM OBT aus pot                Lasombra:4

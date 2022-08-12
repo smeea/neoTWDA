@@ -9,7 +9,6 @@ Tomasz Kowalewski
 -- Unknown
 
 Deck Name: Unnamed_maleficia v1.1
-
 Description:
 Deck based on Tony Wedd deck's
 

@@ -9,7 +9,6 @@ Martin Schumacher
 -- 3vp in the final
 
 Deck Name: The great wall
-
 Description:
 The deck of resource superiority
 

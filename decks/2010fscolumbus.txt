@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: Fairies Wear Boots
-
 Description:
 This deck is definitely more along the "toolbox" style
 than prefer to run but I wanted to try something a little different.

@@ -9,7 +9,7 @@ Otto Kallokoski
 -- Unknown
 
 Deck Name: Stealthy Presence
-
+Author: Oko
 Description:
 Permanent votes and vamps with +stealth for political
 actions, to have stealthy votes without needing transients.

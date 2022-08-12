@@ -9,7 +9,7 @@ Marcin Watras
 -- Unknown
 
 Deck Name: DOM FOR target vitals powerbleed
-
+Author: Marcin Watras - warGrim (deck based on Vincent
 Description:
 Ripoll's Aim and Chain TWD from JAN-2009, played for
 educational purposes - wanted to know how to play against

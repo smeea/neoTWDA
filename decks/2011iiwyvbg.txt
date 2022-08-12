@@ -9,7 +9,7 @@ Martin Varga
 -- Unknown
 
 Deck Name: Akunanse 16 wakes
-
+Author: Brian Moritz
 Description:
 modifications by matkov, modifications by TommiK!
 updated (18.4.2011)

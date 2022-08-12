@@ -9,7 +9,6 @@ Dawid Cyran
 -- 3vp in the final
 
 Deck Name: Nakhthorheb and Mummies
-
 Description:
 It's a deck I've been playing with for some time now. The third version of it,
 or even the fourth one. I enhance it every now and then.

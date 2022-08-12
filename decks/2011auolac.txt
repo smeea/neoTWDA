@@ -9,7 +9,6 @@ Robert Goudie
 -- Unknown
 
 Deck Name: Junta
-
 Description:
 Based on Junta by Jeroen van Oort and Peter Bouwman.
 Modified to fit my more modest collection.

@@ -9,6 +9,7 @@ Robert Scythe
 -- Unknown
 
 Deck Name: Eze like Sunday morning
+Author: Matt Wedge & Robert Scythe
 
 Crypt (12 cards, min=30 max=44 avg=9.33)
 ----------------------------------------

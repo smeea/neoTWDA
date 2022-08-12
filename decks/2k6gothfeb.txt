@@ -9,7 +9,6 @@ Alex Ek
 -- Unknown
 
 Deck Name: Voteish/Bleedish
-
 Crypt (12 cards, min=19 max=40 avg=7.33)
 ----------------------------------------
 4x Ayo Igoli         10  AUS CEL FOR PRE obf tha            Ishtarri:4

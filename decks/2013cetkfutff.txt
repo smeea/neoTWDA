@@ -9,6 +9,7 @@ Juan Galarreta
 -- Unknown
 
 Deck Name: Shattering Voters
+Author: Jaime Manzanares
 
 Crypt (12 cards, min=28 max=36 avg=8.17)
 ----------------------------------------

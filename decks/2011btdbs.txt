@@ -9,6 +9,7 @@ Soufiane Bouzouf
 -- Unknown
 
 Deck Name: Unexpected Coalition
+Author: Noel Giménez Infante
 
 Crypt (12 cards, min=20 max=39 avg=7.42)
 ----------------------------------------

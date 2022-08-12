@@ -9,7 +9,6 @@ Maxime Socroun
 -- Unknown
 
 Deck Name: Unmada Undele Lutz
-
 Description:
 A big thanks to Jorge Delgado for the huge tweaks in this deck.
 

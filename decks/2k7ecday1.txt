@@ -9,7 +9,6 @@ Ruben Feldman
 -- Unknown
 
 Deck Name: EC Day 1 - 1st place
-
 Crypt (12 cards, min=15 max=24 avg=4.92)
 ----------------------------------------
 3x Edward Vignes                     6  DOM PRE for          Ventrue:3

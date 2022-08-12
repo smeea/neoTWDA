@@ -9,7 +9,6 @@ Akseli Jalava
 -- 5vp in the final
 
 Deck Name: Kaikki on parempaa dominatella, paitsi eivät Ravnokset.
-
 Description:
 Everything is better with Dominate, except the Ravnos
 

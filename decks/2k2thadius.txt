@@ -9,7 +9,6 @@ Lance Shope
 -- Unknown
 
 Deck Name: Settite Legal V3.0
-
 Description:
 Obf bleed with Legal Manipulation. Majesty if you get
 intercepted. Use the temptations on your own vampires if they run

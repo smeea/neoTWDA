@@ -9,7 +9,6 @@ Hiramm Sanchez Gomez
 -- Unknown
 
 Deck Name: Bugs Bunny
-
 Description:
 The trick of this deck is the Bugs Bunny maneuver; do you remember when
 Bugs go through the earth to kick the ass of Sam or Daffy duck? This

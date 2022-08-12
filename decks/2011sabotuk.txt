@@ -9,7 +9,6 @@ Dave Knowles
 -- Unknown
 
 Deck Name: Bitey Wizards
-
 Description:
 Thanks to #vtes on SorceryNet for critiqueing this
 deck a million times for me, and Hugh & John for

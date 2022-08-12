@@ -9,7 +9,6 @@ Otto Kallokoski
 -- Unknown
 
 Deck Name: Flurry of bleeds
-
 Description:
 Bleed, untap, vote/recruit
 

@@ -9,7 +9,6 @@ Ivan Marin-Rivas
 -- Unknown
 
 Deck Name: Amarvati+Mata_Hari
-
 Description:
 Amarvati and Mata Hari breed and vote
 

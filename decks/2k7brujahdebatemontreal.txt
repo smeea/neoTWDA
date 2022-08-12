@@ -9,7 +9,6 @@ Francois de Champlain
 -- Unknown
 
 Deck Name: We are the world
-
 Description:
 This deck is a wake up call to the world to how powerful
 the Guhuri are (hence the deck name) - people in our playgroup hardly

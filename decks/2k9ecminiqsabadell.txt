@@ -9,7 +9,6 @@ Iñaki Puigdollers
 -- Unknown
 
 Deck Name: "Tupdog's Diary"
-
 Description:
 Builder and Player: Iñaki Puigdollers, inspired by "Sudario Diary"
 Orian Gissler' s deck

@@ -9,7 +9,6 @@ Alejandro Rodríguez
 -- Unknown
 
 Deck Name: Tzimis toolbox
-
 Crypt (12 cards, min=29 max=40 avg=8.75)
 ----------------------------------------
 4x Lambach                                  10  ANI AUS DOM VIC pre   cardinal     Tzimisce:2

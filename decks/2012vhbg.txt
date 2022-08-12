@@ -9,7 +9,6 @@ Martin Schumacher
 -- Unknown
 
 Deck Name: No Bounce?
-
 Description:
 Old School Voter, No Bounce No Govern
 

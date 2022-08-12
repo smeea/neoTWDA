@@ -9,6 +9,7 @@ Orian Gissler
 -- 2nd in rounds 2GW4.5 - gw3 in final
 
 Deck Name: Castamir of Tsumbar
+Author: Orian Gissler, basis from Sir Anthony Coleman
 
 Crypt (12 cards, min=13 max=24 avg=4.83)
 ----------------------------------------

@@ -9,7 +9,6 @@ Sebestyén Balázs
 -- Unknown
 
 Deck Name: Network of the Insane
-
 Crypt (13 cards, min=11 max=25 avg=4.54)
 ----------------------------------------
 3x Victoria           5  AUS cel obf                Malkavian:2

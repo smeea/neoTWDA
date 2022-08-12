@@ -9,7 +9,6 @@ Aaron Clark
 -- Unknown
 
 Deck Name: Burning Down the House
-
 Description:
 This deck is an Obfuscate/Dominate toolbox
 featuring low-caps. The original idea was to create

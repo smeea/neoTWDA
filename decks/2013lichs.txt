@@ -9,7 +9,6 @@ Tomas Wallmur
 -- 3vp in the final
 
 Deck Name: The Hotelkedja
-
 Description:
 SB with Hotel. Govern down until you have enough minions then bleed.
 Yes I know its kinda revoloutionary, but give it a try.

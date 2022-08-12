@@ -9,7 +9,7 @@ Peter Bouwman
 -- Unknown
 
 Deck Name: Freaky Politicians
-
+Author: Jeroen van Oort
 Description:
 An old skool Ventrue deck focussing on putting blood on uncontrolled
 vampires or use those cards to bleed heavily. Older versions had more

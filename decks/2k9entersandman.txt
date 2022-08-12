@@ -9,7 +9,6 @@ Cristian Perez
 -- Unknown
 
 Deck Name: Adana & Enkidu
-
 Crypt (12 cards, min=34 max=44 avg=10.08)
 -----------------------------------------
 4x Enkidu, The Noah   11  ANI CEL OBF POT PRO for                  Gangrel antitribu:4

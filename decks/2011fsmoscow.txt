@@ -9,7 +9,6 @@ Armen Khachikyan
 -- Unknown
 
 Deck Name: Been there, done that
-
 Crypt (12 cards, min=14 max=32 avg=5.5)
 ---------------------------------------
 4x Nana Buruku          8  ANI POT PRE      Guruhi:4

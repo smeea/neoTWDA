@@ -9,7 +9,6 @@ Ben Peal
 -- Unknown
 
 Deck Name: Pochtli Twister
-
 Description:
 I was wondering about building a deck that was less than
 60 cards - and padding it out with burn option cards - to see if there

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9773
 -- 4vp in the final
 
 Deck Name: Gato "Mia"
-
 Crypt (12 cards, min=18 max=31 avg=6.25)
 ----------------------------------------
 3x Howler             8  ANI PRE SPI obf      Ahrimane:2

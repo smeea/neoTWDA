@@ -9,7 +9,6 @@ Peter Bakija
 -- Unknown
 
 Deck Name: Tocktor Funkenstein
-
 Description:
 Tock powered Nosferatu stealth vote
 

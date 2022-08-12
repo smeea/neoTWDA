@@ -9,7 +9,6 @@ Teresa Neves
 -- Unknown
 
 Deck Name: In Visible Light
-
 Description:
 Player: Teresa Neves
 Loosely based on Michal Kochanowski

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7775
 -- 5vp in the final
 
 Deck Name: Andromeda (Mono Dominate)
-
 Crypt (13 cards, min=7 max=14 avg=2.77)
 ---------------------------------------
 1x Gloria Giovanni   4  DOM nec      Giovanni:2

@@ -9,7 +9,6 @@ Genís Prats
 -- Unknown
 
 Deck Name: Dimitri's Big Band
-
 Crypt (12 cards, min=30 max=40 avg=8.92)
 ----------------------------------------
 5x Dmitri Borodin     10  AUS CEL NEC QUI obf                Banu Haqim:4

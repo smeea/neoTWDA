@@ -9,7 +9,6 @@ Szabolcs Toth
 -- 4vp in the final
 
 Deck Name: KungFu
-
 Crypt (12 cards, min=20 max=32 avg=6.67)
 ----------------------------------------
 4x Miller Delmardigan, Teacher of Bahari   8  CEL PRE aus pro       bishop   Toreador antitribu:2

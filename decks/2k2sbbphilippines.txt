@@ -9,7 +9,6 @@ http://calendar.yahoo.com/YYY,07992/srt,0/vtesrep?v=4&t=1035018000&i=1190&pv=2
 -- Unknown
 
 Deck Name: The Fratmen
-
 Crypt (12 cards, min=16 max=20 avg=4.67)
 ----------------------------------------
 3x Jerry   5  SAN cel for pot          Blood Brother:2

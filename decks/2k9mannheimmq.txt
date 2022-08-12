@@ -9,7 +9,6 @@ Johannes Walch
 -- Unknown
 
 Deck Name: Tyebot's Chainsaw
-
 Description:
 Ist so ein toolboxiges Ding, kann von allem etwas.
 Bisschen hart an alles zu denken Smile Und Glück braucht man auch.

@@ -9,6 +9,7 @@ Carlos Tomás Arán
 -- 5vp in the final
 
 Deck Name: The Remarkable Beauty of the Dog/Warghoul Synergy
+Author: Ginés Quiñonero (tweaked by Carlos Tomás)
 
 Crypt (13 cards, min=4 max=33 avg=4.38)
 ---------------------------------------

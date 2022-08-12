@@ -9,7 +9,6 @@ Jeffrey Thompson
 -- Unknown
 
 Deck Name: Bloodform
-
 Description:
 Concept: Tzimisce Bleed, Intercept, taking no damage during combat.
 

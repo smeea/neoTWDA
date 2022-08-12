@@ -9,7 +9,6 @@ Jovan Pavlovic
 -- Unknown
 
 Deck Name: Wall From The Woods
-
 Crypt (12 cards, min=19 max=28 avg=5.75)
 ----------------------------------------
 3x Janey Pickman         6  ANI PRO for                     Gangrel antitribu:4

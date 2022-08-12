@@ -9,7 +9,6 @@ Ralf Lammert
 -- Unknown
 
 Deck Name: Bell. Pain. Shoe.
-
 Description:
 Based on the deck "To the Death! No! To the Pain" by John Bell
 

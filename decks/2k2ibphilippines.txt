@@ -9,7 +9,6 @@ http://calendar.yahoo.com/YYY,07992/srt,0/vtesrep?v=4&t=1033808400&i=1224&pv=2
 -- Unknown
 
 Deck Name: Birds of Prey
-
 Crypt (12 cards, min=18 max=31 avg=6.25)
 ----------------------------------------
 3x Howler             8  ANI PRE SPI obf          Ahrimane:2

@@ -9,7 +9,6 @@ Robert Dudock
 -- Unknown
 
 Deck Name: Beautiful Filth
-
 Description:
 Unsubtle Stealth Bleed. Here is my deck list,
 including the two proxies that never got taken out

@@ -9,7 +9,6 @@ http://calendar.yahoo.com/YYY,10391/srt,0/vtesrep?v=4&t=1050145200&i=1887&pv=2
 -- Unknown
 
 Deck Name: The Immortal
-
 Crypt (12 cards, min=32 max=43 avg=9.5)
 ---------------------------------------
 3x Arika                         11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2

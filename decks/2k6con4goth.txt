@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: And so I teach you
-
 Crypt (12 cards, min=13 max=44 avg=7.0)
 ---------------------------------------
 4x Enkidu, The Noah     11  ANI CEL OBF POT PRO for      Gangrel antitribu:4

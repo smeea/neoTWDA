@@ -9,7 +9,6 @@ Marc Desaulniers
 -- Unknown
 
 Deck Name: Hordes of Liquidators
-
 Description:
 Based on Amiel Feldman's Family Business deck.
 

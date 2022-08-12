@@ -9,7 +9,6 @@ Marcin Watras
 -- 3vp in the final
 
 Deck Name: Anson Cel-Gun ver.2.0
-
 Description:
 The latest version of Anson with guns.
 Infernal Pursuits cycle cards in lightspeed fashion.

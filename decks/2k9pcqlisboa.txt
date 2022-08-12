@@ -9,7 +9,6 @@ Eduardo Mateus
 -- Unknown
 
 Deck Name: Recurring Madness
-
 Crypt (13 cards, min=12 max=26 avg=4.77)
 ----------------------------------------
 2x Korah                            7  AUS DEM OBF ani       priscus   Malkavian antitribu:2

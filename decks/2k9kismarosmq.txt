@@ -9,7 +9,6 @@ Martin Major
 -- 3vp in the final
 
 Deck Name: Broken Brujahs
-
 Description:
 Alastor based bruise and vote
 

@@ -9,7 +9,6 @@ Tony Wedd
 -- Unknown
 
 Deck Name: Bouncin' Beast
-
 Description:
 A Beast potence rush deck with a supporting cast of smaller
 potence/dominate vamps. It has some bounce capability so you don't

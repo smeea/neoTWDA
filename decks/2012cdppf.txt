@@ -9,7 +9,6 @@ Yohan Allouche
 -- 3.5vp in the final
 
 Deck Name: True Brujah
-
 Description:
 Deck inspired by original Péter Botos decklist in TWDA,
 kudos for creating such a powerhouse. Minor tweaks for next plays:

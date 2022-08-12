@@ -9,7 +9,6 @@ Jens Johansson
 -- Unknown
 
 Deck Name: Group 1-2 Ventrue
-
 Crypt (12 cards, min=17 max=35 avg=6.67)
 ----------------------------------------
 2x Emerson Bridges                    8  DOM FOR PRE pot       prince   Ventrue:1

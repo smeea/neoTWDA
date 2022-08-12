@@ -9,7 +9,7 @@ Adam Hulse
 -- Unknown
 
 Deck Name: Mata Hari Is the Founder
-
+Author: Adam Hulse and Sonam Adinolf
 Description:
 A Mata Hari + kholo deck (created by Adam Hulse and
 Sonam Adinolf). Sonam tried a version of this deck in 2012 Origins

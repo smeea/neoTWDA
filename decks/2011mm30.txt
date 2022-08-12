@@ -9,7 +9,6 @@ Heikki Palomäki
 -- Unknown
 
 Deck Name: Mexican time out
-
 Crypt (13 cards, min=13 max=36 avg=6.23)
 ----------------------------------------
 5x Joaquin Murietta        9  AUS CEL obf pre qui            Toreador:3

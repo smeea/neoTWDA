@@ -9,7 +9,6 @@ François Morand
 -- Unknown
 
 Deck Name: Exhibitboon
-
 Crypt (14 cards, min=8 max=23 avg=3.93)
 ---------------------------------------
 2x Jost Werner                   6  AUS PRE ani              Toreador antitribu:2

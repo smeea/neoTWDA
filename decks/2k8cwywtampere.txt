@@ -9,7 +9,6 @@ Ville Kaijasaari
 -- 2GW6.5 (1st seed) + 1.5VP in final
 
 Deck Name: Nup's 'n Tup's.
-
 Crypt (29 cards, min=4 max=20 avg=1.97)
 ---------------------------------------
 20x Tupdog              1  POT VIS              Gargoyle:3

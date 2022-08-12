@@ -9,7 +9,6 @@ César Brera
 -- Unknown
 
 Deck Name: Spanish_Qualifier_EC03_1r_Clasificado_Cesar_Brera
-
 Crypt (12 cards, min=14 max=26 avg=5.25)
 ----------------------------------------
 2x Jost Werner                   6  AUS PRE ani                Toreador antitribu:2

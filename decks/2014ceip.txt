@@ -9,7 +9,6 @@ Greg De los Reyes
 -- Unknown
 
 Deck Name: Thick Skinned Lawyers
-
 Crypt (12 cards, min=25 max=37 avg=7.58)
 ----------------------------------------
 3x Sir Walter Nash                    7  DOM FOR PRE           prince     Ventrue:1

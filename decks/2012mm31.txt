@@ -9,7 +9,6 @@ Tuomas Nyberg
 -- Unknown
 
 Deck Name: Boonuspannu
-
 Description:
 Path of the Void reduces Lucians bleed to 3,
 out of the AI range and helps cycle excess masters(+ extra

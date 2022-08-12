@@ -9,7 +9,7 @@ Martin Cubberly
 -- Unknown
 
 Deck Name: Gunslinging Varmints
-
+Author: Martin Cubberly, with help from 'The Boyz'
 Description:
 Shoot things. A lot.
 

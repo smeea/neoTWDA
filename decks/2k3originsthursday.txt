@@ -9,7 +9,6 @@ Carol O'Bryan
 -- Unknown
 
 Deck Name: Fairies 'R Us
-
 Description:
 This is basically an all-around sneak & bleed but bash 'em if they block you
 deck. On the first round, I worked all the way through my cards two turns

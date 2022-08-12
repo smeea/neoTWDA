@@ -9,7 +9,6 @@ James Messer
 -- Unknown
 
 Deck Name: African Library
-
 Crypt (12 cards, min=16 max=39 avg=6.58)
 ----------------------------------------
 3x Cesewayo        10  AUS CEL DOM POT THA ani   magaji   Osebo:4

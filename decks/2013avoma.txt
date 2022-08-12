@@ -9,7 +9,6 @@ Ivor Blockley
 -- Unknown
 
 Deck Name: Devilish machinations of a wandering mind
-
 Description:
 Won the 2008 Australian LCQ with a Saulot deck based on similar
 principles (but never reported to the TWD). Deck resurrected and

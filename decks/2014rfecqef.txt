@@ -9,7 +9,6 @@ Pasi Karjalainen
 -- Unknown
 
 Deck Name: Carna bleeds
-
 Description:
 Based on Randal Rudstams excellent build from 2013.
 My brother Toni helped me to tweak to this deck for the Ropecon meta.

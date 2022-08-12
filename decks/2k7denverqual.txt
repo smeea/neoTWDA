@@ -9,7 +9,6 @@ Tobin Lopes
 -- Unknown
 
 Deck Name: Dolphin Goes Teats Up
-
 Description:
 Your run of the mill Malk! Stealth Bleed. Nothing special
 except for maybe Confusion of the Eye for counters to Parity Shift,

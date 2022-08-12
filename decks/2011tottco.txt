@@ -9,7 +9,6 @@ David Wilson
 -- Unknown
 
 Deck Name: Homeland Recurred
-
 Description:
 The deck was a lot of fun, but it really needed
 a lot of cycling. The Recure the Homeland was the all start

@@ -9,7 +9,6 @@ Neil Paananen
 -- Unknown
 
 Deck Name: Lies and Obfuscations (aka Your Government)
-
 Description:
 Use the PRE obf vamps to call charming lobbies with
 bewitching orations and voter caps. Use the obf vamps to call the

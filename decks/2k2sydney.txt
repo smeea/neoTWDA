@@ -9,7 +9,6 @@ Chris Arthur
 -- Unknown
 
 Deck Name: Rutor's Followers
-
 Description:
 Some bleed, some bloat and plenty of stealth. If things are going well
 summon Qufur or Samat and Rutor them. If not, summon Hesha, load up

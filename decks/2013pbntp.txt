@@ -9,7 +9,6 @@ Aleksander Idziak
 -- Unknown
 
 Deck Name: Gangrel - Stanislava - Mind Rape
-
 Crypt (13 cards, min=23 max=44 avg=8.69)
 ----------------------------------------
 5x Stanislava            11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2

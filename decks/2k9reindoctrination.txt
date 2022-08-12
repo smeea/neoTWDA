@@ -9,7 +9,6 @@ Darby Keeney
 -- 3vp in the final
 
 Deck Name: "Hey Mike"
-
 Description:
 ased on Mike Courtois' deck running a similar Vigorous Tapping
 engine, assembled following some newsgroup discussion that there were

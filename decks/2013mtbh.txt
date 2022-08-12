@@ -9,7 +9,6 @@ Gergo Gyarmati
 -- Unknown
 
 Deck Name: Must not sleep, must warn others
-
 Description:
 Pretty basic tremere block deck
 

@@ -9,7 +9,6 @@ Slaven Karakas
 -- 5vp in the final
 
 Deck Name: Fast and Furious
-
 Description:
 Fast moving deck that's easily made! Made it out of the !Malkavian
 preconstructed deck from the Third Edition.

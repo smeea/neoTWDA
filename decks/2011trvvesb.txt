@@ -9,7 +9,6 @@ João Augusto Sarcinelli
 -- Unknown
 
 Deck Name: Kid Bengala
-
 Crypt (12 cards, min=24 max=38 avg=7.67)
 ----------------------------------------
 2x Ayo Igoli          10  AUS CEL FOR PRE obf tha              Ishtarri:4

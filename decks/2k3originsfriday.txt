@@ -9,7 +9,6 @@ Matt Flint
 -- Unknown
 
 Deck Name: Gangrel Bleed Monkeys
-
 Description:
 Bleed + Stealth + Form of Mist (if necessary). Repeat.
 

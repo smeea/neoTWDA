@@ -9,7 +9,6 @@ Davi Cara-de-Pizza
 -- 2GW11.5 + 4VP in final
 
 Deck Name: Deck Ventrue
-
 Crypt (12 cards, min=25 max=42 avg=8.92)
 ----------------------------------------
 3x Lucinde, Alastor    10  DOM FOR PRE obf pot tha   justicar       Ventrue:3

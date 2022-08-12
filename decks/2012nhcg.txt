@@ -9,7 +9,6 @@ Csaba Greguss
 -- 0vp in the final
 
 Deck Name: Blue Blood 2.0
-
 Description:
 Quietly brings up 4-5 Ventrue with
 Mary Anne Blaire special+Govern, then go!

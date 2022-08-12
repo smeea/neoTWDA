@@ -8,6 +8,8 @@ Norbert Broda
 
 -- 3vp in the final
 
+Author: Gyula Erdõs
+
 Crypt (15 cards, min=4 max=31 avg=3.47)
 ---------------------------------------
 2x Korah                       7  AUS DEM OBF ani       priscus      Malkavian antitribu:2

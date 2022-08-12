@@ -9,7 +9,6 @@ Emiliano Imeroni
 -- Unknown
 
 Deck Name: Wallghouls
-
 Description:
 3GW12.5
 

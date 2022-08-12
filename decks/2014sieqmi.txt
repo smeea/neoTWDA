@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7761
 -- Unknown
 
 Deck Name: Family Never Forget
-
 Crypt (12 cards, min=12 max=19 avg=3.75)
 ----------------------------------------
 3x Rudolfo Giovanni      3  NEC              Giovanni:2

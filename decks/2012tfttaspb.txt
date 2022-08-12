@@ -9,7 +9,6 @@ Desso Alastor
 -- Unknown
 
 Deck Name: Mono Dem
-
 Crypt (12 cards, min=10 max=20 avg=3.75)
 ----------------------------------------
 2x Persia, The Beautiful Statue   5  DEM aus obf                    Malkavian:3

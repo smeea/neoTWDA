@@ -9,7 +9,6 @@ Vinicius Costalonga
 -- 0,5vp in the final
 
 Deck Name: Só quero caçar (Just Want to Hunt)
-
 Crypt (12 cards, min=18 max=31 avg=6.25)
 ----------------------------------------
 2x Arcadian, The             8  DOM MYT OBT chi for             Kiasyd:5

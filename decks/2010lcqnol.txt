@@ -9,7 +9,6 @@ Mark Loughman
 -- Unknown
 
 Deck Name: Chameleon Snakes
-
 Description:
 Credit where credit is due. I had built a Chamelon module
 into a Ayo-Anarch deck a while back, and as such was familiar with the

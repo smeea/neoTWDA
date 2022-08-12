@@ -9,7 +9,6 @@ Jay Kristoff
 -- 3vp in the final
 
 Deck Name: Bishops' Revenge
-
 Crypt (12 cards, min=14 max=23 avg=4.75)
 ----------------------------------------
 3x Virginie, Prodigy          6  DOM POT obt       bishop   Lasombra:4

@@ -9,7 +9,6 @@ Marc-André Tremblay
 -- Unknown
 
 Deck Name: Pure Domination
-
 Crypt (12 cards, min=18 max=24 avg=5.25)
 ----------------------------------------
 3x Edward Vignes                     6  DOM PRE for              Ventrue:3

@@ -9,7 +9,6 @@ Simone Longobardi
 -- Unknown
 
 Deck Name: Assamite Dementia
-
 Crypt (12 cards, min=18 max=40 avg=7.5)
 ---------------------------------------
 4x Thucimia          10  CEL DEM OBF QUI for pro   1 vote   Banu Haqim:4

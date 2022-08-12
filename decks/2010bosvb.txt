@@ -9,7 +9,6 @@ Felipe Fiuza
 -- Unknown
 
 Deck Name: Greyskull
-
 Description:
 You know.
 

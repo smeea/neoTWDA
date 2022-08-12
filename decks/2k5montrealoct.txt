@@ -9,7 +9,6 @@ Michel-Étienne Fortin
 -- Unknown
 
 Deck Name: !ventrue multi-action
-
 Description:
 Standard !ventrue bleed & vote deck. Bring out
 the biggest vamp in your crypt, then use him to influence out

@@ -9,7 +9,6 @@ David Anderson
 -- Unknown
 
 Deck Name: Violent Daughters
-
 Description:
 Shattering Crescendo, or if you block, combat is bad.
 As played: 2013/04/21 in Berkeley, CA

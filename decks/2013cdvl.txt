@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7413
 -- 1vp in the final
 
 Deck Name: Santaleous' Master Ban
-
 Crypt (12 cards, min=20 max=37 avg=7.25)
 ----------------------------------------
 3x Santaleous        9  AUS CEL DEM OBF                      Malkavian:5

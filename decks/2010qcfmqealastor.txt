@@ -9,7 +9,6 @@ Frédéric Dorat
 -- Unknown
 
 Deck Name: Dragon Attack
-
 Crypt (12 cards, min=11 max=44 avg=6.33)
 ----------------------------------------
 5x Enkidu, The Noah   11  ANI CEL OBF POT PRO for      Gangrel antitribu:4

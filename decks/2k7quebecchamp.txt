@@ -9,7 +9,6 @@ Guillaume Lefebvre
 -- Unknown
 
 Deck Name: Le fourbe et ses amis invisible
-
 Description:
 L'objectif est simple, sortir les nocturnes, les utiliser comme
 bloqueur ou bleeder, et bien sûr stealth bleeder avec govern/

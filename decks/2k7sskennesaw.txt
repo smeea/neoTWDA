@@ -9,7 +9,6 @@ John Newquist
 -- Unknown
 
 Deck Name: Henry Twist is the New Darby Dance
-
 Description:
 Based on Janne Hagglund's Twist with Conviction and
 Ben Peal's Henry Taylor Twister.

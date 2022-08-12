@@ -9,7 +9,6 @@ Ben Swainbank
 -- Unknown
 
 Deck Name: Monster's Ball
-
 Description:
 I've had a very good record with this deck in casual games, and now in a
 tournament. Its fairly straightforward, but a good bit of R&D went into

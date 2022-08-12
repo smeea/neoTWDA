@@ -9,7 +9,6 @@ Vidar Wigand
 -- Unknown
 
 Deck Name: The Majestic fast reactors
-
 Crypt (12 cards, min=21 max=34 avg=6.75)
 ----------------------------------------
 4x Alfred Benezri                      6  PRE THA aus dom           bishop     Pander:3

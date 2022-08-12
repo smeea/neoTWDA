@@ -9,7 +9,6 @@ Csaba Greguss
 -- Unknown
 
 Deck Name: Anu's Family
-
 Description:
 Heavy powerbleed with Sudario-tech and with
 Anu's fine ability for Archoning others

@@ -9,7 +9,6 @@ Roger Carhult
 -- Unknown
 
 Deck Name: Swedish ECQ Winner 2007
-
 Crypt (12 cards, min=16 max=31 avg=6.0)
 ---------------------------------------
 3x Anton          8  ANI AUS cel obf vic      Tzimisce:2

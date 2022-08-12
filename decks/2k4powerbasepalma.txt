@@ -9,7 +9,6 @@ Tom Madico
 -- Unknown
 
 Deck Name: the Trickstars
-
 Description:
 Judge: Ginés Quiñonero (Damnans)
 

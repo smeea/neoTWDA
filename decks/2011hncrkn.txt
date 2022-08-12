@@ -9,7 +9,6 @@ Milos Krstic
 -- 2GWs 8.5VP pre final, 3GWs 12.5VP total
 
 Deck Name: N.W.A
-
 Description:
 Nana with ANI does her stuff.
 Only thing i would change is to swap out Carver for Lilith's blessing and

@@ -9,7 +9,6 @@ Antonio Cobo Cuenca
 -- 1.5vp in the final
 
 Deck Name: Girls will find ...
-
 Description:
 Based on Erik's deck.
 

@@ -9,7 +9,6 @@ Jorge Jiménez
 -- Unknown
 
 Deck Name: Lutz and his lovely Dmitra
-
 Crypt (12 cards, min=26 max=44 avg=9.17)
 ----------------------------------------
 4x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4

@@ -9,7 +9,6 @@ Yannick Gibert
 -- Unknown
 
 Deck Name: Nosferoyalties
-
 Description:
 Cry a lot of tears and take the GW
 

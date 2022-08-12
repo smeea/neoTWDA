@@ -9,7 +9,7 @@ Antonio Cobo Cuenca
 -- 4vp in the final
 
 Deck Name: Extreme Violence
-
+Author: Antonio Cobo Cuenca based on Etrius' deck
 Description:
 just a combat deck without Pentex, Villein, Giant's blood, ...
 Important facts about the behaviour of this deck during the tournament:

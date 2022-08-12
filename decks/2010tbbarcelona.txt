@@ -9,6 +9,7 @@ Jordi Tomás
 -- Unknown
 
 Deck Name: Shambling Powerbleed
+Author: Aitor Jimenez Y Antonio Cobo Cuenca
 
 Crypt (12 cards, min=14 max=27 avg=5.08)
 ----------------------------------------

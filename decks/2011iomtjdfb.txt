@@ -9,7 +9,6 @@ Robson Ribeiro de Sá
 -- 3vp in the final
 
 Deck Name: Unnamed e sua Horda
-
 Crypt (12 cards, min=12 max=33 avg=4.75)
 ----------------------------------------
 9x Horde, The      3  dai obf pre              Baali:6

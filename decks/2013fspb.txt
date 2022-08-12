@@ -9,7 +9,6 @@ Tomàs López Jiménez
 -- Unknown
 
 Deck Name: Saulot Kakarot's Style
-
 Crypt (12 cards, min=17 max=44 avg=6.92)
 ----------------------------------------
 4x Saulot, The Wanderer   11  AUS FOR OBE THA VAL dai      Salubri:4

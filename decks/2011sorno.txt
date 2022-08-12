@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: What the Flock?!
-
 Description:
 Cybele's master phases are key to working the
 Tend the Flocks for either speed or pool generation.

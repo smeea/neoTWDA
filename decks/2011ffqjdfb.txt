@@ -9,7 +9,6 @@ Sergio Nascimento
 -- Unknown
 
 Deck Name: Mirror, mirror on the wall, exists someone that makes more pool than me?
-
 Crypt (12 cards, min=21 max=39 avg=7.33)
 ----------------------------------------
 3x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot   justicar   Ventrue:5

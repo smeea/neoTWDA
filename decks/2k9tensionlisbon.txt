@@ -9,7 +9,6 @@ Eduardo Mateus
 -- Unknown
 
 Deck Name: The Traitor Amongst Us
-
 Crypt (13 cards, min=8 max=40 avg=5.69)
 ---------------------------------------
 5x Marcus Vitel       10  DOM FOR OBF OBT PRE   prince   Ventrue:3

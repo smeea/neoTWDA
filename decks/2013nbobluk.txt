@@ -9,7 +9,6 @@ Boris Mailhé
 -- Unknown
 
 Deck Name: DOM, +1 stealth, what else?
-
 Description:
 An old deck slightly tweaked after looking at Kakarot and Lönkka's TWDs.
 DOM and permanent +1 Stealth is amazing, and an early Heart of Nizchetus

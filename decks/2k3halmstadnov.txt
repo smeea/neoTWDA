@@ -9,7 +9,6 @@ Henrik Isaksson
 -- Unknown
 
 Deck Name: Kiasyd Stealth bleed/Intercept combat
-
 Description:
 Get Marconius out and govern out the smaller ones.
 Exploit the intercept/stealth card aura absorption. Also stone travel

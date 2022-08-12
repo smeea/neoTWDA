@@ -9,7 +9,6 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: This is not a Hatchling deck
-
 Description:
 It's basically a swarm deck that can fight. I even found
 myself playing it like a swarm, i.e. Mustafa bleeds, gets blocked, I don't

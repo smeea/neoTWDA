@@ -9,6 +9,7 @@ https://www.vekn.net/event-calendar/event/9819
 -- 1gw, 4vps in finals
 
 Deck Name: Giotto con bichos gordos
+Author: Ginés Quiñonero (con modificaciones de Tomàs)
 
 Crypt (12 cards, min=28 max=42 avg=8.75)
 ----------------------------------------

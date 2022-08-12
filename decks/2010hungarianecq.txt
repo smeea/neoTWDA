@@ -9,6 +9,7 @@ May 29th 2010
 -- 3vp in the final
 
 Deck Name: Nana Buruku
+Author: Gyula Erdõs & Ádám Horváth
 
 Crypt (12 cards, min=16 max=32 avg=5.67)
 ----------------------------------------

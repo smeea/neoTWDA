@@ -9,7 +9,6 @@ Robert Doktorow
 -- 3vp in the final
 
 Deck Name: Blessing
-
 Crypt (12 cards, min=4 max=24 avg=3.25)
 ---------------------------------------
 5x Tupdog               1  POT VIS                    Gargoyle:3

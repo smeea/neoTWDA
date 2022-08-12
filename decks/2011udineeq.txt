@@ -9,7 +9,6 @@ Alessandro Giogoli
 -- Unknown
 
 Deck Name: Guruhi
-
 Description:
 Guruhi combat
 

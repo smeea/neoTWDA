@@ -9,7 +9,6 @@ Jackson Iribarren
 -- Unknown
 
 Deck Name: !Ventrue
-
 Crypt (14 cards, min=22 max=39 avg=7.57)
 ----------------------------------------
 3x Lazverinus, Thrall of Lambach   10  AUS DOM FOR POT pro   archbishop   Ventrue antitribu:2

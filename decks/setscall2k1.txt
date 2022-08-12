@@ -9,7 +9,6 @@ Hans Nemeczek
 -- Unknown
 
 Deck Name: Laurent the wannabe-malk n his crew
-
 Crypt (12 cards, min=11 max=21 avg=4.0)
 ---------------------------------------
 2x Laurent de Valois   4  ani dom obf          Nosferatu:2

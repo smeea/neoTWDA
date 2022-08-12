@@ -9,6 +9,7 @@ Pierre Tran-Van
 -- Unknown
 
 Deck Name: Elimelech le Sociopathe
+Author: Loriane & Evan
 
 Crypt (12 cards, min=18 max=44 avg=7.5)
 ---------------------------------------

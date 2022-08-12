@@ -9,7 +9,6 @@ Djordje Sutic
 -- Unknown
 
 Deck Name: Lucian the Perfect
-
 Crypt (12 cards, min=15 max=44 avg=7.08)
 ----------------------------------------
 5x Lucian, the Perfect   11  ANI AUS DOM OBF POT PRE      Guruhi:4

@@ -9,7 +9,6 @@ Matthew Hirsch
 -- Unknown
 
 Deck Name: I Put On My Robe And Wizard Hat
-
 Description:
 Old school Tremere weenies with a focus on blood efficiency.
 

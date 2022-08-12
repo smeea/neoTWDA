@@ -9,7 +9,6 @@ Bob Joseph
 -- Unknown
 
 Deck Name: Imbued 1.0
-
 Description:
 Thanks to Matthew Morgan for the idea.
 

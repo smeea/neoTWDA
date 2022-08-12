@@ -9,7 +9,6 @@ Robyn Tatu
 -- Unknown
 
 Deck Name: Grand Toreador
-
 Crypt (12 cards, min=29 max=43 avg=9.17)
 ----------------------------------------
 3x Alexandra            11  ANI AUS CEL PRE dom       inner circle   Toreador:2

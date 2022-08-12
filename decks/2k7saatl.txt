@@ -9,7 +9,6 @@ John Newquist
 -- Unknown
 
 Deck Name: Those Who Endure
-
 Description:
 Darby Dance with LotN updates. Needs 1 Unlicensed Taxicab.
 

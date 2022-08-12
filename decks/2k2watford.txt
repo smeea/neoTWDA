@@ -9,7 +9,6 @@ Pierre Rebstock
 -- Unknown
 
 Deck Name: Blessing of Kupala
-
 Crypt (12 cards, min=12 max=32 avg=5.67)
 ----------------------------------------
 4x Sascha Vykos, The Angel of Caine   8  AUS THA VIC ani dom   priscus   Tzimisce:2

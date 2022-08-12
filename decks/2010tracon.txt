@@ -9,7 +9,6 @@ Otso Saariluoma
 -- Unknown
 
 Deck Name: DnD (Derange & Dementia)
-
 Description:
 The classic combo with some new cards. Enkil Cog makes targeting the
 right vampires easier. Bring out Unmada first, Cybele second and Lutz

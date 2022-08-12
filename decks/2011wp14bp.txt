@@ -9,7 +9,6 @@ Marcin Watras
 -- Unknown
 
 Deck Name: Una Freaky Wall
-
 Description:
 It's rather simple - equip and rush/block.
 

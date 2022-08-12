@@ -9,7 +9,6 @@ Kelly Schultz
 -- Unknown
 
 Deck Name: The Kelly Highway
-
 Crypt (12 cards, min=37 max=44 avg=10.42)
 -----------------------------------------
 1x Adana de Sforza         11  CEL OBF POT PRE PRO aus   inner circle   Brujah:4

@@ -9,7 +9,6 @@ Bram Vink
 -- Unknown
 
 Deck Name: Gangrel
-
 Description:
 Wanting to play a deck without bounce, my eye fell on gangrel royalty.
 This is what i made of it. After the tournament I would scratch the

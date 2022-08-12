@@ -9,7 +9,6 @@ Caroline Hyll
 -- Unknown
 
 Deck Name: I want to build a block deck, too
-
 Description:
 AUS ANI FOR block deck.
 

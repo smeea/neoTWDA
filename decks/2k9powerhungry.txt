@@ -9,7 +9,6 @@ Jackson Iribarren
 -- Unknown
 
 Deck Name: Pander Equipments & Bleed
-
 Crypt (24 cards, min=4 max=8 avg=1.38)
 --------------------------------------
 2x Christine Boscacci         2  dom vic      Pander:2

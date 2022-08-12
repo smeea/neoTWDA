@@ -9,7 +9,6 @@ Caetano Foschini
 -- Unknown
 
 Deck Name: Ô Abre Alas,Que a corente vai passar!
-
 Description:
 A simple Giovanni Powerbleed deck for Carnival
 

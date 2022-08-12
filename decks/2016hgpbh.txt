@@ -9,6 +9,7 @@ Zsolt Cziraki
 -- Unknown
 
 Deck Name: Let's go to Gym!
+Author: Gyula Erdős
 
 Crypt (12 cards, min=15 max=40 avg=7.0)
 ---------------------------------------

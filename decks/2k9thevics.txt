@@ -9,7 +9,6 @@ Jason Ryan
 -- 3vp in the final
 
 Deck Name: The Beautiful People
-
 Description:
 Very reslient deck, but not really capable of fast ousts.
 Need to do something to speed it up. Giant's Blood was gold all day.

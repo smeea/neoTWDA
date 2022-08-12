@@ -9,7 +9,6 @@ Thiago Sousa
 -- Unknown
 
 Deck Name: Inner Circle
-
 Crypt (12 cards, min=36 max=44 avg=10.33)
 -----------------------------------------
 3x Adana de Sforza         11  CEL OBF POT PRE PRO aus   inner circle   Brujah:4

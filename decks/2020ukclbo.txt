@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9622
 -- 1gw6 + 4vp in the final
 
 Deck Name: Italian Ladies and Gentlemen
-
 Crypt (12 cards, min=4 max=25 avg=3.75)
 ---------------------------------------
 4x Anarch Convert       1                       Caitiff:ANY

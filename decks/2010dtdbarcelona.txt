@@ -9,7 +9,6 @@ Gabriel Ron
 -- Unknown
 
 Deck Name: Marchas de tranquis
-
 Description:
 Based on a deck by Linus Garriga/Iñaki Jimenez
 

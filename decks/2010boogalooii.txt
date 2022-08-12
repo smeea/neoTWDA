@@ -9,7 +9,6 @@ Simon Reed
 -- Unknown
 
 Deck Name: My AAA
-
 Description:
 Assault Rifles are fun!
 

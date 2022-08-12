@@ -9,7 +9,6 @@ Tristan Ducousso
 -- Unknown
 
 Deck Name: TWD Edge of the World
-
 Crypt (12 cards, min=7 max=26 avg=4.08)
 ---------------------------------------
 3x Omaya            7  ANI AUS FOR pro      Gangrel antitribu:2

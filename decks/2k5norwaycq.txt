@@ -9,7 +9,6 @@ Arild Mehn Andersen
 -- Unknown
 
 Deck Name: Tørrgjær
-
 Crypt (12 cards, min=13 max=32 avg=6.25)
 ----------------------------------------
 2x Constanza Vinti                8  CEL DOM POT           prince     Brujah:2

@@ -9,7 +9,6 @@ Darby Keeney
 -- Unknown
 
 Deck Name: Govern is Weak Sauce
-
 Description:
 Based on/Inspired by: Original deck design.
 

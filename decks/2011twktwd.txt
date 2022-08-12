@@ -9,7 +9,6 @@ Craig Love
 -- Unknown
 
 Deck Name: Old School
-
 Description:
 Deck description: Immortal Grapples with a splash of fresh new hate.
 

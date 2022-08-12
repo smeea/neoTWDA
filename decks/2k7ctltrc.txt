@@ -9,7 +9,6 @@ Jonathan Long
 -- Unknown
 
 Deck Name: Are you agitated yet?
-
 Description:
 Mid Cap Settite Vote/Reckless Agitation
 

@@ -9,7 +9,6 @@ Reetta Lehikoinen
 -- Unknown
 
 Deck Name: Imbued to win
-
 Crypt (12 cards, min=12 max=16 avg=3.67)
 ----------------------------------------
 2x Jennifer "Flame61" Vidisania   4  ven vis          Avenger:4

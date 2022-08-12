@@ -9,7 +9,6 @@ Hernán Rodríguez
 -- 4vp in the final
 
 Deck Name: Nocturnos
-
 Crypt (12 cards, min=14 max=22 avg=4.67)
 ----------------------------------------
 2x Onaedo                  6  DOM OBT aus pot            Lasombra:4

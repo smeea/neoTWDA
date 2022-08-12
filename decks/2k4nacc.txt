@@ -9,7 +9,6 @@ Christian Chénard
 -- Unknown
 
 Deck Name: Second Chance to Embrace
-
 Crypt (12 cards, min=8 max=27 avg=4.33)
 ---------------------------------------
 3x Jost Werner                   6  AUS PRE ani                Toreador antitribu:2

@@ -9,7 +9,6 @@ Jonatan Sjöberg
 -- Unknown
 
 Deck Name: Combine Honnete Ober Advancer Mercantiles
-
 Description:
 Don't stop, never give up.
 

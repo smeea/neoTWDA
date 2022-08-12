@@ -9,7 +9,6 @@ Julian Gatt
 -- Unknown
 
 Deck Name: Omaya Wall
-
 Crypt (12 cards, min=12 max=28 avg=5.25)
 ----------------------------------------
 4x Omaya                 7  ANI AUS FOR pro            Gangrel antitribu:2

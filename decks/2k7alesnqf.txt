@@ -9,7 +9,6 @@ Orian Gissler
 -- Unknown
 
 Deck Name: Gepetto Giovanni
-
 Crypt (12 cards, min=10 max=26 avg=4.58)
 ----------------------------------------
 2x Andrea Giovanni       7  DOM NEC pot vic      Giovanni:2

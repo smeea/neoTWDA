@@ -9,7 +9,6 @@ Csaba Greguss
 -- 3vp in the final
 
 Deck Name: Take Banjoko's Hand
-
 Description:
 Lasombra power bleed, with Black Hand flavor.
 

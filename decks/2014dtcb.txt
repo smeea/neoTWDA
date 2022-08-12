@@ -9,7 +9,6 @@ Tiago Deividy Bento Serafim
 -- Unknown
 
 Deck Name: Giovanni Shambling Bleed
-
 Crypt (12 cards, min=16 max=29 avg=5.75)
 ----------------------------------------
 2x Andrea Giovanni                            7  DOM NEC pot vic          Giovanni:2

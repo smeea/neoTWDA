@@ -9,7 +9,6 @@ David Cherryholmes
 -- Unknown
 
 Deck Name: So Long, and Thanks For all the Fish
-
 Description:
 Timing is key for this deck. Park the Week under a Storage Annex until
 the time is right. Bleed lightly but consistently during the early and

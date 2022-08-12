@@ -9,7 +9,6 @@ Martin Tremblay
 -- Unknown
 
 Deck Name: Top Dog
-
 Crypt (24 cards, min=4 max=14 avg=1.58)
 ---------------------------------------
 18x Tupdog         1  POT VIS          Gargoyle:3

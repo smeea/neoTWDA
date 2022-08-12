@@ -9,7 +9,6 @@ John Eno
 -- Unknown
 
 Deck Name: Army of Shadows
-
 Description:
 Get out lots of Lasombra and win.
 

@@ -9,7 +9,6 @@ Rob Treasure
 -- Unknown
 
 Deck Name: "The smell of victory"
-
 Crypt (15 cards, min=11 max=16 avg=3.67)
 ----------------------------------------
 1x Aleph                       4  AUS dom          Malkavian:1

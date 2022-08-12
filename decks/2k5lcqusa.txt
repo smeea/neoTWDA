@@ -9,7 +9,6 @@ Andreas Nusser
 -- Unknown
 
 Deck Name: Zigeunerfasching
-
 Description:
 original deck creation idea by Kamel Senni
 

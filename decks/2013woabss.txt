@@ -9,7 +9,6 @@ Petteri Teerikangas
 -- Unknown
 
 Deck Name: Unnamed cruising at Baltic Sea
-
 Description:
 Unnamed deck using maleficia; greater curses for
 gaining more pool and slowing down combat decks, evil eyes

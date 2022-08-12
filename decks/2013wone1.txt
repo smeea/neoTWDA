@@ -9,7 +9,6 @@ Mikkel Petersen
 -- Unknown
 
 Deck Name: Team Jacob
-
 Description:
 Get out Jacob and an Akunanse. Stay sober. Win.
 

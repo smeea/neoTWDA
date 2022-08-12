@@ -9,7 +9,6 @@ Ian Lee
 -- Unknown
 
 Deck Name: Weapon Not Found
-
 Description:
 My decks do things besides bleed ... at stealth. They also hunt.
 Um, Samedi stealth/unblockable bleed.

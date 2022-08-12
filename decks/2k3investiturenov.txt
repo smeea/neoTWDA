@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: Hmmm, Yeah, I'll Block That
-
 Crypt (12 cards, min=8 max=20 avg=3.58)
 ---------------------------------------
 3x General Perfidio Díos            5  AUS dem obf   bishop   Malkavian antitribu:3

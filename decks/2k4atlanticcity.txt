@@ -9,7 +9,6 @@ Ben Peal
 -- Unknown
 
 Deck Name: Cheesequake
-
 Description:
 This deck is total cheese. The qualifier was in
 New Jersey. There's a town in New Jersey called Cheesequake,

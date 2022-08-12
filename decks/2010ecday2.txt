@@ -9,7 +9,6 @@ Brian Moritz
 -- 3vp in the final
 
 Deck Name: 17 Wakes
-
 Description:
 http://www.secretlibrary.info/index.php?deck=view&id=4853
 

@@ -9,7 +9,6 @@ Kevin Mullen
 -- 5vp in the final
 
 Deck Name: All You Need Is Oust
-
 Description:
 The deck is straight forward offense. The only action in the deck that
 doesn't have any offensive potential is Carlton Van Wyck which I threw

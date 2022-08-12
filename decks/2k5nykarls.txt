@@ -9,7 +9,7 @@ Sven Helmer
 -- Unknown
 
 Deck Name: Anarch Diversion
-
+Author: Sven Helmer (inspired by Kevin Scribner's Anarchs Deck)
 Description:
 Toolboxy Anarch Deck with lots of Diversions
 

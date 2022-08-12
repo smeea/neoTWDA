@@ -9,7 +9,6 @@ Neil Muller
 -- Unknown
 
 Deck Name: Alicia Burrows Vote (This is not a Lutz deck)
-
 Description:
 Obf/Pre vote with Lutz
 

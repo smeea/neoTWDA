@@ -9,7 +9,6 @@ Ralf Lammert
 -- 3vp in the final
 
 Deck Name: Oh Pander My Pander
-
 Description:
 Some Pander deck.
 

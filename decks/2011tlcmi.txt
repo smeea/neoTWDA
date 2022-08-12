@@ -9,7 +9,6 @@ Gabriele Bugliani
 -- Unknown
 
 Deck Name: Flash Revenge 4
-
 Crypt (13 cards, min=6 max=32 avg=5.0)
 --------------------------------------
 4x Miller Delmardigan, Teacher of Bahari   8  CEL PRE aus pro   bishop   Toreador antitribu:2

@@ -9,7 +9,6 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: Rachel Brandyclaws
-
 Description:
 Stealth bleed with Protean for combat defense/offense.
 Bleed for 2 or 3 at stealth. Use Form of Mist to minimize bounce

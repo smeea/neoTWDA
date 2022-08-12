@@ -9,6 +9,7 @@ Julien Guérand
 -- Unknown
 
 Deck Name: Even the War Ghouls Look Nervous
+Author: Brandon Haas
 
 Crypt (12 cards, min=13 max=21 avg=4.5)
 ---------------------------------------

@@ -9,7 +9,6 @@ Jyri Puhakka
 -- 3vp in the final
 
 Deck Name: Mummies with style
-
 Description:
 This is a modified version of Izaak Havelaar's Mummy deck.
 I agree with points made by Izaak but keeping the local

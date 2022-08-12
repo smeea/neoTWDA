@@ -9,7 +9,6 @@ Thalles Zaban
 -- Unknown
 
 Deck Name: Na foto, a srta. Davis em momento de descontração com os amigos
-
 Crypt (12 cards, min=12 max=35 avg=5.83)
 ----------------------------------------
 1x Esau                           10  AUS DEM DOM OBF PRE              Malkavian:3

@@ -9,7 +9,6 @@ Krzysztof Lipnicki
 -- Unknown
 
 Deck Name: Elemelek
-
 Crypt (12 cards, min=21 max=44 avg=7.92)
 ----------------------------------------
 4x Elimelech the Twice-Damned   11  AUS DEM DOM FOR OBF pro      Ventrue antitribu:5

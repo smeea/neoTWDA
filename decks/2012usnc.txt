@@ -9,7 +9,6 @@ Matt Guinn
 -- Unknown
 
 Deck Name: US Nats. 2012 Dragon Con
-
 Crypt (12 cards, min=26 max=38 avg=8.0)
 ---------------------------------------
 3x Dmitra Ilyanova    9  CEL FOR POT PRE obf   justicar   Brujah:5

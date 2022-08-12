@@ -9,7 +9,6 @@ Emiliano Arnotti
 -- Unknown
 
 Deck Name: [Imb] We have one Conviction... MkII
-
 Description:
 Imbued deck
 

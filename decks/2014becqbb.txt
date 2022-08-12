@@ -9,7 +9,6 @@ Erol Hammer
 -- 2gw7 + 3vp in the final
 
 Deck Name: The Heyder
-
 Crypt (12 cards, min=34 max=40 avg=9.5)
 ---------------------------------------
 4x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2

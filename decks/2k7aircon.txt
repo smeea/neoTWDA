@@ -9,7 +9,6 @@ Jackson Iribarren
 -- Unknown
 
 Deck Name: Lasombra Político
-
 Crypt (12 cards, min=30 max=39 avg=8.67)
 ----------------------------------------
 3x Ambrosio Luis Monçada, Plenipotentiary   10  DOM OBT POT PRE aus for   cardinal     Lasombra:2

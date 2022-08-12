@@ -9,7 +9,6 @@ Rafael Pereira de Aguiar
 -- Unknown
 
 Deck Name: Rafinha Osebo Wall
-
 Crypt (12 cards, min=17 max=37 avg=6.67)
 ----------------------------------------
 3x Massassi           9  AUS CEL POT QUI obf                Osebo:4

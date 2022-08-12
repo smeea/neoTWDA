@@ -9,7 +9,6 @@ Walter Polack
 -- 4vp in the final
 
 Deck Name: Não tem eagle, vai de second
-
 Crypt (12 cards, min=20 max=37 avg=7.08)
 ----------------------------------------
 3x Lucian                 10  AUS DOM OBF cel tha   justicar   Malkavian:1

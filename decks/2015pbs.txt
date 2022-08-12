@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8056
 -- GW4 + GW4 + 0 + 2.5VP in final
 
 Deck Name: Baali Maleficia
-
 Crypt (12 cards, min=12 max=40 avg=5.33)
 ----------------------------------------
 8x Horde, The      3  dai obf pre              Baali:6

@@ -9,7 +9,6 @@ Mike Wilson
 -- Unknown
 
 Deck Name: the incidental bishops
-
 Crypt (12 cards, min=12 max=37 avg=6.58)
 ----------------------------------------
 3x Antón de Concepción       9  ANI DOM OBT POT aus       archbishop   Lasombra:4

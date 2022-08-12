@@ -9,7 +9,6 @@ Marko Saari
 -- Unknown
 
 Deck Name: Akunanse Tunnelrunner
-
 Crypt (12 cards, min=7 max=20 avg=3.33)
 ---------------------------------------
 3x Jacob Fermor     5  PRO ani tha      Gangrel:4

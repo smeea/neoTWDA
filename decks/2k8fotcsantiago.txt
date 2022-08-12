@@ -9,7 +9,6 @@ Jackson Iribarren
 -- 3vp in the final
 
 Deck Name: !Toreador Pistolero
-
 Crypt (12 cards, min=22 max=38 avg=7.5)
 ---------------------------------------
 3x Marthe Dizier        10  AUS CEL OBF PRE pro              Toreador antitribu:3

@@ -9,7 +9,6 @@ Balázs Kalóczkai
 -- Unknown
 
 Deck Name: Fast Sticks
-
 Crypt (12 cards, min=7 max=22 avg=3.67)
 ---------------------------------------
 2x Miguel Santo Domingo     7  POT PRE cel for      Brujah antitribu:3

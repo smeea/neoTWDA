@@ -9,7 +9,6 @@ Adrien Boucher
 -- Unknown
 
 Deck Name: Ghouls' n Dragons
-
 Description:
 Wall Control
 

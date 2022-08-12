@@ -9,7 +9,6 @@ Teemu Sainomaa
 -- Unknown
 
 Deck Name: Power of Auspex
-
 Description:
 I thought now that we have better prices and high cost
 for the tournament, there would be more S/B decks. Pool gain was good

@@ -9,7 +9,6 @@ Pascal Bertrand
 -- Unknown
 
 Deck Name: True Brujah Wall
-
 Description:
 The deck is fairly resilient. It's some kind of Una mono-vampire
 machine, with intercept provided by the Anima Gatherings (so, yes,

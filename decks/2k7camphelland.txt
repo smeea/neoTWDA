@@ -9,7 +9,6 @@ Joel Toledo
 -- Unknown
 
 Deck Name: Arika's Stranglehold
-
 Crypt (12 cards, min=18 max=44 avg=8.5)
 ---------------------------------------
 4x Arika                             11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2

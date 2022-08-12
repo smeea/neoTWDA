@@ -9,6 +9,7 @@ Hugh Angseesing
 -- Unknown
 
 Deck Name: Mirroring the Mission
+Author: 'Stoffe' / Christopher
 
 Crypt (13 cards, min=10 max=20 avg=3.77)
 ----------------------------------------

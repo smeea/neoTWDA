@@ -9,7 +9,6 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: Bad Medicine
-
 Description:
 It's bad medicine because leeches and Molotov cocktails
 are bad for you and will not make you well.

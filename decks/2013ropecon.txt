@@ -9,7 +9,6 @@ Toni Karjalainen
 -- 4vp in the final
 
 Deck Name: Nakhthorheb
-
 Crypt (12 cards, min=16 max=40 avg=7.75)
 ----------------------------------------
 5x Nakhthorheb      10  OBF PRE SER                         Ministry:4

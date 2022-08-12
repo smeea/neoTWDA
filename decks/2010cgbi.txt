@@ -9,7 +9,6 @@ Roberto Venturi
 -- Unknown
 
 Deck Name: Nephandi Leech
-
 Crypt (12 cards, min=14 max=20 avg=4.5)
 ---------------------------------------
 6x Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4

@@ -9,7 +9,6 @@ Robert Scythe
 -- 3.5vp in the final
 
 Deck Name: Animal Trackers
-
 Description:
 This was a rather old deck that had been updated
 with newer cards for kicks. I hardly played it, however, because

@@ -9,6 +9,7 @@ Ginés Quiñonero
 -- 2gw7 + 4vp in the final
 
 Deck Name: Loony Bin
+Author: Cameron Roberts (modified by Ginés Quiñonero)
 
 Crypt (12 cards, min=14 max=40 avg=7.0)
 ---------------------------------------

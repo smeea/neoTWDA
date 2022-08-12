@@ -9,7 +9,6 @@ Miguel Hernández Padilla
 -- Unknown
 
 Deck Name: Mejor no entres en la reunión
-
 Crypt (13 cards, min=10 max=22 avg=4.08)
 ----------------------------------------
 2x Rake                           6  PRE aus cel pot   prince   Brujah:1

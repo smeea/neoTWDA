@@ -9,7 +9,6 @@ Daniel Wiberg
 -- Unknown
 
 Deck Name: Den bästa svenska leken
-
 Description:
 Based on the deck "Drogögon mitt i ansiktet - wall ghouls" by Erik
 Torstensson with a few alterations. Sadly, no turn one Ossian.

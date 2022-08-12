@@ -9,7 +9,6 @@ Luca Visonà
 -- 5vp in the final
 
 Deck Name: Baali Boons
-
 Crypt (12 cards, min=12 max=35 avg=6.0)
 ---------------------------------------
 4x Horde, The                3  dai obf pre                      Baali:6

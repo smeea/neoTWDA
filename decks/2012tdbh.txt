@@ -9,7 +9,6 @@ Péter Botos
 -- Unknown
 
 Deck Name: Prodomination v2
-
 Description:
 A little bit tweaked version of my old TWD.
 I added two DTs to adopt to lot of political decks in the

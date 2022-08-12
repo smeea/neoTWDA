@@ -9,7 +9,6 @@ Kevin J. Wiebe
 -- Unknown
 
 Deck Name: Pulse of the Canaille (!Malkavian)
-
 Description:
 They lurk in the darkness. They are the shadow
 that chills the heart. They are fear and loathing. They know

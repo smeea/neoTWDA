@@ -9,7 +9,6 @@ Paul Choquette
 -- Unknown
 
 Deck Name: Lasombra Uber threat 90 cards
-
 Description:
 I built this deck the night before, and it was completely untested.
 There are a lot of changes that I would have made to it if I did it

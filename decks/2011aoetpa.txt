@@ -9,7 +9,7 @@ Erol Hammer
 -- 3vp in the final
 
 Deck Name: Destructo
-
+Author: Erol (Original Version by Ivan Marin-Rivas)
 Description:
 Original Version had 15 Ashurs, 8 Liquidation and 3 Heroic Mights.
 I reduced the numbers and put some Villeins in. IMHO it helped

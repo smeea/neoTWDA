@@ -9,7 +9,7 @@ David Magri
 -- Unknown
 
 Deck Name: Baratas Final Solution
-
+Author: Equipe DominioSP
 Description:
 In the End, only the 'roaches will survive.
 

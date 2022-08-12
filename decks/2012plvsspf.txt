@@ -9,7 +9,6 @@ Arkadiusz Modzelewski
 -- 4vp in the final
 
 Deck Name: Tap And Bleed
-
 Description:
 Based on Randal Rudstam's "Singing in the ground v2.0"
 deck with some minor changes

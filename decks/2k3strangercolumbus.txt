@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: Break Stuff - 1st place Columbus, OH 1-11-03
-
 Description:
 Switched out a bit of the combat and some of the
 reactions for more Computer Hackings. It gave the deck more teeth as

@@ -9,7 +9,6 @@ Johannes Walch
 -- Unknown
 
 Deck Name: Amazing Belly Necklace
-
 Description:
 Straightforward Ventrue Law Firm. 16 Majesty instead of Freak Drive
 and Fortitude Prevent Damage cards for better cardflow and better

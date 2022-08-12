@@ -9,7 +9,6 @@ Sergio Gracia
 -- 3GW & 11VP
 
 Deck Name: Lasombra Nocturna
-
 Crypt (12 cards, min=8 max=28 avg=4.58)
 ---------------------------------------
 2x Anarch Convert          1                           Caitiff:ANY

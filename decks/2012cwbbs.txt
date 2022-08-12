@@ -9,7 +9,6 @@ Genís Prats
 -- 4vp in the final
 
 Deck Name: Alamut's Horror Museum
-
 Description:
 Score: 4 + 0 + 4 + 4 (final)
 

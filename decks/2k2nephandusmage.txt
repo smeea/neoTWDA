@@ -9,7 +9,6 @@ Scott Gomes
 -- Unknown
 
 Deck Name: When Keebler Elves go bad.
-
 Description:
 Was supposed to be a bruise and bleed but worked better as a
 opportunity power stealth bleed with casual intercept combat.

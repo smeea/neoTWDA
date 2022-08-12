@@ -9,7 +9,6 @@ Bram Van Stappen
 -- Unknown
 
 Deck Name: Anneke - Trimmed
-
 Crypt (12 cards, min=23 max=40 avg=7.92)
 ----------------------------------------
 4x Anneke            10  AUS CEL PRE dom   justicar   Toreador:1

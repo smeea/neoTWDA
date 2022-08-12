@@ -9,7 +9,6 @@ Itamar Goncalves Jr.
 -- Unknown
 
 Deck Name: Honeymoon in Baltimore. Starring: Arika and Vitel
-
 Crypt (13 cards, min=23 max=42 avg=8.54)
 ----------------------------------------
 4x Marcus Vitel         10  DOM FOR OBF OBT PRE       prince         Ventrue:3

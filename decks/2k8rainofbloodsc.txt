@@ -9,7 +9,6 @@ Waldo Peyrau
 -- Unknown
 
 Deck Name: Guruhi Votos Combate
-
 Crypt (12 cards, min=30 max=40 avg=8.67)
 ----------------------------------------
 2x Ugadja                  10  ABO ANI POT PRE dom for   magaji       Guruhi:4

@@ -9,7 +9,6 @@ Tomasz Izydorczyk
 -- 2gw6 + 3vp in the final
 
 Deck Name: Howler
-
 Crypt (12 cards, min=9 max=32 avg=5.58)
 ---------------------------------------
 4x Howler             8  ANI PRE SPI obf      Ahrimane:2

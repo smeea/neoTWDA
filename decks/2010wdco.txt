@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: The Muppet Crusade
-
 Description:
 Make as many little Muppets as possible, then it's time to start the show.
 Thanks to Waldorf's Foundation Exhibit let your Muppets take Manhatten (or

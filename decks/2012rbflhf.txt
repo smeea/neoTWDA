@@ -9,7 +9,7 @@ Juha Nyholm
 -- 3vp in the final
 
 Deck Name: The Nosferatu Hate You! (version 6.0.0.1)
-
+Author: Originally by Peter Bakija. Very minor modifications by Juha Nyholm.
 Description:
 Efficient at sending vampires to torpor.
 The deck has a good card flow. I usually had 4 to 5 minions in play.

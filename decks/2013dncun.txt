@@ -9,7 +9,6 @@ Bram Van Stappen
 -- 1GW4 + 1.5 in final
 
 Deck Name: 419 911
-
 Description:
 Since most of the times your prey and grandprey make deals for bleeds of one
 and it's impossible to eagle's sight everything, I thought it might be worthwhile

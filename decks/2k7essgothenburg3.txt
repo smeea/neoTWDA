@@ -9,7 +9,7 @@ Christoffer Arvidsson
 -- Unknown
 
 Deck Name: Unnatural Disaster
-
+Author: Alex Ek and Erik Torstensson (based on pretty much every tupdog deck
 Description:
 out there), minor pre-tourney adjustments by Alex Ek and Christoffer Arvidsson
 Rather standard tupdog deck.

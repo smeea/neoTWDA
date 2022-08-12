@@ -9,7 +9,6 @@ Hernán Rodríguez
 -- Unknown
 
 Deck Name: Lasombra vote bleed
-
 Description:
 If you don't have votes, just bleed.
 

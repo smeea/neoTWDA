@@ -9,6 +9,7 @@ Kacper Marciniec
 -- 4vp in the final
 
 Deck Name: Only Madness
+Author: Tomasz Czech and Kacper "Kasper" Marciniec
 
 Crypt (12 cards, min=6 max=18 avg=3.0)
 --------------------------------------

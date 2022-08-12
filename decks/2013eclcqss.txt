@@ -9,7 +9,6 @@ Matti Palomäki
 -- 2gw7.5 + 2.5vp in the final
 
 Deck Name: Syyslilja
-
 Crypt (13 cards, min=4 max=32 avg=3.54)
 ---------------------------------------
 5x Anarch Convert   1                           Caitiff:ANY

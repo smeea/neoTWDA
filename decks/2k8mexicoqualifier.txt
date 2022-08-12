@@ -9,7 +9,6 @@ Matthew Morgan
 -- 5vp in the final
 
 Deck Name: La Cancion de la Patata Magica
-
 Description:
 I suppose there's not a ton of strategy here except that
 it's better to bleed for a lot with everyone than bleed for a lot with

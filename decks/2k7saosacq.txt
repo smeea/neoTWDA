@@ -9,7 +9,6 @@ David Magri da Silva
 -- Unknown
 
 Deck Name: Baratas'07 (In english: Roaches'07)
-
 Description:
 Uses embraces to create a horde of weenies, gains tons of
 pool with ConBoon + Foundation Exhibit and massive bleed with Palla

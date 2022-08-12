@@ -9,7 +9,6 @@ Nikolaj Wendt
 -- 1.5vp in the final
 
 Deck Name: Demons and Masters
-
 Description:
 An unsuccessful Cybele Baali bleed deck where I added
 Aksinya and Nana and 15 masters, and then it worked out well.

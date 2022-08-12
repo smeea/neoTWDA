@@ -9,7 +9,6 @@ Dave Lees
 -- 4vp in the final
 
 Deck Name: Detroit Rock City
-
 Crypt (12 cards, min=17 max=40 avg=7.0)
 ---------------------------------------
 4x Cailean                             10  ANI OBF POT PRE dom   archbishop   Nosferatu antitribu:2

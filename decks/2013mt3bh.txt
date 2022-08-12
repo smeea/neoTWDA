@@ -9,6 +9,7 @@ Baksa Nándor Peti
 -- 2vp in the final
 
 Deck Name: Tábla meg Pipi
+Author: Kovács István
 
 Crypt (12 cards, min=20 max=33 avg=6.83)
 ----------------------------------------

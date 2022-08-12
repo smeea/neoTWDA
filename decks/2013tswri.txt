@@ -9,7 +9,6 @@ Kym Alishahi
 -- Unknown
 
 Deck Name: Cock Robin Espionage Network
-
 Description:
 (Special thanks to Drace Zhan for introducing me to Alonzo
 Guillen as an addition to the crypt)

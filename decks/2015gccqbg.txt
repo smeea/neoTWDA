@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7952
 -- Unknown
 
 Deck Name: weenie fortitude: soaked
-
 Crypt (13 cards, min=6 max=12 avg=2.54)
 ---------------------------------------
 2x Lázár Dobrescu      3  for              Ravnos:2

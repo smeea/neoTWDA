@@ -9,6 +9,7 @@ Janne Lönnqvist
 -- 4vp in the final
 
 Deck Name: Lasombra S&B
+Author: Louis Gourdin (only addition, 2 Wash)
 
 Crypt (12 cards, min=17 max=26 avg=5.33)
 ----------------------------------------

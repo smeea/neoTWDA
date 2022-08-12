@@ -9,7 +9,6 @@ Stuart Pieloch
 -- Unknown
 
 Deck Name: It's all about the flow
-
 Description:
 Bi-2.0
 Untap+Intercept+Prevent followed by

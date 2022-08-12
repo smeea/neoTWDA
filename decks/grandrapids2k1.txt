@@ -9,7 +9,6 @@ Aaron Steele
 -- Unknown
 
 Deck Name: 'What I learned at the National Championship'...
-
 Description:
 or 'Yes I can block every action'
 

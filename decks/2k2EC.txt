@@ -9,7 +9,6 @@ Dave Bastijns
 -- Unknown
 
 Deck Name: Malkavian Bleed & Stealth
-
 Crypt (17 cards, min=10 max=28 avg=5.18)
 ----------------------------------------
 3x Gilbert Duane          7  AUS DOM OBF       prince   Malkavian:1

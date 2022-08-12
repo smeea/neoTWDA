@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7666
 -- 3vp in the final
 
 Deck Name: Gotsdam Block 1.11
-
 Crypt (12 cards, min=11 max=36 avg=5.67)
 ----------------------------------------
 4x Gotsdam, The Tired Warrior   9  AUS DOM FOR PRE ani            Ventrue:4

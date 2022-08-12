@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7541
 -- 3vp in the final
 
 Deck Name: Sempre Alerta!
-
 Crypt (12 cards, min=15 max=40 avg=7.42)
 ----------------------------------------
 3x Anson              8  CEL PRE aus dom           prince     Toreador:1

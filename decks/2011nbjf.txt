@@ -9,7 +9,6 @@ Tomi Sillanpää
 -- 3vp in the final
 
 Deck Name: The Unnamed
-
 Crypt (12 cards, min=12 max=40 avg=6.58)
 ----------------------------------------
 5x unnamed, The              10  CEL DAI OBF PRE PRO      Baali:6

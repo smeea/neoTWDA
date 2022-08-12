@@ -9,7 +9,6 @@ Daniel Boud
 -- Unknown
 
 Deck Name: Tribal Trouble
-
 Description:
 This is a fairly straight forward stealth vote deck using
 the Ishtarri plus a few friends. Ayo Igoli is team captain what with her

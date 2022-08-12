@@ -9,7 +9,6 @@ Ginés Quiñonero
 -- Unknown
 
 Deck Name: Nihil novum sub sole
-
 Crypt (12 cards, min=16 max=29 avg=5.5)
 ---------------------------------------
 2x Gillespi Giovanni                          7  DOM NEC POT aus          Giovanni:2

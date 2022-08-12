@@ -9,7 +9,7 @@ Otto Kallokoski
 -- Unknown
 
 Deck Name: Look, I'm playing Lasombra
-
+Author: Oko
 Description:
 Based on the multiple similar decks I saw
 and played against in the EC 2009.

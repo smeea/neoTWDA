@@ -9,7 +9,6 @@ Marcin Szybkowski
 -- 2gw9 + 0.5vp in the final
 
 Deck Name: Dogs of War
-
 Description:
 A Sabbat vote deck, because yes we can
 Suggested changes:

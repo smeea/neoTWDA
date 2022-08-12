@@ -9,7 +9,6 @@ Robert Holmberg
 -- Unknown
 
 Deck Name: Omaya säger nej
-
 Crypt (12 cards, min=12 max=33 avg=5.92)
 ----------------------------------------
 4x Omaya                    7  ANI AUS FOR pro                     Gangrel antitribu:2

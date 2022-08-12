@@ -9,7 +9,6 @@ Antero Leppänen
 -- 2GW5 (3rd seed) + 5VP in final
 
 Deck Name: The Dance of Nikolaus
-
 Crypt (12 cards, min=11 max=31 avg=5.58)
 ----------------------------------------
 3x Nikolaus Vermeulen          7  POT ani for obf       prince     Nosferatu:2

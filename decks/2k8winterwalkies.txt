@@ -9,7 +9,6 @@ Paul Coffey
 -- Unknown
 
 Deck Name: Leandro's Motley Crue
-
 Description:
 Pre/Obf/Aus high cap voting randomness
 

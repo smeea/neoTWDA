@@ -9,7 +9,6 @@ Rudolf Scholz
 -- 4vp in the final
 
 Deck Name: The Storage Procurers
-
 Description:
 Allies with Flash Grenades to keep troubles at bay.
 Storage Annex for card efficiency and a structured hand. Weenies and

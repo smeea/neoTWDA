@@ -9,7 +9,6 @@ Richard Auckland
 -- Unknown
 
 Deck Name: Weenie Obfuscate S&B Deck
-
 Description:
 Vermin Channels and dominate are key to this deck.
 

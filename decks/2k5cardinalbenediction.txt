@@ -9,7 +9,6 @@ Miguel Pascual
 -- Unknown
 
 Deck Name: Pesadilla Vudú (Woodoo Nightmare)
-
 Description:
 Bring out Shambling Hordes, play Temptations on vampires
 controlled by another Methuselah, and keep alive until you have a

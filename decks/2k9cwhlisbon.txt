@@ -9,7 +9,6 @@ Pedro Luís
 -- Unknown
 
 Deck Name: Masika, Prince of Lisbon
-
 Description:
 Wall Toreador G1/2 with guns
 

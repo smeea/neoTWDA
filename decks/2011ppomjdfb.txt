@@ -9,7 +9,6 @@ Luciano Villela
 -- 5vp in the final
 
 Deck Name: None Given
-
 Crypt (14 cards, min=6 max=19 avg=3.14)
 ---------------------------------------
 1x Jazz Wentworth                      5  PRE dom for          Ventrue:1

@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8753
 -- 1gw4 + 3vp in the final
 
 Deck Name: Black Jack
-
 Description:
 Some small changes from the last version, included Temptation and added OBF
 skill cards to allow support minions (Nana, Aksinya) to act as well.

@@ -9,7 +9,6 @@ Zoltan Komora
 -- Unknown
 
 Deck Name: Facing Mirror and Flame
-
 Crypt (12 cards, min=22 max=31 avg=6.67)
 ----------------------------------------
 2x Kij Dansky                    8  AUS DOM THA obt   priscus      Tremere antitribu:2

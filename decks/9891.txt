@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9891
 -- 4vp in the final
 
 Deck Name: Fogo no Parkinho
-
 Crypt (18 cards, min=4 max=14 avg=2.22)
 ---------------------------------------
 7x Anarch Convert   1                   Caitiff:ANY

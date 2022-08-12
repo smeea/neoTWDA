@@ -9,7 +9,7 @@ John Bell
 -- Unknown
 
 Deck Name: The Princess and her Mistress
-
+Author: Mark Loughman (slightly modified by John Bell)
 Description:
 When I came back to VTES about 2 years ago, I built Mark Loughman's
 "Traditional Princess" deck www.veknfrance.com/decks/twd.htm#2k9glrqco

@@ -9,7 +9,6 @@ James Messer
 -- Unknown
 
 Deck Name: Gothy Pants Blocks
-
 Crypt (12 cards, min=32 max=40 avg=9.0)
 ---------------------------------------
 3x Anneke            10  AUS CEL PRE dom           justicar   Toreador:1

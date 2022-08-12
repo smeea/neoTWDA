@@ -9,7 +9,6 @@ Oriol Pubill
 -- Unknown
 
 Deck Name: Bleed them all
-
 Description:
 Inspired by Ben Peal's Kiasyd Fastball
 

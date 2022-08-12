@@ -9,7 +9,6 @@ Matt Wedge
 -- 5vp in the final
 
 Deck Name: Hakuna Mata-Tas
-
 Description:
 Breed and Boon deck using Bamba and Eldest
 are Kholo as key cards.Losely based on Ravnos Clown Car

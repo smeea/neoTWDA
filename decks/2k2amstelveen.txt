@@ -9,7 +9,6 @@ Tim Eijpe
 -- Unknown
 
 Deck Name: Protect and Serve
-
 Description:
 A Smiling Jack deck with an equipment angle. Aus/aus
 vampires and 5 vampires using Magic of the Smith to get Pier 13 and

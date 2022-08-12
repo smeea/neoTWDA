@@ -9,7 +9,6 @@ Ben Swainbank
 -- Unknown
 
 Deck Name: Mad Fat Bastards
-
 Crypt (12 cards, min=16 max=38 avg=6.92)
 ----------------------------------------
 1x Nakhthorheb              10  OBF PRE SER                         Ministry:4

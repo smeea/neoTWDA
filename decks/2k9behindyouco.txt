@@ -9,7 +9,6 @@ Bob Joseph
 -- Unknown
 
 Deck Name: shamblers
-
 Crypt (12 cards, min=14 max=26 avg=5.0)
 ---------------------------------------
 3x Andrea Giovanni    7  DOM NEC pot vic      Giovanni:2

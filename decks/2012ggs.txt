@@ -9,7 +9,6 @@ Alexander Båskman
 -- Unknown
 
 Deck Name: Don't stop me now
-
 Crypt (12 cards, min=16 max=24 avg=5.0)
 ---------------------------------------
 2x Isanwayen               6  DOM MYT OBT                Kiasyd:4

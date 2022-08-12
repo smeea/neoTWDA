@@ -9,7 +9,6 @@ http://calendar.yahoo.com/YYY,49389/srt,0/vtesrep?v=4&t=1019898000&i=914&pv=2
 -- Unknown
 
 Deck Name: Pro + Aus + For = -Kiss of Ra + Torpor
-
 Crypt (12 cards, min=26 max=40 avg=7.83)
 ----------------------------------------
 4x Lazverinus, Thrall of Lambach   10  AUS DOM FOR POT pro   archbishop   Ventrue antitribu:2

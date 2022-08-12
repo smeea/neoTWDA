@@ -9,7 +9,6 @@ Ivan Chebunin
 -- 3vp in the final
 
 Deck Name: Special Girls
-
 Crypt (12 cards, min=36 max=43 avg=9.92)
 ----------------------------------------
 3x Arika                  11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2

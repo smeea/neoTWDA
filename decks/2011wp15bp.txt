@@ -9,7 +9,6 @@ Lukasz Modzelewski
 -- Unknown
 
 Deck Name: nana buruku weenie ani
-
 Description:
 based on Martin Major's mINIMAL sTYLE deck
 

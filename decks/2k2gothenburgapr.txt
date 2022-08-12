@@ -9,7 +9,6 @@ Johan Hansson
 -- Unknown
 
 Deck Name: Breed Bleed
-
 Crypt (12 cards, min=12 max=26 avg=4.83)
 ----------------------------------------
 2x Remilliard, Devout Crusader   4  AUS pre                    Toreador antitribu:2

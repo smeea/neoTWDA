@@ -9,7 +9,6 @@ Hernán Rodríguez
 -- Unknown
 
 Deck Name: No Secrets from the Akunanse
-
 Description:
 A control deck based in the card "No Secrets fron the
 Magaji" and the Akunanse clan. Guest starring: Ugadja

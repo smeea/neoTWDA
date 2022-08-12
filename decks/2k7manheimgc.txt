@@ -9,7 +9,6 @@ Ruben Feldman
 -- Unknown
 
 Deck Name: Pander Division
-
 Description:
 4gw14
 

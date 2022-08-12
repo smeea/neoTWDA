@@ -9,7 +9,6 @@ Jon Morris
 -- Unknown
 
 Deck Name: Echoes of Anarchy
-
 Crypt (12 cards, min=18 max=28 avg=5.75)
 ----------------------------------------
 3x Jost Werner                        6  AUS PRE ani          Toreador antitribu:2

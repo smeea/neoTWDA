@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9869
 -- 4vp in the final
 
 Deck Name: Salubri
-
 Crypt (12 cards, min=12 max=38 avg=6.33)
 ----------------------------------------
 3x Nahum Enosh         10  AUS OBE OBF VAL for pre      Salubri:6

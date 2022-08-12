@@ -9,7 +9,6 @@ David Tatu
 -- Unknown
 
 Deck Name: Animal Magnetism
-
 Crypt (12 cards, min=26 max=38 avg=7.83)
 ----------------------------------------
 2x Sheldon, Lord of the Clog                 9  ANI AUS OBF POT for       justicar       Nosferatu:1

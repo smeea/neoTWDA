@@ -9,7 +9,7 @@ Ruben Feldman
 -- Unknown
 
 Deck Name: Family Business
-
+Author: Ruben Feldman (and Amiel Feldman)
 Description:
 3GW9.5
 

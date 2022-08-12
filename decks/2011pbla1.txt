@@ -9,7 +9,6 @@ Robert Scythe
 -- Unknown
 
 Deck Name: Sobie and The Pussycats
-
 Crypt (12 cards, min=28 max=32 avg=7.67)
 ----------------------------------------
 4x Howler         8  ANI PRE SPI obf                    Ahrimane:2

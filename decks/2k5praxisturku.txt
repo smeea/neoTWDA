@@ -9,7 +9,6 @@ Matti Palomäki
 -- Unknown
 
 Deck Name: säävarauksella
-
 Description:
 Deck The idea of the deck is to use the Escaped Mental
 Patients with Flash Grenades for tapping, Revelations and Change of

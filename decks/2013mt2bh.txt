@@ -9,7 +9,6 @@ Péter Korsós
 -- 1.5vp in the final
 
 Deck Name: Elimelech goes to war
-
 Crypt (12 cards, min=18 max=44 avg=7.67)
 ----------------------------------------
 4x Elimelech the Twice-Damned   11  AUS DEM DOM FOR OBF pro            Ventrue antitribu:5

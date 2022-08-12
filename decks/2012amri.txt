@@ -9,7 +9,7 @@ Stefania Cantarelli
 -- 3vp in the final
 
 Deck Name: KIA01 - Stealthing Faeries
-
+Author: Emiliano Arnotti (Drugo)
 Description:
 DOM-MYT-OBT Stealth&Bleed MkV.
 

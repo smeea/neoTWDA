@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7418
 -- Unknown
 
 Deck Name: Un Mazzo Diversion
-
 Crypt (12 cards, min=4 max=20 avg=2.92)
 ---------------------------------------
 5x Anarch Convert     1                       Caitiff:ANY

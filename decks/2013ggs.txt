@@ -9,7 +9,6 @@ Stefan Karlsson
 -- Unknown
 
 Deck Name: Ban Giant's Blood
-
 Crypt (12 cards, min=35 max=40 avg=9.42)
 ----------------------------------------
 5x Angelica, The Canonicus                  10  DOM OBT POT cel obf       cardinal     Lasombra:2

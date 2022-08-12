@@ -9,7 +9,6 @@ Alex Minov
 -- 2gw9 + 4vp in the final
 
 Deck Name: Disarming Presence
-
 Description:
 bruiser bleed & vote
 

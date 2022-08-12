@@ -9,7 +9,6 @@ Ira Fay
 -- Unknown
 
 Deck Name: Gio hand size bruise/bleed
-
 Description:
 Get a giant hand size and win. It's fun! Cards I
 intended to include but couldn't find before the tournament: Benedict

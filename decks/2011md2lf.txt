@@ -9,7 +9,6 @@ Teemu Sainomaa
 -- Unknown
 
 Deck Name: Andre's ANI combat
-
 Crypt (12 cards, min=12 max=28 avg=4.33)
 ----------------------------------------
 3x Nana Buruku         8  ANI POT PRE      Guruhi:4

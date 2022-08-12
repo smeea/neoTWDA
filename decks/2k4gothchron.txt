@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: Blazing shadows
-
 Description:
 description: ordinary pre/obt-vote with some dominate for
 govern and deflection.

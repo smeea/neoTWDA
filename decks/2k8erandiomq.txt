@@ -9,7 +9,6 @@ Iñaki Jimenez
 -- Unknown
 
 Deck Name: Assamite Breed & Bloat
-
 Crypt (12 cards, min=12 max=32 avg=5.42)
 ----------------------------------------
 4x Amaravati            8  DOM OBF QUI ani chi      Banu Haqim:4

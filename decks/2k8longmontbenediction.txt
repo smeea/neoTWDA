@@ -9,7 +9,6 @@ Darby Keeney
 -- Unknown
 
 Deck Name: Mergen's Quandry
-
 Description:
 [CEL] gun
 

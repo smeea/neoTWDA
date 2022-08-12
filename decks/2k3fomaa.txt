@@ -9,7 +9,6 @@ David Wilson
 -- Unknown
 
 Deck Name: Might of the Camarilla
-
 Description:
 I voluntarily took out PTO since I feel the card needs to be more balanced.
 After all the Ravnos I saw, I wish I had them. Bring out 1 IC, call Might,

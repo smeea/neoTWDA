@@ -9,7 +9,6 @@ Iñaki Jimenez
 -- Unknown
 
 Deck Name: Overpowered
-
 Crypt (12 cards, min=27 max=43 avg=8.83)
 ----------------------------------------
 1x Alexandra         11  ANI AUS CEL PRE dom       inner circle   Toreador:2

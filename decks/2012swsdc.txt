@@ -9,7 +9,6 @@ Brian Moritz
 -- Unknown
 
 Deck Name: The Complex Machinations of the Mind of Fred Scott
-
 Crypt (12 cards, min=4 max=40 avg=5.67)
 ---------------------------------------
 6x Shalmath         10  POT PRE TEM      True Brujah:6

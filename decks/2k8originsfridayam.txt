@@ -9,7 +9,7 @@ Hugh Angseesing
 -- 4vp in the final
 
 Deck Name: Americano Mafiaoso
-
+Author: Hugh Angseesing & Ze Germans
 Description:
 Generally pretty strong - doesn't like too much
 combat (lost 5 Nephandus in one game to theft

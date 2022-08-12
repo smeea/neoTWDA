@@ -9,7 +9,6 @@ Tiago Brum
 -- Unknown
 
 Deck Name: Better Gents, Same Sticks, No Parity Shifts. Ever.
-
 Description:
 Govern Superior as much as possible.
 Most times, people don't see this deck as the table threat, even after 4 minions.

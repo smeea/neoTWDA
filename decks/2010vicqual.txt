@@ -9,7 +9,6 @@ Ivor Blockley
 -- Unknown
 
 Deck Name: Emergent Behavior
-
 Crypt (13 cards, min=36 max=40 avg=9.69)
 ----------------------------------------
 5x Cybele         10  ANI DAI OBF PRE SER THA             Baali:4

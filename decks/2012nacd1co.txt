@@ -9,7 +9,6 @@ Randal Rudstam
 -- 5vp in the final
 
 Deck Name: Schmutz ano 1537
-
 Crypt (12 cards, min=36 max=44 avg=10.0)
 ----------------------------------------
 4x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4

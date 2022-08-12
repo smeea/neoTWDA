@@ -9,7 +9,6 @@ Otso Saariluoma
 -- 3vp in the final
 
 Deck Name: AD&D (Advanced Derange & Dementia)
-
 Description:
 The same deck I played before, this time with slight
 alterations, as I found Unmada too important to miss in the opening

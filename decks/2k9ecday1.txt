@@ -9,7 +9,6 @@ Vincent Ripoll
 -- 4vp in the final
 
 Deck Name: Aim & Chain
-
 Crypt (12 cards, min=11 max=20 avg=4.0)
 ---------------------------------------
 2x Jephta Hester        5  DOM FOR aus          Ventrue antitribu:4

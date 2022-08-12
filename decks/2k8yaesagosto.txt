@@ -9,7 +9,6 @@ Iñaki Puigdollers
 -- Unknown
 
 Deck Name: Lucinde' s Bag-of-all-trades
-
 Crypt (12 cards, min=14 max=39 avg=6.83)
 ----------------------------------------
 3x Lucinde, Alastor           10  DOM FOR PRE obf pot tha   justicar     Ventrue:3

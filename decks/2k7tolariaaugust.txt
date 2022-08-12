@@ -9,7 +9,6 @@ Daniel Carretero Ferres
 -- Unknown
 
 Deck Name: Turbo Parity
-
 Description:
 Based on Legendary Nosferatu by Kamel Senni
 

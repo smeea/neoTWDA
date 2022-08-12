@@ -9,7 +9,6 @@ Chad Brinkley
 -- Unknown
 
 Deck Name: Birds of Prey
-
 Crypt (12 cards, min=18 max=31 avg=6.25)
 ----------------------------------------
 3x Howler             8  ANI PRE SPI obf          Ahrimane:2

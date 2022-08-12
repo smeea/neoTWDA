@@ -9,7 +9,6 @@ Luca Lanzarini
 -- 3vp in the final
 
 Deck Name: Lords of Serenity
-
 Crypt (12 cards, min=6 max=31 avg=4.83)
 ---------------------------------------
 3x Anatole, Prophet of Gehenna   8  AUS DEM OBF dom for      Malkavian:2

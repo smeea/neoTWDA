@@ -9,7 +9,6 @@ David Tatu
 -- 4vp in the final
 
 Deck Name: John's Powerless
-
 Description:
 Created after Witness1
 

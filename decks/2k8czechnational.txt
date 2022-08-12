@@ -9,7 +9,6 @@ Gyula Erdõs
 -- 3vp in the final
 
 Deck Name: Czech NC 2008 TWD
-
 Crypt (13 cards, min=10 max=27 avg=4.69)
 ----------------------------------------
 2x Nikolaus Vermeulen             7  POT ani for obf   prince   Nosferatu:2

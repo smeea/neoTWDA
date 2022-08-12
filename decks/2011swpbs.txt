@@ -9,7 +9,6 @@ Genís Prats
 -- Unknown
 
 Deck Name: Dementamites
-
 Crypt (12 cards, min=13 max=40 avg=7.25)
 ----------------------------------------
 5x Thucimia             10  CEL DEM OBF QUI for pro   1 vote   Banu Haqim:4

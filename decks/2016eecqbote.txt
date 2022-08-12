@@ -9,7 +9,6 @@ Hugh Angseesing
 -- 2.5 + 2.5 + 4VP in final
 
 Deck Name: Ghede Typhonic Beast
-
 Crypt (13 cards, min=17 max=40 avg=8.15)
 ----------------------------------------
 5x Ghede                        10  FOR OBF POT PRE SER            Ministry:6

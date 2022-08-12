@@ -9,7 +9,6 @@ Alessandro Donati
 -- Unknown
 
 Deck Name: Pandermonium
-
 Description:
 Fate Vobis.
 

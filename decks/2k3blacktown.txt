@@ -9,7 +9,6 @@ Chris Kellahan
 -- Unknown
 
 Deck Name: Created Dominion v1.1
-
 Description:
 This won me a 12 player tournament on the 9th of August 2003 (AP League
 round 1), held in Blacktown, Sydney. 3 rounds plus final. 1GW and 6

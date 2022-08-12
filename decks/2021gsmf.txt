@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9829
 -- 1gw5 + 0.5vp in the final
 
 Deck Name: Stanislava Vote/Bleed v1.7
-
 Crypt (13 cards, min=35 max=44 avg=9.92)
 ----------------------------------------
 5x Stanislava       11  ANI CEL DOM FOR PRO           inner circle   Gangrel:2

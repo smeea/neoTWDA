@@ -9,7 +9,6 @@ Peter Oh
 -- 4vp in the final
 
 Deck Name: Death Star Pete
-
 Crypt (12 cards, min=4 max=25 avg=3.5)
 --------------------------------------
 4x Anarch Convert       1                           Caitiff:ANY

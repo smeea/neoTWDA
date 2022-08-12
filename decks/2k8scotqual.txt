@@ -9,7 +9,6 @@ Edd Phipps
 -- 2.5vp in the final
 
 Deck Name: Would you like Haggis with that conditioning sir?
-
 Crypt (12 cards, min=15 max=27 avg=5.5)
 ---------------------------------------
 3x Iliana                7  DOM FOR PRO tha                Gangrel:2

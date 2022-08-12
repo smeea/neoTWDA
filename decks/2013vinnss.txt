@@ -9,7 +9,6 @@ Randal Rudstam
 -- Unknown
 
 Deck Name: Seven is the new six!
-
 Description:
 AGAIN Alexander Båskman has shown me the light,
 so the opponent can't calculate your bleed potential I added

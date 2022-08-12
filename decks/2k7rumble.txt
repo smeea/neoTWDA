@@ -9,7 +9,6 @@ Martin Gascon
 -- Unknown
 
 Deck Name: Foul Magnetism
-
 Crypt (12 cards, min=18 max=40 avg=7.33)
 ----------------------------------------
 4x Ysador the Foul    10  ANI DEM FOR OBF POT obt   cardinal     Nosferatu antitribu:4

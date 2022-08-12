@@ -9,7 +9,6 @@ Tibor Morocz
 -- Unknown
 
 Deck Name: Law Enforcement
-
 Description:
 Blessing of Chaos 2003: Bratislava - Winning Deck.
 Ventrue with Politics, Bleed, Deflections and Majesty. Hard to Catch,

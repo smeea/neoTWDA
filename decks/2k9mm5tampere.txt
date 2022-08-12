@@ -9,7 +9,6 @@ Heikki Palomäki
 -- Unknown
 
 Deck Name: Reflections
-
 Description:
 Hope to see no narrow minds
 

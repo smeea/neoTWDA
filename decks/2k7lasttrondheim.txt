@@ -9,6 +9,7 @@ John Ivar Sandvik
 -- 2gw7 + 4vp in the final
 
 Deck Name: I Love the Dead
+Author: John Ivar Sandvik (a design based on several SH decks out there)
 
 Crypt (12 cards, min=12 max=25 avg=4.42)
 ----------------------------------------

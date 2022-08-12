@@ -9,7 +9,6 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: Mummy Strength!
-
 Description:
 Get mummies. Block, fight, rush, bleed, win!
 

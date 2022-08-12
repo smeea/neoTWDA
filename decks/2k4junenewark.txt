@@ -9,7 +9,6 @@ Izaak Kemp
 -- Unknown
 
 Deck Name: Ravnarchs
-
 Description:
 Deck Concept (aka "what's this piece of crap?"):
 Get permanent resources out, go anarch, become barons, call votes,

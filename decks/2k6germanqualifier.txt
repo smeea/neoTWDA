@@ -9,7 +9,6 @@ Erol Hammer
 -- Unknown
 
 Deck Name: Erols Triple A
-
 Description:
 Survive and make a deal with someone who can oust.
 

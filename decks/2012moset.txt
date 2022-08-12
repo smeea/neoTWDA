@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: Silence is sexy
-
 Crypt (12 cards, min=11 max=28 avg=4.75)
 ----------------------------------------
 5x Tariq, The Silent                  7  AUS FOR OBF QUI cel      Banu Haqim:2

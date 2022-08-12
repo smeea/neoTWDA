@@ -9,7 +9,6 @@ Sten Düring
 -- Unknown
 
 Deck Name: Spying Mission
-
 Description:
 Obfuscate bleeder based on Spying Mission with some
 bleed and combatdefence.

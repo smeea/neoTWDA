@@ -9,7 +9,7 @@ Tomasz Kliszewski
 -- 2.5vp in the final
 
 Deck Name: Piper Ghoul
-
+Author: Lukasz Saczek
 Description:
 A deck put up two years ago by Lukasz Saczek for my appearence in Lublin as well.
 Since that very event, I had the opportunity to play with it on several occasions.

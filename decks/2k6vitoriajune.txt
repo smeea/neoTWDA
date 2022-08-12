@@ -9,7 +9,6 @@ Daniel Stefanutti
 -- Unknown
 
 Deck Name: Weenie animalism
-
 Crypt (12 cards, min=9 max=13 avg=2.83)
 ---------------------------------------
 1x Sennuwy, The Promoter          4  ani chi for      Ravnos:2

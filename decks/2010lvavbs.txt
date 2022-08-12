@@ -9,7 +9,6 @@ David Martín Berbel
 -- Unknown
 
 Deck Name: Hardestadt & Cia
-
 Crypt (12 cards, min=25 max=44 avg=8.83)
 ----------------------------------------
 4x Hardestadt             11  DOM FOR POT PRE cel pro       inner circle   Ventrue:4

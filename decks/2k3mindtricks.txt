@@ -9,7 +9,6 @@ Jason Ryan
 -- Unknown
 
 Deck Name: Hail to the Kings
-
 Description:
 Stock standard Ventrue vote/bloat. If it ain't broke,
 don't fix it baby.

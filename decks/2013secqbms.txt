@@ -9,7 +9,6 @@ Txus Alútiz Lizarraga
 -- Unknown
 
 Deck Name: Carna Governs
-
 Description:
 1GW5 + 1GW3 + 0 + 1.5 (win for position)
 

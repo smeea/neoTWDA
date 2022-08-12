@@ -9,7 +9,6 @@ Edward McGlynn
 -- Unknown
 
 Deck Name: I would have gotten away with it if it weren't for those meddling Toreador!
-
 Crypt (13 cards, min=13 max=29 avg=5.46)
 ----------------------------------------
 2x Ira Rivers                    7  AUS CEL ani pre       prince     Toreador:3

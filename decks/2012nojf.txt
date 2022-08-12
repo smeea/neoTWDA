@@ -9,7 +9,7 @@ Tomi Sillanpää
 -- Unknown
 
 Deck Name: Toreador Power Bleed
-
+Author: Aleksi Nuora (ever so slightly modified by Tomi Sillanpää)
 Description:
 Credit Aleksi for creating this fine deck. I swapped
 just a few cards from his list to add in an Enkil Cog, and a Metro

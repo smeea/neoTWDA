@@ -9,7 +9,6 @@ Neil Paananen
 -- Unknown
 
 Deck Name: The Lentil-Eaters
-
 Crypt (12 cards, min=21 max=40 avg=7.25)
 ----------------------------------------
 4x Esau                     10  AUS DEM DOM OBF PRE            Malkavian:3

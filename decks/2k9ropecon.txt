@@ -9,7 +9,6 @@ Adam Esbjörnsson
 -- Unknown
 
 Deck Name: Tutte bjuder till fest
-
 Description:
 The deck is best slow-played, not to show off too much
 dominate to keep the table guessing at whether you play combat or

@@ -9,7 +9,6 @@ Edward McGlynn
 -- Unknown
 
 Deck Name: Euro Brujah
-
 Description:
 We've all seen it before. Conditioning/Deflection and Torn
 Signpost/Immortal Grapple. Has an assortment of celerity and

@@ -9,7 +9,6 @@ Mattias Kallenberg
 -- 3vp in the final
 
 Deck Name: We Throw Parties, You Throw Knives
-
 Crypt (12 cards, min=16 max=16 avg=4.0)
 ---------------------------------------
 3x Jennifer "Flame61" Vidisania   4  ven vis      Avenger:4

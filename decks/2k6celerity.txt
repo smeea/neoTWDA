@@ -9,7 +9,6 @@ Robyn Tatu
 -- Unknown
 
 Deck Name: Troll Bridge Quiz
-
 Description:
 Toreador Bleed deck.
 My prey was an Inner Circle Deck in the final, played by Simeon Nagel.

@@ -9,7 +9,6 @@ Tony Wedd
 -- Unknown
 
 Deck Name: Dog Soldiers
-
 Description:
 I've had several versions of this deck over the years
 with Gangrel bloating plus Garous with Assault Rifles being the

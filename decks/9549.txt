@@ -9,6 +9,7 @@ https://www.vekn.net/event-calendar/event/9549
 -- Unknown
 
 Deck Name: Fifth Edition: Malkavian
+Author: Black Chantry Productions
 
 Crypt (12 cards, min=14 max=28 avg=5.42)
 ----------------------------------------

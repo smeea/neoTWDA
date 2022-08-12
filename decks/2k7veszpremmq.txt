@@ -9,7 +9,6 @@ Gergo Gyarmati
 -- Unknown
 
 Deck Name: Cheap, unimaginative Ahrimanes wall
-
 Crypt (12 cards, min=9 max=32 avg=5.67)
 ---------------------------------------
 4x Howler               8  ANI PRE SPI obf      Ahrimane:2

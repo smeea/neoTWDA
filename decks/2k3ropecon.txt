@@ -9,7 +9,6 @@ Riku Niittymäki
 -- Unknown
 
 Deck Name: toreador master deck
-
 Description:
 Riku Niittymäki has played this deck before in a few tournaments here in Finland
 with great success.

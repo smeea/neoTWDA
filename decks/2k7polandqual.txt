@@ -9,7 +9,6 @@ Michal 'ToY!' Kochanowski
 -- Unknown
 
 Deck Name: Malkavian Derange bloat
-
 Crypt (12 cards, min=30 max=43 avg=9.25)
 ----------------------------------------
 4x Lucian              10  AUS DOM OBF cel tha   justicar       Malkavian:1

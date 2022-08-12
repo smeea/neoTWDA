@@ -9,7 +9,6 @@ Erik Torstensson
 -- 1.5vp in the final
 
 Deck Name: Girls will find...
-
 Crypt (12 cards, min=36 max=44 avg=10.0)
 ----------------------------------------
 4x Cybele                  10  ANI DAI OBF PRE SER THA                  Baali:4

@@ -9,7 +9,6 @@ Otto Kallokoski
 -- Unknown
 
 Deck Name: Conglomerate of the People's Republic
-
 Crypt (12 cards, min=19 max=41 avg=7.67)
 ----------------------------------------
 2x Mary Anne Blaire      10  AUS DOM FOR PRE ani pot   justicar       Ventrue:5

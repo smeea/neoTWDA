@@ -9,7 +9,6 @@ James Messer
 -- 3vp in the final
 
 Deck Name: Beefcake's Toolbox
-
 Crypt (12 cards, min=26 max=39 avg=8.33)
 ----------------------------------------
 3x Lazverinus, Thrall of Lambach         10  AUS DOM FOR POT pro   archbishop   Ventrue antitribu:2

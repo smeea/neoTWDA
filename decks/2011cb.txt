@@ -9,6 +9,7 @@ Soufiane Bouzouf
 -- gw4, gw3, gw3 + 1.5VP in final
 
 Deck Name: La Onu
+Author: t.e.s (oriol)
 
 Crypt (12 cards, min=33 max=39 avg=9.0)
 ---------------------------------------

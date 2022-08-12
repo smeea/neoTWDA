@@ -9,6 +9,7 @@ Igor Pereira
 -- Unknown
 
 Deck Name: Weenie Celerity Sticks
+Author: Melkor Florindo
 
 Crypt (12 cards, min=7 max=16 avg=3.08)
 ---------------------------------------

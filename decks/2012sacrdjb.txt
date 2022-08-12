@@ -9,7 +9,6 @@ Sergio Nascimento
 -- Unknown
 
 Deck Name: Nephandi to Rule Them All
-
 Crypt (12 cards, min=13 max=20 avg=4.17)
 ----------------------------------------
 5x Antonio d'Erlette   5  THA dom for pot      Tremere antitribu:4

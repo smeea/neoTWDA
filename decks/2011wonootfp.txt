@@ -9,7 +9,6 @@ Johannes Walch
 -- Unknown
 
 Deck Name: Brujah Debate
-
 Description:
 Have 3+ Brujah Debate in play to control range and to control damage done.
 

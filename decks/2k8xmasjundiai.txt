@@ -9,7 +9,6 @@ Carlos Eduardo Ganso
 -- Unknown
 
 Deck Name: Nocturns Twins
-
 Crypt (12 cards, min=12 max=21 avg=4.25)
 ----------------------------------------
 2x Andrew Emory            5  OBT aus dom pot   bishop   Lasombra:4

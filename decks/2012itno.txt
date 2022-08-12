@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: Una + 1's
-
 Description:
 Pretty standard Una with 1 cap support for
 bleeds or Pentex removal. I threw the deck together at the

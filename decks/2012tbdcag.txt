@@ -9,7 +9,6 @@ David Baker
 -- Unknown
 
 Deck Name: Lutz brings Tablets
-
 Crypt (12 cards, min=34 max=44 avg=9.92)
 ----------------------------------------
 3x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot       inner circle   Malkavian:4

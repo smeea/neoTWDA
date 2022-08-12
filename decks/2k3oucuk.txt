@@ -9,7 +9,6 @@ Hugh Angseesing
 -- 4vp in the final
 
 Deck Name: Ven obf Politics
-
 Description:
 Ventrue Stealth Politics Deck.
 Future changes: Direct intervention, sudden reversal, kiss of ra, fortitude

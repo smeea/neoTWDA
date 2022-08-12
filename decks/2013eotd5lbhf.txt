@@ -9,7 +9,7 @@ Tuuli Myllynen
 -- Unknown
 
 Deck Name: Hmm, a werewolf I can has!
-
+Author: Petrus Makkonen / Tuuli Myllynen
 Description:
 Francois recruits Ossian the Yoda style, and takes an oust
 when the rest of the table take their time bickering and

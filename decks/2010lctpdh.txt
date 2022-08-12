@@ -9,7 +9,6 @@ Péter Korsós
 -- Unknown
 
 Deck Name: Temporatrix
-
 Description:
 Goratrix+ Pocket out of time = Endless combat
 

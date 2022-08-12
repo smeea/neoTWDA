@@ -9,7 +9,6 @@ Goran Damjanic
 -- 5vp in the final
 
 Deck Name: Le Giovanni
-
 Description:
 Recycled Deck from 2012 - 3GWs in 3 Rounds
 Giovanni Powerbleed

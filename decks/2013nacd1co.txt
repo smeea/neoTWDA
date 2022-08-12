@@ -9,7 +9,6 @@ Bill Troxel
 -- Unknown
 
 Deck Name: Meshenka 101
-
 Description:
 3GW (in 3R+F)
 This is a "training" deck that I made for a new player

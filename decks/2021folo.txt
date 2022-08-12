@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9768
 -- 3vp in the final
 
 Deck Name: Wraith Legion
-
 Crypt (12 cards, min=8 max=40 avg=6.08)
 ---------------------------------------
 4x Erlik             10  AUS CEL FOR NEC THN      Harbinger of Skulls:3

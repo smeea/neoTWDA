@@ -9,7 +9,6 @@ Hugh Angseesing
 -- 1 + GW3 + 5VP in final
 
 Deck Name: Tremere Origins 2016
-
 Crypt (12 cards, min=11 max=26 avg=4.75)
 ----------------------------------------
 2x Carna, The Princess Witch         7  AUS DOM THA       primogen   Tremere:3

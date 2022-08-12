@@ -9,7 +9,6 @@ Khervin Cheng Chua
 -- Unknown
 
 Deck Name: Oh My, Omaya!
-
 Description:
 Inspired by Derek Ray's Omaya Wall deck, this deck tools up a Country
 !Gangrel with Auspex (ideally Omaya) with raven spies and wall up to protect

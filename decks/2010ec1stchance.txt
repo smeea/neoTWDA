@@ -9,7 +9,6 @@ Jérôme Goyet
 -- 2GW8 with 1.5VP in final
 
 Deck Name: Out of Africa
-
 Description:
 No Secrets from the Magaji Animalism
 

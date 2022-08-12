@@ -9,7 +9,6 @@ Orian Gissler
 -- Unknown
 
 Deck Name: Collier of Love
-
 Crypt (12 cards, min=14 max=23 avg=4.67)
 ----------------------------------------
 3x Edward Vignes                     6  DOM PRE for          Ventrue:3

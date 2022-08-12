@@ -9,7 +9,6 @@ Luc-Olivier Lambermont
 -- 4vp in the final
 
 Deck Name: AAA-Cog
-
 Crypt (12 cards, min=20 max=42 avg=8.0)
 ---------------------------------------
 4x Anson              8  CEL PRE aus dom           prince         Toreador:1

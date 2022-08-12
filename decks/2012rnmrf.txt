@@ -9,7 +9,6 @@ Grigory Cherbakov
 -- Unknown
 
 Deck Name: Champion Grigoriy deck
-
 Description:
 Was made in an hour before the tournament by borrowing around.
 

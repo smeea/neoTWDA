@@ -9,7 +9,6 @@ Ginés Quiñonero
 -- Unknown
 
 Deck Name: One Nergal To Rule Them All
-
 Crypt (12 cards, min=12 max=40 avg=6.33)
 ----------------------------------------
 5x Nergal                 10  AUS DAI FOR OBF PRE THA      Baali:5

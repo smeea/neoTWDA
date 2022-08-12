@@ -9,7 +9,6 @@ Heikki Palomäki
 -- Unknown
 
 Deck Name: CHAIN reaction
-
 Description:
 more dominate = better
 

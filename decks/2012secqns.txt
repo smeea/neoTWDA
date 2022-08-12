@@ -9,7 +9,6 @@ Denis Mercante
 -- 3vp in the final
 
 Deck Name: Nocturn the Unaligned
-
 Crypt (12 cards, min=14 max=26 avg=5.17)
 ----------------------------------------
 2x Lord Vauxhall           7  DOM OBT POT THA            Lasombra:4

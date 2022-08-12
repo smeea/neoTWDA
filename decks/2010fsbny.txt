@@ -9,7 +9,6 @@ James Wilhelm
 -- Unknown
 
 Deck Name: These are My toys. There are many like them, but these
-
 Description:
 ones are Mine.
 

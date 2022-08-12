@@ -9,7 +9,6 @@ Michael Holmström
 -- Unknown
 
 Deck Name: Terrorist-lek
-
 Description:
 "It's a combat deck"
 

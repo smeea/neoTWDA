@@ -9,7 +9,7 @@ Thomas Gibson
 -- 3vp in the final
 
 Deck Name: Wicked Bleed
-
+Author: Thomas Gibson, based on Ferenc deck - without shatters
 Description:
 Bleed for one (bloat), then play your masters / retainers /
 enkil, then bleed for 8. Slow bleed stealth deck with good bloat and

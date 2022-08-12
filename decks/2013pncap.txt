@@ -9,6 +9,7 @@ Márcia Mota
 -- Unknown
 
 Deck Name: Deck da Márcia
+Author: Tiago Brum
 
 Crypt (12 cards, min=13 max=27 avg=4.92)
 ----------------------------------------

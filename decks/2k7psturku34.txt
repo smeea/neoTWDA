@@ -9,7 +9,6 @@ Antero Leppänen
 -- Unknown
 
 Deck Name: The Usual Suspects
-
 Description:
 a generic Imbued deck
 

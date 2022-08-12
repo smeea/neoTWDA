@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9142
 -- 2gw10 + 1.5vp in the final
 
 Deck Name: Little Big Ones
-
 Crypt (13 cards, min=4 max=8 avg=1.38)
 --------------------------------------
 1x Christine Boscacci                2  dom vic      Pander:2

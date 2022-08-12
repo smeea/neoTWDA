@@ -9,7 +9,6 @@ Danilo Torrisi
 -- Unknown
 
 Deck Name: Shambling Hordes
-
 Description:
 fast shambling hordes deck.
 

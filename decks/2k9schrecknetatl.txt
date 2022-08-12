@@ -9,7 +9,6 @@ Simeon Nagel
 -- Unknown
 
 Deck Name: Neighbor John goes dancing
-
 Description:
 3GWs on the day
 

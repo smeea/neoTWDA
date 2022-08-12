@@ -9,7 +9,6 @@ Gyula Erdõs
 -- Unknown
 
 Deck Name: Mackositas 1.1
-
 Crypt (12 cards, min=15 max=40 avg=7.0)
 ---------------------------------------
 2x Fakir al Sidi   11  ANI FOR PRE PRO THA abo            Gangrel:4

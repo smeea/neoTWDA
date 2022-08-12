@@ -9,7 +9,6 @@ Ben Swainbank
 -- Unknown
 
 Deck Name: Imperial March
-
 Description:
 This is a kinda Power Tools deck. It's toolboxy with a bunch of power
 cards with a focus on Celerity and Fortitude - combination with which

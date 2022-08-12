@@ -9,7 +9,6 @@ Erik Mossberg
 -- 3vp in the final
 
 Deck Name: Bleeding the Vignes
-
 Description:
 Variant of Ruben Feldmans classic concept.
 

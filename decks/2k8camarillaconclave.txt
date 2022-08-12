@@ -9,7 +9,6 @@ Claudio Soulié
 -- Unknown
 
 Deck Name: Enkidu
-
 Description:
 This is a Gangrel wall deck that does not bring
 out Enkidu first, but later in the game, when you have enough

@@ -9,7 +9,6 @@ Ferenc Vasadi
 -- Unknown
 
 Deck Name: EC day2 - 1st place
-
 Crypt (12 cards, min=12 max=43 avg=7.25)
 ----------------------------------------
 3x Alexandra                     11  ANI AUS CEL PRE dom       inner circle   Toreador:2

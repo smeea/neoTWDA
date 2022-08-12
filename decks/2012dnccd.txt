@@ -9,7 +9,6 @@ Rudolf Scholz
 -- Unknown
 
 Deck Name: Anson will find the Danish throne
-
 Description:
 Anson Tap & Bleed with Ashur & Liquidation
 Tusen tack til Isak Esbjörnsson Bjärmark og Alex Ek

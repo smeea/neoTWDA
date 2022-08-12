@@ -9,6 +9,7 @@ Tiago Rodrigues
 -- Unknown
 
 Deck Name: It is clever, but does it win?
+Author: Nuno Moure
 
 Crypt (12 cards, min=20 max=30 avg=6.17)
 ----------------------------------------

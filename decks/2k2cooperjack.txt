@@ -9,7 +9,6 @@ Jon Cooper
 -- Unknown
 
 Deck Name: Jacks Back Part 1
-
 Description:
 Let the anarchy spread....
 

@@ -9,7 +9,7 @@ Sérgio Martins
 -- Unknown
 
 Deck Name: Deck da Márcia
-
+Author: Tiago Brum
 Description:
 You bleed your prey and eventually trip over VPs.
 

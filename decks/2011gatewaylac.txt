@@ -9,7 +9,7 @@ Michael Courtois
 -- Unknown
 
 Deck Name: Nergal's a Beast
-
+Author: Matt Wedge & Robert Scythe based on a TWD by Tomàs López Jiménez
 Description:
 With the fragility of a combo deck such as this we decided
 to make it smaller and utilize Luc, as opposed to fortitiude buddies, for

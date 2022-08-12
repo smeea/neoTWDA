@@ -9,7 +9,6 @@ Danilo Torrisi
 -- 3vp in the final
 
 Deck Name: turbo shambling
-
 Crypt (12 cards, min=14 max=28 avg=5.17)
 ----------------------------------------
 2x Andrea Giovanni     7  DOM NEC pot vic      Giovanni:2

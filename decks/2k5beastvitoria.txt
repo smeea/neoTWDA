@@ -9,7 +9,6 @@ Ramon Moure
 -- Unknown
 
 Deck Name: Sabrina - Love in the Shadows
-
 Crypt (12 cards, min=12 max=44 avg=6.83)
 ----------------------------------------
 5x Enkidu, The Noah    11  ANI CEL OBF POT PRO for      Gangrel antitribu:4

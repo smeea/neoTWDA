@@ -9,7 +9,6 @@ Maciej Frankowiak
 -- Unknown
 
 Deck Name: Warghoulator
-
 Description:
 Player; Maciej Frankowiak
 

@@ -9,7 +9,6 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: Maureen and Heralds
-
 Description:
 Use Maureen to get Heralds of Topheth at reduced cost.
 Rush, bleed and deflect to victory. I would not have won, but it seems

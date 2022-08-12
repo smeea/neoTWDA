@@ -9,7 +9,6 @@ Desso Alastor
 -- 3vp in the final
 
 Deck Name: Demolidor
-
 Crypt (12 cards, min=5 max=15 avg=2.42)
 ---------------------------------------
 2x Lolita Houston         4  VIC aus          Tzimisce:2

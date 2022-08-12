@@ -9,7 +9,6 @@ Aaron Clark
 -- 4vp in the final
 
 Deck Name: Asylum Inmates Say "No Bueno"
-
 Description:
 Auspex wall deck using Sniper Rifles, with
 Blood Dolls & Asylum HG for pool/blood management and

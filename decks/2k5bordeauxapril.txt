@@ -9,7 +9,6 @@ François Morand
 -- Unknown
 
 Deck Name: Exhibitboon
-
 Crypt (16 cards, min=8 max=22 avg=3.88)
 ---------------------------------------
 2x Remilliard, Devout Crusader   4  AUS pre                  Toreador antitribu:2

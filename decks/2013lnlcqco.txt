@@ -9,7 +9,6 @@ Tiago Brum
 -- 1.5vp in the final
 
 Deck Name: Girls Will Find Revelations in America
-
 Description:
 Been using the version that the European Champion used,
 with some changes acording to my playstyle and the Portuguese environment.

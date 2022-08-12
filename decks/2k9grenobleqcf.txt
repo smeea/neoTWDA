@@ -9,7 +9,6 @@ Yannick Gibert
 -- Unknown
 
 Deck Name: Viens voir mon Gros Lulu
-
 Description:
 Terrorist deck, friend of all the players of the table
 

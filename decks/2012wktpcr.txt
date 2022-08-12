@@ -9,7 +9,6 @@ Martin Miller
 -- Unknown
 
 Deck Name: Princes & Pistols
-
 Description:
 3GW.
 

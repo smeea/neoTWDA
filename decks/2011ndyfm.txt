@@ -9,7 +9,6 @@ Brad Cashdollar
 -- Unknown
 
 Deck Name: Rich Rod's Angry Dragon
-
 Description:
 nosey Toreadors that shoot people ... a lot
 

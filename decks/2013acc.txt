@@ -9,7 +9,7 @@ Bann Lum
 -- 3vp in the final
 
 Deck Name: Mummify
-
+Author: unREMb
 Description:
 Should have replaced all of my crypt to 11-Cap Vampires
 (except 3x Halim Bey and Ahmose Chambers)

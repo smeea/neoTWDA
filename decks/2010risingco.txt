@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: Tatu Song
-
 Description:
 This is a staple deck I've kept built, inspired
 by one I watched Robyn Tatu play a number of years ago.

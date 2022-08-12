@@ -9,7 +9,6 @@ Matias Frosterus
 -- Unknown
 
 Deck Name: Matthew and Serenna Play with Marionettes
-
 Description:
 Matthew makes the Master selection a lot cheaper
 making it easy to live with the Scarce penalty. Having your prey

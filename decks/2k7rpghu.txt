@@ -9,6 +9,7 @@ Norbert Broda
 -- Unknown
 
 Deck Name: Provisions of Thetmes
+Author: Gyula Erdõs
 
 Crypt (12 cards, min=8 max=40 avg=5.5)
 --------------------------------------

@@ -9,7 +9,6 @@ Noel Giménez Infante
 -- 4vp in the final
 
 Deck Name: Ayo Igoli
-
 Crypt (12 cards, min=23 max=38 avg=7.58)
 ----------------------------------------
 3x Ayo Igoli           10  AUS CEL FOR PRE obf tha            Ishtarri:4

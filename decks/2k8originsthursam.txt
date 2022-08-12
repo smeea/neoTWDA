@@ -9,7 +9,6 @@ Bob Joseph
 -- 3vp in the final
 
 Deck Name: !Ventrue bleed when they can
-
 Description:
 Bleed when the opportunity arises. Delay votes.
 Bounce bleeds. No rocket science here.

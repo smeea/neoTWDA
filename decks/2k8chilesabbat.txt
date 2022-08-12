@@ -9,7 +9,6 @@ Gino Sepúlveda
 -- Unknown
 
 Deck Name: Ventrue Mary Anne Blaire
-
 Crypt (12 cards, min=23 max=40 avg=8.25)
 ----------------------------------------
 4x Mary Anne Blaire             10  AUS DOM FOR PRE ani pot   justicar   Ventrue:5

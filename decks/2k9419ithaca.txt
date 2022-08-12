@@ -9,7 +9,6 @@ Dave Clooney
 -- Unknown
 
 Deck Name: Kung Fu versus Robots
-
 Crypt (13 cards, min=4 max=23 avg=3.23)
 ---------------------------------------
 5x Anarch Convert    1                       Caitiff:ANY

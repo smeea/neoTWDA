@@ -9,7 +9,7 @@ Andy Kempton
 -- Unknown
 
 Deck Name: Settite Legal V4.0
-
+Author: Lance Shope
 Description:
 3 Game wins and 12VP.
 When I went in to the tourney, I was looking for something that would

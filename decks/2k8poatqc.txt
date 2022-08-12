@@ -9,7 +9,6 @@ Christian Marinelli
 -- Unknown
 
 Deck Name: Foundation for the Win
-
 Description:
 It's pretty straightforward. You kine, you con boon and
 you bleed until you win. You'd better be good at looking weak because

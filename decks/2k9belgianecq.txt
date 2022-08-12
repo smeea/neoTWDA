@@ -9,7 +9,6 @@ Sebastian Meurer
 -- 4vp in the final
 
 Deck Name: Cogwork Brussels
-
 Description:
 The deck is a Nosferatu multi-action toolbox with an
 emphasis on bleeding. The foundation of the deck is Cock Robin's

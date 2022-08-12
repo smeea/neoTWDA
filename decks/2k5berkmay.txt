@@ -9,7 +9,7 @@ David Sisson
 -- Unknown
 
 Deck Name: Four Hours Ago
-
+Author: ICL
 Description:
 Stealth bleed with extra combat. Simplified from a deck
 built around Darkling Trickery.

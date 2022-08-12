@@ -9,7 +9,6 @@ Hugo Dey
 -- Unknown
 
 Deck Name: El Color que cayo del Cielo
-
 Crypt (13 cards, min=21 max=32 avg=6.85)
 ----------------------------------------
 3x Little Tailor of Prague   8  ANI AUS VIC dem                 Tzimisce:2

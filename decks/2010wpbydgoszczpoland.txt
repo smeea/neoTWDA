@@ -9,7 +9,6 @@ Marcin Watras
 -- 3vp in the final
 
 Deck Name: Gabrin zaszywa swiat
-
 Description:
 Concept taken from: Akseli Jalava with some little tweaking
 Survive first, then win.

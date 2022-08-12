@@ -9,7 +9,7 @@ Antonio Cobo Cuenca
 -- Unknown
 
 Deck Name: Rom Ghouls
-
+Author: Antonio Cobo Cuenca based on Johannes Walch's deck
 Description:
 I got the idea from a Johannes' deck he played in Last Chance of
 French Championship 2007 in Paris. I loved the idea but I thought at

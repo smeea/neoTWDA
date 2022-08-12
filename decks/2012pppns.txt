@@ -9,7 +9,6 @@ Txus Alútiz Lizarraga
 -- Unknown
 
 Deck Name: Rabbat Lurker
-
 Crypt (12 cards, min=22 max=31 avg=6.75)
 ----------------------------------------
 4x Rabbat, The Sewer Goddess   7  ANI FOR OBF pot                  Nosferatu:4

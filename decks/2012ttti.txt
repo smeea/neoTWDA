@@ -9,7 +9,6 @@ Giulio Grimaldi
 -- 3vp in the final
 
 Deck Name: Arika chan
-
 Crypt (12 cards, min=27 max=43 avg=9.0)
 ---------------------------------------
 3x Arika                  11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2

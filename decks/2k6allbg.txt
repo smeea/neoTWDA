@@ -9,7 +9,6 @@ Ralf Lammert
 -- Unknown
 
 Deck Name: Doggie Just Wants To Play
-
 Description:
 Some "broken" Tupdog deck ...
 

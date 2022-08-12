@@ -9,7 +9,6 @@ Paul Wiggers
 -- Unknown
 
 Deck Name: Dutch ECQ 2011: Vendetta: !Ventrue Grinder
-
 Description:
 Based on the standard Stick Men deck with some modifications.
 There isn't much I would change to the deck. Was thinking about

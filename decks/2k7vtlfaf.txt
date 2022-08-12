@@ -9,7 +9,6 @@ Marc Desaulniers
 -- Unknown
 
 Deck Name: Rachel's Network
-
 Description:
 Side notes: Use Rachel's ability and the Heart of Nizchetus to gain
 great flexibility without wasting ressources. Bleed under the Madness

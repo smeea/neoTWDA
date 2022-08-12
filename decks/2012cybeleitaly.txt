@@ -9,7 +9,6 @@ Danilo Torrisi
 -- Unknown
 
 Deck Name: Tupdog & Rockcat
-
 Description:
 o_O'
 

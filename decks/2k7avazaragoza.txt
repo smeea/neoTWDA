@@ -9,7 +9,6 @@ Miguel del Valle
 -- Unknown
 
 Deck Name: Me pareció ver un lindo gatito
-
 Crypt (17 cards, min=4 max=21 avg=2.0)
 --------------------------------------
 14x Tupdog           1  POT VIS                         Gargoyle:3

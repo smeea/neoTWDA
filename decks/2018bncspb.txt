@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8877
 -- 4vp in the final
 
 Deck Name: Mono Auspex
-
 Crypt (13 cards, min=4 max=16 avg=2.31)
 ---------------------------------------
 5x Anarch Convert                   1                   Caitiff:ANY

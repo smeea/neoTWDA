@@ -9,7 +9,6 @@ Ivan Marin-Rivas
 -- Unknown
 
 Deck Name: Vita Kränkta Män ("White violated men")
-
 Description:
 I made this deck for Sofia as a newbie deck
 to show how votes work. The deck is a normal Govern chain

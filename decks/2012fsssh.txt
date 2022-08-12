@@ -9,7 +9,6 @@ Milos Krstic
 -- 4vp in the final
 
 Deck Name: N.W.A v1.1
-
 Description:
 Old story of Nana with ANI support.This time i added
 glancing blows against aggravated damage,and even tho they weren't

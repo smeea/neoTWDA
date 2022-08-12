@@ -9,7 +9,7 @@ https://www.vekn.net/event-calendar/event/8062
 -- Unknown
 
 Deck Name: Bibliodèque [9] He-who-shall-not-be-named (Baali stealth/bleed)
-
+Author: Orian TTC Gissler with help from Derjudge, Alkardil, Tim on a decklist from Thomas Gibson
 Description:
 The Bibliodèque (http://www.veknfrance.com/viewforum.php?f=49) is a French project made of 99 decklists (and designed to welcome more in the future hopefully) based on Tournament winning Decklists or Archetypes,
 to help people building decks for their casual play or tournaments, and ultimately print those decks in proxy to have a library of decks available for their playgroup.

@@ -9,7 +9,6 @@ Matt Guinn
 -- Unknown
 
 Deck Name: Ira
-
 Description:
 Blocks everything.
 

@@ -9,7 +9,6 @@ Martin Randers
 -- Unknown
 
 Deck Name: Three Inches of Danish Steel
-
 Crypt (12 cards, min=22 max=44 avg=8.42)
 ----------------------------------------
 4x Eze, The Demon Prince   11  ANI NEC POT PRE THA aus   magaji   Guruhi:3

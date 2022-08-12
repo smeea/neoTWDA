@@ -9,7 +9,6 @@ Daniel Carretero Ferres
 -- Unknown
 
 Deck Name: Cloaka Company
-
 Crypt (12 cards, min=14 max=34 avg=6.33)
 ----------------------------------------
 2x Sheldon, Lord of the Clog   9  ANI AUS OBF POT for   justicar   Nosferatu:1

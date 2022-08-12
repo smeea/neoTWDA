@@ -9,7 +9,6 @@ Sergio Gracia
 -- 4vp in the final
 
 Deck Name: Nosferatu blocker
-
 Crypt (12 cards, min=10 max=31 avg=5.42)
 ----------------------------------------
 2x Arcadian, The             8  DOM MYT OBT chi for             Kiasyd:5

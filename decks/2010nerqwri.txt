@@ -9,7 +9,6 @@ John Eno
 -- 4vp in the final
 
 Deck Name: Lawyers, Guns and Money
-
 Description:
 This is my attempt to make a Ventrue version of the !Ventrue
 intercept/combat deck I've been playing, because the new law firm has

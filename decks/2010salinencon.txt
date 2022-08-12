@@ -9,7 +9,6 @@ Ralf Lammert
 -- Unknown
 
 Deck Name: SalinenCon 2010: Rollin' Rollin' Rollin' (Reprise)
-
 Description:
 Just another Tup Dog deck
 

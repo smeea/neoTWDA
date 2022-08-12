@@ -9,7 +9,6 @@ Zach Couch
 -- 4vp in the final
 
 Deck Name: Nadima plus
-
 Crypt (12 cards, min=16 max=32 avg=5.75)
 ----------------------------------------
 4x Nadima                8  FOR PRO SER ani aus      Gangrel:3

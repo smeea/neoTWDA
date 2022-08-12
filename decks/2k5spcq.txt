@@ -9,7 +9,6 @@ Giovanni Cisterna
 -- Unknown
 
 Deck Name: Os Ignorantes
-
 Crypt (12 cards, min=25 max=32 avg=7.08)
 ----------------------------------------
 2x Constanza Vinti                     8  CEL DOM POT       prince     Brujah:2

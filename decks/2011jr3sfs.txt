@@ -9,7 +9,6 @@ Matias Frosterus
 -- Unknown
 
 Deck Name: New Brujah Royalty
-
 Description:
 Inspired by Patrick Robinsson's Norway 2010 ECQ deck but
 with Heroic Might, Veil the Legions, and Iron Glares as

@@ -9,7 +9,6 @@ Lukas Simicek
 -- Unknown
 
 Deck Name: The Black Descent
-
 Description:
 Some bleeding, some grooming, some beating.
 

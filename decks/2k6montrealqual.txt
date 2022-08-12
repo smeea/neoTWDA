@@ -9,7 +9,6 @@ Marc Desaulniers
 -- Unknown
 
 Deck Name: Wings and Shovels
-
 Crypt (24 cards, min=4 max=17 avg=1.71)
 ---------------------------------------
 18x Tupdog         1  POT VIS          Gargoyle:3

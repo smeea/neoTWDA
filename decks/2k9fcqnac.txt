@@ -9,7 +9,6 @@ Erol Hammer
 -- Unknown
 
 Deck Name: Do you mind 1.2
-
 Crypt (12 cards, min=22 max=43 avg=8.75)
 ----------------------------------------
 3x Arika              11  DOM FOR OBF PRE aus cel   inner circle   Ventrue:2

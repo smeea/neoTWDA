@@ -9,7 +9,7 @@ Hernán Rodríguez
 -- Unknown
 
 Deck Name: Ventrue At Gonzalo Andrés del Río Díaz's deck
-
+Author: Gonzalo del Rio
 Description:
 A deck based on Owain Evans and Blackhorse Tanner
 to control the table and generate a lot of pool.

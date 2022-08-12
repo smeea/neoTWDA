@@ -9,7 +9,6 @@ Alain Greiner
 -- Unknown
 
 Deck Name: Goratrix
-
 Crypt (12 cards, min=4 max=40 avg=5.92)
 ---------------------------------------
 4x Goratrix             10  ANI AUS DOM THA vic              Tremere antitribu:2

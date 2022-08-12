@@ -9,7 +9,6 @@ Jeffrey Brandon
 -- Unknown
 
 Deck Name: Fearful Vitals
-
 Crypt (12 cards, min=14 max=29 avg=5.58)
 ----------------------------------------
 3x Sir Walter Nash     7  DOM FOR PRE       prince   Ventrue:1

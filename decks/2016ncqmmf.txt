@@ -9,6 +9,7 @@ https://www.vekn.net/event-calendar/event/8296
 -- Unknown
 
 Deck Name: New Nana (27)
+Author: Alain Greiner
 
 Crypt (15 cards, min=4 max=32 avg=4.2)
 --------------------------------------

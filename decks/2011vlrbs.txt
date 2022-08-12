@@ -9,7 +9,6 @@ Alejandro Rodríguez
 -- Unknown
 
 Deck Name: High intensity madmen
-
 Crypt (12 cards, min=20 max=40 avg=7.33)
 ----------------------------------------
 4x Lucian             10  AUS DOM OBF cel tha   justicar   Malkavian:1

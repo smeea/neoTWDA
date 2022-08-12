@@ -9,7 +9,6 @@ http://www.veknfrance.com/site/IMG/pdf/CV_Vekn_Paris.pdf
 -- Unknown
 
 Deck Name: Magic Circus Deck
-
 Crypt (12 cards, min=8 max=14 avg=2.83)
 ---------------------------------------
 2x Wendy Wade        3  ani aus          Tzimisce:2

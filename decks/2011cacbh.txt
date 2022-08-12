@@ -9,7 +9,6 @@ Tomas Varga
 -- Unknown
 
 Deck Name: 15 Wakes
-
 Description:
 Inspired by Brian Moritz's 17 wakes
 

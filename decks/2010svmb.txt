@@ -9,7 +9,6 @@ Ivan Chebunin
 -- Unknown
 
 Deck Name: Hello from the past
-
 Description:
 Just wanted to remember how boring this deck is.
 

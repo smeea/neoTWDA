@@ -9,6 +9,7 @@ Mehdi Mazni
 -- Unknown
 
 Deck Name: Shalmath History
+Author: Julien Ohler
 
 Crypt (12 cards, min=4 max=40 avg=5.67)
 ---------------------------------------

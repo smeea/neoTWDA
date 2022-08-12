@@ -9,7 +9,6 @@ Magnus Wendel
 -- 4vp in the final
 
 Deck Name: VV
-
 Crypt (12 cards, min=7 max=18 avg=3.17)
 ---------------------------------------
 2x Gideon Fontaine                   3  PRE              Ventrue:1

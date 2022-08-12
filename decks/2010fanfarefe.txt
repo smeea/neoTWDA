@@ -9,7 +9,6 @@ Gonzalo García
 -- Unknown
 
 Deck Name: Viking Invasion
-
 Crypt (12 cards, min=16 max=37 avg=6.92)
 ----------------------------------------
 4x Torvus Bloodbeard    9  ANI FOR OBF PRO pot                 Gangrel:3

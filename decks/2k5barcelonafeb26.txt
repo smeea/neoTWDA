@@ -9,7 +9,6 @@ Aldo Bosmn
 -- Unknown
 
 Deck Name: Bloque NS
-
 Description:
 Tipical toolbox antiventrue deck based in multiaction via Freak
 Drive with some votes, a lot of Bleed and some Fortitude against combat.

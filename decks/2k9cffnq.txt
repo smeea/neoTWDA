@@ -9,6 +9,7 @@ Malween Douchy
 -- Unknown
 
 Deck Name: Antonio's rave party
+Author: Nicolas Andre & Malween Douchy
 
 Crypt (12 cards, min=12 max=20 avg=4.17)
 ----------------------------------------

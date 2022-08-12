@@ -9,7 +9,6 @@ David Wilson
 -- Unknown
 
 Deck Name: Ivan's Shilmulo Tarot
-
 Description:
 A very fun deck to play, it needs to be trimmed and re-worked. The
 other ravnos with dom should be added, as CHI isn't as mandatory as I

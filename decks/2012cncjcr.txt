@@ -9,7 +9,6 @@ Michal Dlouhy
 -- Unknown
 
 Deck Name: Tremere politics 0.79
-
 Crypt (12 cards, min=29 max=36 avg=8.25)
 ----------------------------------------
 3x Malgorzata                  9  AUS DOM THA VIC pre   priscus      Tremere antitribu:4

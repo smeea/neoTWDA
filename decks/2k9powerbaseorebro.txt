@@ -9,7 +9,6 @@ Joni Huumonen
 -- Unknown
 
 Deck Name: Potence rush
-
 Crypt (12 cards, min=16 max=25 avg=4.92)
 ----------------------------------------
 2x Agatha                              4  POT obf                    Nosferatu antitribu:2

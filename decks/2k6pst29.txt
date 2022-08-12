@@ -9,7 +9,6 @@ Jarkko Suvela
 -- 1gw5 + 3vp in the final
 
 Deck Name: "Xaviar's Meat Packing and Storage"
-
 Description:
 Concept: Xaviar multirush with Pander support
 

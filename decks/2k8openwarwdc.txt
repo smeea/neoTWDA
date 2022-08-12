@@ -9,7 +9,6 @@ Sonam Adinolf
 -- 3vp in the final
 
 Deck Name: SaulotToolboxWinner
-
 Crypt (12 cards, min=19 max=44 avg=8.08)
 ----------------------------------------
 5x Saulot, The Wanderer        11  AUS FOR OBE THA VAL dai                Salubri:4

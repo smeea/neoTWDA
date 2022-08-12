@@ -9,7 +9,6 @@ Kari Mäkinen
 -- Unknown
 
 Deck Name: Demented Kindred
-
 Description:
 A fairly straightforward weenie stealth bleed deck,
 easy and quick to play, you don't do anything on anyone else's turn

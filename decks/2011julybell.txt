@@ -9,7 +9,6 @@ Jay Kristoff
 -- Unknown
 
 Deck Name: Worst to First
-
 Description:
 I heard some talk at Origins 2011 that the Gangrel-antitribu
 are the worst clan. I built this deck to display some of their strengths.

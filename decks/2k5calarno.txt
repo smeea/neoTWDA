@@ -9,7 +9,6 @@ Xavi Bagan
 -- Unknown
 
 Deck Name: titania te quiere (gehena version)
-
 Crypt (12 cards, min=12 max=32 avg=6.0)
 ---------------------------------------
 3x Sébastien Goulet         8  DOM OBF cel pre pro            Gangrel antitribu:3

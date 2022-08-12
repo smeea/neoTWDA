@@ -9,7 +9,7 @@ Michael Courtois
 -- Unknown
 
 Deck Name: Mistress Fanchion doesn't have a Heart!
-
+Author: Matt Wedge & Michael Courtois
 Description:
 The deck SHOULD have a Heart of Cheating but it was in
 another deck and I forgot to add it before the tourney. Mistress must

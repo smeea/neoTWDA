@@ -9,7 +9,6 @@ Kimmo Koivisto
 -- Unknown
 
 Deck Name: Feminine Magic v1.3
-
 Description:
 Rather straightforward Thaumaturgy bruise & Dominate
 bleed. One last minute change proved to be immensely beneficial,

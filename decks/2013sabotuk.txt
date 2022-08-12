@@ -9,7 +9,6 @@ Hugh Angseesing
 -- 0.5vp in the final
 
 Deck Name: Cailean Ventrue
-
 Crypt (12 cards, min=40 max=42 avg=10.17)
 -----------------------------------------
 5x Cailean            10  ANI OBF POT PRE dom       archbishop     Nosferatu antitribu:2

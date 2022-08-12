@@ -9,7 +9,6 @@ Pau Vilar
 -- 3vp in the final
 
 Deck Name: The Long March of Princes
-
 Crypt (12 cards, min=17 max=28 avg=5.5)
 ---------------------------------------
 4x Victor Pelletier    5  PRE cel dom for                  Ventrue:4

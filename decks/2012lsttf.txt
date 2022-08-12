@@ -9,7 +9,6 @@ Otso Saariluoma
 -- Unknown
 
 Deck Name: Gun Control (Means Hitting the Target)
-
 Description:
 CEL GUN princes with Infernal Pursuit. The deck builds on
 previous versions by Erik, Hugh, and Adam. In retrospect,

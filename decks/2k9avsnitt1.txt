@@ -9,7 +9,6 @@ Alexander Båskman
 -- Unknown
 
 Deck Name: Tummen mitt i ögat
-
 Description:
 Based on a deck by Jonatan "Hoppe" Sjöberg.
 

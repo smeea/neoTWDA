@@ -9,7 +9,6 @@ Darby Keeney
 -- Unknown
 
 Deck Name: Cholinesterase Inhibition
-
 Description:
 !Malk Sneak Bleed with (Black) Hand Control. The deck
 uses Art of Memory to selectively enrich your hand in what you need,

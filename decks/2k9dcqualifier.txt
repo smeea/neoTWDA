@@ -9,7 +9,6 @@ Matthew Morgan
 -- Unknown
 
 Deck Name: Enkil Robin Song Deep Cog
-
 Description:
 Inspired by Sebastian Muerer's very similar deck.
 

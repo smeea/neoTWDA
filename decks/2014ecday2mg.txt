@@ -9,6 +9,7 @@ Arnaud Baigts
 -- 2GW5.5 (2nd seed) + 1.5VP in final
 
 Deck Name: The Fear Factor
+Author: Stone
 
 Crypt (12 cards, min=28 max=39 avg=8.42)
 ----------------------------------------

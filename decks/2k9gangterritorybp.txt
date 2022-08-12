@@ -9,7 +9,6 @@ Marcin Watras
 -- 3vp in the final
 
 Deck Name: Enkidu the Great
-
 Description:
 Enter combat / block - torporize - burn with Nephandus.
 Mages were magnificent in game 3 where they blocked several bum's

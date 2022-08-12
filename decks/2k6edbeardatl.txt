@@ -9,7 +9,6 @@ Danielle Newquist
 -- Unknown
 
 Deck Name: The Thousandfold Perfected Anarch
-
 Description:
 Temporis bleed with anarch tech
 

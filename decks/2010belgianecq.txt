@@ -9,7 +9,6 @@ Izaak Havelaar
 -- 2.5vp in the final
 
 Deck Name: Vignes in the City
-
 Crypt (12 cards, min=15 max=24 avg=4.92)
 ----------------------------------------
 3x Edward Vignes                     6  DOM PRE for          Ventrue:3

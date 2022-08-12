@@ -9,7 +9,6 @@ Carlos Eduardo Ganso
 -- 5vp in the final
 
 Deck Name: Hunter
-
 Crypt (12 cards, min=14 max=20 avg=4.17)
 ----------------------------------------
 3x Jennie "Cassie247" Orne        5  inn jud vis      Visionary:4

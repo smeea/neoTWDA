@@ -9,7 +9,6 @@ Marc Desaulniers
 -- Unknown
 
 Deck Name: LaiBoon Carnival
-
 Description:
 This is a swarm Ravnos deck with a twist of Laibon & Boons (Tumnimos
 made by Tsunda are Laibon). Powerbase: Tshwane is very good & The

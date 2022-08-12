@@ -9,7 +9,6 @@ Karol Magda
 -- Unknown
 
 Deck Name: Kindred Spirits
-
 Description:
 a stealth/bleed deck
 

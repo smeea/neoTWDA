@@ -9,7 +9,6 @@ Sergio Gracia
 -- 3vp in the final
 
 Deck Name: Trolls Converters
-
 Description:
 1GW3vp + 1GW5vp + 1GW3vpF
 In hindsight, I would drop one Delaying Tactics and

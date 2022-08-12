@@ -9,7 +9,6 @@ Ben Peal
 -- 3vp in the final
 
 Deck Name: Nana's Box of Firecrackers
-
 Description:
 This is a modified version of Erik Torstensson's Nana Buruku deck
 (http://thelasombra.com/decks/twd.htm#2k9blackplanet). I think it could use

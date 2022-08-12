@@ -9,7 +9,6 @@ Cameron Domer
 -- 4vp in the final
 
 Deck Name: Pop Goes Banjoko
-
 Description:
 Derivative DOM/OBT stealth-bleed
 

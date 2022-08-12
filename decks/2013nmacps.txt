@@ -9,7 +9,6 @@ Jordi Bestard
 -- 4vp in the final
 
 Deck Name: Edward Vignes
-
 Crypt (12 cards, min=15 max=25 avg=5.0)
 ---------------------------------------
 3x Edward Vignes                     6  DOM PRE for                  Ventrue:3

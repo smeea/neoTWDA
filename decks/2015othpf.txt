@@ -9,7 +9,6 @@ Guilhem Marrannes
 -- 3vp in the final
 
 Deck Name: !Bru Influence
-
 Description:
 S&B !brujah Anarch
 

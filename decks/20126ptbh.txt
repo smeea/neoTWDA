@@ -9,7 +9,6 @@ Gábor Németh
 -- Unknown
 
 Deck Name: The Great Bleeasts
-
 Crypt (12 cards, min=27 max=44 avg=8.83)
 ----------------------------------------
 4x Stanislava         11  ANI CEL DOM FOR PRO   inner circle   Gangrel:2

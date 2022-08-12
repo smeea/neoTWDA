@@ -9,7 +9,6 @@ Ferenc Vasadi
 -- Unknown
 
 Deck Name: Ravnos LCQ
-
 Crypt (12 cards, min=10 max=32 avg=5.25)
 ----------------------------------------
 4x Gabrin                       8  ANI CHI dom for      Ravnos:2

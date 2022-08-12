@@ -9,7 +9,6 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/frF6OTxhh-A
 -- Unknown
 
 Deck Name: PB&J, v2 ("Pander Barter and hand-Jam, version 2)
-
 Crypt (16 cards, min=4 max=11 avg=1.75)
 ---------------------------------------
 1x Gideon Fontaine                     3  PRE              Ventrue:1

@@ -9,7 +9,6 @@ Orian Gissler
 -- 3vp in the final
 
 Deck Name: Khazarghoulator v2.3
-
 Crypt (12 cards, min=8 max=15 avg=2.92)
 ---------------------------------------
 1x Francesca Giovanni                4  dom nec pot      Giovanni:2

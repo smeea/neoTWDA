@@ -9,7 +9,6 @@ Mark Loughman
 -- 3vp in the final
 
 Deck Name: Garden of Nocturns
-
 Crypt (12 cards, min=17 max=24 avg=5.25)
 ----------------------------------------
 2x Virginie, Prodigy          6  DOM POT obt       bishop   Lasombra:4

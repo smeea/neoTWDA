@@ -9,7 +9,6 @@ Martin Tremblay
 -- Unknown
 
 Deck Name: Old school Weenie vote Pre 2.0
-
 Description:
 A Weenie/PRE vote deck. In this tournament, no other political
 decks & no Rush (IG) decks.

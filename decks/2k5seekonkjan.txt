@@ -9,7 +9,6 @@ Ben Peal
 -- Unknown
 
 Deck Name: Buckets o' Money
-
 Description:
 Basically a Group 3-4 Ventrue version of the Lasombra
 Creation Boon deck, using 3rd Trads instead of Creation Rites and

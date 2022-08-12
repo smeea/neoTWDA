@@ -9,7 +9,6 @@ Simon Reed
 -- Unknown
 
 Deck Name: Anarch Garou
-
 Description:
 Kind of a toolbox combat deck. Mostly this ends up being constant
 nibbling at your prey each turn and picking off soft targets with the

@@ -9,7 +9,6 @@ Brendan Basto
 -- Unknown
 
 Deck Name: Anson, Anneke & their Pretty Pals
-
 Crypt (12 cards, min=20 max=41 avg=7.92)
 ----------------------------------------
 3x Anson              8  CEL PRE aus dom           prince         Toreador:1

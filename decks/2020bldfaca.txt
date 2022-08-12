@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9615
 -- 4vp in the final
 
 Deck Name: Mono animalismo
-
 Crypt (14 cards, min=4 max=18 avg=2.36)
 ---------------------------------------
 6x Anarch Convert   1                   Caitiff:ANY

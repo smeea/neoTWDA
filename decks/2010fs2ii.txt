@@ -9,7 +9,6 @@ John Bell
 -- Unknown
 
 Deck Name: To the Death! No! To the Pain.
-
 Description:
 An experiment with Touch of Pain: the idea being that late
 game it is as good as a rush or better - leaving my actions

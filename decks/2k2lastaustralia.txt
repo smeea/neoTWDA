@@ -9,7 +9,6 @@ Anthony Barker
 -- Unknown
 
 Deck Name: Gratiano's Egg Basket
-
 Description:
 Lasombra bleed with some combat and votes. Some blood gain to fill
 up the big bleeder. Festivo dello Estinto and Disarm weren't very helpful.

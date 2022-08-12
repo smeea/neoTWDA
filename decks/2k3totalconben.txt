@@ -9,7 +9,6 @@ Ben Swainbank
 -- Unknown
 
 Deck Name: Laz-Man Standing
-
 Description:
 Lazverinus is the star of the show. His job is to take out opposing
 minions using multi-rush/freak drive to do multiple actions per turn

@@ -9,7 +9,6 @@ Sebestyén Balázs
 -- Unknown
 
 Deck Name: Omaya
-
 Crypt (12 cards, min=12 max=28 avg=5.08)
 ----------------------------------------
 4x Omaya             7  ANI AUS FOR pro            Gangrel antitribu:2

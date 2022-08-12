@@ -9,7 +9,6 @@ Erik Torstensson
 -- Unknown
 
 Deck Name: Summon the Serpent
-
 Crypt (12 cards, min=23 max=40 avg=8.33)
 ----------------------------------------
 6x Cybele                        10  ANI DAI OBF PRE SER THA              Baali:4

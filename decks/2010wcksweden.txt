@@ -9,7 +9,6 @@ Adam Esbjörnsson
 -- Unknown
 
 Deck Name: "If I would make a preconstructed starter..."
-
 Description:
 Idea of the deck from Isak Esbjörnsson Bjärmark, who in
 turn built his deck on someone elses idea, I think.

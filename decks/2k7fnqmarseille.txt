@@ -9,6 +9,7 @@ Axel Ménard
 -- Unknown
 
 Deck Name: Edouard aux mains d'argent
+Author: Blondin (Florian Prosper)
 
 Crypt (12 cards, min=15 max=24 avg=4.92)
 ----------------------------------------

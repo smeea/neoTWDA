@@ -9,7 +9,6 @@ Dominic Catanzariti
 -- Unknown
 
 Deck Name: Cheesy Cheese
-
 Crypt (12 cards, min=4 max=7 avg=1.25)
 --------------------------------------
 2x Delilah Easton         2  pre          Toreador:1

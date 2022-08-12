@@ -9,7 +9,6 @@ Mikkel Petersen
 -- 4vp in the final
 
 Deck Name: Team Jacob
-
 Description:
 Get out Jacob and an Akunanse. Stay sober. Win.
 

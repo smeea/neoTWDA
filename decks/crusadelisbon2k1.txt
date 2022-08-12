@@ -9,7 +9,6 @@ Luis Duarte
 -- Unknown
 
 Deck Name: Gangrel say goodbye to the Camarilla!
-
 Description:
 Type: Vote/Bloat
 

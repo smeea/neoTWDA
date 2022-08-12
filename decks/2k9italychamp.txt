@@ -9,7 +9,6 @@ Simone Bianchi
 -- Unknown
 
 Deck Name: !Toreadors
-
 Description:
 Classic swarm/embraces/palla grande/bleed !toreador deck
 

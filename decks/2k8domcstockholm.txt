@@ -9,7 +9,6 @@ Randal Rudstam
 -- Unknown
 
 Deck Name: Princes with obfuscate
-
 Description:
 Saved by the archon investigation in the finals and
 never got to play a vessel due to the fact that i did not draw any of

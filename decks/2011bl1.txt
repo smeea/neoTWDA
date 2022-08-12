@@ -9,7 +9,6 @@ Denes Kocis
 -- 4vp in the final
 
 Deck Name: Dem bleed
-
 Description:
 Fast bleed, fast oust!
 

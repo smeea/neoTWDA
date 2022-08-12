@@ -9,7 +9,6 @@ Christoph Bertolo
 -- Unknown
 
 Deck Name: Synesios goes Forward
-
 Description:
 Synesios MultiAct / Pre + Obf Vote and Bleed
 

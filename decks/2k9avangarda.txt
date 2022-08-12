@@ -9,7 +9,6 @@ Radoslaw Staszewski
 -- Unknown
 
 Deck Name: Renegade's Assault
-
 Description:
 Lets go Boyz to have some fun with Garou !!!
 

@@ -9,7 +9,6 @@ James Snowball
 -- Unknown
 
 Deck Name: "Smile and wave boys, smile and wave!"
-
 Description:
 James Snowballs note: dont take yourself seriously when playing this,
 its a lot more fun and nobody knows WTF your gonna do next!

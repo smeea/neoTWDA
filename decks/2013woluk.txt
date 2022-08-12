@@ -9,7 +9,6 @@ Norbert Flasko
 -- 1gw4 + 3vp in the final
 
 Deck Name: Take it Eze!
-
 Crypt (12 cards, min=32 max=44 avg=9.58)
 ----------------------------------------
 5x Eze, The Demon Prince   11  ANI NEC POT PRE THA aus   magaji   Guruhi:3

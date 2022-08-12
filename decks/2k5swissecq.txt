@@ -9,7 +9,6 @@ Andreas Nusser
 -- Unknown
 
 Deck Name: We are watching you
-
 Crypt (12 cards, min=16 max=29 avg=5.67)
 ----------------------------------------
 3x Matthias         7  AUS FOR OBE nec      Salubri:2

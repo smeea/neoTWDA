@@ -9,7 +9,6 @@ Hugh Angseesing
 -- Unknown
 
 Deck Name: Lorrie goes nuts small cap
-
 Crypt (12 cards, min=15 max=19 avg=4.17)
 ----------------------------------------
 5x Lorrie Dunsirn             4  POT for nec          Abomination:4

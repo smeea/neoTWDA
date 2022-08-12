@@ -9,7 +9,6 @@ Roberto Mautone Junior
 -- 3vp in the final
 
 Deck Name: Salubri Bonzinho
-
 Crypt (12 cards, min=17 max=38 avg=7.08)
 ----------------------------------------
 3x Nahum Enosh         10  AUS OBE OBF VAL for pre      Salubri:6

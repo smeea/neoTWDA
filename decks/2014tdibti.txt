@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7653
 -- Unknown
 
 Deck Name: Ventrue Grinder
-
 Crypt (13 cards, min=15 max=31 avg=5.77)
 ----------------------------------------
 3x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro   prince     Ventrue:5

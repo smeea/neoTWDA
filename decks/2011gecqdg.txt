@@ -9,7 +9,6 @@ Manuel Diehm
 -- Unknown
 
 Deck Name: Pursuit of the Unaligned
-
 Crypt (12 cards, min=18 max=32 avg=6.33)
 ----------------------------------------
 3x Dónal O'Connor                 8  CEL DOM POT           prince     Brujah:2

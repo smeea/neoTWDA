@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8191
 -- Unknown
 
 Deck Name: Sciame Auspex
-
 Crypt (12 cards, min=8 max=17 avg=3.17)
 ---------------------------------------
 1x Victoria                         5  AUS cel obf      Malkavian:2

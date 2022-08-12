@@ -9,7 +9,6 @@ Erol Hammer
 -- Unknown
 
 Deck Name: All Malkavians are belong to us...
-
 Crypt (12 cards, min=28 max=43 avg=9.08)
 ----------------------------------------
 4x Lucian                        10  AUS DOM OBF cel tha   justicar       Malkavian:1

@@ -9,6 +9,7 @@ Jonathan Sanchez Rios
 -- Unknown
 
 Deck Name: Antonio pide ayuda a los humanos
+Author: Noel Giménez Infante
 
 Crypt (12 cards, min=10 max=20 avg=3.67)
 ----------------------------------------

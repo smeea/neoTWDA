@@ -9,7 +9,6 @@ Ira Fay
 -- Unknown
 
 Deck Name: Brujah with Dominate
-
 Crypt (12 cards, min=16 max=32 avg=6.42)
 ----------------------------------------
 3x Constanza Vinti                   8  CEL DOM POT           prince     Brujah:2

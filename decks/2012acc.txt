@@ -9,7 +9,6 @@ Stuart Jaques
 -- Unknown
 
 Deck Name: Cute Little Stone Babies
-
 Description:
 Gargoyle breeder deck.
 [Based on a 2006 TWD deck, Godzilla, by François de Champlain;

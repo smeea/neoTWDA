@@ -9,7 +9,6 @@ Miguel Cortes
 -- Unknown
 
 Deck Name: Osebo Esteroides
-
 Crypt (12 cards, min=24 max=38 avg=7.83)
 ----------------------------------------
 3x Massassi        9  AUS CEL POT QUI obf                Osebo:4

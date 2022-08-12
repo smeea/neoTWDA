@@ -9,7 +9,6 @@ Brian Wellington
 -- Unknown
 
 Deck Name: Unnamed Salubri Deck #1
-
 Description:
 I'm still surprised that this worked.
 [In my words, a bunch of cool cards tossed together.]

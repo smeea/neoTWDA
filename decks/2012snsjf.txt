@@ -9,7 +9,7 @@ Petteri Teerikangas
 -- Unknown
 
 Deck Name: Angry Lorrie v.1.2 featuring Ignazio.
-
+Author: Rhyme
 Description:
 Ignazio was great choice as a second rusher.
 This version was bit low on rushes, maybe need add one or

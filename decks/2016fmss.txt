@@ -9,6 +9,7 @@ Peter Walter
 -- 4vp in the final
 
 Deck Name: The Dark God True Love
+Author: Waltman
 
 Crypt (12 cards, min=38 max=42 avg=10.0)
 ----------------------------------------

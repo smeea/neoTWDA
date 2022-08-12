@@ -9,7 +9,6 @@ Darby Keeney
 -- Unknown
 
 Deck Name: Cholinesterase Inhibition - Last Call
-
 Description:
 This is probably the last time I'll play this deck.  I'll
 have to find another abuse for Art of Memory.

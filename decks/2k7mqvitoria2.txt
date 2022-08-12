@@ -9,7 +9,6 @@ Ramon Moure
 -- Unknown
 
 Deck Name: Weenie Auspex with guns
-
 Crypt (12 cards, min=8 max=14 avg=2.83)
 ---------------------------------------
 2x Isabel de Leon                3  AUS              Toreador:2

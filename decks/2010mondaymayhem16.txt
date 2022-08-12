@@ -9,7 +9,6 @@ Otso Saariluoma
 -- 3vp in the final
 
 Deck Name: Project Mayhem
-
 Crypt (12 cards, min=25 max=40 avg=8.08)
 ----------------------------------------
 4x Unmada            10  AUS DEM OBF VIC cel for   justicar   Malkavian:5

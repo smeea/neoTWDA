@@ -9,7 +9,6 @@ Benoît Moyen
 -- 3vp in the final
 
 Deck Name: Order 66
-
 Crypt (12 cards, min=17 max=44 avg=8.5)
 ---------------------------------------
 3x Mistress Fanchon    11  AUS CEL DOM OBF THA VIC   inner circle   Tremere:4

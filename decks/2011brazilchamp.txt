@@ -9,6 +9,7 @@ Fernanda Nunes
 -- 3vp in the final
 
 Deck Name: Mono Presence
+Author: Fernanda Nunes and Desso Alastor
 
 Crypt (14 cards, min=6 max=25 avg=3.57)
 ---------------------------------------

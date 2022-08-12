@@ -9,7 +9,6 @@ Robyn Tatu
 -- Unknown
 
 Deck Name: Sewer Party
-
 Crypt (14 cards, min=10 max=28 avg=4.64)
 ----------------------------------------
 1x Selma the Repugnant                8  OBF POT ani for   prince   Nosferatu:1

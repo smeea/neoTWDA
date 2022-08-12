@@ -9,7 +9,7 @@ Marcin Watras
 -- Unknown
 
 Deck Name: Goratrix Anarch - wargrim
-
+Author: Marcin Watras (based on Goratrix builds created by Tomasz Kowalewski and Alain Greiner)
 Description:
 Block and win
 

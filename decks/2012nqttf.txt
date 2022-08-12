@@ -9,7 +9,6 @@ Mathieu Subra
 -- Unknown
 
 Deck Name: lucky 7 setite
-
 Crypt (12 cards, min=10 max=40 avg=6.5)
 ---------------------------------------
 4x Nakhthorheb                   10  OBF PRE SER                      Ministry:4

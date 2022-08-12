@@ -9,7 +9,6 @@ Anthony Coleman
 -- Unknown
 
 Deck Name: "I like raping"
-
 Description:
 "We'll do some raping, looting, pillaging and raping"
 "Hey, you said raping twice"

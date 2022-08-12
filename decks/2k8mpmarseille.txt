@@ -9,7 +9,6 @@ Yannick Gibert
 -- Unknown
 
 Deck Name: Madness of the fun
-
 Description:
 Inspiration of an old Johannes's deck
 

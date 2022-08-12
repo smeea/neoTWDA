@@ -9,7 +9,6 @@ Christian Chénard
 -- 5vp in the final
 
 Deck Name: Girls will scream at high pitch
-
 Description:
 Homebrew library used during the latest storyline but with
 a now "switched to legal" gr2/3 crypt.

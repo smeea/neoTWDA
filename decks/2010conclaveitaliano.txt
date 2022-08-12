@@ -9,7 +9,6 @@ Alessandro Donati
 -- Unknown
 
 Deck Name: MonoUna
-
 Description:
 Classic MonoUna Deck
 

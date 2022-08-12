@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/8891
 -- Unknown
 
 Deck Name: We are legion
-
 Crypt (12 cards, min=22 max=40 avg=7.58)
 ----------------------------------------
 4x Erlik             10  AUS CEL FOR NEC THN      Harbinger of Skulls:3

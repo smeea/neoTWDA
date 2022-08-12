@@ -9,7 +9,6 @@ Bruno Patrício Silva Pontes
 -- 4vp in the final
 
 Deck Name: Rolo Compressor
-
 Crypt (12 cards, min=11 max=44 avg=8.0)
 ---------------------------------------
 5x Enkidu, The Noah   11  ANI CEL OBF POT PRO for      Gangrel antitribu:4

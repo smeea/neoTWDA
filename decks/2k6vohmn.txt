@@ -9,7 +9,7 @@ Christian Herro
 -- Unknown
 
 Deck Name: Inexplicable Itch
-
+Author: Xian
 Description:
 It does some stuff. Apparently people have trouble figuring it out.
 

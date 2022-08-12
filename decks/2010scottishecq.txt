@@ -9,7 +9,6 @@ Erol Hammer
 -- 3vp in the final
 
 Deck Name: Tryphosa Stealth/Defense
-
 Description:
 The inherit (but sometimes costly) +1 Stealth for all
 bleed actions via Tryphosa, allows you to have less stealth cards and

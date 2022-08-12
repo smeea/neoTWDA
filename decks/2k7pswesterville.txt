@@ -9,7 +9,6 @@ Jay Kristoff
 -- Unknown
 
 Deck Name: Brujah Home Invasion
-
 Crypt (12 cards, min=8 max=20 avg=3.33)
 ---------------------------------------
 2x Marlena                             5  POT cel pre            Brujah:3

@@ -9,7 +9,6 @@ Marko Saari
 -- Unknown
 
 Deck Name: LOLcats
-
 Description:
 Get quickly some Rock Cats and other allies.
 Rush everything that moves. Steal key minions from torpor

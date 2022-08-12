@@ -9,7 +9,6 @@ Mauricio Navate
 -- Unknown
 
 Deck Name: The wall - Gargoyle forever
-
 Crypt (12 cards, min=11 max=28 avg=5.08)
 ----------------------------------------
 3x Ublo-Satha                    7  FOR POT VIS cel      Gargoyle:2

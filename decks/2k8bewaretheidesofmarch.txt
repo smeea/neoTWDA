@@ -9,7 +9,6 @@ Jeffrey Thompson
 -- Unknown
 
 Deck Name: Vigilantes 08
-
 Description:
 2008 Tournament Rules prohibit Edge Explosion and Memories of Mortality.
 This deck was able to get 3VP by the skin of its teeth without them

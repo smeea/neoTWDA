@@ -9,6 +9,7 @@ Karim Baloul
 -- Unknown
 
 Deck Name: Anson guns
+Author: Mehdi Mazni
 
 Crypt (12 cards, min=29 max=38 avg=8.25)
 ----------------------------------------

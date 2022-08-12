@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/7950
 -- Unknown
 
 Deck Name: Tunnel Runner
-
 Crypt (12 cards, min=12 max=22 avg=4.5)
 ---------------------------------------
 4x Jacob Fermor    5  PRO ani tha          Gangrel:4

@@ -9,7 +9,6 @@ Timo Rekola
 -- Unknown
 
 Deck Name: Ventrues.ver.1.1
-
 Description:
 Basic bruise bleed deck with "big ones"
 (and Amaranth & Fueled by Heart's Blood of course).

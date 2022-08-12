@@ -9,7 +9,6 @@ Ville Kaijasaari
 -- 3vp in the final
 
 Deck Name: Gabrielle Righetti & Alonso Petrodon
-
 Crypt (12 cards, min=35 max=43 avg=9.83)
 ----------------------------------------
 3x Alonso Petrodon         10  ANI DOM OBF POT for tha   justicar       Nosferatu:5

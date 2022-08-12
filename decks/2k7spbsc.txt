@@ -9,7 +9,6 @@ Roberto Mautone Junior
 -- Unknown
 
 Deck Name: Respeito PNP (something like 'Beat the Prey: Respect').
-
 Description:
 PNP means 'Pau na Presa' in Portuguese or 'Beat the Prey' in English.
 

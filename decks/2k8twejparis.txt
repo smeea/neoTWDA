@@ -9,7 +9,6 @@ Orian Gissler
 -- Unknown
 
 Deck Name: Anarch diversion
-
 Description:
 Sentences to say when playing the deck:
 "Shit, I knew I should have played three restricted vitae

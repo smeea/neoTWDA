@@ -9,7 +9,6 @@ Chris Loux
 -- Unknown
 
 Deck Name: "Those darn unaligned... they need govern'n"
-
 Crypt (12 cards, min=19 max=37 avg=7.17)
 ----------------------------------------
 3x Ingrid Rossler                 9  ANI FOR PRO dom       prince     Gangrel:2

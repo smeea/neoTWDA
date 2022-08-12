@@ -9,7 +9,6 @@ Bernie MacNaught
 -- 3vp in the final
 
 Deck Name: Feed the Marena - classic Tzimisce Wall
-
 Description:
 It's a wall. Block and kill!
 

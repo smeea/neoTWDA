@@ -9,7 +9,6 @@ O'Neil Schutte
 -- Unknown
 
 Deck Name: Murmurs of Conditional Trust
-
 Description:
 Presence and dominate weenie storm.
 

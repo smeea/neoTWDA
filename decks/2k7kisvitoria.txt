@@ -9,7 +9,6 @@ Felipe Fiuza
 -- Unknown
 
 Deck Name: Hunters Hunted 2
-
 Crypt (12 cards, min=15 max=22 avg=4.75)
 ----------------------------------------
 4x Travis "Traveler72" Miller     5  def mar          Martyr:4

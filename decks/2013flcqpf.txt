@@ -9,7 +9,6 @@ Jorge Delgado
 -- Unknown
 
 Deck Name: T'es une fille et tu n'as pas de shampoing
-
 Description:
 2GW9 (1st seed) + 1.5vp (Time-limit)
 

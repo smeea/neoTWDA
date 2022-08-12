@@ -9,7 +9,6 @@ Marius Iscru
 -- Unknown
 
 Deck Name: Weenie DBR ECQ Paris
-
 Crypt (14 cards, min=4 max=9 avg=1.5)
 -------------------------------------
 1x Watenda                           3  obf          Malkavian:2

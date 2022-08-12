@@ -9,7 +9,6 @@ Guido Canciani
 -- Unknown
 
 Deck Name: Nasty Panders
-
 Description:
 legacy of rushing pander/weenie with db rounds and politics
 

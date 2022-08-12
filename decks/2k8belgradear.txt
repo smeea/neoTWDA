@@ -9,7 +9,6 @@ Milos Krstic
 -- Unknown
 
 Deck Name: Circle of Madness
-
 Description:
 Use Lutz and other IC to gain vote superiority, but don't
 call politics to aggressively or you will get bashed, rather use

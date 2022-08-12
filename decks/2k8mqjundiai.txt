@@ -9,7 +9,6 @@ Roberto Mautone Junior
 -- Unknown
 
 Deck Name: Street Fighter PNP
-
 Crypt (12 cards, min=22 max=40 avg=8.0)
 ---------------------------------------
 3x Jaroslav Pascek   10  CEL POT PRE for obf       justicar   Brujah:3
