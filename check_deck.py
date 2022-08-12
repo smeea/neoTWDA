@@ -16,11 +16,7 @@ with open("cardbase_crypt.json", "r") as crypt_file, open(
     for card in list(json.load(crypt_file).values()):
         adv = True if card["Adv"] and card["Adv"][0] else False
         card_name = card["Name"] if not adv else f"{card['Name']} (ADV)"
-
-        if card_name not in cardbase_crypt:
-            cardbase_crypt[card_name] = {card["Group"]: card}
-        else:
-            cardbase_crypt[card_name][card["Group"]] = card
+        cardbase_crypt[card_name + card["Group"]] = card
 
     for card in list(json.load(library_file).values()):
         cardbase_library[card["Name"]] = card
@@ -112,7 +108,7 @@ for file in argv[1:]:
                 card_name = m.group(2).strip()
                 group = m.group(3)
                 card = None
-                card = cardbase_crypt[card_name][group]
+                card = cardbase_crypt[card_name + group]
                 card["q"] = q
                 crypt.append(card)
 
@@ -129,9 +125,9 @@ for file in argv[1:]:
         check_banned([*crypt, *library])
         check_min_max_size(crypt, 12, float("inf"))
         check_min_max_size(library, 60, 90)
-        if not deck_name:
-            print(" > NO DECK NAME")
+        # if not deck_name:
+        #     print(" > NO DECK NAME")
+        # if not description:
+        #     print(" > NO DESCRIPTION")
         if winner == author:
             print(" > SAME AUTHOR AND WINNER")
-        if not description:
-            print(" > NO DESCRIPTION")
