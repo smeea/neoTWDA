@@ -1,3 +1,6 @@
+# DEPRECATION NOTICE
+Proposed approach was adopted by official TWDA repository, so this repo is not required anymore and archived.
+
 # neoTWDA
 
 neoTWDA is a set of utilities to generate static TWDA (Tournament Winning Decks Archive) pages from separate deck files for [Vampire the Eternal Struggle (VTES)](https://www.vekn.net/what-is-v-tes) collectible card game.
